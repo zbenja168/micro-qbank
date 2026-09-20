@@ -1,0 +1,1656 @@
+{
+  "categoryId": "antiparasitics",
+  "categoryName": "Antiparasitic Agents",
+  "questions": [
+    {
+      "id": "mi50-001",
+      "stem": "A 28-year-old man returns from a mountain camping trip with 8 days of nausea, cramping, and bloating. His stools smell terrible, he has excessive gas, and he feels plain tired. He recalls drinking untreated water from a stream. His abdomen is mildly tender and distended, with no rebound and no organomegaly. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metronidazole is the drug of choice for giardiasis.",
+        "whyCorrect": "Ingesting untreated mountain stream water followed by bloating, foul-smelling stools, flatulence, and fatigue is the classic picture of Giardia, a parasite that beavers notoriously carry into such streams. Metronidazole is the drug of choice for giardiasis. It is absorbed in the intestinal tract and partially excreted in bile, so it acts both in tissue and in the intestinal lumen. With a history this straightforward, empiric treatment is reasonable, since stool testing delays therapy and adds cost without changing management.",
+        "whyWrongByChoice": {
+          "A": "Albendazole is a benzimidazole for helminths such as ascariasis, neurocysticercosis, and hookworm, not for protozoa.",
+          "B": "Ivermectin is the drug of choice for strongyloidiasis and onchocerciasis, both helminth infections.",
+          "D": "Praziquantel is used for schistosomiasis and intestinal tapeworms, which are helminth infections.",
+          "E": "Pyrimethamine is the agent commonly used for toxoplasmosis, a different protozoal infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protozoa",
+        "giardiasis",
+        "metronidazole"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-002",
+      "stem": "In a laboratory model, metronidazole enters Trichomonas and anaerobic bacteria as an inactive compound and becomes cytotoxic only after an intracellular event. Which of the following is required to activate the drug inside the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylation by a parasite N-acetyltransferase"
+        },
+        {
+          "label": "B",
+          "text": "Hydrolysis by esterases in the worm cuticle"
+        },
+        {
+          "label": "C",
+          "text": "Oxidation by host hepatic cytochrome P450"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation by a parasite thymidine kinase"
+        },
+        {
+          "label": "E",
+          "text": "Reduction by ferredoxin inside the organism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Metronidazole must be reduced intracellularly by electron transport proteins such as ferredoxin before it can kill.",
+        "whyCorrect": "Metronidazole is active only when it is reduced intracellularly by electron transport proteins such as ferredoxin. The reduced drug and the free radicals it generates interfere with DNA synthesis and can result in DNA degradation. Only organisms that carry the necessary electron transport machinery, such as anaerobic bacteria and susceptible protozoa, perform this reduction, which is the basis of the drug's selectivity.",
+        "whyWrongByChoice": {
+          "A": "Acetylation is not part of metronidazole activation; the brick describes reduction, not acetyl transfer.",
+          "B": "Metronidazole is an antiprotozoal and antianaerobic agent and does not depend on worm cuticle enzymes.",
+          "C": "Host P450 oxidation would occur in the liver, not inside the organism, and does not generate the active species.",
+          "D": "No kinase step is involved; metronidazole is not a nucleoside analogue requiring phosphorylation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "mechanism of action",
+        "anaerobes"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-003",
+      "stem": "A 30-year-old woman is prescribed metronidazole for trichomoniasis. She asks whether she may drink wine at a wedding this weekend. Which of the following is she at risk for if she drinks alcohol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute dystonia with torticollis"
+        },
+        {
+          "label": "B",
+          "text": "Disulfiram-like reaction with flushing"
+        },
+        {
+          "label": "C",
+          "text": "Hemolytic anemia with jaundice"
+        },
+        {
+          "label": "D",
+          "text": "Optic neuritis with visual loss"
+        },
+        {
+          "label": "E",
+          "text": "Photosensitivity rash with blistering"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alcohol combined with metronidazole can precipitate a disulfiram-like reaction.",
+        "whyCorrect": "Metronidazole can cause a disulfiram-like reaction when combined with alcohol, producing flushing, tachycardia, and nausea. Alcohol should therefore be avoided during therapy and for 3 days after the last dose. This interaction is one of the counseling points that accompanies every prescription for the drug.",
+        "whyWrongByChoice": {
+          "A": "Acute dystonic reactions are not described with metronidazole use.",
+          "C": "Hemolysis with jaundice is not a reaction attributed to metronidazole and alcohol.",
+          "D": "Optic neuritis is not a reported consequence of combining metronidazole with alcohol.",
+          "E": "A blistering photosensitivity rash is not among the described adverse effects of metronidazole."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "adverse effects",
+        "drug interaction"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-004",
+      "stem": "The reaction that occurs when alcohol is taken with metronidazole is described as disulfiram-like. Disulfiram itself deters drinking by which of the following actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of hepatic aldehyde reductase"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of central GABA-A receptors"
+        },
+        {
+          "label": "C",
+          "text": "Induction of hepatic cytochrome P450"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetaldehyde dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of alcohol dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Disulfiram inhibits acetaldehyde dehydrogenase, so acetaldehyde accumulates after a drink.",
+        "whyCorrect": "Disulfiram was used in the past to treat alcohol dependence. It increases sensitivity to alcohol by inhibiting acetaldehyde dehydrogenase, so acetaldehyde accumulates and produces nausea, vomiting, and headache as a deterrent to drinking. Drugs said to cause a disulfiram-like reaction either inhibit this same enzyme or act in other ways to slow alcohol metabolism.",
+        "whyWrongByChoice": {
+          "A": "Activating aldehyde reductase would help clear the aldehyde rather than cause its buildup.",
+          "B": "GABA-A blockade is not the mechanism by which disulfiram discourages drinking.",
+          "C": "Inducing P450 would accelerate alcohol clearance and would not produce the deterrent symptoms.",
+          "E": "Blocking alcohol dehydrogenase would reduce acetaldehyde formation rather than let it accumulate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "disulfiram",
+        "alcohol metabolism",
+        "clinical correlation"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-005",
+      "stem": "A 23-year-old woman at 8 weeks' gestation is diagnosed with trichomoniasis. Which of the following statements about metronidazole applies to her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is contraindicated in the first trimester"
+        },
+        {
+          "label": "B",
+          "text": "It is contraindicated in the third trimester only"
+        },
+        {
+          "label": "C",
+          "text": "It is contraindicated only during breastfeeding"
+        },
+        {
+          "label": "D",
+          "text": "It is safe at any dose throughout pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "It must be given intravenously during pregnancy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metronidazole is contraindicated in the first trimester of pregnancy.",
+        "whyCorrect": "Metronidazole is generally well tolerated, but it is contraindicated in the first trimester of pregnancy. At 8 weeks' gestation this patient is still in the first trimester, so metronidazole should not be used and an alternative approach is required. The other standard cautions with the drug are headache, nausea, metallic taste, and the disulfiram-like reaction with alcohol.",
+        "whyWrongByChoice": {
+          "B": "The contraindication applies to the first trimester, not the third.",
+          "C": "Breastfeeding is not the restriction described for this drug.",
+          "D": "The drug is not considered safe at any point in pregnancy; the first trimester is an explicit contraindication.",
+          "E": "Route of administration does not remove the first-trimester contraindication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "pregnancy",
+        "contraindication"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-006",
+      "stem": "A 45-year-old man taking metronidazole for amebiasis complains of a persistent unpleasant taste in his mouth, along with headache and nausea. Which of the following is he most likely describing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blue-green discoloration of the urine"
+        },
+        {
+          "label": "B",
+          "text": "Gingival hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Loss of high-frequency hearing"
+        },
+        {
+          "label": "D",
+          "text": "Metallic taste"
+        },
+        {
+          "label": "E",
+          "text": "Orange discoloration of the sclerae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Headache, nausea, and a metallic taste are the most common adverse effects of metronidazole.",
+        "whyCorrect": "Metronidazole is generally well tolerated, and its most common adverse effects are headache, nausea, and metallic taste. This patient has all three. These effects are nuisance reactions rather than reasons to stop the drug in most cases.",
+        "whyWrongByChoice": {
+          "A": "Discolored urine is not among the common adverse effects attributed to metronidazole.",
+          "B": "Gum overgrowth is not a listed adverse effect of this agent.",
+          "C": "Ototoxicity is not described as a reaction to metronidazole.",
+          "E": "Scleral discoloration is not a reported metronidazole reaction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "adverse effects"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-007",
+      "stem": "A patient takes the final dose of her metronidazole course today and asks how much longer she must keep avoiding alcohol. Which of the following is the most appropriate answer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol may be resumed immediately"
+        },
+        {
+          "label": "B",
+          "text": "Avoid alcohol for 1 more month"
+        },
+        {
+          "label": "C",
+          "text": "Avoid alcohol for 12 more hours"
+        },
+        {
+          "label": "D",
+          "text": "Avoid alcohol for 2 more weeks"
+        },
+        {
+          "label": "E",
+          "text": "Avoid alcohol for 3 more days"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alcohol should be avoided during metronidazole therapy and for 3 days after the last dose.",
+        "whyCorrect": "Alcohol should be avoided during metronidazole use and for 3 days after the course is finished. Drinking within that window risks a disulfiram-like reaction with flushing, tachycardia, and nausea. Counseling patients on the specific 3-day interval is more useful than a vague instruction to avoid alcohol.",
+        "whyWrongByChoice": {
+          "A": "Resuming alcohol immediately leaves the patient exposed to the disulfiram-like reaction.",
+          "B": "A month of abstinence is not required after metronidazole.",
+          "C": "A 12-hour interval is shorter than the recommended wait.",
+          "D": "Two weeks is longer than the interval described for this drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "alcohol",
+        "counseling"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-008",
+      "stem": "Which of the following best describes the way metronidazole crosses membranes to be absorbed after an oral dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active uptake by an organic anion transporter"
+        },
+        {
+          "label": "B",
+          "text": "Facilitated diffusion through a nucleoside carrier"
+        },
+        {
+          "label": "C",
+          "text": "Paracellular movement through tight junctions"
+        },
+        {
+          "label": "D",
+          "text": "Passive diffusion in its unionized form"
+        },
+        {
+          "label": "E",
+          "text": "Receptor-mediated endocytosis by enterocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metronidazole is absorbed by passive diffusion in its unionized form.",
+        "whyCorrect": "Metronidazole is absorbed by passive diffusion in its unionized form, which is why it distributes so widely and can reach tissues beyond the gut. Only after it is inside the organism and reduced by electron transport proteins does it become an active cytotoxic species. Good absorption plus intracellular activation is what gives the drug its broad usefulness.",
+        "whyWrongByChoice": {
+          "A": "No carrier-mediated active transport step is involved in metronidazole absorption.",
+          "B": "Metronidazole is not a nucleoside and does not use a nucleoside carrier.",
+          "C": "Absorption is transcellular by diffusion, not through tight junctions.",
+          "E": "Endocytosis is not how this small, lipid-permeable molecule enters cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "pharmacokinetics",
+        "absorption"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-009",
+      "stem": "Metronidazole is effective against organisms that have invaded tissue and also against organisms that remain in the intestinal lumen. Which of the following properties best explains its luminal activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is concentrated in red cells and released into the gut"
+        },
+        {
+          "label": "B",
+          "text": "It is eliminated unchanged by glomerular filtration"
+        },
+        {
+          "label": "C",
+          "text": "It is not absorbed from the intestinal tract at all"
+        },
+        {
+          "label": "D",
+          "text": "It is partially excreted in bile and reaches the gut lumen"
+        },
+        {
+          "label": "E",
+          "text": "It is secreted into saliva and continuously swallowed"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Biliary excretion returns metronidazole to the intestinal lumen, so it works in tissue and lumen alike.",
+        "whyCorrect": "Metronidazole is mostly absorbed in the intestinal tract and is partially excreted through bile. Because bile carries drug back into the gut, the agent acts not only in the tissues but also in the intestinal lumen. This dual exposure is part of why it works well for luminal protozoa such as Giardia as well as for infection that has spread past the GI tract.",
+        "whyWrongByChoice": {
+          "A": "Erythrocyte sequestration is not a described feature of metronidazole disposition.",
+          "B": "Renal elimination would not return drug to the intestinal lumen.",
+          "C": "The drug is in fact mostly absorbed from the intestinal tract, not left unabsorbed.",
+          "E": "Salivary secretion is not the route described for its luminal presence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "pharmacokinetics",
+        "biliary excretion"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-010",
+      "stem": "Metronidazole reliably kills anaerobic bacteria but has essentially no useful activity against strictly aerobic organisms. Which feature of anaerobes best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They carry efflux pumps that fail without oxygen"
+        },
+        {
+          "label": "B",
+          "text": "They concentrate the drug through aerobic glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "They have a thicker outer membrane that traps the drug"
+        },
+        {
+          "label": "D",
+          "text": "They have the electron transport proteins that reduce the drug"
+        },
+        {
+          "label": "E",
+          "text": "They lack a cell wall and therefore take up more drug"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anaerobic bacteria possess the electron transport needed to reduce metronidazole to its active form.",
+        "whyCorrect": "Anaerobic bacteria have the electron transport necessary for reduction of metronidazole. The drug is reduced by these organisms, and the reduced metronidazole with its free radicals interferes with DNA synthesis and degrades DNA. Because the reducing machinery is what turns the drug on, organisms lacking it are spared, and this is why metronidazole provides coverage for anaerobic infections.",
+        "whyWrongByChoice": {
+          "A": "Efflux pump activity is not the mechanism described for this drug's selectivity.",
+          "B": "Anaerobes do not rely on aerobic glycolysis, and drug concentration is not the explanation.",
+          "C": "Membrane thickness is not the basis of metronidazole selectivity.",
+          "E": "Anaerobes are not defined by an absent cell wall, and wall status is not what activates the drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "anaerobes",
+        "selective toxicity"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-011",
+      "stem": "A 26-year-old woman with vaginal trichomoniasis had intolerable nausea the last time she took metronidazole. Which of the following agents has activity against amebiasis, giardiasis, and vaginal trichomoniasis and may be better tolerated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mebendazole"
+        },
+        {
+          "label": "B",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "D",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "E",
+          "text": "Tinidazole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinidazole covers amebiasis, giardiasis, and vaginal trichomoniasis and may be better tolerated than metronidazole.",
+        "whyCorrect": "Tinidazole has activity against amebiasis, giardiasis, and vaginal trichomoniasis, and it may be better tolerated than metronidazole. It shares the nitroimidazole mechanism of free-radical formation and inhibition of DNA synthesis, and it carries the same disulfiram reaction with alcohol. For a patient who could not tolerate metronidazole, it is the logical substitute for the same spectrum.",
+        "whyWrongByChoice": {
+          "A": "Mebendazole is a benzimidazole for helminth infections, not for protozoa.",
+          "B": "Pentamidine is used for Trichomonas but does not cover amebiasis and giardiasis as described.",
+          "C": "Praziquantel treats schistosomiasis and intestinal tapeworms, which are helminths.",
+          "D": "Pyrimethamine is used for toxoplasmosis and does not cover this spectrum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinidazole",
+        "protozoa",
+        "trichomoniasis"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-012",
+      "stem": "A 35-year-old man has trichomoniasis that has extended beyond the genitourinary tract into adjacent tissue. Which of the following agents is the drug of choice for both intestinal and extraintestinal trichomoniasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metronidazole is the drug of choice for giardiasis and for intestinal or extraintestinal trichomoniasis.",
+        "whyCorrect": "Metronidazole can be used to treat infection that has spread past the GI tract to other parts of the body, and it is the drug of choice for giardiasis and for intestinal or extraintestinal trichomoniasis. Because it is well absorbed and also partially excreted in bile, it reaches both tissue sites and the intestinal lumen. That combination of distribution is what makes it useful when the infection is no longer confined to the gut.",
+        "whyWrongByChoice": {
+          "A": "Albendazole is a benzimidazole used for helminths such as ascariasis and neurocysticercosis.",
+          "B": "Ivermectin treats strongyloidiasis and onchocerciasis, not protozoal disease.",
+          "D": "Praziquantel is reserved for schistosomiasis and intestinal tapeworms.",
+          "E": "Pyrimethamine is the antiprotozoal commonly used for toxoplasmosis, not trichomoniasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "trichomoniasis",
+        "indications"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-013",
+      "stem": "An antiprotozoal agent disrupts microbial RNA and DNA, phospholipid, and protein synthesis by interfering with the incorporation of nucleic acid precursors into RNA and DNA. Which of the following drugs acts in this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "C",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pentamidine blocks nucleic acid incorporation and disrupts RNA, DNA, phospholipid, and protein synthesis.",
+        "whyCorrect": "Pentamidine works by disrupting microbial RNA and DNA, phospholipid, and protein synthesis through interference with nucleic acid incorporation into RNA and DNA. It is an antiprotozoal used against Trichomonas, most often in combination with tinidazole. Its characteristic toxicities are reversible nephrotoxicity, pancreatitis, and acute hypotension.",
+        "whyWrongByChoice": {
+          "A": "Albendazole inhibits formation of cytoplasmic microtubules in helminths.",
+          "B": "Metronidazole is reduced intracellularly and kills through free radicals that damage DNA.",
+          "D": "Praziquantel increases permeability of the worm, leading to paralysis.",
+          "E": "Pyrimethamine inhibits parasitic dihydrofolate reductase and blocks folate metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pentamidine",
+        "mechanism of action",
+        "protozoa"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-014",
+      "stem": "A patient receiving pentamidine becomes acutely hypotensive during the infusion, and the serum creatinine rises over the next two days. Which additional adverse reaction should be anticipated with this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aplastic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Retinal detachment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pentamidine causes reversible nephrotoxicity, pancreatitis, and acute hypotension.",
+        "whyCorrect": "The adverse reactions to pentamidine are reversible nephrotoxicity, pancreatitis, and acute hypotension. This patient already shows two of the three, so pancreatitis is the reaction to watch for next. Recognizing the triad is what allows appropriate monitoring during therapy.",
+        "whyWrongByChoice": {
+          "A": "Marrow aplasia is not among the described toxicities of pentamidine.",
+          "C": "Peripheral neuropathy is not part of the pentamidine toxicity profile described.",
+          "D": "Pulmonary fibrosis is not a reaction attributed to this agent.",
+          "E": "Retinal injury is not a listed adverse effect of pentamidine."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pentamidine",
+        "adverse effects"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-015",
+      "stem": "Pyrimethamine blocks folate metabolism within the parasite. Which of the following enzymes does it inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Dihydropteroate synthase"
+        },
+        {
+          "label": "C",
+          "text": "DNA gyrase"
+        },
+        {
+          "label": "D",
+          "text": "Ribonucleotide reductase"
+        },
+        {
+          "label": "E",
+          "text": "Thymidylate synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pyrimethamine inhibits parasitic dihydrofolate reductase, blocking tetrahydrofolic acid synthesis.",
+        "whyCorrect": "Pyrimethamine inhibits parasitic dihydrofolate reductase, which prevents synthesis of vital tetrahydrofolic acid. Without tetrahydrofolate, the parasite cannot carry out the one-carbon transfers required for nucleic acid synthesis. Because the block extends partly to the host, patients may develop significant folate deficiency.",
+        "whyWrongByChoice": {
+          "B": "Dihydropteroate synthase acts upstream and is not the enzyme this drug inhibits.",
+          "C": "DNA gyrase inhibition is not a mechanism attributed to pyrimethamine.",
+          "D": "Ribonucleotide reductase is unrelated to the folate pathway blocked here.",
+          "E": "Thymidylate synthase is not the target described for pyrimethamine."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pyrimethamine",
+        "mechanism of action",
+        "folate"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-016",
+      "stem": "A patient on prolonged pyrimethamine therapy develops a macrocytic anemia. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate deficiency from blocked tetrahydrofolate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Hemolysis from oxidant stress on red cells"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency from occult intestinal blood loss"
+        },
+        {
+          "label": "D",
+          "text": "Marrow fibrosis from chronic drug exposure"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 malabsorption from gastric atrophy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pyrimethamine's characteristic adverse effect is folate deficiency.",
+        "whyCorrect": "Pyrimethamine inhibits dihydrofolate reductase and thereby blocks synthesis of tetrahydrofolic acid, so patients might experience significant folate deficiency. Folate deficiency impairs DNA synthesis in rapidly dividing marrow precursors and produces a macrocytic anemia. Folate deficiency is the adverse reaction listed for this drug in the summary of antiprotozoal agents.",
+        "whyWrongByChoice": {
+          "B": "Oxidant hemolysis is not the toxicity attributed to pyrimethamine.",
+          "C": "Iron deficiency produces a microcytic anemia and is not a described pyrimethamine effect.",
+          "D": "Marrow fibrosis is not among the reported adverse reactions of this agent.",
+          "E": "B12 malabsorption is unrelated to the enzyme this drug inhibits."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyrimethamine",
+        "adverse effects",
+        "folate deficiency"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-017",
+      "stem": "A 34-year-old man with advanced HIV infection has headache and multiple ring-enhancing brain lesions, and toxoplasmosis is diagnosed. Which of the following agents is commonly used to treat this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "B",
+          "text": "Mebendazole"
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "D",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "E",
+          "text": "Tinidazole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pyrimethamine is commonly used to treat toxoplasmosis.",
+        "whyCorrect": "Pyrimethamine is the agent commonly used to treat Toxoplasma infection. It blocks folate metabolism by inhibiting dihydrofolate reductase, which arrests parasite nucleic acid synthesis. Patients on therapy should be watched for folate deficiency.",
+        "whyWrongByChoice": {
+          "A": "Ivermectin is an anthelminthic for strongyloidiasis and onchocerciasis.",
+          "B": "Mebendazole is a benzimidazole for helminth infections, not protozoa.",
+          "C": "Praziquantel treats schistosomiasis and intestinal tapeworms.",
+          "E": "Tinidazole covers amebiasis, giardiasis, and vaginal trichomoniasis rather than Toxoplasma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyrimethamine",
+        "toxoplasmosis",
+        "indications"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-018",
+      "stem": "Besides metronidazole, trichomoniasis may be treated with a combination of two agents. Which of the following pairs is used for this protozoal disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mebendazole and pentamidine"
+        },
+        {
+          "label": "B",
+          "text": "Pentamidine and tinidazole"
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel and ivermectin"
+        },
+        {
+          "label": "D",
+          "text": "Pyrimethamine and albendazole"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine and praziquantel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Trichomoniasis may be treated with a combination of pentamidine and tinidazole.",
+        "whyCorrect": "Trichomoniasis is a protozoal disease that can be treated with a combination of pentamidine and tinidazole. Pentamidine interferes with nucleic acid incorporation into RNA and DNA, while tinidazole acts like metronidazole through free-radical formation and inhibition of DNA synthesis. Both are listed as agents with Trichomonas activity in the summary of antiprotozoal drugs.",
+        "whyWrongByChoice": {
+          "A": "Mebendazole is an anthelminthic and is not paired with pentamidine for this infection.",
+          "C": "Both praziquantel and ivermectin are anthelminthics, not antiprotozoals.",
+          "D": "Albendazole is an anthelminthic and has no role in trichomoniasis.",
+          "E": "Pyrimethamine is used for toxoplasmosis and praziquantel for worms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "trichomoniasis",
+        "pentamidine",
+        "tinidazole"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-019",
+      "stem": "Most antiparasitic and antihelminthic drugs act on cellular processes unique to the parasite and produce little metabolic effect in the patient, so they are well tolerated overall. This property is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-pass metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Post-antibiotic effect"
+        },
+        {
+          "label": "C",
+          "text": "Selective toxicity"
+        },
+        {
+          "label": "D",
+          "text": "Synergistic killing"
+        },
+        {
+          "label": "E",
+          "text": "Therapeutic index"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acting exclusively on the pathogen without toxic effects in the host is called selective toxicity.",
+        "whyCorrect": "The ability of a drug to act exclusively on the pathogen without having toxic effects on the host is known as selective toxicity. It is the reason most antiparasitic and antihelminthic drugs are well tolerated: their targets are cellular processes unique to the parasite, so the same metabolic response does not occur in humans. Ivermectin's action on channels found in helminth but not human nerve and muscle is a concrete example.",
+        "whyWrongByChoice": {
+          "A": "First-pass metabolism describes hepatic extraction of drug after absorption.",
+          "B": "The post-antibiotic effect refers to suppression of growth after drug removal.",
+          "D": "Synergy describes two drugs together exceeding their separate effects.",
+          "E": "The therapeutic index is a dose ratio, not the concept of acting only on the pathogen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "selective toxicity",
+        "principles"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-020",
+      "stem": "Ivermectin kills susceptible worms by binding and inactivating which of the following targets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-tubulin of cytoplasmic microtubules"
+        },
+        {
+          "label": "B",
+          "text": "Ferredoxin-linked electron transport proteins"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate-gated chloride channels"
+        },
+        {
+          "label": "D",
+          "text": "Parasitic dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated sodium channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ivermectin binds and inactivates glutamate-gated chloride channels in helminth nerve and muscle.",
+        "whyCorrect": "Ivermectin acts by binding and inactivating specific glutamate-gated chloride channels in helminth nerve and muscle cells. Chloride influx leads to hyperpolarization and paralysis of nerve and muscle, and the worm dies. Because these channels are not present in human nerve and muscle, the drug is selectively toxic.",
+        "whyWrongByChoice": {
+          "A": "Microtubule inhibition is the benzimidazole mechanism, not ivermectin's.",
+          "B": "Ferredoxin-type reduction is how metronidazole is activated.",
+          "D": "Dihydrofolate reductase is the target of pyrimethamine.",
+          "E": "Sodium channels are not the described target of ivermectin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ivermectin",
+        "mechanism of action",
+        "helminths"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-021",
+      "stem": "Ivermectin paralyzes helminth nerve and muscle, yet treated patients do not develop comparable neuromuscular weakness. Which of the following best explains this selectivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human muscle contains no chloride, so influx cannot occur"
+        },
+        {
+          "label": "B",
+          "text": "Intestinal efflux pumps prevent any absorption of the drug"
+        },
+        {
+          "label": "C",
+          "text": "Plasma esterases destroy the drug before it reaches human nerve"
+        },
+        {
+          "label": "D",
+          "text": "The drug binds human channels but causes depolarization instead"
+        },
+        {
+          "label": "E",
+          "text": "The targeted chloride channels occur in helminths but not humans"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The glutamate-gated chloride channels ivermectin targets are found in helminths but not in human nerve and muscle.",
+        "whyCorrect": "Ivermectin binds specific glutamate-gated chloride channels in helminth, but not human, nerve and muscle cells. With no comparable target in the patient, chloride influx and hyperpolarization occur only in the worm. This is a direct illustration of selective toxicity, the principle underlying most antiparasitic drugs.",
+        "whyWrongByChoice": {
+          "A": "Human muscle certainly contains chloride; absence of the target channel is the issue.",
+          "B": "The drug is absorbed and effective systemically; blocked absorption is not the explanation.",
+          "C": "Rapid esterase destruction is not the reason humans are spared.",
+          "D": "The drug does not bind human channels and reverse their behavior."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ivermectin",
+        "selective toxicity"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-022",
+      "stem": "A 40-year-old man who recently returned from international travel has episodic abdominal pain and a recurrent cough. Stool testing shows larvae suggestive of strongyloidiasis. Which of the following drugs is most useful for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "B",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "D",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "E",
+          "text": "Tinidazole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ivermectin is the drug of choice for strongyloidiasis.",
+        "whyCorrect": "Strongyloidiasis is contracted from walking on contaminated soil, and the helminths spread to both the intestines and the lung, which explains this patient's abdominal pain and cough. The preferred drug is ivermectin, which inactivates glutamate-gated chloride channels and paralyzes the worm. Strongyloides is one of the two organisms listed for ivermectin, along with Onchocerca.",
+        "whyWrongByChoice": {
+          "B": "Metronidazole is used primarily in protozoal and anaerobic bacterial infections.",
+          "C": "Praziquantel is the drug of choice for schistosomiasis and intestinal tapeworms.",
+          "D": "Pyrimethamine is used for toxoplasmosis, a protozoal infection.",
+          "E": "Tinidazole is an antiprotozoal for amebiasis, giardiasis, and vaginal trichomoniasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ivermectin",
+        "strongyloidiasis",
+        "helminths"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-023",
+      "stem": "A 45-year-old man from a region where river blindness is endemic has pruritic subcutaneous nodules and progressive visual loss. Onchocerciasis is diagnosed. Which of the following is the drug of choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "E",
+          "text": "Praziquantel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ivermectin is the drug of choice for onchocerciasis, also called river blindness.",
+        "whyCorrect": "Ivermectin is the drug of choice for onchocerciasis, the roundworm infection known as river blindness, as well as for strongyloidiasis. It binds glutamate-gated chloride channels in the worm, causing hyperpolarization and paralysis of nerve and muscle. Patients treated for onchocerciasis should be warned about the Mazzotti reaction.",
+        "whyWrongByChoice": {
+          "A": "Albendazole covers neurocysticercosis, echinococcosis, ascariasis, and hookworm.",
+          "C": "Metronidazole is an antiprotozoal and antianaerobic agent, not an anthelminthic.",
+          "D": "Pentamidine is an antiprotozoal used against Trichomonas.",
+          "E": "Praziquantel is used for schistosomiasis and intestinal tapeworms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ivermectin",
+        "onchocerciasis",
+        "helminths"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-024",
+      "stem": "Shortly after starting treatment for onchocerciasis, a patient develops fever, lymphadenitis, urticaria, arthralgia, edema, and hypotension. Which of the following best identifies this event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute hypotension from pentamidine infusion"
+        },
+        {
+          "label": "B",
+          "text": "Disulfiram-like reaction from alcohol use"
+        },
+        {
+          "label": "C",
+          "text": "Folate deficiency from pyrimethamine therapy"
+        },
+        {
+          "label": "D",
+          "text": "Mazzotti reaction during ivermectin therapy"
+        },
+        {
+          "label": "E",
+          "text": "Transaminase elevation from albendazole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Mazzotti reaction is the notable adverse effect of ivermectin during onchocerciasis treatment.",
+        "whyCorrect": "The Mazzotti reaction consists of fever, lymphadenitis, urticaria, arthralgia, edema, and hypotension, and it can occur during onchocerciasis treatment with ivermectin. This patient has the full constellation in exactly that setting. Recognizing it prevents the reaction from being mistaken for worsening infection or a simple drug allergy.",
+        "whyWrongByChoice": {
+          "A": "Pentamidine causes acute hypotension but not fever with lymphadenitis and urticaria, and it is not used here.",
+          "B": "A disulfiram-like reaction produces flushing, tachycardia, and nausea after alcohol, not this syndrome.",
+          "C": "Folate deficiency from pyrimethamine develops slowly as anemia, not as an acute febrile reaction.",
+          "E": "Albendazole causes abdominal pain, nausea, vomiting, and transaminase elevation instead."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ivermectin",
+        "Mazzotti reaction",
+        "adverse effects"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-025",
+      "stem": "A 9-year-old boy with ascariasis is treated with mebendazole. Which of the following is the primary mechanism by which this drug acts on the worm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inactivation of glutamate-gated chloride channels"
+        },
+        {
+          "label": "B",
+          "text": "Increased permeability of the worm, causing paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of cytoplasmic microtubule formation"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of parasitic dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular reduction generating free radicals"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Benzimidazoles inhibit formation of cytoplasmic microtubules in intestinal helminths and larvae.",
+        "whyCorrect": "Albendazole and mebendazole belong to the benzimidazole drug class, recognizable by the -bendazole suffix. They inhibit formation of cytoplasmic microtubules in cells of intestinal helminths and larvae. Loss of the microtubule network is the primary lesion from which the metabolic collapse that kills the worm follows.",
+        "whyWrongByChoice": {
+          "A": "Glutamate-gated chloride channel inactivation is how ivermectin works.",
+          "B": "Increasing worm permeability is the mechanism of praziquantel.",
+          "D": "Dihydrofolate reductase inhibition describes pyrimethamine.",
+          "E": "Intracellular reduction with free-radical formation is the metronidazole mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "benzimidazoles",
+        "mebendazole",
+        "mechanism of action"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-026",
+      "stem": "Benzimidazoles kill intestinal helminths through a sequence of metabolic changes that follows their primary action on the worm. Which of the following best describes that sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocked folate metabolism arresting nucleic acid synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Chloride influx and hyperpolarization causing muscle paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Free-radical formation and DNA degradation causing cell death"
+        },
+        {
+          "label": "D",
+          "text": "Glycogen depletion and reduced ATP causing immobilization"
+        },
+        {
+          "label": "E",
+          "text": "Increased tegument permeability causing rapid worm paralysis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Benzimidazoles cause glycogen depletion, reduced glucose uptake, and decreased ATP, leading to energy depletion and worm death.",
+        "whyCorrect": "After benzimidazoles block cytoplasmic microtubule formation, the worm develops glycogen depletion, decreased glucose uptake, accumulation of waste metabolites, and decreased ATP production. The end result is energy depletion, immobilization, and worm death. The immobilized worms are then cleared from the gut by peristalsis.",
+        "whyWrongByChoice": {
+          "A": "Folate blockade describes pyrimethamine in protozoal infection.",
+          "B": "Chloride influx with hyperpolarization is the ivermectin cascade.",
+          "C": "Free radicals degrading DNA describe metronidazole's action on protozoa and anaerobes.",
+          "E": "Increased permeability with paralysis is the praziquantel mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "benzimidazoles",
+        "mechanism of action",
+        "energy depletion"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-027",
+      "stem": "Benzimidazoles immobilize intestinal worms rather than dissolving them. How are the immobilized worms finally cleared from the patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absorption across the intestinal mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Digestion by pancreatic proteases"
+        },
+        {
+          "label": "C",
+          "text": "Encystment within the intestinal wall"
+        },
+        {
+          "label": "D",
+          "text": "Expulsion from the gut by peristalsis"
+        },
+        {
+          "label": "E",
+          "text": "Phagocytosis by intestinal macrophages"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Final clearance of benzimidazole-immobilized worms occurs by peristalsis.",
+        "whyCorrect": "Benzimidazoles produce energy depletion, immobilization, and worm death, with final clearance of the immobilized worms by peristalsis. The drug does not lyse the worm; it disables it so that normal gut motility sweeps it out. This is why these agents work best for intestinal helminths.",
+        "whyWrongByChoice": {
+          "A": "Whole worms are not absorbed across the intestinal mucosa.",
+          "B": "Pancreatic enzyme digestion is not the described route of clearance.",
+          "C": "Encystment in the bowel wall is not a consequence of benzimidazole therapy.",
+          "E": "Macrophage phagocytosis is not how an adult intestinal worm is removed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "benzimidazoles",
+        "mechanism of action",
+        "peristalsis"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-028",
+      "stem": "A 38-year-old woman two weeks into albendazole therapy reports abdominal pain and nausea, and her hepatic transaminases are mildly elevated. She is otherwise well, with no jaundice. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue the drug and add pentamidine for coverage"
+        },
+        {
+          "label": "B",
+          "text": "Continue the drug, as these effects are usually transient"
+        },
+        {
+          "label": "C",
+          "text": "Stop the drug and arrange an urgent liver biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Stop the drug and substitute metronidazole"
+        },
+        {
+          "label": "E",
+          "text": "Stop the drug and substitute pyrimethamine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Albendazole's abdominal pain, nausea, vomiting, and transaminase elevation are generally transient and rarely require stopping the drug.",
+        "whyCorrect": "Side effects of albendazole include abdominal pain, nausea, vomiting, and increased hepatic transaminases. These effects are generally transient and usually do not require discontinuation of the drug. This patient has exactly that pattern without evidence of serious liver injury, so therapy can continue.",
+        "whyWrongByChoice": {
+          "A": "Pentamidine is an antiprotozoal and adds nothing to helminth coverage.",
+          "C": "Biopsy is not indicated for the expected, transient transaminase rise seen with this drug.",
+          "D": "Metronidazole is an antiprotozoal and would not treat her helminth infection.",
+          "E": "Pyrimethamine treats toxoplasmosis and has no anthelminthic activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "albendazole",
+        "adverse effects",
+        "hepatotoxicity"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-029",
+      "stem": "A 30-year-old man with new-onset seizures has cystic brain lesions caused by a tapeworm, and neurocysticercosis is diagnosed. Which of the following drugs is used to treat this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "E",
+          "text": "Tinidazole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Albendazole is used for neurocysticercosis, one of the tapeworm infections treated by benzimidazoles.",
+        "whyCorrect": "The benzimidazole class treats a broad range of helminth infections, including neurocysticercosis and echinococcosis, both tapeworm diseases, as well as ascariasis and necatoriasis. Albendazole blocks cytoplasmic microtubule formation, depleting the worm's glycogen and ATP. This case illustrates that helminths can reside outside the gut, in organs such as muscle, eye, and brain, so the choice of drug depends on both species and location.",
+        "whyWrongByChoice": {
+          "B": "Ivermectin is the drug of choice for strongyloidiasis and onchocerciasis.",
+          "C": "Metronidazole is an antiprotozoal and antianaerobic agent, not an anthelminthic.",
+          "D": "Pentamidine is an antiprotozoal used against Trichomonas.",
+          "E": "Tinidazole covers amebiasis, giardiasis, and vaginal trichomoniasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "albendazole",
+        "neurocysticercosis",
+        "tapeworm"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-030",
+      "stem": "Praziquantel and the benzimidazoles are both used against tapeworm-related disease, but their indications differ. Which of the following infections is treated with albendazole rather than praziquantel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Echinococcosis"
+        },
+        {
+          "label": "B",
+          "text": "Giardiasis"
+        },
+        {
+          "label": "C",
+          "text": "Intestinal tapeworm infection"
+        },
+        {
+          "label": "D",
+          "text": "Schistosomiasis"
+        },
+        {
+          "label": "E",
+          "text": "Trichomoniasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Echinococcosis falls to the benzimidazoles, while praziquantel covers schistosomiasis and intestinal tapeworms.",
+        "whyCorrect": "Echinococcosis is listed among the helminth infections treated by the benzimidazole class, along with neurocysticercosis, ascariasis, and necatoriasis. Praziquantel, by contrast, is the drug of choice for schistosomiasis and intestinal tapeworms. Knowing that both drugs touch tapeworm disease but at different sites keeps the two from being confused.",
+        "whyWrongByChoice": {
+          "B": "Giardiasis is a protozoal infection treated with metronidazole.",
+          "C": "Intestinal tapeworms are the other classic praziquantel indication.",
+          "D": "Schistosomiasis is a specific praziquantel indication.",
+          "E": "Trichomoniasis is protozoal and treated with metronidazole or tinidazole."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "albendazole",
+        "praziquantel",
+        "echinococcosis"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-031",
+      "stem": "A 7-year-old child in a rural area has iron deficiency anemia, and stool studies confirm hookworm infection (necatoriasis). Which of the following drugs is appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mebendazole"
+        },
+        {
+          "label": "B",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "C",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Necatoriasis, a hookworm infection, is treated with a benzimidazole such as mebendazole.",
+        "whyCorrect": "Mebendazole belongs to the benzimidazole class, which treats a broad range of helminth infections including necatoriasis (hookworm) and ascariasis (roundworm). The drug inhibits cytoplasmic microtubule formation, producing glycogen depletion and energy failure, and the immobilized worms are then swept out by peristalsis. The class mnemonic is that benzimidazoles treat bendy worms.",
+        "whyWrongByChoice": {
+          "B": "Metronidazole treats protozoal and anaerobic bacterial infections, not helminths.",
+          "C": "Pentamidine is an antiprotozoal with activity against Trichomonas.",
+          "D": "Praziquantel is the drug of choice for schistosomiasis and intestinal tapeworms.",
+          "E": "Pyrimethamine is an antiprotozoal used for toxoplasmosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mebendazole",
+        "hookworm",
+        "benzimidazoles"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-032",
+      "stem": "Praziquantel kills susceptible worms by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generating free radicals that degrade worm DNA"
+        },
+        {
+          "label": "B",
+          "text": "Increasing worm permeability, leading to paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibiting formation of cytoplasmic microtubules"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting parasitic dihydrofolate reductase"
+        },
+        {
+          "label": "E",
+          "text": "Opening glutamate-gated chloride channels in nerve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Praziquantel increases permeability in susceptible worms, which leads to worm paralysis.",
+        "whyCorrect": "Praziquantel works by increasing permeability in the susceptible worm, which leads to worm paralysis. It is the drug of choice for schistosomiasis and intestinal tapeworms. Its typical adverse effects are itching, headache, and dizziness.",
+        "whyWrongByChoice": {
+          "A": "Free-radical DNA damage is how metronidazole kills protozoa and anaerobes.",
+          "C": "Microtubule inhibition describes the benzimidazoles such as albendazole and mebendazole.",
+          "D": "Dihydrofolate reductase inhibition is the action of pyrimethamine.",
+          "E": "Chloride channel inactivation with hyperpolarization is the ivermectin mechanism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "praziquantel",
+        "mechanism of action"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-033",
+      "stem": "A 19-year-old returns from swimming in a freshwater lake in Africa and develops hematuria. Schistosomiasis is diagnosed. Which of the following is the drug of choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "E",
+          "text": "Praziquantel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Praziquantel is the drug of choice for schistosomiasis.",
+        "whyCorrect": "Praziquantel is the drug of choice for schistosomiasis and for intestinal tapeworms. It increases permeability in the susceptible worm, leading to paralysis. Patients should be told to expect itching, headache, or dizziness.",
+        "whyWrongByChoice": {
+          "A": "Albendazole covers neurocysticercosis, echinococcosis, ascariasis, and hookworm.",
+          "B": "Ivermectin is the drug of choice for strongyloidiasis and onchocerciasis.",
+          "C": "Metronidazole is an antiprotozoal and antianaerobic drug, not an anthelminthic.",
+          "D": "Pentamidine is an antiprotozoal used against Trichomonas."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "praziquantel",
+        "schistosomiasis",
+        "helminths"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-034",
+      "stem": "A patient treated with praziquantel for an intestinal tapeworm is counseled about what to expect from the drug. Which of the following adverse effect profiles is characteristic of this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated hepatic transaminases and vomiting"
+        },
+        {
+          "label": "B",
+          "text": "Folate deficiency with macrocytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Itching, headache, and dizziness"
+        },
+        {
+          "label": "D",
+          "text": "Metallic taste and disulfiram-like reaction"
+        },
+        {
+          "label": "E",
+          "text": "Nephrotoxicity and pancreatitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Itching, headache, and dizziness are the characteristic adverse effects of praziquantel.",
+        "whyCorrect": "In the summary of anthelminthic agents, praziquantel is paired with itching, headache, and dizziness. These are the symptoms to warn a patient about when treating schistosomiasis or an intestinal tapeworm. They are distinct from the toxicity patterns of the other agents in this brick.",
+        "whyWrongByChoice": {
+          "A": "Transaminase elevation with abdominal pain and vomiting is seen with albendazole.",
+          "B": "Folate deficiency is the adverse effect of pyrimethamine.",
+          "D": "Metallic taste with a disulfiram reaction to alcohol describes metronidazole and tinidazole.",
+          "E": "Nephrotoxicity and pancreatitis belong to pentamidine."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "praziquantel",
+        "adverse effects"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-035",
+      "stem": "Metronidazole will not be effective against which of the following infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amebiasis"
+        },
+        {
+          "label": "B",
+          "text": "Anaerobic bacterial infection"
+        },
+        {
+          "label": "C",
+          "text": "Ascariasis"
+        },
+        {
+          "label": "D",
+          "text": "Giardiasis"
+        },
+        {
+          "label": "E",
+          "text": "Trichomoniasis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metronidazole covers protozoa and anaerobic bacteria but has no activity against helminths such as Ascaris.",
+        "whyCorrect": "Ascariasis is a helminthic (roundworm) infection and cannot be treated with metronidazole. An anthelminthic agent such as albendazole is what is needed for Ascaris. Metronidazole is the drug of choice in trichomoniasis, amebiasis, and giardiasis, and it also provides coverage for anaerobic bacterial infections because anaerobes possess the electron transport that reduces the drug.",
+        "whyWrongByChoice": {
+          "A": "Amebiasis is a protozoal infection for which metronidazole is a drug of choice.",
+          "B": "Anaerobic bacteria can reduce the drug, so metronidazole covers them well.",
+          "D": "Giardiasis responds to metronidazole, which is the preferred agent.",
+          "E": "Trichomoniasis, intestinal or extraintestinal, is treated with metronidazole."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "spectrum",
+        "ascariasis"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    },
+    {
+      "id": "mi50-036",
+      "stem": "A 29-year-old man who grew up in rural South America is diagnosed with Chagas disease caused by Trypanosoma cruzi. Which of the following agents is the drug of choice for this pathogen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Benznidazole"
+        },
+        {
+          "label": "C",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "D",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "E",
+          "text": "Praziquantel"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Benznidazole is the drug of choice for Trypanosoma cruzi, the cause of Chagas disease.",
+        "whyCorrect": "Benznidazole is the drug of choice for T cruzi, the pathogen responsible for Chagas disease. It acts by inhibiting synthesis of DNA, RNA, and proteins in the organism. Its name is easy to confuse with the benzimidazole anthelminthics, so the indication is worth fixing separately in memory.",
+        "whyWrongByChoice": {
+          "A": "Albendazole treats helminth infections such as neurocysticercosis and ascariasis.",
+          "C": "Ivermectin is the drug of choice for strongyloidiasis and onchocerciasis.",
+          "D": "Metronidazole is used primarily in protozoal infections such as giardiasis and trichomoniasis.",
+          "E": "Praziquantel is reserved for schistosomiasis and intestinal tapeworms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "benznidazole",
+        "Chagas disease",
+        "Trypanosoma cruzi"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections"
+    }
+  ]
+}

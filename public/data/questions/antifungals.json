@@ -1,0 +1,1667 @@
+{
+  "categoryId": "antifungals",
+  "categoryName": "Antifungals",
+  "questions": [
+    {
+      "id": "mi46-001",
+      "stem": "A pharmacology instructor asks why antifungal drugs can be given to patients at all, given that fungi and humans are both eukaryotes that require an aerobic environment. Which of the following components of the fungal cell provides the clearest opportunity for selective toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol within the plasma membrane"
+        },
+        {
+          "label": "B",
+          "text": "Ergosterol within the plasma membrane"
+        },
+        {
+          "label": "C",
+          "text": "Lipopolysaccharide within the outer leaflet"
+        },
+        {
+          "label": "D",
+          "text": "Peptidoglycan within the cell envelope"
+        },
+        {
+          "label": "E",
+          "text": "Phosphatidylcholine within the lipid bilayer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ergosterol is the sterol unique to fungal cell membranes and is a principal antifungal target.",
+        "whyCorrect": "Fungi are eukaryotic and share most cellular machinery with human cells, which is exactly why antifungal therapy risks host toxicity. Their membranes are unique in containing ergosterol rather than cholesterol. Polyenes bind ergosterol directly, and azoles and terbinafine block its synthesis, so ergosterol is the basis for selective toxicity.",
+        "whyWrongByChoice": {
+          "A": "Cholesterol is the sterol of human membranes; it is the reason polyenes still cause host toxicity, not a selective target.",
+          "C": "Lipopolysaccharide is found in the outer membrane of gram-negative bacteria and is absent from fungi.",
+          "D": "Peptidoglycan is a bacterial cell wall polymer; the fungal wall is built of chitin and beta-glucans instead.",
+          "E": "Phosphatidylcholine is a standard phospholipid of human membranes as well, so targeting it would injure host cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fungal biology",
+        "ergosterol",
+        "selective toxicity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-002",
+      "stem": "A 57-year-old man with disseminated fungal infection is started on intravenous amphotericin B. Laboratory study of the drug shows that treated fungal cells leak intracellular potassium and small molecules before dying. Which of the following best describes the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds ergosterol and forms pores that allow cell contents to leak"
+        },
+        {
+          "label": "B",
+          "text": "Disrupts microtubule function and arrests fungal cell division"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits 14-alpha-sterol demethylase and blocks ergosterol formation"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits beta-glucan synthesis and weakens the fungal cell wall"
+        },
+        {
+          "label": "E",
+          "text": "Is converted to fluorouracil and blocks fungal nucleic acid synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyenes such as amphotericin B bind ergosterol and punch pores in the fungal membrane, acting as fungicidal agents.",
+        "whyCorrect": "Amphotericin B is a polyene that binds directly to ergosterol in the fungal cell membrane. The resulting pores alter membrane permeability so that cell contents leak out, and the fungal cell dies. Because the organism is killed rather than merely inhibited, polyenes are fungicidal.",
+        "whyWrongByChoice": {
+          "B": "Interference with microtubule function in keratin-rich tissue describes griseofulvin.",
+          "C": "Blockade of 14-alpha-sterol demethylase is the azole mechanism; azoles prevent ergosterol formation instead of binding it.",
+          "D": "Inhibition of beta-glucan synthesis is the mechanism of the echinocandins, which act on the cell wall rather than the membrane.",
+          "E": "Conversion to fluorouracil with interference in DNA and RNA synthesis describes flucytosine."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polyenes",
+        "amphotericin B",
+        "mechanism of action"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-003",
+      "stem": "A Candida isolate recovered from a patient whose infection is progressing despite amphotericin B therapy is studied in the laboratory. Binding assays show that the drug now has markedly reduced affinity for the organism's membrane. Which of the following is the most likely basis for this resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased membrane ergosterol with an altered sterol target"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic cleavage of the drug by a secreted fungal esterase"
+        },
+        {
+          "label": "C",
+          "text": "Increased efflux of the drug by a membrane transport pump"
+        },
+        {
+          "label": "D",
+          "text": "Loss of cytosine deaminase activity within the fungal cell"
+        },
+        {
+          "label": "E",
+          "text": "Mutation of beta-glucan synthase that lowers drug binding"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyene resistance arises from less ergosterol in the membrane or an altered sterol that the drug binds poorly.",
+        "whyCorrect": "Because amphotericin B works by binding ergosterol, resistance follows from changes to that target. Fungi can lower the concentration of ergosterol in the membrane or modify the sterol itself, and either change reduces the affinity of the drug for the membrane. Without adequate binding, pores do not form and the organism survives.",
+        "whyWrongByChoice": {
+          "B": "Enzymatic destruction of the drug is not among the polyene resistance mechanisms described for this class.",
+          "C": "An efflux pump is not the resistance mechanism described for polyenes, whose target lies in the membrane itself.",
+          "D": "Loss of the enzyme that converts flucytosine to fluorouracil would cause flucytosine resistance, not polyene resistance.",
+          "E": "Beta-glucan synthase is the echinocandin target in the cell wall and has nothing to do with polyene binding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polyenes",
+        "resistance",
+        "ergosterol"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-004",
+      "stem": "A 52-year-old man has received intravenous amphotericin B for 2 weeks. Serum studies show potassium 2.8 mEq/L, magnesium 1.2 mg/dL, bicarbonate 16 mEq/L, and a normal anion gap; the urine pH is inappropriately alkaline. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune complex glomerulonephritis provoked by the drug"
+        },
+        {
+          "label": "B",
+          "text": "Interstitial nephritis from a hypersensitivity reaction"
+        },
+        {
+          "label": "C",
+          "text": "Obstructive uropathy from drug crystal deposition"
+        },
+        {
+          "label": "D",
+          "text": "Prerenal azotemia from drug-related volume depletion"
+        },
+        {
+          "label": "E",
+          "text": "Renal tubular injury producing renal tubular acidosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amphotericin B injures the renal tubule, producing renal tubular acidosis with potassium and magnesium wasting.",
+        "whyCorrect": "Amphotericin B is nephrotoxic, and renal impairment occurs very frequently during therapy. Prolonged use causes renal tubular injury and subsequent tubular dysfunction. The classic consequences are renal tubular acidosis, which gives a normal anion gap acidosis with alkaline urine, and severe wasting of potassium and magnesium.",
+        "whyWrongByChoice": {
+          "A": "Glomerulonephritis would be expected to produce hematuria, proteinuria, and casts rather than isolated tubular electrolyte wasting.",
+          "B": "Hypersensitivity interstitial nephritis typically presents with rash, fever, and eosinophilia rather than this tubular acidosis picture.",
+          "C": "Crystal-induced obstruction is not an described toxicity of amphotericin B and would not create this electrolyte pattern.",
+          "D": "Prerenal azotemia raises the BUN-to-creatinine ratio and causes avid sodium and water retention, not potassium and magnesium loss with acidosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "nephrotoxicity",
+        "adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-005",
+      "stem": "A 44-year-old woman receiving amphotericin B for an invasive mold infection develops urine output of 5 L/day. Serum osmolality is elevated, urine osmolality is low, and the urine remains dilute after administration of desmopressin. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central diabetes insipidus from drug entry into the pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Nephrogenic diabetes insipidus from renal tubular toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic diuresis caused by drug-induced hyperglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Primary polydipsia related to drug-induced xerostomia"
+        },
+        {
+          "label": "E",
+          "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amphotericin B damages the renal tubule and can cause nephrogenic diabetes insipidus.",
+        "whyCorrect": "Among its renal toxicities, amphotericin B can produce nephrogenic diabetes insipidus. The injured tubule cannot respond to antidiuretic hormone, so large volumes of dilute urine are lost and the serum becomes concentrated. Failure of the urine to concentrate after desmopressin confirms that the defect is renal rather than central.",
+        "whyWrongByChoice": {
+          "A": "In central diabetes insipidus the kidney still responds to hormone, so desmopressin would concentrate the urine.",
+          "C": "An osmotic diuresis from glucose would raise, not lower, the urine osmolality, and hyperglycemia is not a described effect of this drug.",
+          "D": "Primary polydipsia produces a low rather than an elevated serum osmolality because the water load comes from excess intake.",
+          "E": "Inappropriate antidiuretic hormone secretion causes concentrated urine with hyponatremia, the opposite of this picture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "nephrotoxicity",
+        "diabetes insipidus"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-006",
+      "stem": "A 60-year-old woman has received amphotericin B for 6 weeks. Her hemoglobin has fallen from 12.6 to 8.9 g/dL. The anemia is normocytic with a low reticulocyte count, and iron, vitamin B12, and folate levels are normal. Which of the following best explains the anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated destruction of marrow erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Direct hemolysis from drug binding to red blood cell membranes"
+        },
+        {
+          "label": "C",
+          "text": "Iron sequestration within macrophages during chronic illness"
+        },
+        {
+          "label": "D",
+          "text": "Marrow suppression from drug toxicity to dividing precursors"
+        },
+        {
+          "label": "E",
+          "text": "Reduced erythropoietin production by the drug-damaged kidney"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amphotericin B causes anemia indirectly, by injuring the kidney that makes erythropoietin.",
+        "whyCorrect": "Erythropoietin is produced in the kidney and drives red blood cell production. Amphotericin B is markedly nephrotoxic, so as the kidney is damaged less erythropoietin is available and fewer red blood cells are made. The result is a hypoproliferative anemia with a low reticulocyte count.",
+        "whyWrongByChoice": {
+          "A": "Immune destruction of erythroid precursors is not a described adverse reaction of amphotericin B.",
+          "B": "Hemolysis would raise the reticulocyte count and the indirect bilirubin rather than leave production suppressed.",
+          "C": "Anemia of chronic disease is not the mechanism attributed to this drug, and it does not explain the tight link to renal injury.",
+          "D": "Dose-dependent marrow suppression from nucleic acid damage is the mechanism of flucytosine, not amphotericin B."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "anemia",
+        "erythropoietin"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-007",
+      "stem": "A 66-year-old man with baseline chronic kidney disease requires amphotericin B for an invasive fungal infection. The pharmacy recommends a liposomal preparation rather than the conventional colloidal suspension. Which of the following is the principal advantage of the lipid-based product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete renal clearance of the unchanged drug"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of the agent from fungicidal to fungistatic"
+        },
+        {
+          "label": "C",
+          "text": "Greater penetration of the drug into the CNS"
+        },
+        {
+          "label": "D",
+          "text": "Lower incidence of drug-induced renal impairment"
+        },
+        {
+          "label": "E",
+          "text": "Reliable absorption after oral administration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adding lipid to amphotericin B formulations decreases its nephrotoxicity.",
+        "whyCorrect": "Amphotericin B is given intravenously as a nonlipid colloidal suspension, a lipid complex, or a liposomal formulation. The addition of lipid decreases the drug's nephrotoxicity, which matters most in a patient whose kidneys are already impaired. The antifungal mechanism itself is unchanged.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is eliminated mainly by slow hepatic metabolism, with only a small fraction excreted in the urine.",
+          "B": "Amphotericin B remains fungicidal because it still forms pores in the membrane after binding ergosterol.",
+          "C": "The drug is distributed to all tissues except the central nervous system, and lipid formulation does not overcome that.",
+          "E": "Amphotericin B is poorly absorbed from the gastrointestinal tract regardless of formulation, which is why it is given intravenously."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "pharmacokinetics",
+        "formulations"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-008",
+      "stem": "A 49-year-old man with fungal meningitis is failing intravenous therapy because amphotericin B penetrates the central nervous system poorly. The team considers administering the drug by the intrathecal route. Which of the following adverse effects is most characteristic of this route of administration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute renal tubular injury with potassium wasting"
+        },
+        {
+          "label": "B",
+          "text": "Dose-dependent suppression of the bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "Photosensitivity with cutaneous malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Prolongation of the QTc interval on the ECG"
+        },
+        {
+          "label": "E",
+          "text": "Seizure activity with neurologic damage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intrathecal amphotericin B can cause seizures and neurologic damage.",
+        "whyCorrect": "Amphotericin B distributes to all tissues except the central nervous system, so intrathecal administration is sometimes used to reach the meninges. Delivering the drug directly into the cerebrospinal fluid exposes neural tissue to a compound that damages membranes. The described consequences are seizures and neurologic injury.",
+        "whyWrongByChoice": {
+          "A": "Tubular injury with potassium wasting follows systemic exposure to the drug and is not specific to intrathecal dosing.",
+          "B": "Dose-dependent myelosuppression is the hallmark toxicity of flucytosine rather than of amphotericin B.",
+          "C": "Photosensitivity and concern for cutaneous malignancy are linked to voriconazole among the antifungals.",
+          "D": "QTc prolongation is a class effect of the azoles, not of the polyenes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "intrathecal",
+        "adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-009",
+      "stem": "A 35-year-old man with fungal meningitis is to receive combination antifungal therapy. The team reviews how amphotericin B and flucytosine each reach the central nervous system. Which of the following statements most accurately contrasts the two drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B enters the central nervous system but flucytosine does not"
+        },
+        {
+          "label": "B",
+          "text": "Both drugs achieve high concentrations in the central nervous system"
+        },
+        {
+          "label": "C",
+          "text": "Both drugs are kept out of the central nervous system by hepatic clearance"
+        },
+        {
+          "label": "D",
+          "text": "Flucytosine enters the central nervous system but amphotericin B does not"
+        },
+        {
+          "label": "E",
+          "text": "Neither drug reaches useful concentrations in the central nervous system"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Flucytosine distributes widely including the CNS, whereas amphotericin B reaches all tissues except the CNS.",
+        "whyCorrect": "Amphotericin B is distributed to all tissues except the central nervous system, which is why intrathecal dosing is ever considered. Flucytosine is effective orally and is distributed to most body tissues, explicitly including the central nervous system. This difference is one reason the two are paired in central nervous system fungal disease.",
+        "whyWrongByChoice": {
+          "A": "This reverses the two drugs; it is flucytosine, not amphotericin B, that enters the central nervous system.",
+          "B": "Amphotericin B does not achieve useful central nervous system concentrations after intravenous administration.",
+          "C": "Flucytosine is eliminated intact in the urine rather than cleared hepatically, and hepatic clearance is not what excludes a drug from the brain.",
+          "E": "Flucytosine does penetrate the central nervous system, so this understates its distribution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "flucytosine",
+        "CNS distribution"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-010",
+      "stem": "A 63-year-old woman with candidemia is started on fluconazole. The drug acts on an enzyme that converts lanosterol to ergosterol. Inhibition of which of the following enzymes accounts for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14-alpha-sterol demethylase"
+        },
+        {
+          "label": "B",
+          "text": "Beta-glucan synthase"
+        },
+        {
+          "label": "C",
+          "text": "Chitin synthase of the cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Cytosine deaminase"
+        },
+        {
+          "label": "E",
+          "text": "Squalene epoxidase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Azoles inhibit 14-alpha-sterol demethylase, the fungal CYP450 enzyme that converts lanosterol to ergosterol.",
+        "whyCorrect": "Azoles block the formation of ergosterol by inhibiting 14-alpha-sterol demethylase, a cytochrome P450 enzyme that converts lanosterol to ergosterol. They have greater affinity for fungal than for human CYP enzymes, which provides their selectivity. Because growth is inhibited rather than the cell killed, azoles are fungistatic.",
+        "whyWrongByChoice": {
+          "B": "Beta-glucan synthase builds a cell wall polysaccharide and is the target of the echinocandins.",
+          "C": "Chitin synthase contributes to cell wall construction and is not the enzyme inhibited by azoles.",
+          "D": "Cytosine deaminase converts flucytosine to fluorouracil inside the fungal cell and is not inhibited by azoles.",
+          "E": "Squalene epoxidase is the step blocked by terbinafine, which acts earlier in the same pathway."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "mechanism of action",
+        "ergosterol synthesis"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-011",
+      "stem": "A neutropenic 58-year-old man with candidemia is discussed on rounds, and the team compares giving fluconazole with giving amphotericin B. Which of the following correctly contrasts these two drug classes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azoles are fungicidal whereas polyenes are fungistatic"
+        },
+        {
+          "label": "B",
+          "text": "Azoles are fungistatic whereas polyenes are fungicidal"
+        },
+        {
+          "label": "C",
+          "text": "Azoles form membrane pores and polyenes block sterol synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Both classes act on polysaccharides of the fungal cell wall"
+        },
+        {
+          "label": "E",
+          "text": "Both classes inhibit fungal DNA and RNA biosynthesis directly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Azoles inhibit fungal growth and are fungistatic; polyenes kill the organism and are fungicidal.",
+        "whyCorrect": "Azoles prevent new ergosterol from being made, which inhibits the growth of the fungal species and therefore makes them fungistatic. Polyenes bind the ergosterol already present and open pores, so cell contents leak and the organism dies, making them fungicidal. The distinction matters most in a profoundly neutropenic host who cannot help clear the organism.",
+        "whyWrongByChoice": {
+          "A": "This reverses the two classes; polyenes kill the organism while azoles only inhibit its growth.",
+          "C": "This swaps the mechanisms; polyenes form pores and azoles block ergosterol synthesis.",
+          "D": "Neither class targets cell wall polysaccharides; that is the mechanism of the echinocandins.",
+          "E": "Interference with DNA and RNA synthesis describes flucytosine, not azoles or polyenes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "polyenes",
+        "fungistatic vs fungicidal"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-012",
+      "stem": "A 34-year-old man treated with high-dose ketoconazole for several months develops bilateral gynecomastia and decreased libido. His female partner, treated with the same drug, reports menstrual irregularities. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antagonism of androgen receptors in breast tissue"
+        },
+        {
+          "label": "B",
+          "text": "Increased peripheral conversion of testosterone to estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Induction of hepatic enzymes that clear androgens more rapidly"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of mammalian CYP450 enzymes of steroid synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of prolactin release from the anterior pituitary"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ketoconazole inhibits mammalian CYP450 enzymes and thereby disrupts gonadal and adrenal steroid synthesis.",
+        "whyCorrect": "Azoles work by inhibiting a fungal CYP450 enzyme, and ketoconazole is unusually poor at sparing the human enzymes. It inhibits mammalian CYP450 enzymes, which disrupts gonadal and adrenal steroid synthesis. The clinical result is gynecomastia and decreased libido in men and menstrual irregularities in women.",
+        "whyWrongByChoice": {
+          "A": "Receptor blockade is not the described mechanism; the defect is in hormone synthesis rather than hormone action.",
+          "B": "Increased aromatization is not attributed to ketoconazole in this context.",
+          "C": "Ketoconazole inhibits rather than induces CYP450 enzymes; griseofulvin is the antifungal that acts as an inducer.",
+          "E": "Prolactin release is not a described effect of azole antifungals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "ketoconazole",
+        "endocrine adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-013",
+      "stem": "A 68-year-old woman taking warfarin has had a stable INR near 2.4 for a year. One week after starting fluconazole for candidiasis, her INR is 6.1. Which of the following best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Additional antiplatelet activity contributed by the antifungal"
+        },
+        {
+          "label": "B",
+          "text": "Displacement of warfarin from plasma protein binding sites"
+        },
+        {
+          "label": "C",
+          "text": "Induction of CYP3A4 with accelerated vitamin K turnover"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of CYP2C9 with reduced metabolism of warfarin"
+        },
+        {
+          "label": "E",
+          "text": "Reduced synthesis of vitamin K by the intestinal flora"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fluconazole is a potent CYP2C9 inhibitor and raises the levels of CYP2C9 substrates such as warfarin.",
+        "whyCorrect": "Several azoles inhibit the CYP450 enzyme system. Fluconazole in particular inhibits CYP2C9, and warfarin is a CYP2C9 substrate. Less metabolism means higher warfarin levels, a rising INR, and a real bleeding risk, so the interaction must be anticipated rather than discovered.",
+        "whyWrongByChoice": {
+          "A": "Azoles have no antiplatelet activity, and platelet inhibition would not prolong the prothrombin time anyway.",
+          "B": "Protein binding displacement is not the interaction described for azoles with warfarin.",
+          "C": "Fluconazole inhibits rather than induces CYP enzymes, and induction would lower the INR instead of raising it.",
+          "E": "Suppression of gut flora is not the mechanism attributed to azole antifungals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "fluconazole",
+        "drug interactions",
+        "CYP2C9"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-014",
+      "stem": "A 59-year-old woman is started on an antifungal agent, and the team orders a baseline ECG with repeat tracings because this drug class is known to prolong the QT interval. Which of the following drugs was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caspofungin"
+        },
+        {
+          "label": "B",
+          "text": "Flucytosine"
+        },
+        {
+          "label": "C",
+          "text": "Griseofulvin"
+        },
+        {
+          "label": "D",
+          "text": "Nystatin"
+        },
+        {
+          "label": "E",
+          "text": "Voriconazole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "QT prolongation is a class-wide adverse effect of the azoles.",
+        "whyCorrect": "Voriconazole is an azole, and azoles as a class can increase QT prolongation, an ECG change associated with arrhythmia. The class also shares an effect on liver function tests and a long list of drug interactions. ECG monitoring is therefore reasonable when an azole is started.",
+        "whyWrongByChoice": {
+          "A": "Caspofungin is an echinocandin; the class is well tolerated, with minor gastrointestinal effects and flushing.",
+          "B": "Flucytosine causes dose-dependent myelosuppression, hepatotoxicity, and gastrointestinal upset rather than QT changes.",
+          "C": "Griseofulvin is contraindicated in pregnancy and severe liver disease and induces CYP enzymes, but QT prolongation is not its described effect.",
+          "D": "Nystatin causes nausea, vomiting, diarrhea, and changes in magnesium and potassium rather than QT prolongation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "QT prolongation",
+        "adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-015",
+      "stem": "A 61-year-old man taking high-dose omeprazole for reflux is started on oral itraconazole for a systemic mycosis. Three weeks later his infection is worse and serum drug concentrations are undetectable, although he reports perfect adherence. Which of the following best explains the treatment failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azole absorption requires the normal acidity of the stomach"
+        },
+        {
+          "label": "B",
+          "text": "Azoles are absorbed only after conversion by intestinal flora"
+        },
+        {
+          "label": "C",
+          "text": "Azoles are inactivated by bile salts in the small intestine"
+        },
+        {
+          "label": "D",
+          "text": "Azoles must be taken with a fatty meal to be absorbed"
+        },
+        {
+          "label": "E",
+          "text": "Proton pump inhibitors induce the enzymes that clear azoles"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oral azole bioavailability is variable because typical gastric acidity is required for absorption.",
+        "whyCorrect": "For azoles, oral bioavailability is variable because typical gastric acidity is required. Profound acid suppression from a proton pump inhibitor therefore blunts absorption of an azole such as itraconazole, and drug levels fall. Fluconazole and voriconazole are the azoles absorbed more reliably by the oral route.",
+        "whyWrongByChoice": {
+          "B": "Azoles are active drugs rather than prodrugs requiring activation by gut flora.",
+          "C": "Inactivation by bile salts is not a described property of azole antifungals.",
+          "D": "The stated requirement for azole absorption is gastric acidity, not dietary fat.",
+          "E": "Enzyme induction by a proton pump inhibitor is not the described interaction; the problem lies at absorption, not metabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "pharmacokinetics",
+        "oral bioavailability"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-016",
+      "stem": "A 70-year-old man with a creatinine clearance of 25 mL/min requires azole therapy. The pharmacist notes that one azole is cleared by the kidney rather than the liver and therefore needs a dose adjustment. Which of the following drugs is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clotrimazole"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Itraconazole"
+        },
+        {
+          "label": "D",
+          "text": "Ketoconazole"
+        },
+        {
+          "label": "E",
+          "text": "Voriconazole"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "All azoles are eliminated hepatically except fluconazole, which is renally eliminated and requires renal dose adjustment.",
+        "whyCorrect": "The azoles as a group undergo hepatic elimination, so hepatic function usually governs dosing. Fluconazole is the exception: it is eliminated by the kidney and requires dose adjustment when renal function is reduced. Failing to adjust the dose in a patient with a creatinine clearance of 25 mL/min risks accumulation and toxicity.",
+        "whyWrongByChoice": {
+          "A": "Clotrimazole is used topically for cutaneous and mucosal candidiasis, so systemic renal dosing does not apply.",
+          "C": "Itraconazole is eliminated hepatically like most azoles and does not require renal dose adjustment.",
+          "D": "Ketoconazole is cleared hepatically; its signature problems are CYP inhibition and disrupted steroid synthesis.",
+          "E": "Voriconazole is absorbed reliably by mouth but is eliminated hepatically rather than renally."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "fluconazole",
+        "renal elimination"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-017",
+      "stem": "A 55-year-old man taking several chronic medications is started on ketoconazole, and the pharmacist warns of serious interactions with drugs handled by one particular isoenzyme. Ketoconazole is a strong inhibitor of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP1A2"
+        },
+        {
+          "label": "B",
+          "text": "CYP2B6"
+        },
+        {
+          "label": "C",
+          "text": "CYP2D6"
+        },
+        {
+          "label": "D",
+          "text": "CYP2E1"
+        },
+        {
+          "label": "E",
+          "text": "CYP3A4"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Azoles, including ketoconazole, itraconazole, and voriconazole, are strong CYP3A4 inhibitors.",
+        "whyCorrect": "Many of the azoles are CYP3A4 inhibitors, and ketoconazole, itraconazole, and voriconazole all show the highest potency at that isoenzyme. Because CYP3A4 handles a very large share of prescription drugs, these agents can precipitate serious drug-drug interactions. Fluconazole differs in that its strongest inhibition is at CYP2C9 and CYP2C19.",
+        "whyWrongByChoice": {
+          "A": "CYP1A2 is not among the isoenzymes listed for azole interactions.",
+          "B": "CYP2B6 is not described as a target of azole inhibition.",
+          "C": "Azoles are not described as strong inhibitors of CYP2D6.",
+          "D": "CYP2E1 is not an isoenzyme meaningfully inhibited by the azole antifungals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "CYP3A4",
+        "drug interactions"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-018",
+      "stem": "A 47-year-old woman with an invasive Candida infection is started on micafungin. This large lipopeptide molecule acts on a polysaccharide that is essential to many fungi. Which of the following is the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding of membrane ergosterol with formation of pores"
+        },
+        {
+          "label": "B",
+          "text": "Competition with uracil during nucleic acid synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of beta-glucan synthesis in the fungal cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the enzyme 14-alpha-sterol demethylase"
+        },
+        {
+          "label": "E",
+          "text": "Interference with assembly of fungal microtubules"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Echinocandins are large lipopeptides that inhibit beta-glucan synthesis and disrupt the fungal cell wall.",
+        "whyCorrect": "Micafungin belongs to the echinocandins, drugs whose names end in the suffix fungin. These large lipopeptide molecules inhibit beta-glucan synthesis, and beta-glucan is a fungal cell wall polysaccharide essential to many fungi. Disrupting the wall rather than the membrane is what distinguishes this class.",
+        "whyWrongByChoice": {
+          "A": "Binding ergosterol and forming pores is how the polyenes amphotericin B and nystatin act.",
+          "B": "Competition with uracil after conversion to fluorouracil describes flucytosine.",
+          "D": "Inhibition of 14-alpha-sterol demethylase is the azole mechanism, which blocks ergosterol synthesis.",
+          "E": "Interference with microtubules in keratin-rich tissue is the mechanism of griseofulvin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "echinocandins",
+        "beta-glucan",
+        "mechanism of action"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-019",
+      "stem": "A 45-year-old man improving on intravenous caspofungin asks whether he can finish therapy with an oral form of the same drug so that he can go home. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A topical preparation can be used in place of the infusion"
+        },
+        {
+          "label": "B",
+          "text": "An oral capsule exists and can be substituted at the same dose"
+        },
+        {
+          "label": "C",
+          "text": "An oral form exists but works only with an acidic stomach"
+        },
+        {
+          "label": "D",
+          "text": "An oral suspension is swallowed to achieve systemic levels"
+        },
+        {
+          "label": "E",
+          "text": "No oral form exists; echinocandins are available only as IV"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Echinocandins are available only as intravenous formulations.",
+        "whyCorrect": "Echinocandins such as caspofungin, micafungin, and anidulafungin are only available as intravenous formulations, so an oral switch is not an option. Their half-lives range from 11 to 48 hours, and most treatment regimens require a loading dose. Planning for the duration of intravenous access is therefore part of therapy.",
+        "whyWrongByChoice": {
+          "A": "Topical therapy is used for cutaneous and mucosal disease, not to complete treatment of an invasive infection.",
+          "B": "There is no oral capsule of an echinocandin to substitute for the infusion.",
+          "C": "Variable oral absorption dependent on gastric acidity is a property of the azoles, not the echinocandins.",
+          "D": "A swish-and-swallow suspension describes nystatin, which acts locally rather than achieving systemic levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "echinocandins",
+        "pharmacokinetics",
+        "route of administration"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-020",
+      "stem": "A 61-year-old man in the intensive care unit has persistent fever despite broad-spectrum antibiotics. Blood cultures grow Candida glabrata. Which of the following is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous micafungin"
+        },
+        {
+          "label": "B",
+          "text": "Oral fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Oral flucytosine"
+        },
+        {
+          "label": "D",
+          "text": "Oral griseofulvin"
+        },
+        {
+          "label": "E",
+          "text": "Oral nystatin suspension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Candida krusei and Candida glabrata are treated with an echinocandin.",
+        "whyCorrect": "Not all Candida species respond the same way to azoles. Candida krusei and Candida glabrata are the species for which an echinocandin is the listed agent, while Candida albicans is covered by topical azoles or by systemic fluconazole. Micafungin is an echinocandin given intravenously.",
+        "whyWrongByChoice": {
+          "B": "Fluconazole covers systemic Candida albicans infection, but krusei and glabrata are specifically assigned to an echinocandin.",
+          "C": "Flucytosine is not used as monotherapy because resistance develops rapidly, and it is paired with amphotericin B for Cryptococcus.",
+          "D": "Griseofulvin acts only in keratin-rich tissue against dermatophytes and does not cover Candida.",
+          "E": "Nystatin suspension treats oral thrush topically and does not reach the bloodstream to treat candidemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "echinocandins",
+        "Candida glabrata",
+        "spectrum of activity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-021",
+      "stem": "A 39-year-old man with cryptococcal meningitis is treated with amphotericin B plus a second agent that penetrates the fungal wall and is then converted inside the cell to a compound that competes with uracil. Which of the following is the mechanism of this second drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding of ergosterol with formation of membrane pores"
+        },
+        {
+          "label": "B",
+          "text": "Conversion to fluorouracil that blocks DNA and RNA synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Disruption of microtubule function during fungal mitosis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of beta-glucan synthesis within the fungal wall"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of the fungal enzyme 14-alpha-sterol demethylase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Flucytosine penetrates the fungal wall, is converted to fluorouracil, and blocks fungal DNA and RNA synthesis.",
+        "whyCorrect": "Flucytosine crosses the fungal wall and is converted intracellularly to fluorouracil. Fluorouracil competes with uracil and interferes with fungal DNA and RNA synthesis, so growth stops and the drug is fungistatic. It is used with amphotericin B for Cryptococcus rather than alone.",
+        "whyWrongByChoice": {
+          "A": "Pore formation after ergosterol binding is the mechanism of the partner drug amphotericin B, a polyene.",
+          "C": "Microtubule disruption in keratin-rich tissue describes griseofulvin.",
+          "D": "Beta-glucan synthesis inhibition weakens the cell wall and describes the echinocandins.",
+          "E": "Inhibition of 14-alpha-sterol demethylase blocks ergosterol synthesis and describes the azoles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flucytosine",
+        "mechanism of action",
+        "nucleic acid synthesis"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-022",
+      "stem": "A 42-year-old woman has received flucytosine for 3 weeks. Laboratory studies show leukocytes 1,800/mm3, hemoglobin 8.4 g/dL, and platelets 62,000/mm3. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune-mediated destruction of circulating blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Impaired erythropoietin release from the injured kidney"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of folate reduction within marrow precursors"
+        },
+        {
+          "label": "D",
+          "text": "Injury to dividing marrow cells from DNA and RNA damage"
+        },
+        {
+          "label": "E",
+          "text": "Sequestration of blood cells within an enlarged spleen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Flucytosine causes dose-dependent myelosuppression because it damages nucleic acids in rapidly dividing marrow cells.",
+        "whyCorrect": "Flucytosine is converted to fluorouracil, which interferes with DNA and RNA synthesis. The bone marrow is a rapidly dividing tissue, so it suffers the same nucleic acid damage the fungus does. The result is dose-dependent myelosuppression with anemia, neutropenia, and thrombocytopenia together, as seen here.",
+        "whyWrongByChoice": {
+          "A": "Immune destruction of blood cells is not a described adverse reaction of flucytosine.",
+          "B": "Reduced erythropoietin from renal injury is the amphotericin B mechanism, and it would cause anemia alone rather than a fall in all three lines.",
+          "C": "Flucytosine does not act on folate reduction; its active metabolite competes with uracil instead.",
+          "E": "Hypersplenism is not caused by this drug and would not appear after 3 weeks of therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "flucytosine",
+        "myelosuppression",
+        "adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-023",
+      "stem": "A 71-year-old man with a creatinine clearance of 20 mL/min is to be treated with flucytosine as part of combination therapy. Which of the following is the most important consideration in prescribing this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A loading dose is required because the half-life is long"
+        },
+        {
+          "label": "B",
+          "text": "No adjustment is needed because it is fully metabolized first"
+        },
+        {
+          "label": "C",
+          "text": "The dose must be lowered because it is excreted intact in urine"
+        },
+        {
+          "label": "D",
+          "text": "The drug must be given by vein because oral absorption is poor"
+        },
+        {
+          "label": "E",
+          "text": "The drug should be avoided because it is cleared hepatically"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Flucytosine is eliminated intact in the urine, so the dose must be reduced in renal impairment.",
+        "whyCorrect": "Flucytosine is effective orally and distributes to most body tissues, but it is eliminated unchanged in the urine. When renal function falls, the drug accumulates and its dose-dependent myelosuppression becomes far more likely. The dose must therefore be reduced in patients with renal impairment.",
+        "whyWrongByChoice": {
+          "A": "Loading doses are described for the echinocandins, whose half-lives run 11 to 48 hours, not for flucytosine.",
+          "B": "The drug is not fully metabolized before excretion, which is precisely why renal function governs its dosing.",
+          "D": "Flucytosine is effective orally, so an intravenous route is not required for absorption.",
+          "E": "Flucytosine is not cleared hepatically; renal excretion of intact drug is the dominant route."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "flucytosine",
+        "pharmacokinetics",
+        "renal dosing"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-024",
+      "stem": "An investigator exposes a Cryptococcus isolate to flucytosine alone in serial culture and finds that susceptibility is lost within a few passages. When amphotericin B is added, susceptibility is retained. Which of the following best explains the finding with the single agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A secreted fungal esterase inactivates the drug outside the cell"
+        },
+        {
+          "label": "B",
+          "text": "Membrane ergosterol is replaced by a sterol of lower affinity"
+        },
+        {
+          "label": "C",
+          "text": "Monotherapy selects for organisms with altered drug metabolism"
+        },
+        {
+          "label": "D",
+          "text": "The capsule thickens and mechanically excludes the drug"
+        },
+        {
+          "label": "E",
+          "text": "The fungus upregulates beta-glucan synthase to resist the drug"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Flucytosine resistance develops readily with monotherapy through altered metabolism of the drug.",
+        "whyCorrect": "Resistance to flucytosine develops from monotherapy and from altered metabolism of the drug within the fungal cell. Because flucytosine must be converted intracellularly to fluorouracil to work, changes in that handling abolish its effect. This is why flucytosine is given in combination, classically with amphotericin B for Cryptococcus, rather than alone.",
+        "whyWrongByChoice": {
+          "A": "Extracellular enzymatic destruction of flucytosine is not described; the drug must first enter the fungal cell.",
+          "B": "Substitution of the membrane sterol explains polyene resistance, not resistance to flucytosine.",
+          "D": "A thicker capsule is not the described resistance mechanism for flucytosine.",
+          "E": "Beta-glucan synthase is the echinocandin target and has no role in flucytosine activity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "flucytosine",
+        "resistance",
+        "combination therapy"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-025",
+      "stem": "A 38-year-old man with advanced HIV infection and a CD4 count of 40/mm3 has 2 weeks of headache and fever. Cerebrospinal fluid culture grows Cryptococcus neoformans. Which of the following is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B with flucytosine"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous caspofungin"
+        },
+        {
+          "label": "C",
+          "text": "Oral griseofulvin"
+        },
+        {
+          "label": "D",
+          "text": "Oral terbinafine"
+        },
+        {
+          "label": "E",
+          "text": "Topical clotrimazole and miconazole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cryptococcus neoformans is treated with amphotericin B, with or without flucytosine.",
+        "whyCorrect": "Cryptococcus neoformans is the organism treated with amphotericin B with or without flucytosine. Pairing them also solves a distribution problem, since amphotericin B reaches all tissues except the central nervous system while flucytosine penetrates the central nervous system well. Combination therapy additionally prevents the rapid resistance that flucytosine monotherapy selects for.",
+        "whyWrongByChoice": {
+          "B": "Echinocandins are the listed agents for Candida krusei and glabrata, not for Cryptococcus.",
+          "C": "Griseofulvin acts only in keratin-rich tissue such as skin, nail, and hair.",
+          "D": "Terbinafine is used for dermatophytes and nail bed infection and does not treat cryptococcal disease.",
+          "E": "Topical clotrimazole is used for cutaneous candidiasis and cannot treat meningitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Cryptococcus neoformans",
+        "amphotericin B",
+        "flucytosine",
+        "spectrum of activity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-026",
+      "stem": "A 9-year-old boy is treated with griseofulvin for a scalp infection. The drug concentrates in keratin-rich tissue and halts fungal cell replication there. Which of the following is the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competition with uracil during fungal nucleic acid synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Formation of pores after binding of membrane ergosterol"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of beta-glucan synthesis in the growing cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of squalene epoxidase in the ergosterol pathway"
+        },
+        {
+          "label": "E",
+          "text": "Interference with microtubule function that inhibits mitosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Griseofulvin interferes with microtubule function in fungal cells within keratin-rich tissue, inhibiting mitosis.",
+        "whyCorrect": "Griseofulvin interferes with microtubule function in fungal cells residing in keratin-rich tissues such as skin, nail, and hair. Without functioning microtubules the fungus cannot complete mitosis, so replication stops and the drug is fungistatic. Its concentration in keratin explains why it works for scalp and nail disease.",
+        "whyWrongByChoice": {
+          "A": "Competition with uracil follows conversion of flucytosine to fluorouracil.",
+          "B": "Pore formation after ergosterol binding describes the polyenes amphotericin B and nystatin.",
+          "C": "Beta-glucan synthesis inhibition describes the echinocandins, which act on the cell wall.",
+          "D": "Squalene epoxidase inhibition is the mechanism of terbinafine, which is fungicidal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "griseofulvin",
+        "mechanism of action",
+        "microtubules"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-027",
+      "stem": "An 8-year-old girl is brought in for an enlarging bald patch at the back of her scalp. Examination shows a well-demarcated area of hair loss with scale and small black dots where hairs have broken off; it is itchy. Microscopy of scraped flakes confirms a dermatophyte. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous amphotericin B for about 2 weeks"
+        },
+        {
+          "label": "B",
+          "text": "Nystatin oral suspension for about 6 weeks"
+        },
+        {
+          "label": "C",
+          "text": "Oral flucytosine daily for about 6 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Oral griseofulvin daily for about 6 weeks"
+        },
+        {
+          "label": "E",
+          "text": "Topical clotrimazole cream for about 2 weeks"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dermatophyte infection of the scalp is ringworm and is treated with a course of oral griseofulvin.",
+        "whyCorrect": "The well-demarcated patch with scale and broken hairs is ringworm, a dermatophyte infection rather than a worm. Griseofulvin reaches fungal cells in keratin-rich tissue such as hair, so it is taken by mouth daily for roughly 6 weeks even though the disease is on the scalp. The infection is contagious and can be acquired from infected people or pets.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is reserved for serious systemic mycoses and carries substantial nephrotoxicity.",
+          "B": "Nystatin suspension treats oral thrush and vaginal candidiasis, not dermatophyte infection of the scalp.",
+          "C": "Flucytosine is not used as monotherapy and is directed at systemic disease such as cryptococcal infection.",
+          "E": "A topical cream cannot reach organisms within the hair shafts of the scalp, and 2 weeks is far short of the needed course."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "griseofulvin",
+        "dermatophytes",
+        "tinea capitis"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-028",
+      "stem": "A 22-year-old woman taking a combined estrogen and progestin oral contraceptive begins griseofulvin for a nail infection. Two months later she has a positive pregnancy test despite perfect adherence to the contraceptive. Which of the following best explains this outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Griseofulvin blocks intestinal absorption of the contraceptive"
+        },
+        {
+          "label": "B",
+          "text": "Griseofulvin displaces the hormones from plasma binding proteins"
+        },
+        {
+          "label": "C",
+          "text": "Griseofulvin induces CYP enzymes that clear the hormones faster"
+        },
+        {
+          "label": "D",
+          "text": "Griseofulvin inhibits CYP enzymes and raises the hormone levels"
+        },
+        {
+          "label": "E",
+          "text": "Griseofulvin speeds renal excretion of the hormone metabolites"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Griseofulvin is a CYP inducer that accelerates metabolism of hormonal contraceptives and can cause contraceptive failure.",
+        "whyCorrect": "Griseofulvin is a cytochrome P450 inducer, which distinguishes it from the azoles that inhibit these enzymes. Induction increases the metabolism of hormonal contraceptives, both the estrogen and the progestin components. Lower hormone levels lead to contraceptive failure, so an alternative or additional method should be counseled at the time of prescribing.",
+        "whyWrongByChoice": {
+          "A": "The interaction is at the level of drug metabolism rather than absorption.",
+          "B": "Displacement from plasma proteins is not the described mechanism for this interaction.",
+          "D": "This reverses the effect; inhibition would raise hormone levels and would not cause contraceptive failure.",
+          "E": "Griseofulvin acts by inducing hepatic enzymes, not by enhancing renal excretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "griseofulvin",
+        "CYP induction",
+        "drug interactions"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-029",
+      "stem": "A 27-year-old woman at 10 weeks' gestation has an itchy annular scaly rash on the trunk. Which of the following antifungal agents is contraindicated in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clotrimazole"
+        },
+        {
+          "label": "B",
+          "text": "Griseofulvin"
+        },
+        {
+          "label": "C",
+          "text": "Miconazole"
+        },
+        {
+          "label": "D",
+          "text": "Nystatin"
+        },
+        {
+          "label": "E",
+          "text": "Terbinafine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Griseofulvin is contraindicated in pregnancy and in severe liver disease.",
+        "whyCorrect": "Griseofulvin is explicitly contraindicated for pregnancy, as well as for severe liver disease. This matters in exactly the setting described, because a dermatophyte rash would otherwise be a reasonable indication for the drug. An agent without this contraindication must be selected instead.",
+        "whyWrongByChoice": {
+          "A": "Clotrimazole is a topical azole used for cutaneous candidiasis and is not listed as contraindicated in pregnancy.",
+          "C": "Miconazole is likewise a topical azole for cutaneous disease without this stated contraindication.",
+          "D": "Nystatin does not carry this specific contraindication and is used topically and for oral and vaginal candidiasis.",
+          "E": "Terbinafine does not carry this specific contraindication, although hepatotoxicity can occur with its use."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "griseofulvin",
+        "pregnancy",
+        "contraindications"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-030",
+      "stem": "A 45-year-old man is treated with terbinafine. The drug blocks the fungal enzyme that forms squalene epoxide from squalene, and it kills the organism rather than merely inhibiting it. Which of the following enzymes does this drug inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14-alpha-sterol demethylase of the ergosterol pathway"
+        },
+        {
+          "label": "B",
+          "text": "Beta-glucan synthase of the fungal cell wall"
+        },
+        {
+          "label": "C",
+          "text": "Chitin synthase of the fungal cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Cytosine deaminase of the fungal cytoplasm"
+        },
+        {
+          "label": "E",
+          "text": "Squalene epoxidase of the ergosterol pathway"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Terbinafine blocks ergosterol synthesis by inhibiting squalene epoxidase and is fungicidal.",
+        "whyCorrect": "Terbinafine blocks ergosterol synthesis at an earlier step than the azoles, inhibiting squalene epoxidase, the enzyme that forms squalene epoxide from squalene. Unlike the fungistatic azoles, terbinafine acts as a fungicidal agent. It is available in oral formulations and, because it works in superficial tissue, also as a topical preparation.",
+        "whyWrongByChoice": {
+          "A": "14-alpha-sterol demethylase is the azole target, one step further along the ergosterol pathway.",
+          "B": "Beta-glucan synthase is inhibited by the echinocandins and lies in the cell wall, not the sterol pathway.",
+          "C": "Chitin synthase is a cell wall enzyme and is not the target of terbinafine.",
+          "D": "Cytosine deaminase converts flucytosine to fluorouracil and is not inhibited by terbinafine."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "terbinafine",
+        "squalene epoxidase",
+        "mechanism of action"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-031",
+      "stem": "A 45-year-old man taking oral terbinafine for toenail onychomycosis reports several weeks of headache and a persistent metallic alteration in taste. Serum aminotransferases are mildly elevated. Which of the following sets of adverse effects is most characteristic of this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow suppression with thrombocytopenia"
+        },
+        {
+          "label": "B",
+          "text": "Gynecomastia with decreased libido in men"
+        },
+        {
+          "label": "C",
+          "text": "Nephrogenic diabetes insipidus with polyuria"
+        },
+        {
+          "label": "D",
+          "text": "Nephrotoxicity with potassium and magnesium wasting"
+        },
+        {
+          "label": "E",
+          "text": "Taste disturbance, headache, and hepatotoxicity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Terbinafine causes gastrointestinal upset, rash, headache, and taste disturbance, and can be hepatotoxic.",
+        "whyCorrect": "The described adverse effects of terbinafine are gastrointestinal upset, rash, headache, and taste disturbances. Hepatotoxicity can also occur with its use, which fits the mildly elevated aminotransferases here. The combination of altered taste with abnormal liver tests is a recognizable signature of this drug.",
+        "whyWrongByChoice": {
+          "A": "Dose-dependent marrow suppression belongs to flucytosine, whose metabolite damages nucleic acids.",
+          "B": "Gynecomastia and decreased libido follow ketoconazole's inhibition of mammalian steroid synthesis.",
+          "C": "Nephrogenic diabetes insipidus is a renal toxicity of amphotericin B rather than of terbinafine.",
+          "D": "Nephrotoxicity with potassium and magnesium wasting is the classic profile of amphotericin B."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "terbinafine",
+        "adverse effects",
+        "hepatotoxicity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-032",
+      "stem": "A 4-month-old infant has white plaques on the tongue and buccal mucosa that scrape off with a tongue blade. The physician prescribes a suspension to be swished in the mouth and swallowed, noting that this drug is never given parenterally because it is too toxic by that route. Which of the following was prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "B",
+          "text": "Caspofungin"
+        },
+        {
+          "label": "C",
+          "text": "Flucytosine"
+        },
+        {
+          "label": "D",
+          "text": "Griseofulvin"
+        },
+        {
+          "label": "E",
+          "text": "Nystatin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nystatin is a polyene too toxic for parenteral use, formulated as creams, suspensions, and suppositories for Candida.",
+        "whyCorrect": "Nystatin is a polyene like amphotericin B, but it is toxic when given parenterally, so it is formulated only as creams, oral suspensions, and suppositories. It is fungicidal and active against most Candida species, which makes it the agent for oral thrush and vaginal candidiasis. Adverse effects are mainly nausea, vomiting, and diarrhea, with some change in magnesium and potassium.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is the polyene that is given intravenously, reserved for serious systemic mycoses.",
+          "B": "Caspofungin is an echinocandin available only as an intravenous formulation.",
+          "C": "Flucytosine is an oral systemic agent used in combination, not a topical treatment for thrush.",
+          "D": "Griseofulvin is taken orally for dermatophyte disease of keratin-rich tissue and does not cover Candida."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nystatin",
+        "polyenes",
+        "oral thrush"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-033",
+      "stem": "A 54-year-old woman with acute leukemia and prolonged neutropenia develops fever and a pulmonary nodule. Bronchoalveolar lavage culture grows Aspergillus. Which of the following azoles is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clotrimazole"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Ketoconazole"
+        },
+        {
+          "label": "D",
+          "text": "Miconazole"
+        },
+        {
+          "label": "E",
+          "text": "Voriconazole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aspergillus is treated with the azole voriconazole.",
+        "whyCorrect": "Among the azoles, voriconazole is the agent listed for Aspergillus. It is also one of the two azoles absorbed reliably by the oral route, which helps in prolonged therapy. Like other azoles it prolongs the QT interval, affects liver function tests, and strongly inhibits CYP3A4, and photosensitivity is a particular concern with this agent.",
+        "whyWrongByChoice": {
+          "A": "Clotrimazole is a topical azole for cutaneous candidiasis and cannot treat invasive pulmonary disease.",
+          "B": "Fluconazole is the azole used for systemic Candida albicans and for Coccidioides rather than for Aspergillus.",
+          "C": "Ketoconazole is notable for CYP inhibition and disrupted steroid synthesis and is not the agent for Aspergillus.",
+          "D": "Miconazole is likewise a topical azole used for cutaneous Candida infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "voriconazole",
+        "Aspergillus",
+        "spectrum of activity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-034",
+      "stem": "A 30-year-old man has 6 weeks of cough, fever, and weight loss. Sputum culture grows Coccidioides. Which of the following is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous caspofungin"
+        },
+        {
+          "label": "B",
+          "text": "Oral fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Oral griseofulvin"
+        },
+        {
+          "label": "D",
+          "text": "Oral terbinafine"
+        },
+        {
+          "label": "E",
+          "text": "Topical miconazole"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Coccidioides is treated with the azole fluconazole.",
+        "whyCorrect": "Fluconazole is the azole assigned to Coccidioides. It is also one of the azoles reliably absorbed by mouth, which suits the prolonged courses these infections require. Remember that fluconazole is the azole eliminated renally, so its dose must be adjusted if renal function is impaired.",
+        "whyWrongByChoice": {
+          "A": "Echinocandins are the listed agents for Candida krusei and glabrata, not for Coccidioides.",
+          "C": "Griseofulvin acts only on fungal cells within keratin-rich tissue and has no role in pulmonary disease.",
+          "D": "Terbinafine is directed at dermatophytes in skin, nail, and hair rather than at endemic mycoses.",
+          "E": "Topical miconazole is used for cutaneous candidiasis and cannot treat a pulmonary infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "fluconazole",
+        "Coccidioides",
+        "spectrum of activity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-035",
+      "stem": "A 41-year-old gardener develops a nodular ulcerating lesion on the hand with additional nodules tracking up the forearm. Culture of tissue grows Sporothrix. Which of the following azoles is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clotrimazole"
+        },
+        {
+          "label": "B",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "C",
+          "text": "Itraconazole"
+        },
+        {
+          "label": "D",
+          "text": "Ketoconazole"
+        },
+        {
+          "label": "E",
+          "text": "Voriconazole"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blastomyces and Sporothrix are treated with the azole itraconazole.",
+        "whyCorrect": "Itraconazole is the azole listed for Blastomyces and Sporothrix. Like most azoles it is eliminated hepatically and is a potent CYP3A4 inhibitor, so co-prescribed drugs must be reviewed. Its oral absorption also depends on gastric acidity, which matters in patients on acid-suppressing drugs.",
+        "whyWrongByChoice": {
+          "A": "Clotrimazole is a topical azole for cutaneous candidiasis and would not treat this deeper infection.",
+          "B": "Fluconazole is the azole for systemic Candida albicans and for Coccidioides.",
+          "D": "Ketoconazole is not the agent assigned to these organisms and carries prominent endocrine toxicity.",
+          "E": "Voriconazole is the azole directed at Aspergillus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "itraconazole",
+        "Sporothrix",
+        "spectrum of activity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    },
+    {
+      "id": "mi46-036",
+      "stem": "A 48-year-old man with advanced immunosuppression has fever, hepatosplenomegaly, and pancytopenia. Bone marrow culture confirms disseminated histoplasmosis. Which of the following is the most appropriate therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B"
+        },
+        {
+          "label": "B",
+          "text": "Oral flucytosine alone"
+        },
+        {
+          "label": "C",
+          "text": "Oral griseofulvin"
+        },
+        {
+          "label": "D",
+          "text": "Oral terbinafine"
+        },
+        {
+          "label": "E",
+          "text": "Topical clotrimazole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Histoplasmosis is treated with amphotericin B.",
+        "whyCorrect": "Amphotericin B is the agent listed for histoplasmosis. It is a fungicidal polyene given intravenously because it is poorly absorbed from the gastrointestinal tract. Its use demands monitoring for nephrotoxicity, potassium and magnesium wasting, and anemia from reduced erythropoietin production.",
+        "whyWrongByChoice": {
+          "B": "Flucytosine is never used as monotherapy because resistance emerges rapidly, and it is paired with amphotericin B for Cryptococcus.",
+          "C": "Griseofulvin reaches fungal cells only in keratin-rich tissue, so it cannot treat systemic infection.",
+          "D": "Terbinafine treats dermatophyte disease of skin, nail, and hair and has no role in disseminated histoplasmosis.",
+          "E": "Topical clotrimazole is used for cutaneous candidiasis and cannot reach a disseminated infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "histoplasmosis",
+        "spectrum of activity"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+    }
+  ]
+}

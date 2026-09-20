@@ -1,0 +1,255 @@
+import { useState, useEffect } from 'react';
+import { TopicsIndex, Category } from '../types/topic';
+import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
+import { TopicStat } from '../hooks/useTopicProgress';
+import { ProgressData } from '../types/progress';
+import { getOverallStats } from '../utils/stats';
+import { BrandCard } from '../components/Brand';
+import { ProgressSummary } from '../components/ProgressSummary';
+import { MembraneDivider } from '../components/Membrane';
+import type { ReviewMode } from './ReviewPage';
+import { Tier } from '../utils/questionLoader';
+import { EntitlementStatus } from '../utils/entitlement';
+import { SkinName, SkinAccess, applySkin, savedSkin, loadSkinAccess } from '../utils/skin';
+
+interface Props {
+  tier: Tier;
+  onSetTier: (t: Tier) => void;
+  entitlement: EntitlementStatus | null;
+  entitlementReason?: string;
+  topics: TopicsIndex | null;
+  selectedTopicIds: Set<string>;
+  selectedCount: number;
+  topicStats?: Map<string, TopicStat> | null;
+  progress: ProgressData;
+  onToggleTopic: (topicId: string) => void;
+  onToggleCategory: (category: Category) => void;
+  onSelectAll: () => void;
+  onClearAll: () => void;
+  onStartQuiz: () => void;
+  onGoToDashboard: () => void;
+  onGoToReview: (mode?: ReviewMode) => void;
+  onClearProgress: () => void;
+}
+
+export function HomePage({
+  tier, onSetTier, entitlement, entitlementReason, topics, selectedTopicIds, selectedCount, topicStats, progress,
+  onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
+  onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
+}: Props) {
+  const locked = tier === 'advanced' && entitlement !== null && entitlement !== 'ok';
+  const isAdvId = (id: string) => id.includes('-adv-');
+  const tierProgress = {
+    ...progress,
+    answers: Object.fromEntries(
+      Object.entries(progress.answers).filter(([id]) => isAdvId(id) === (tier === 'advanced')),
+    ),
+  };
+  const stats = getOverallStats(tierProgress);
+  const missedCount = Object.values(tierProgress.answers).filter((a) => !a.isCorrect).length;
+  const bookmarkCount = progress.bookmarkedQuestions.length;
+
+  const [skin, setSkin] = useState<SkinName>(savedSkin);
+  const [skinAccess, setSkinAccess] = useState<SkinAccess | null>(null);
+  useEffect(() => { loadSkinAccess().then(setSkinAccess); }, []);
+  const skinLocked = skinAccess !== null && skinAccess !== 'ok';
+  function chooseSkin(next: SkinName) {
+    if (skinLocked && next !== 'off') return;
+    setSkin(next);
+    applySkin(next);
+  }
+
+  return (
+    <div className="min-h-screen bg-slate-900">
+      <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
+        <div className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+          <div>
+            <h1 className="text-xl font-bold text-slate-100">Micro QBank</h1>
+            <p className="text-sm text-slate-400">Microbiology Question Bank</p>
+          </div>
+          {/* One action group; the cross-link used to float alone. */}
+          <div className="flex items-center gap-2 flex-wrap justify-end">
+            {stats.total > 0 && (
+              <button
+                onClick={onGoToDashboard}
+                className="px-4 py-2 text-sm rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors"
+              >
+                Dashboard ({stats.percentage}%)
+              </button>
+            )}
+            {missedCount > 0 && (
+              <button
+                onClick={() => onGoToReview('incorrect')}
+                className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
+                title="Redo the questions you got wrong"
+              >
+                🔁 Missed ({missedCount})
+              </button>
+            )}
+            {bookmarkCount > 0 && (
+              <button
+                onClick={() => onGoToReview()}
+                className="px-4 py-2 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
+              >
+                Bookmarked ({bookmarkCount})
+              </button>
+            )}
+            <a
+              href="https://zbenja168.github.io/Resp_QBank/"
+              className="text-xs px-3 py-2 rounded-lg text-slate-500 hover:text-teal-400 transition-colors"
+            >
+              Resp QBank &rarr;
+            </a>
+          </div>
+        </div>
+      </header>
+
+      <main className="max-w-5xl mx-auto px-4 py-8">
+        <BrandCard />
+
+        {/* Standard / Advanced tier toggle */}
+        <div className="mb-6">
+          <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+            <button
+              onClick={() => onSetTier('standard')}
+              className={`px-4 py-2 text-sm font-semibold rounded-lg transition-colors ${
+                tier === 'standard' ? 'bg-blue-600 text-white' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Standard
+            </button>
+            <button
+              onClick={() => onSetTier('advanced')}
+              className={`px-4 py-2 text-sm font-semibold rounded-lg transition-colors ${
+                tier === 'advanced' ? 'bg-amber-500 text-slate-900' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Advanced
+            </button>
+          </div>
+          {/* Exam skins — re-dress the quiz to look like the interfaces you
+              actually sit exams in. Signed-in Active Transport accounts only. */}
+          <div className="mt-4">
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="text-sm text-slate-400">Skin</span>
+              <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+                {([
+                  ['off', 'Off'],
+                  ['examplify', 'Examplify Skin'],
+                  ['examplify-dark', 'Examplify Dark'],
+                  ['nbme', 'NBME Skin'],
+                ] as [SkinName, string][]).map(([value, label]) => (
+                  <button
+                    key={value}
+                    onClick={() => chooseSkin(value)}
+                    disabled={skinLocked && value !== 'off'}
+                    title={skinLocked && value !== 'off'
+                      ? 'Sign in to Active Transport to use the exam skins'
+                      : undefined}
+                    className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                      skin === value
+                        ? 'bg-blue-600 text-white'
+                        : skinLocked && value !== 'off'
+                          ? 'text-slate-600 cursor-not-allowed'
+                          : 'text-slate-400 hover:text-slate-200'
+                    }`}
+                  >
+                    {label}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <p className="mt-2 text-sm text-slate-400 max-w-2xl">
+              {skinLocked
+                ? 'Sign in to Active Transport and open this QBank from the hub to practise in an exam-style interface.'
+                : skin === 'off'
+                  ? 'Practise in an interface that looks like the software you sit exams in.'
+                  : 'Exam skin on — right and wrong are still marked the usual way.'}
+            </p>
+          </div>
+
+          <p className="mt-2 text-sm text-slate-400 max-w-2xl">
+            {tier === 'advanced'
+              ? 'Advanced: UWorld-style, multi-step clinical vignettes that make you apply the bricks, not just recall them. Active Transport Pro.'
+              : 'Standard: foundational, recall-level questions to learn each brick.'}
+          </p>
+        </div>
+
+        {locked && (
+          <div className="bg-slate-800 border border-amber-500/40 rounded-2xl p-8 text-center">
+            <div className="text-4xl mb-3">🔒</div>
+            <h2 className="text-xl font-bold text-slate-100 mb-2">Advanced is an Active Transport Pro feature</h2>
+            <p className="text-slate-400 max-w-lg mx-auto mb-6">
+              {entitlementReason === 'not_signed_in'
+                ? 'Open this QBank from the Active Transport hub while signed in to your Pro account to unlock UWorld-style advanced questions.'
+                : entitlement === 'error'
+                  ? "Couldn't reach Active Transport to check your membership. Check your connection and try again."
+                  : 'Upgrade to Active Transport Pro to unlock UWorld-style, multi-step advanced questions across every brick — plus AI questions from your own notes.'}
+            </p>
+            <div className="flex items-center justify-center gap-3 flex-wrap">
+              <a href="https://activetransport.app/pricing" target="_blank" rel="noopener"
+                 className="px-5 py-2.5 rounded-lg bg-amber-500 text-slate-900 font-semibold hover:bg-amber-400 transition-colors">
+                Upgrade to Pro →
+              </a>
+              <button onClick={() => onSetTier('standard')}
+                 className="px-5 py-2.5 rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors">
+                Back to Standard
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* Where you are in the bank */}
+        {!locked && stats.total > 0 && (
+          <ProgressSummary
+            answered={stats.total}
+            correct={Math.round(stats.total * stats.percentage / 100)}
+            total={topics?.totalQuestions ?? stats.total}
+            onReset={onClearProgress}
+          />
+        )}
+
+        {!locked && topics && (<>
+        {/* Filter controls */}
+        <MembraneDivider />
+
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
+          <div className="flex items-center gap-3">
+            <button onClick={onSelectAll} className="text-sm text-blue-400 hover:text-blue-300">Select All</button>
+            <span className="text-slate-600">|</span>
+            <button onClick={onClearAll} className="text-sm text-blue-400 hover:text-blue-300">Clear All</button>
+          </div>
+        </div>
+
+        {/* Category accordions */}
+        <div className="space-y-2 mb-8">
+          {topics.categories.map(cat => (
+            <CategoryAccordion
+              key={cat.id}
+              category={cat}
+              selectedTopicIds={selectedTopicIds}
+              topicStats={topicStats}
+              onToggleTopic={onToggleTopic}
+              onToggleCategory={onToggleCategory}
+            />
+          ))}
+        </div>
+
+        {/* Start button */}
+        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-6 pb-6 -mx-4 px-4">
+          <button
+            onClick={onStartQuiz}
+            disabled={selectedCount === 0}
+            className="w-full py-4 rounded-xl bg-blue-600 text-white font-semibold text-lg hover:bg-blue-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
+          >
+            {selectedCount > 0
+              ? `Start Quiz (${selectedCount} questions)`
+              : 'Select topics to begin'}
+          </button>
+        </div>
+        </>)}
+      </main>
+    </div>
+  );
+}
