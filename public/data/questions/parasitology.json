@@ -833,7 +833,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Continuous high fever without any remission for two weeks"
+          "text": "Continuous high fever and chills without any remission for two weeks"
         },
         {
           "label": "B",
@@ -1028,7 +1028,7 @@
         },
         {
           "label": "D",
-          "text": "Person-to-person fecal-oral spread in a crowded setting"
+          "text": "Person-to-person fecal-oral transmission between close contacts"
         },
         {
           "label": "E",
@@ -1662,30 +1662,30 @@
         },
         {
           "label": "B",
-          "text": "Entry through the nasal mucosa with spread along the olfactory nerve"
-        },
-        {
-          "label": "C",
           "text": "Hematogenous seeding of the meninges from an unrecognized lung infection"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Ingestion of lake water with absorption of the organism across the intestinal wall"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Inoculation of the organism through a small abrasion on the skin of his leg"
+        },
+        {
+          "label": "E",
+          "text": "Penetration of the nasal mucosa with spread along the olfactory nerve"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Naegleria fowleri infects when contaminated water is forced up the nose, after which it invades the olfactory nerve and reaches the brain.",
         "whyCorrect": "Infection begins when water containing the amoeba goes up the nose during diving, swimming, or nasal rinsing. The organism penetrates the nasal mucosa, infects the olfactory nerve, and travels along it into the brain, producing primary amebic meningoencephalitis. Finding motile amebae in the CSF of a patient with recent warm freshwater exposure is the classic picture.",
         "whyWrongByChoice": {
           "A": "Spread from the middle ear is a route for bacterial meningitis, not for this free-living amoeba.",
-          "C": "Naegleria fowleri does not establish a pulmonary focus and does not seed the meninges through the bloodstream.",
-          "D": "Swallowing water containing the amoeba does not cause illness; the organism must enter through the nose.",
-          "E": "Naegleria fowleri is not acquired by inoculation through broken skin; skin ulcers after an outdoor exposure suggest a different parasite entirely."
+          "B": "Naegleria fowleri does not establish a pulmonary focus and does not seed the meninges through the bloodstream.",
+          "C": "Swallowing water containing the amoeba does not cause illness; the organism must enter through the nose.",
+          "D": "Naegleria fowleri is not acquired by inoculation through broken skin; skin ulcers after an outdoor exposure suggest a different parasite entirely."
         }
       },
       "difficulty": "easy",
@@ -1979,7 +1979,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The cyst form, which persists until conditions improve and is not contagious"
+          "text": "The cyst form, which persists until the environment improves and is not contagious"
         },
         {
           "label": "B",
@@ -2267,7 +2267,7 @@
         },
         {
           "label": "D",
-          "text": "Limb hypoplasia, cicatricial skin scarring, and cortical atrophy"
+          "text": "Limb hypoplasia, cicatricial skin scarring, and cortical calcifications"
         },
         {
           "label": "E",
@@ -4119,7 +4119,7 @@
         },
         {
           "label": "E",
-          "text": "Taenia eggs are shed only during the first week of infection"
+          "text": "Taenia eggs and proglottids are shed only during the first week of infection"
         }
       ],
       "correctAnswer": "A",
@@ -4527,7 +4527,7 @@
         },
         {
           "label": "C",
-          "text": "Gallbladder inflammation caused by passed proglottids"
+          "text": "Gallbladder inflammation caused by proglottids entering the biliary tract"
         },
         {
           "label": "D",
@@ -5450,7 +5450,7 @@
         },
         {
           "label": "C",
-          "text": "Duodenal aspiration, which is more sensitive than stool examination"
+          "text": "Duodenal aspiration, which samples the site where the adult worms reside"
         },
         {
           "label": "D",
@@ -5948,7 +5948,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Adult hookworms lodging within and obstructing the small bronchioles"
+          "text": "Adult hookworms obstructing small bronchioles and drawing eosinophils into the airways"
         },
         {
           "label": "B",

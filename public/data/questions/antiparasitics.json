@@ -70,7 +70,7 @@
         },
         {
           "label": "E",
-          "text": "Reduction by ferredoxin inside the organism"
+          "text": "Reduction by ferredoxin and related electron transport proteins"
         }
       ],
       "correctAnswer": "E",
@@ -387,7 +387,7 @@
         },
         {
           "label": "D",
-          "text": "It is partially excreted in bile and reaches the gut lumen"
+          "text": "It is partially excreted in bile and returns to the intestinal tract"
         },
         {
           "label": "E",
@@ -941,7 +941,7 @@
         },
         {
           "label": "E",
-          "text": "The targeted chloride channels occur in helminths but not humans"
+          "text": "The targeted chloride channels occur in the worm but not in humans"
         }
       ],
       "correctAnswer": "E",

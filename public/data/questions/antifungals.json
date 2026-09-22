@@ -1340,7 +1340,7 @@
     },
     {
       "id": "mi46-030",
-      "stem": "A 45-year-old man is treated with terbinafine. The drug blocks the fungal enzyme that forms squalene epoxide from squalene, and it kills the organism rather than merely inhibiting it. Which of the following enzymes does this drug inhibit?",
+      "stem": "A 45-year-old man is treated with terbinafine. The drug blocks a fungal enzyme that acts earlier in the ergosterol pathway than the azoles do, and it kills the organism rather than merely inhibiting it. Which of the following enzymes does this drug inhibit?",
       "choices": [
         {
           "label": "A",

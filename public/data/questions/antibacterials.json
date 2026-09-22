@@ -454,7 +454,7 @@
     },
     {
       "id": "mi04-011",
-      "stem": "A 40-year-old man is admitted with streptococcal endocarditis, and the team deliberately selects a bactericidal rather than a bacteriostatic regimen. Bactericidal therapy is generally preferred in which of the following pairs of infections?",
+      "stem": "A 40-year-old man is admitted with a streptococcal infection of a native heart valve, and the team deliberately selects a bactericidal rather than a bacteriostatic regimen. Bactericidal therapy is generally preferred in which of the following pairs of infections?",
       "choices": [
         {
           "label": "A",
@@ -770,7 +770,7 @@
     },
     {
       "id": "mi04-018",
-      "stem": "For some antibiotics the efficacy of therapy is determined by the ratio of the peak drug concentration to the MIC. Agents with this property are described as which of the following?",
+      "stem": "For some antibiotics the efficacy of therapy is determined by how far the peak drug level rises above the MIC. Agents with this property are described as which of the following?",
       "choices": [
         {
           "label": "A",
@@ -3054,7 +3054,7 @@
     },
     {
       "id": "mi07-032",
-      "stem": "Several days into a course of a cephalosporin, a patient develops anemia with laboratory evidence of antibody-mediated destruction of red blood cells. This is best described as which adverse effect of the drug?",
+      "stem": "Several days into a course of a cephalosporin, a patient develops a falling hemoglobin with laboratory evidence of antibody-mediated destruction of red blood cells. This is best described as which adverse effect of the drug?",
       "choices": [
         {
           "label": "A",
@@ -5218,11 +5218,11 @@
         },
         {
           "label": "B",
-          "text": "NAG is joined to the bactoprenol-NAM group"
+          "text": "Bactoprenol releases NAM back into the cytoplasm"
         },
         {
           "label": "C",
-          "text": "NAM is released back into the bacterial cytoplasm"
+          "text": "NAG is added to the bactoprenol-NAM group"
         },
         {
           "label": "D",
@@ -5233,13 +5233,13 @@
           "text": "Transpeptidases cross-link the completed wall layers"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Step 2 of peptidoglycan assembly is the addition of NAG to the bactoprenol-NAM group.",
         "whyCorrect": "After NAM is loaded onto bactoprenol, NAG is joined to that bactoprenol-NAM group. Only then is the complete bactoprenol-NAM-NAG unit carried across the membrane to the outer cell wall.",
         "whyWrongByChoice": {
           "A": "Autolysin cleavage is not the next step in the described assembly sequence.",
-          "C": "NAM is not released back to the cytoplasm; it stays on the carrier as the unit is built.",
+          "B": "NAM is not released back to the cytoplasm; it stays on the carrier as the unit is built.",
           "D": "The peptide is retained on NAM, since it is the D-Ala D-Ala terminus that vancomycin later binds.",
           "E": "Cross-linking by transpeptidases occurs later, once glycan chains have been constructed."
         }
@@ -5259,11 +5259,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "It crosses the membrane and adds to the growing peptidoglycan chain"
+          "text": "It crosses the membrane and adds to the growing glycan chain"
         },
         {
           "label": "B",
-          "text": "It is cross-linked to a second bactoprenol on the inner leaflet"
+          "text": "It is cross-linked to a second bactoprenol on the inner leaflet of the membrane"
         },
         {
           "label": "C",
@@ -5725,7 +5725,7 @@
         },
         {
           "label": "E",
-          "text": "About 90%, by glomerular filtration in the kidney"
+          "text": "About 90%, by glomerular filtration"
         }
       ],
       "correctAnswer": "E",
@@ -6249,15 +6249,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Antibiotics that cover MRSA are plentiful, so any agent will work"
-        },
-        {
-          "label": "B",
           "text": "Bacitracin ointment would cover both organisms if applied twice daily"
         },
         {
+          "label": "B",
+          "text": "Cell wall inhibitors have no useful activity against group A streptococci"
+        },
+        {
           "label": "C",
-          "text": "Cell wall inhibitors have no useful activity against streptococci"
+          "text": "Intravenous antibiotics that cover MRSA are plentiful, so any agent will work"
         },
         {
           "label": "D",
@@ -6273,9 +6273,9 @@
         "summary": "Vancomycin is chosen here because a single agent covers both MRSA and group A streptococci in a deep soft tissue infection.",
         "whyCorrect": "Treatment with intravenous vancomycin is a good option because it covers both of the organisms recovered. Antibiotics that cover MRSA are very limited, which is also why antibacterial stewardship matters in preserving this option.",
         "whyWrongByChoice": {
-          "A": "Agents that cover MRSA are in fact very limited, which is the reason stewardship is emphasized.",
-          "B": "Bacitracin is a topical agent for superficial infection and cannot treat this deeper, bacteremic infection.",
-          "C": "Vancomycin is active against gram-positive organisms including streptococci, which is the point of choosing it.",
+          "A": "Bacitracin is a topical agent for superficial infection and cannot treat this deeper, bacteremic infection.",
+          "B": "Vancomycin is active against gram-positive organisms including streptococci, which is the point of choosing it.",
+          "C": "Agents that cover MRSA are in fact very limited, which is the reason stewardship is emphasized.",
           "E": "The infection extends into the subcutaneous tissue with positive blood cultures, so it is not limited to the skin."
         }
       },
@@ -6344,7 +6344,7 @@
         },
         {
           "label": "B",
-          "text": "A membrane lipid carrier"
+          "text": "A lipid carrier molecule"
         },
         {
           "label": "C",
@@ -6389,7 +6389,7 @@
         },
         {
           "label": "B",
-          "text": "Elongation of peptidoglycan and cross-linking of chains"
+          "text": "Elongation of the glycan backbone and cross-linking of chains"
         },
         {
           "label": "C",
@@ -6430,7 +6430,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Vancomycin acts on the peptide substrate, not on the enzyme"
+          "text": "Vancomycin acts on the peptide precursor, not on the enzyme"
         },
         {
           "label": "B",
@@ -6438,7 +6438,7 @@
         },
         {
           "label": "C",
-          "text": "Vancomycin and penicillin occupy an identical binding site"
+          "text": "Vancomycin and penicillin occupy an identical site on the enzyme"
         },
         {
           "label": "D",
@@ -6608,7 +6608,7 @@
     },
     {
       "id": "mi10-002",
-      "stem": "A 30-year-old man with streptococcal pharyngitis is treated with penicillin V. The drug halts construction of the bacterial cell wall by irreversibly blocking the enzyme that cross-links the linear peptidoglycan chains. Inhibition of which of the following enzymes accounts for this effect?",
+      "stem": "A 30-year-old man with streptococcal pharyngitis is treated with an oral beta-lactam. The drug halts construction of the bacterial cell wall by irreversibly blocking the enzyme that cross-links the linear peptidoglycan chains. Inhibition of which of the following enzymes accounts for this effect?",
       "choices": [
         {
           "label": "A",
@@ -6702,7 +6702,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autolysins already present within the cell wall"
+          "text": "Autolysins present within the bacterial cell wall"
         },
         {
           "label": "B",
@@ -6972,11 +6972,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inflamed meninges allow penicillin to cross the blood-brain barrier"
+          "text": "Inflammation activates a pump that drives penicillin into the CSF"
         },
         {
           "label": "B",
-          "text": "Inflammation activates a pump that drives penicillin into the CSF"
+          "text": "Inflammation allows penicillin to cross the blood-brain barrier"
         },
         {
           "label": "C",
@@ -6991,12 +6991,12 @@
           "text": "Inflammation slows the renal tubular secretion of penicillin"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Penicillins penetrate the CNS only when the meninges are inflamed.",
         "whyCorrect": "Penicillins are widely distributed in the body, and most cross the blood-brain barrier to penetrate the central nervous system, but only when the meninges are inflamed. Once inflammation resolves, the barrier again restricts entry and CSF concentrations fall at any given dose.",
         "whyWrongByChoice": {
-          "B": "Active transport of penicillin at the CNS interface moves drug out of the CSF into the bloodstream, not into the CSF.",
+          "A": "Active transport of penicillin at the CNS interface moves drug out of the CSF into the bloodstream, not into the CSF.",
           "C": "Penicillins are polar compounds that are not metabolized extensively, so hepatic activation is not involved.",
           "D": "Increased CSF protein binding is not the described mechanism of CNS penetration for penicillins.",
           "E": "Renal tubular secretion governs systemic elimination, not the ability of drug to enter the CSF."
@@ -7242,7 +7242,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Enzymatic cleavage of the beta-lactam ring"
+          "text": "Enzymatic cleavage of the penicillin beta-lactam ring"
         },
         {
           "label": "B",
@@ -7287,7 +7287,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bacterial production of an extended-spectrum beta-lactamase"
+          "text": "Bacterial production of a penicillin-hydrolyzing beta-lactamase"
         },
         {
           "label": "B",
@@ -7643,7 +7643,7 @@
     },
     {
       "id": "mi10-025",
-      "stem": "Ampicillin and amoxicillin are frequently supplied as combination products so that they retain activity against some beta-lactamase-producing organisms. Which of the following correctly pairs an aminopenicillin with its usual partner agent?",
+      "stem": "Aminopenicillins are frequently supplied as combination products so that they retain activity against some beta-lactamase-producing organisms. Which of the following correctly pairs an aminopenicillin with its usual partner agent?",
       "choices": [
         {
           "label": "A",
@@ -7880,7 +7880,7 @@
         },
         {
           "label": "C",
-          "text": "IgE-mediated degranulation of mast cells and basophils"
+          "text": "IgE against penicillin degranulating mast cells and basophils"
         },
         {
           "label": "D",
@@ -8797,14 +8797,14 @@
         },
         {
           "label": "D",
-          "text": "Enterococci secrete a β-lactamase that destroys ceftriaxone"
+          "text": "Enterococci are intrinsically resistant to cephalosporins"
         },
         {
           "label": "E",
-          "text": "Enterococcus species are intrinsically resistant to cephalosporins"
+          "text": "Enterococci secrete a β-lactamase that destroys ceftriaxone"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Enterococcus species are intrinsically resistant to cephalosporins despite being Gram-positive cocci.",
         "whyCorrect": "Although many cephalosporins cover Gram-positive cocci, Enterococcus species are known for intrinsic resistance to this entire drug class. Choosing a cephalosporin for a known or suspected enterococcal infection therefore predicts failure regardless of generation.",
@@ -8812,7 +8812,7 @@
           "A": "Ceftriaxone has broad activity against Gram-positive bacteria as well as Gram-negatives.",
           "B": "Ceftriaxone is an intravenous agent that achieves good systemic levels.",
           "C": "Enterococci are Gram-positive cocci, not Gram-negative rods.",
-          "D": "The failure is intrinsic class resistance, not an acquired β-lactamase in this teaching."
+          "E": "The failure is intrinsic class resistance, not an acquired β-lactamase in this teaching."
         }
       },
       "difficulty": "hard",
@@ -8889,7 +8889,7 @@
         },
         {
           "label": "D",
-          "text": "Nafcillin is inactive against all staphylococcal species"
+          "text": "Nafcillin is inactive against staphylococci that are not methicillin-resistant"
         },
         {
           "label": "E",
@@ -9563,7 +9563,7 @@
     },
     {
       "id": "mi14-031",
-      "stem": "A 5-year-old with acute otitis media needs an antibiotic, and the clinician wants a first-line option other than amoxicillin alone. Which of the following is the most appropriate alternative?",
+      "stem": "A 5-year-old with acute otitis media needs an antibiotic, and the clinician wants first-line coverage that also works against beta-lactamase-producing organisms. Which of the following is the most appropriate choice?",
       "choices": [
         {
           "label": "A",
@@ -10855,7 +10855,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A very high volume of distribution into body tissues"
+          "text": "A very high volume of distribution"
         },
         {
           "label": "B",
@@ -11093,7 +11093,7 @@
         },
         {
           "label": "C",
-          "text": "Inhibition of cardiac potassium channels prolonging repolarization"
+          "text": "Inhibition of cardiac potassium channels delaying repolarization"
         },
         {
           "label": "D",
@@ -11135,11 +11135,11 @@
         },
         {
           "label": "B",
-          "text": "Electrocardiographic monitoring"
+          "text": "Periodic audiometry testing"
         },
         {
           "label": "C",
-          "text": "Periodic audiometry testing"
+          "text": "Serial electrocardiography"
         },
         {
           "label": "D",
@@ -11150,13 +11150,13 @@
           "text": "Weekly liver function testing"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "EKG monitoring is recommended for drugs that carry a risk of QT prolongation.",
         "whyCorrect": "Because moxifloxacin and other fluoroquinolones can prolong the QTc and precipitate torsades de pointes, EKG monitoring is recommended for drugs that carry the risk of QT prolongation. Monitoring allows the interval to be followed and the drug stopped before an arrhythmia occurs. The mechanism is inhibition of specific cardiac potassium channels.",
         "whyWrongByChoice": {
           "A": "Peak and trough levels are used for narrow-therapeutic-index drugs such as aminoglycosides, not for this risk.",
-          "C": "Audiometry monitors ototoxic drugs such as aminoglycosides, which is not a fluoroquinolone concern.",
+          "B": "Audiometry monitors ototoxic drugs such as aminoglycosides, which is not a fluoroquinolone concern.",
           "D": "Serial creatinine measurement does not detect the cardiac conduction effect that is being monitored.",
           "E": "Routine liver function testing is not the monitoring recommended for QT-prolonging fluoroquinolones."
         }
@@ -12101,30 +12101,30 @@
         },
         {
           "label": "B",
-          "text": "Ertapenem is degraded by all extended-spectrum β-lactamases"
-        },
-        {
-          "label": "C",
           "text": "Ertapenem is inactivated by pulmonary surfactant"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Ertapenem lacks activity against Pseudomonas aeruginosa"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Ertapenem must be combined with cilastatin to be active"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomonas aeruginosa degrades ertapenem with an extended-spectrum β-lactamase"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Ertapenem is the carbapenem that does not cover Pseudomonas, Enterococci, or Acinetobacter.",
         "whyCorrect": "Carbapenems as a class cover most gram-negative bacteria, but ertapenem is the important exception: it has no coverage against Pseudomonas, Enterococci, or Acinetobacter. The mnemonic is that ErtAPenem does not cover PEA. A different carbapenem or an antipseudomonal agent is required here.",
         "whyWrongByChoice": {
           "A": "Ertapenem is a broad-spectrum agent with extensive gram-negative activity; it is not gram-positive only.",
-          "B": "Carbapenems are notable for resisting β-lactamase enzymes, which is why they work against ESBL producers.",
-          "C": "Surfactant inactivation is not a property of carbapenems and does not explain the gap.",
-          "E": "Cilastatin is paired with imipenem, not ertapenem, and it is not required for antibacterial activity."
+          "B": "Surfactant inactivation is not a property of carbapenems and does not explain the gap.",
+          "D": "Cilastatin is paired with imipenem, not ertapenem, and it is not required for antibacterial activity.",
+          "E": "Carbapenems are notable for resisting β-lactamase enzymes, which is why they work against ESBL producers."
         }
       },
       "difficulty": "medium",
@@ -12645,7 +12645,7 @@
     },
     {
       "id": "mi19-026",
-      "stem": "A 52-year-old woman has an intra-abdominal abscess from which anaerobic organisms are recovered. Gentamicin alone is unlikely to be adequate therapy. Which of the following explains this?",
+      "stem": "A 52-year-old woman has an intra-abdominal abscess from which Bacteroides fragilis is recovered. Gentamicin alone is unlikely to be adequate therapy. Which of the following explains this?",
       "choices": [
         {
           "label": "A",
@@ -13151,7 +13151,7 @@
     },
     {
       "id": "mi20-001",
-      "stem": "A 19-year-old man is admitted with an acute pyogenic infection in which the causative organism is multiplying rapidly. The team selects a protein synthesis inhibitor. Under which condition are protein synthesis inhibitors most effective?",
+      "stem": "A 19-year-old man is admitted with a pyogenic infection. The team selects a protein synthesis inhibitor. Under which condition are protein synthesis inhibitors most effective?",
       "choices": [
         {
           "label": "A",
@@ -13837,7 +13837,7 @@
         },
         {
           "label": "B",
-          "text": "Incomplete peptides are released, halting all further rounds of initiation"
+          "text": "Incomplete proteins are released, halting all further rounds of initiation"
         },
         {
           "label": "C",
@@ -14033,7 +14033,7 @@
         },
         {
           "label": "E",
-          "text": "It occupies a unique binding site not shared by other inhibitors"
+          "text": "It occupies a unique binding site not shared by other antibiotic classes"
         }
       ],
       "correctAnswer": "E",
@@ -14162,26 +14162,26 @@
         },
         {
           "label": "C",
-          "text": "Human ribosomes are not composed of 30S or 50S ribosomal subunits"
+          "text": "Human ribosomal subunits lack ribosomal RNA and use protein enzymes instead"
         },
         {
           "label": "D",
-          "text": "Human ribosomes are shielded from these drugs by the nuclear membrane"
+          "text": "Human ribosomes are not composed of 30S or 50S ribosomal subunits"
         },
         {
           "label": "E",
-          "text": "Human ribosomes lack ribosomal RNA and use protein enzymes instead"
+          "text": "Human ribosomes are shielded from these drugs by the nuclear membrane"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Protein synthesis inhibitors are selective because eukaryotic ribosomes are not built from 30S and 50S subunits.",
         "whyCorrect": "Eukaryotic ribosomes are not composed of 30S or 50S subunits, so protein synthesis inhibitor antibiotics that target those subunits do not act on human ribosomes. This selectivity does not, however, exclude these agents from having toxic side effects by other means.",
         "whyWrongByChoice": {
           "A": "TetA is a bacterial efflux pump protein and is not present in human cells.",
           "B": "Methylation is a bacterial resistance strategy against 50S agents, not a human protective mechanism.",
-          "D": "Human ribosomes are largely cytoplasmic, and the nuclear membrane does not shield them from drugs.",
-          "E": "Eukaryotic ribosomes do contain ribosomal RNA, including 18S and 28S rRNA."
+          "C": "Eukaryotic ribosomes do contain ribosomal RNA, including 18S and 28S rRNA.",
+          "E": "Human ribosomes are largely cytoplasmic, and the nuclear membrane does not shield them from drugs."
         }
       },
       "difficulty": "easy",
@@ -14393,7 +14393,7 @@
         },
         {
           "label": "D",
-          "text": "Methylation of 23S rRNA alters the binding site shared by both drugs"
+          "text": "Methylation of 23S rRNA alters the binding site used by both drugs"
         },
         {
           "label": "E",
@@ -14489,7 +14489,7 @@
         },
         {
           "label": "E",
-          "text": "Renal excretion of unchanged drug by the kidneys"
+          "text": "Renal excretion of the unchanged drug"
         }
       ],
       "correctAnswer": "E",
@@ -14897,7 +14897,7 @@
         },
         {
           "label": "D",
-          "text": "Elderly patients have higher glomerular filtration of aminoglycosides"
+          "text": "Elderly patients have higher renal clearance of aminoglycosides"
         },
         {
           "label": "E",
@@ -14912,7 +14912,7 @@
           "A": "Altered protein binding is not given as the reason for the increased risk.",
           "B": "Increased intramuscular absorption with age is not a described risk factor for this toxicity.",
           "C": "Aminoglycoside toxicity is attributed to accumulation of the drug itself, not to a metabolite.",
-          "D": "Glomerular filtration falls rather than rises with age and renal impairment."
+          "D": "Renal clearance falls rather than rises with age and renal impairment."
         }
       },
       "difficulty": "hard",
@@ -16769,7 +16769,7 @@
         },
         {
           "label": "B",
-          "text": "They are teratogenic and should be avoided in pregnancy"
+          "text": "They are teratogenic and are contraindicated in pregnancy"
         },
         {
           "label": "C",
@@ -18140,7 +18140,7 @@
     },
     {
       "id": "mi25-002",
-      "stem": "A medicinal chemist groups several drugs by a shared core: a sulfur atom double bonded to two oxygen atoms and single bonded to a nitrogen, with variable R groups attached. Drugs carrying this core include certain diuretics and diabetes medications as well as antibacterials. Which structure is being described?",
+      "stem": "A medicinal chemist classifies several drugs by a shared core: a sulfur atom double bonded to two oxygen atoms and single bonded to a nitrogen, with variable R substituents attached. Drugs carrying this core include certain diuretics and diabetes medications as well as antibacterials. Which structure is being described?",
       "choices": [
         {
           "label": "A",
@@ -18341,7 +18341,7 @@
         },
         {
           "label": "E",
-          "text": "Diuretics, diabetes medications, and anti-inflammatory drugs"
+          "text": "Diuretics, oral hypoglycemics, and anti-inflammatory agents"
         }
       ],
       "correctAnswer": "E",
@@ -18370,7 +18370,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Limited human efficacy data, cost, side effects, and widespread resistance"
+          "text": "Limited efficacy data, cost, side effects, and widespread resistance"
         },
         {
           "label": "B",
@@ -19131,7 +19131,7 @@
     },
     {
       "id": "mi25-024",
-      "stem": "A 45-year-old man is to be treated with a sulfonamide. Which of the following best describes the absorption and available routes of administration of these drugs?",
+      "stem": "A 45-year-old man is to be treated with a sulfonamide. Which of the following best describes the absorption and routes of administration of these drugs?",
       "choices": [
         {
           "label": "A",
@@ -19372,7 +19372,7 @@
         },
         {
           "label": "D",
-          "text": "Selective uptake and storage within renal tubular cells"
+          "text": "Storage within renal tubular cells, with little unmetabolized drug reaching the urine"
         },
         {
           "label": "E",
@@ -20931,7 +20931,7 @@
     },
     {
       "id": "mi29-028",
-      "stem": "A 46-year-old woman with outpatient community-acquired pneumonia has a penicillin allergy and a history of QT prolongation. Which of the following best explains why azithromycin is avoided in her case?",
+      "stem": "A 46-year-old woman with outpatient community-acquired pneumonia has a penicillin allergy and a QTc interval of 490 ms on a recent electrocardiogram. Which of the following best explains why azithromycin is avoided in her case?",
       "choices": [
         {
           "label": "A",
@@ -21840,7 +21840,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It becomes resistant only when a beta-lactamase inhibitor is given at the same time"
+          "text": "It becomes resistant to carbapenems only when a beta-lactamase inhibitor is given at the same time"
         },
         {
           "label": "B",
@@ -22154,7 +22154,7 @@
     },
     {
       "id": "mi30-019",
-      "stem": "Each week, a stewardship pharmacist reviews the charts of patients already receiving selected antibiotics and contacts the prescriber with recommendations to modify therapy. Which intervention is being described?",
+      "stem": "Each week, a stewardship pharmacist reviews the charts of patients already receiving selected antibiotics and contacts the treating team with recommendations to modify therapy. Which intervention is being described?",
       "choices": [
         {
           "label": "A",
@@ -22199,7 +22199,7 @@
     },
     {
       "id": "mi30-020",
-      "stem": "A patient with pneumonia has been afebrile for 24 hours, is tolerating a regular diet, and is improving on intravenous antibiotics. The stewardship team recommends switching him to an oral agent with equivalent coverage. This recommendation is an example of which intervention?",
+      "stem": "A patient with pneumonia has been afebrile for 24 hours, is tolerating a regular diet, and is improving on parenteral antibiotics. The stewardship team recommends switching him to an agent given by mouth with equivalent coverage. This recommendation is an example of which intervention?",
       "choices": [
         {
           "label": "A",
@@ -22710,7 +22710,7 @@
         },
         {
           "label": "B",
-          "text": "Immediately after cultures have been obtained from the suspected sites"
+          "text": "Immediately after cultures have been obtained from the likely sites of infection"
         },
         {
           "label": "C",

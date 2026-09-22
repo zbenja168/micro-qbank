@@ -301,7 +301,7 @@
         },
         {
           "label": "E",
-          "text": "Peptide chains on N-acetylmuramic acid joining strands"
+          "text": "Peptide cross-links extending from N-acetylmuramic acid"
         }
       ],
       "correctAnswer": "E",
@@ -469,7 +469,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Adhesion to surfaces"
+          "text": "Adhesion to host cells"
         },
         {
           "label": "B",
@@ -1396,7 +1396,7 @@
         },
         {
           "label": "C",
-          "text": "They have a thick cell wall that retains the complex"
+          "text": "They have a thick cell wall that traps the dye"
         },
         {
           "label": "D",
@@ -2357,7 +2357,7 @@
         },
         {
           "label": "E",
-          "text": "A transposon flanking the resistance gene"
+          "text": "A transposon flanking the gene"
         }
       ],
       "correctAnswer": "E",
@@ -3708,7 +3708,7 @@
         },
         {
           "label": "D",
-          "text": "A vaginal epithelial cell whose surface is coated with bacteria"
+          "text": "A squamous epithelial cell whose surface is coated with bacteria"
         },
         {
           "label": "E",
@@ -5564,7 +5564,7 @@
         },
         {
           "label": "C",
-          "text": "Fermentation of sugar, with acid production"
+          "text": "Fermentation of carbohydrate, with acid production"
         },
         {
           "label": "D",
@@ -5613,7 +5613,7 @@
         },
         {
           "label": "D",
-          "text": "Glucose runs out early, so fermenting only glucose looks different from fermenting lactose"
+          "text": "Glucose runs out early, so fermenting only glucose looks different from fermenting the disaccharides"
         },
         {
           "label": "E",
@@ -5912,7 +5912,7 @@
     },
     {
       "id": "mi05-023",
-      "stem": "Catalase-producing bacteria convert hydrogen peroxide into water and oxygen. Which consequence of this enzyme activity most directly helps the organism survive within a host?",
+      "stem": "Catalase-producing bacteria rapidly break down hydrogen peroxide. Which consequence of this enzyme activity most directly helps the organism survive within a host?",
       "choices": [
         {
           "label": "A",

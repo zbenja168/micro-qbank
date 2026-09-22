@@ -162,7 +162,7 @@
         },
         {
           "label": "E",
-          "text": "Thayer-Martin selective agar"
+          "text": "Thayer-Martin selective medium"
         }
       ],
       "correctAnswer": "B",
@@ -280,7 +280,7 @@
     },
     {
       "id": "mi26-007",
-      "stem": "A research laboratory grows a clinical isolate of M. tuberculosis and observes that the bacilli aggregate into long, serpentine cords. The responsible cell wall factor is also toxic to mammalian cells and inhibits neutrophil migration. Which of the following is this factor?",
+      "stem": "A research laboratory grows a clinical isolate of M. tuberculosis and observes that the bacilli aggregate into long, serpentine ropelike bundles. The responsible cell wall component is also toxic to mammalian cells and inhibits neutrophil migration. Which of the following is this component?",
       "choices": [
         {
           "label": "A",
@@ -1940,7 +1940,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chlamydia psittaci, Chlamydia trachomatis, and Legionella species"
+          "text": "Klebsiella pneumoniae, Chlamydia trachomatis, and Legionella species"
         },
         {
           "label": "B",
@@ -2350,7 +2350,7 @@
     },
     {
       "id": "mi27-016",
-      "stem": "After a Chlamydia particle is taken up by endocytosis, it converts into a metabolically active form that multiplies inside the endosome. Which of the following correctly names this form and its mode of replication?",
+      "stem": "After a Chlamydia particle is taken up by endocytosis, it converts into a metabolically active form that multiplies within the endosome. Which of the following correctly names this form and its mode of replication?",
       "choices": [
         {
           "label": "A",
@@ -3420,7 +3420,7 @@
         },
         {
           "label": "C",
-          "text": "The tick must stay attached for 36 to 48 hours before transmission"
+          "text": "The tick must feed for 36 to 48 hours before transmission"
         },
         {
           "label": "D",
@@ -3704,7 +3704,7 @@
         },
         {
           "label": "E",
-          "text": "Relapse from antibiotic-resistant Borrelia burgdorferi"
+          "text": "Relapse of Lyme disease from antibiotic-resistant Borrelia burgdorferi"
         }
       ],
       "correctAnswer": "C",
@@ -4930,7 +4930,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Allergy to galactose-alpha-1,3-galactose from lone star tick bites"
+          "text": "Allergy to galactose-alpha-1,3-galactose, known as alpha-gal syndrome"
         },
         {
           "label": "B",

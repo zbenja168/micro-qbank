@@ -102,7 +102,7 @@
         },
         {
           "label": "B",
-          "text": "Membrane of the host cell from which the virion left"
+          "text": "Membrane of the host cell from which it budded"
         },
         {
           "label": "C",
@@ -290,7 +290,7 @@
         },
         {
           "label": "D",
-          "text": "The genome must be cleaved into many small segments"
+          "text": "The genome must be cleaved into several smaller ssRNA segments"
         },
         {
           "label": "E",
@@ -814,7 +814,7 @@
     },
     {
       "id": "mi31-019",
-      "stem": "Rhinovirus, a frequent cause of the common cold, attaches to nasal epithelium using which cell surface molecule?",
+      "stem": "Rhinovirus, a frequent cause of the common cold, attaches to nasal epithelium using which of the following cell surface receptors?",
       "choices": [
         {
           "label": "A",
@@ -1015,7 +1015,7 @@
         },
         {
           "label": "E",
-          "text": "It replicates within the nucleus of the enterocyte"
+          "text": "It replicates within the enterocyte nucleus, where ethanol cannot reach it"
         }
       ],
       "correctAnswer": "D",
@@ -1599,7 +1599,7 @@
         },
         {
           "label": "D",
-          "text": "Histology showing cytopathic effects in the cells or tissue"
+          "text": "Histology showing characteristic cytopathic effects"
         },
         {
           "label": "E",
@@ -2840,7 +2840,7 @@
         },
         {
           "label": "D",
-          "text": "Titers appear 4-7 days after onset and peak 2-4 weeks later"
+          "text": "Titers appear 4-7 days after infection begins and peak 2-4 weeks later"
         },
         {
           "label": "E",
@@ -3436,7 +3436,7 @@
         },
         {
           "label": "D",
-          "text": "Shedding of virus in oral secretions despite the absence of symptoms"
+          "text": "Shedding of virus in oral secretions"
         },
         {
           "label": "E",
@@ -4762,7 +4762,7 @@
         },
         {
           "label": "C",
-          "text": "PCR of a blood sample, which also establishes the viral titer"
+          "text": "PCR of a blood sample, which also quantifies viral load"
         },
         {
           "label": "D",
@@ -5209,7 +5209,7 @@
     },
     {
       "id": "mi35-007",
-      "stem": "An immunoblot of disrupted HIV virions identifies three proteins: one forming the conical capsid, one bound to the viral RNA within the nucleocapsid, and one lining the inner face of the envelope as the outer matrix. Which of the following proteins are encoded by the HIV gag gene?",
+      "stem": "An immunoblot of disrupted HIV virions identifies three structural proteins: one forming the conical core shell, one bound to the viral RNA inside it, and one lining the inner face of the envelope. Which of the following proteins are encoded by the HIV gag gene?",
       "choices": [
         {
           "label": "A",
@@ -5629,7 +5629,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Epstein-Barr virus"
+          "text": "Epstein-Barr virus, also called human herpesvirus 4"
         },
         {
           "label": "B",
@@ -6695,26 +6695,26 @@
         },
         {
           "label": "C",
-          "text": "Reverse transcriptase stays active within the cytoplasm"
-        },
-        {
-          "label": "D",
           "text": "The drugs suppress only virus replicating in lymph nodes"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Viral DNA is integrated into the genome of host cells"
+        },
+        {
+          "label": "E",
+          "text": "Viral reverse transcriptase stays active within the cytoplasm"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Once reverse transcriptase makes viral DNA, integrase inserts it into the host genome, where it persists for the life of the cell.",
         "whyCorrect": "After viral RNA is converted into DNA, that DNA is incorporated into the host cell genome, and every daughter cell made from that cell carries the viral DNA too. Curing the infection would require destroying every cell holding HIV DNA or cutting the viral DNA back out. Therapy can suppress plasma titers below the limit of detection without touching this reservoir.",
         "whyWrongByChoice": {
           "A": "Antibody responses are not the reason therapy fails to cure; integrated proviral DNA is.",
           "B": "The barrier to cure is archived proviral DNA inside cells, not a small residue of circulating virions.",
-          "C": "Enzyme activity in the cytoplasm is not what persists; the integrated provirus in host chromosomes is.",
-          "D": "Antiretroviral therapy suppresses virus throughout the body rather than sparing tissues outside lymph nodes."
+          "C": "Antiretroviral therapy suppresses virus throughout the body rather than sparing tissues outside lymph nodes.",
+          "E": "Enzyme activity in the cytoplasm is not what persists; the integrated provirus in host chromosomes is."
         }
       },
       "difficulty": "medium",
@@ -7114,7 +7114,7 @@
         },
         {
           "label": "D",
-          "text": "The virus is actively replicating despite no symptoms"
+          "text": "The virus is actively replicating"
         },
         {
           "label": "E",
@@ -7328,7 +7328,7 @@
     },
     {
       "id": "mi36-017",
-      "stem": "A 44-year-old woman with HIV is admitted with hypoxemia and diffuse ground-glass opacities on chest imaging, and is diagnosed with Pneumocystis pneumonia. Her CD4 T-cell count is 310/uL. Which of the following is the most accurate assessment of her condition?",
+      "stem": "A 44-year-old woman with HIV is admitted with hypoxemia and diffuse ground-glass opacities on chest imaging, and is diagnosed with Pneumocystis pneumonia. Her CD4 T-cell count is 310/uL. Which of the following statements about her diagnosis is most accurate?",
       "choices": [
         {
           "label": "A",
@@ -7976,34 +7976,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cryptococcal meningitis"
+          "text": "Cerebral toxoplasmosis"
         },
         {
           "label": "B",
-          "text": "Epstein-Barr virus-driven CNS lymphoma"
+          "text": "Cryptococcal meningitis"
         },
         {
           "label": "C",
-          "text": "HIV-associated dementia"
+          "text": "Epstein-Barr virus-driven CNS lymphoma"
         },
         {
           "label": "D",
-          "text": "JC virus reactivation"
+          "text": "HIV-associated dementia"
         },
         {
           "label": "E",
-          "text": "Toxoplasma gondii brain abscesses"
+          "text": "JC virus reactivation"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Multiple ring-enhancing brain lesions in AIDS point to Toxoplasma abscesses, whereas EBV-driven CNS lymphoma tends to be solitary.",
         "whyCorrect": "Toxoplasma gondii causes brain abscesses in patients with CD4 counts below 100/mm3 and characteristically produces multiple ring-enhancing lesions on MRI. Multiplicity is the feature used to separate toxoplasmosis from CNS lymphoma, which is also ring-enhancing but may be solitary.",
         "whyWrongByChoice": {
-          "A": "Cryptococcal disease presents as meningitis with encapsulated yeast on India ink, not focal abscesses.",
-          "B": "EBV-driven CNS lymphoma is ring-enhancing but tends to be solitary rather than multifocal.",
-          "C": "HIV-associated dementia shows cerebral atrophy on neuroimaging rather than discrete enhancing lesions.",
-          "D": "PML from JC virus produces non-enhancing areas of demyelination, not ring-enhancing masses."
+          "B": "Cryptococcal disease presents as meningitis with encapsulated yeast on India ink, not focal abscesses.",
+          "C": "EBV-driven CNS lymphoma is ring-enhancing but tends to be solitary rather than multifocal.",
+          "D": "HIV-associated dementia shows cerebral atrophy on neuroimaging rather than discrete enhancing lesions.",
+          "E": "PML from JC virus produces non-enhancing areas of demyelination, not ring-enhancing masses."
         }
       },
       "difficulty": "hard",
@@ -9165,7 +9165,7 @@
         },
         {
           "label": "D",
-          "text": "They promote a pro-inflammatory and procoagulant state driving multiorgan failure"
+          "text": "They promote a pro-inflammatory and procoagulant state that consumes clotting factors"
         },
         {
           "label": "E",
@@ -9304,7 +9304,7 @@
         },
         {
           "label": "E",
-          "text": "Pulmonary capillaries leak fluid into the alveoli, impairing gas exchange"
+          "text": "Pulmonary capillaries leak fluid into the alveoli, flooding the airspaces"
         }
       ],
       "correctAnswer": "E",
@@ -9664,7 +9664,7 @@
         },
         {
           "label": "E",
-          "text": "It reduces the gastrointestinal adverse effects of the companion drug"
+          "text": "It reduces the gastrointestinal adverse effects of nirmatrelvir"
         }
       ],
       "correctAnswer": "C",
@@ -10507,7 +10507,7 @@
         },
         {
           "label": "B",
-          "text": "Point mutation within the hemagglutinin gene"
+          "text": "Point mutation within the hemagglutinin gene segment"
         },
         {
           "label": "C",
@@ -10597,7 +10597,7 @@
         },
         {
           "label": "B",
-          "text": "Influenza B lacks a segmented genome, so segments cannot be exchanged"
+          "text": "Influenza B lacks a segmented genome, so human strains cannot exchange segments"
         },
         {
           "label": "C",
@@ -11691,7 +11691,7 @@
         },
         {
           "label": "D",
-          "text": "The surface antigens of the PIV types are distinct, so immunity to one does not protect against the others"
+          "text": "The surface antigens of the PIV types are distinct, so immunity to one does not extend to the others"
         },
         {
           "label": "E",
@@ -11825,7 +11825,7 @@
         },
         {
           "label": "C",
-          "text": "Nucleic acid amplification testing of a respiratory specimen"
+          "text": "Nucleic acid amplification testing of a nasopharyngeal specimen"
         },
         {
           "label": "D",
@@ -12277,7 +12277,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Buccal swab taken after massaging the parotid gland for 30 seconds"
+          "text": "Buccal swab taken after massaging over Stensen duct for 30 seconds"
         },
         {
           "label": "B",
@@ -12833,7 +12833,7 @@
         },
         {
           "label": "B",
-          "text": "Bloodborne spread, with about 30% of exposed contacts becoming infected"
+          "text": "Bloodborne spread, with about 30% of susceptible contacts becoming infected"
         },
         {
           "label": "C",
@@ -12841,11 +12841,11 @@
         },
         {
           "label": "D",
-          "text": "Sexual transmission, with about 50% of exposed partners becoming infected"
+          "text": "Sexual transmission, with about 50% of susceptible partners becoming infected"
         },
         {
           "label": "E",
-          "text": "Vector-borne spread, with about 5% of exposed persons becoming infected"
+          "text": "Vector-borne spread, with about 5% of susceptible persons becoming infected"
         }
       ],
       "correctAnswer": "A",
@@ -13251,7 +13251,7 @@
         },
         {
           "label": "C",
-          "text": "Its genome is divided into separate dsRNA pieces that can be exchanged during coinfection"
+          "text": "Its genome is divided into separate dsRNA segments that can be exchanged during coinfection"
         },
         {
           "label": "D",
@@ -13569,7 +13569,7 @@
         },
         {
           "label": "B",
-          "text": "The virus has no lipid envelope, so alcohol has no membrane to disrupt"
+          "text": "The virus has no lipid envelope, so the sanitizer has no membrane to disrupt"
         },
         {
           "label": "C",
@@ -14213,7 +14213,7 @@
         },
         {
           "label": "C",
-          "text": "The vaccine contains live attenuated virus, unsafe in severe immunocompromise"
+          "text": "The vaccine contains live attenuated virus, unsafe in profound immunocompromise"
         },
         {
           "label": "D",
@@ -14618,7 +14618,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cataracts, deafness, and congenital heart defects"
+          "text": "Cataracts, deafness, and cardiac malformations"
         },
         {
           "label": "B",
@@ -14756,7 +14756,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "RT-PCR of a nasopharyngeal swab"
+          "text": "RT-PCR of a nasopharyngeal swab for rubella virus"
         },
         {
           "label": "B",

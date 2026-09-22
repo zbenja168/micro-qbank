@@ -8,7 +8,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Absorption of nutrients from decomposing dead organic material"
+          "text": "Absorption of nutrients from decomposing organic matter"
         },
         {
           "label": "B",
@@ -1208,7 +1208,7 @@
         },
         {
           "label": "B",
-          "text": "Systemic mycoses come from dimorphic saprophytic fungi and can sicken healthy hosts"
+          "text": "Systemic mycoses come from dimorphic saprophytic fungi and can sicken immunocompetent hosts"
         },
         {
           "label": "C",
@@ -1350,7 +1350,7 @@
         },
         {
           "label": "C",
-          "text": "The steroid inhibits NF-κB, producing local immunosuppression in the mouth"
+          "text": "The steroid inhibits NF-κB, producing local immunosuppression of the oral mucosa"
         },
         {
           "label": "D",
@@ -1956,7 +1956,7 @@
         },
         {
           "label": "E",
-          "text": "The infection spread person-to-person from another resident"
+          "text": "The infection spread from another resident who shares her denture cup"
         }
       ],
       "correctAnswer": "C",
@@ -2086,7 +2086,7 @@
         },
         {
           "label": "C",
-          "text": "Failure to clean adequately beneath the foreskin"
+          "text": "Failure to retract and clean the prepuce regularly"
         },
         {
           "label": "D",
@@ -3094,7 +3094,7 @@
         },
         {
           "label": "B",
-          "text": "A normal finding in a resolving bacterial pneumonia"
+          "text": "A normal crescent of air seen in resolving bacterial pneumonia"
         },
         {
           "label": "C",
@@ -3590,7 +3590,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Arthroconidia that break off the mycelium"
+          "text": "Arthroconidia that fragment from the mycelium"
         },
         {
           "label": "B",
@@ -4899,7 +4899,7 @@
         },
         {
           "label": "B",
-          "text": "The organism forms a thick capsule that blocks phagolysosomes"
+          "text": "The organism forms a thick capsule that blocks macrophage phagolysosome fusion"
         },
         {
           "label": "C",
@@ -5572,7 +5572,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Deep tissue bacterial infection entering through the ulcerated skin"
+          "text": "Deep tissue bacterial infection entering through the broken skin barrier"
         },
         {
           "label": "B",
@@ -5664,7 +5664,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autoinoculation from his own untreated foot infection"
+          "text": "Autoinoculation from his own long-standing foot infection"
         },
         {
           "label": "B",
@@ -6448,7 +6448,7 @@
         },
         {
           "label": "D",
-          "text": "Inhalation of spores, which rarely causes pulmonary and systemic disease"
+          "text": "Inhalation of spores, which rarely seeds the lungs and then disseminates"
         },
         {
           "label": "E",

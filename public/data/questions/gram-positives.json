@@ -1940,7 +1940,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cell wall carbohydrate antigens"
+          "text": "Cell wall carbohydrate composition"
         },
         {
           "label": "B",
@@ -3139,7 +3139,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It covers types causing over 90% of adult pneumococcal disease"
+          "text": "It covers types causing over 90% of invasive disease in adults"
         },
         {
           "label": "B",
@@ -3604,7 +3604,7 @@
         },
         {
           "label": "B",
-          "text": "Direct inoculation of spores into broken skin"
+          "text": "Direct inoculation of spores into broken skin on the hands"
         },
         {
           "label": "C",
@@ -3968,7 +3968,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Germination of endospores within the colonic lumen"
+          "text": "Germination of endospores along the colonic epithelial lining"
         },
         {
           "label": "B",
@@ -4666,7 +4666,7 @@
         },
         {
           "label": "C",
-          "text": "Immune globulin every 5 years"
+          "text": "Tetanus immune globulin every 5 years"
         },
         {
           "label": "D",
@@ -6160,7 +6160,7 @@
     },
     {
       "id": "mi13-027",
-      "stem": "An 80-year-old woman with bacterial meningitis is treated empirically with ceftriaxone and vancomycin but does not improve over 48 hours. Cerebrospinal fluid culture then grows a catalase-positive, weakly beta-hemolytic gram-positive rod. Which of the following best explains the failure of the cephalosporin?",
+      "stem": "An 80-year-old woman with bacterial meningitis is treated empirically with ceftriaxone and vancomycin but does not improve over 48 hours. Cerebrospinal fluid culture then grows a catalase-positive, weakly beta-hemolytic gram-positive rod. Which of the following best explains the failure of ceftriaxone?",
       "choices": [
         {
           "label": "A",

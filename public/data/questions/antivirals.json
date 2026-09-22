@@ -1216,7 +1216,7 @@
         },
         {
           "label": "D",
-          "text": "A man with AIDS on chronic suppressive antiviral therapy"
+          "text": "A man with AIDS on long-term suppressive therapy"
         },
         {
           "label": "E",
@@ -1530,7 +1530,7 @@
         },
         {
           "label": "B",
-          "text": "Stop all antiviral therapy and observe closely"
+          "text": "Stop ganciclovir and observe without further antiviral therapy"
         },
         {
           "label": "C",
@@ -1680,7 +1680,7 @@
         },
         {
           "label": "E",
-          "text": "It terminates the growing chain, halting reverse transcription"
+          "text": "It terminates the growing DNA strand, halting reverse transcription"
         }
       ],
       "correctAnswer": "E",
@@ -2355,7 +2355,7 @@
         },
         {
           "label": "E",
-          "text": "Usually well tolerated, but may worsen depression and cause insomnia"
+          "text": "Usually well tolerated, but may aggravate psychiatric illness and cause insomnia"
         }
       ],
       "correctAnswer": "E",
@@ -4258,7 +4258,7 @@
         },
         {
           "label": "C",
-          "text": "Antivirals are reserved for outpatients with uncomplicated illness"
+          "text": "Antivirals are reserved for outpatients with uncomplicated influenza"
         },
         {
           "label": "D",

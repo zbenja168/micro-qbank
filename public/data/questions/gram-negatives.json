@@ -556,7 +556,7 @@
     },
     {
       "id": "mi16-013",
-      "stem": "A 20-year-old man is admitted with his third episode of meningococcal disease in 4 years. He has no history of splenectomy, and immunoglobulin levels and a neutrophil count are normal. Total hemolytic complement (CH50) activity is undetectable. Which of the following deficiencies best explains his recurrent infections?",
+      "stem": "A 20-year-old man is admitted with his third episode of meningococcal disease in 4 years. He has no history of splenectomy, and immunoglobulin levels and a neutrophil count are normal. Total hemolytic activity measured by CH50 is undetectable. Which of the following deficiencies best explains his recurrent infections?",
       "choices": [
         {
           "label": "A",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "mi16-025",
-      "stem": "A laboratory is preparing media to culture H. influenzae from a sputum specimen. This organism is fastidious and requires which of the following growth factors?",
+      "stem": "A laboratory is preparing media to culture H. influenzae from a sputum specimen. This organism is fastidious and requires supplementation with which of the following?",
       "choices": [
         {
           "label": "A",
@@ -2789,7 +2789,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Its eosin and methylene blue dyes inhibit growth of gram-positive bacteria"
+          "text": "Its dyes inhibit the growth of gram-positive bacteria"
         },
         {
           "label": "B",
@@ -3010,7 +3010,7 @@
     },
     {
       "id": "mi17-031",
-      "stem": "A 3-week-old infant is admitted with suspected bacterial meningitis. Besides E. coli, which two organisms should be considered the most likely causes in this age group?",
+      "stem": "A 3-week-old infant is admitted with suspected bacterial meningitis. Besides E. coli, which two organisms should be considered the most likely causes at this age?",
       "choices": [
         {
           "label": "A",
@@ -3202,7 +3202,7 @@
         },
         {
           "label": "C",
-          "text": "An opportunistic health care-associated infection favored by low WBC counts"
+          "text": "An opportunistic health care-associated infection favored by neutropenia"
         },
         {
           "label": "D",
@@ -3556,7 +3556,7 @@
     },
     {
       "id": "mi18-007",
-      "stem": "A blood isolate of Klebsiella pneumoniae from a hospitalized patient is resistant to penicillins and to cephalosporins, and the laboratory reports the strain as an extended-spectrum beta-lactamase (ESBL) producer. Which of the following best describes the activity of the responsible enzyme?",
+      "stem": "A blood isolate of Klebsiella pneumoniae from a hospitalized patient is resistant to ampicillin and to ceftriaxone, and the laboratory reports the strain as an extended-spectrum beta-lactamase (ESBL) producer. Which of the following best describes the activity of the responsible enzyme?",
       "choices": [
         {
           "label": "A",
@@ -3890,26 +3890,26 @@
         },
         {
           "label": "C",
-          "text": "Alcohol raises gastric pH and allows Klebsiella to colonize the gastric mucosa."
+          "text": "Alcohol intoxication promotes aspiration of oral and gastrointestinal flora into the lungs."
         },
         {
           "label": "D",
-          "text": "Alcohol suppresses bone marrow granulopoiesis and produces profound neutropenia."
+          "text": "Alcohol raises gastric pH and allows Klebsiella to colonize the gastric mucosa."
         },
         {
           "label": "E",
-          "text": "Heavy drinking promotes aspiration of oral and gastrointestinal flora into the lungs."
+          "text": "Alcohol suppresses bone marrow granulopoiesis and produces profound neutropenia."
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "People with alcohol use disorder get Klebsiella pneumonia because heavy drinking makes aspiration of normal oral and gut flora into the lung far more likely.",
         "whyCorrect": "Aspiration of foreign material such as food, liquid, saliva, or vomit is more common after heavy drinking. This floods the lungs with the normal flora of the gastrointestinal tract and the oral cavity, and K. pneumoniae is a normal gut inhabitant. Once seeded into the lung it can cause a severe, sometimes necrotizing pneumonia.",
         "whyWrongByChoice": {
           "A": "Surfactant destruction is not the described mechanism linking alcohol use to Klebsiella pneumonia.",
           "B": "The capsule is a constitutive feature of the organism and is not induced by the host's alcohol intake.",
-          "C": "Klebsiella reaches the lung by aspiration of existing flora, not by newly colonizing the stomach.",
-          "D": "The predisposition is explained by aspiration of flora rather than by an alcohol-induced neutropenia."
+          "D": "Klebsiella reaches the lung by aspiration of existing flora, not by newly colonizing the stomach.",
+          "E": "The predisposition is explained by aspiration of flora rather than by an alcohol-induced neutropenia."
         }
       },
       "difficulty": "medium",
@@ -3974,7 +3974,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aspiration of oropharyngeal and gastric contents during the seizure"
+          "text": "Aspiration of oropharyngeal and gastric contents during the convulsion"
         },
         {
           "label": "B",
@@ -4350,7 +4350,7 @@
         },
         {
           "label": "C",
-          "text": "They make up about 15% of urinary stones and may branch like the horns of a deer."
+          "text": "They make up about 15% of urinary stones and are called staghorn calculi."
         },
         {
           "label": "D",
@@ -5091,7 +5091,7 @@
         },
         {
           "label": "D",
-          "text": "Nontyphoidal serotypes do not possess the Vi capsular antigen"
+          "text": "Nontyphoidal serotypes do not possess the Vi antigen"
         },
         {
           "label": "E",
@@ -5213,7 +5213,7 @@
     },
     {
       "id": "mi22-007",
-      "stem": "A 6-year-old boy has bloody diarrhea followed by pallor, decreased urine output, and bruising. Laboratory studies show anemia, thrombocytopenia, and a rising creatinine. The responsible toxin is an AB toxin whose A subunit enters host cells. Which of the following best describes the action of that subunit?",
+      "stem": "A 6-year-old boy has bloody diarrhea followed by pallor, decreased urine output, and bruising. Laboratory studies show anemia, thrombocytopenia, and a rising creatinine. The responsible toxin is an AB toxin whose enzymatically active A component enters host cells. Which of the following best describes the action of that component?",
       "choices": [
         {
           "label": "A",
@@ -5259,7 +5259,7 @@
     },
     {
       "id": "mi22-008",
-      "stem": "An intestinal biopsy from a patient with bacillary dysentery shows bacteria inside colonic epithelial cells, many with a tail of polymerized host protein at one pole and some already within neighboring cells. The isolate has no flagella. Which of the following best explains how this organism reaches adjacent cells?",
+      "stem": "An intestinal biopsy from a patient with bacillary dysentery shows bacteria inside colonic epithelial cells, many with a comet-like tail of host cytoskeletal filaments extending from one end and some already within neighboring cells. The isolate has no flagella. Which of the following best explains how this organism reaches adjacent cells?",
       "choices": [
         {
           "label": "A",
@@ -6329,26 +6329,26 @@
         },
         {
           "label": "C",
-          "text": "Bowel perforation from enlargement of the colon"
-        },
-        {
-          "label": "D",
           "text": "Chronic carriage with shedding of bacteria for years"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Osteomyelitis from hematogenous bacterial seeding"
+        },
+        {
+          "label": "E",
+          "text": "Perforation with peritonitis"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Toxic megacolon in shigellosis enlarges the colon and raises the risk of bowel perforation.",
         "whyCorrect": "Complications of shigellosis are rare but occur in the elderly, the immunocompromised, and children. Common complications include sepsis, toxic megacolon, and rectal prolapse. Enlargement of the colon in toxic megacolon increases the risk of bowel perforation, which is the immediate danger in a distended, dilated colon.",
         "whyWrongByChoice": {
           "A": "Hemolytic uremic syndrome requires Shiga toxin from S. dysenteriae type I and is a rare, separate complication.",
           "B": "Ascending paralysis describes Guillain-Barre syndrome, which follows Campylobacter rather than a dilated colon.",
-          "D": "Chronic carriage for years is a feature of typhoidal salmonellosis, and it is not a consequence of colonic dilation.",
-          "E": "Osteomyelitis is a rare complication of disseminated salmonellosis, not of toxic megacolon in shigellosis."
+          "C": "Chronic carriage for years is a feature of typhoidal salmonellosis, and it is not a consequence of colonic dilation.",
+          "D": "Osteomyelitis is a rare complication of disseminated salmonellosis, not of toxic megacolon in shigellosis."
         }
       },
       "difficulty": "medium",
