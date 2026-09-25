@@ -45,7 +45,8 @@
         "definition of life"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-002",
@@ -90,7 +91,8 @@
         "non-enveloped virus"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-003",
@@ -135,7 +137,8 @@
         "budding"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-004",
@@ -180,7 +183,8 @@
         "genome classification"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-005",
@@ -225,7 +229,8 @@
         "dsRNA"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-006",
@@ -270,7 +275,8 @@
         "translation"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-007",
@@ -315,7 +321,8 @@
         "RNA replicase"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-008",
@@ -360,7 +367,8 @@
         "RNA replicase"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-009",
@@ -405,7 +413,8 @@
         "reverse transcriptase"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-010",
@@ -450,7 +459,8 @@
         "integrase"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-011",
@@ -495,7 +505,8 @@
         "uncoating"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-012",
@@ -540,7 +551,8 @@
         "endocytosis"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "core"
     },
     {
       "id": "mi31-013",
@@ -585,7 +597,8 @@
         "viral life cycle"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-014",
@@ -630,7 +643,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-015",
@@ -675,7 +689,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-016",
@@ -720,7 +735,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-017",
@@ -765,7 +781,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-018",
@@ -810,7 +827,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-019",
@@ -855,7 +873,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-020",
@@ -900,7 +919,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-021",
@@ -945,7 +965,8 @@
         "receptors"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-022",
@@ -991,7 +1012,8 @@
         "CCR5"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-023",
@@ -1036,7 +1058,8 @@
         "disinfection"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-024",
@@ -1081,7 +1104,8 @@
         "poxvirus"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-025",
@@ -1127,7 +1151,8 @@
         "retrovirus"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-026",
@@ -1172,7 +1197,8 @@
         "replication site"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-027",
@@ -1217,7 +1243,8 @@
         "polyprotein"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-028",
@@ -1262,7 +1289,8 @@
         "infectivity"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-029",
@@ -1307,7 +1335,8 @@
         "release"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-030",
@@ -1352,7 +1381,8 @@
         "immune evasion"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-031",
@@ -1397,7 +1427,8 @@
         "HIV"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-032",
@@ -1443,7 +1474,8 @@
         "reactivation"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-033",
@@ -1488,7 +1520,8 @@
         "antigen-capture assay"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-034",
@@ -1534,7 +1567,8 @@
         "IgG"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-035",
@@ -1579,7 +1613,8 @@
         "RT-PCR"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi31-036",
@@ -1624,7 +1659,8 @@
         "cytopathic effect"
       ],
       "topicId": "introduction-to-virology",
-      "topicName": "Introduction to Virology"
+      "topicName": "Introduction to Virology",
+      "tier": "extra"
     },
     {
       "id": "mi32-001",
@@ -1670,7 +1706,8 @@
         "gingivostomatitis"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-002",
@@ -1716,7 +1753,8 @@
         "genital herpes"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-003",
@@ -1762,7 +1800,8 @@
         "taxonomy"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-004",
@@ -1808,7 +1847,8 @@
         "immunocompromised"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-005",
@@ -1854,7 +1894,8 @@
         "latency"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-006",
@@ -1900,7 +1941,8 @@
         "structure"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-007",
@@ -1946,7 +1988,8 @@
         "replication"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-008",
@@ -1992,7 +2035,8 @@
         "nucleus"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-009",
@@ -2038,7 +2082,8 @@
         "retrograde transport"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-010",
@@ -2084,7 +2129,8 @@
         "herpes labialis"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-011",
@@ -2130,7 +2176,8 @@
         "triggers"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-012",
@@ -2176,7 +2223,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi32-013",
@@ -2222,7 +2270,8 @@
         "asymptomatic shedding"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-014",
@@ -2268,7 +2317,8 @@
         "transmission"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-015",
@@ -2314,7 +2364,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-016",
@@ -2360,7 +2411,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-017",
@@ -2406,7 +2458,8 @@
         "clinical"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-018",
@@ -2452,7 +2505,8 @@
         "ophthalmology"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-019",
@@ -2498,7 +2552,8 @@
         "mortality"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-020",
@@ -2544,7 +2599,8 @@
         "complications"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-021",
@@ -2590,7 +2646,8 @@
         "TORCH"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-022",
@@ -2636,7 +2693,8 @@
         "disseminated infection"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-023",
@@ -2682,7 +2740,8 @@
         "HSV"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-024",
@@ -2728,7 +2787,8 @@
         "autoinoculation"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-025",
@@ -2774,7 +2834,8 @@
         "skin infection"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-026",
@@ -2820,7 +2881,8 @@
         "laboratory diagnosis"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-027",
@@ -2866,7 +2928,8 @@
         "laboratory diagnosis"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-028",
@@ -2912,7 +2975,8 @@
         "laboratory diagnosis"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-029",
@@ -2958,7 +3022,8 @@
         "alpha herpesviruses"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-030",
@@ -3004,7 +3069,8 @@
         "transmission"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-031",
@@ -3050,7 +3116,8 @@
         "viremia"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-032",
@@ -3096,7 +3163,8 @@
         "rash distribution"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-033",
@@ -3142,7 +3210,8 @@
         "immunocompromised"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-034",
@@ -3188,7 +3257,8 @@
         "dermatome"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-035",
@@ -3234,7 +3304,8 @@
         "complications"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi32-036",
@@ -3280,7 +3351,8 @@
         "Shingrix"
       ],
       "topicId": "herpesviridae-part-1-of-2",
-      "topicName": "Herpesviridae (Part 1 of 2)"
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-001",
@@ -3325,7 +3397,8 @@
         "latency"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-002",
@@ -3371,7 +3444,8 @@
         "CD21"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-003",
@@ -3416,7 +3490,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-004",
@@ -3461,7 +3536,8 @@
         "transmission"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-005",
@@ -3507,7 +3583,8 @@
         "age differences"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-006",
@@ -3553,7 +3630,8 @@
         "clinical course"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-007",
@@ -3599,7 +3677,8 @@
         "HIV"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-008",
@@ -3645,7 +3724,8 @@
         "thrush"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-009",
@@ -3691,7 +3771,8 @@
         "normal flora"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-010",
@@ -3737,7 +3818,8 @@
         "oncogenesis"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-011",
@@ -3783,7 +3865,8 @@
         "malaria"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-012",
@@ -3829,7 +3912,8 @@
         "oncogenesis"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi33-013",
@@ -3875,7 +3959,8 @@
         "HIV"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-014",
@@ -3921,7 +4006,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-015",
@@ -3967,7 +4053,8 @@
         "VCA IgM"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-016",
@@ -4013,7 +4100,8 @@
         "VCA IgG"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-017",
@@ -4059,7 +4147,8 @@
         "heterophile antibodies"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-018",
@@ -4105,7 +4194,8 @@
         "monospot"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-019",
@@ -4151,7 +4241,8 @@
         "false positive"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-020",
@@ -4197,7 +4288,8 @@
         "heterophile negative"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-021",
@@ -4243,7 +4335,8 @@
         "lymphocytosis"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-022",
@@ -4289,7 +4382,8 @@
         "peripheral smear"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-023",
@@ -4335,7 +4429,8 @@
         "heterophile negative"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-024",
@@ -4381,7 +4476,8 @@
         "histology"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-025",
@@ -4426,7 +4522,8 @@
         "transmission"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-026",
@@ -4471,7 +4568,8 @@
         "latency"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-027",
@@ -4516,7 +4614,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-028",
@@ -4562,7 +4661,8 @@
         "TORCH"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-029",
@@ -4608,7 +4708,8 @@
         "epidemiology"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-030",
@@ -4654,7 +4755,8 @@
         "congenital infection"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-031",
@@ -4700,7 +4802,8 @@
         "immunocompromised"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-032",
@@ -4746,7 +4849,8 @@
         "AIDS"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-033",
@@ -4792,7 +4896,8 @@
         "PCR"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-034",
@@ -4837,7 +4942,8 @@
         "roseola infantum"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-035",
@@ -4883,7 +4989,8 @@
         "latency"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi33-036",
@@ -4929,7 +5036,8 @@
         "differential diagnosis"
       ],
       "topicId": "herpesviridae-2-of-2",
-      "topicName": "Herpesviridae (2 of 2)"
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-001",
@@ -4975,7 +5083,8 @@
         "taxonomy"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-002",
@@ -5021,7 +5130,8 @@
         "nucleus"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-003",
@@ -5067,7 +5177,8 @@
         "reverse transcriptase"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-004",
@@ -5113,7 +5224,8 @@
         "structure"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-005",
@@ -5159,7 +5271,8 @@
         "genes"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-006",
@@ -5205,7 +5318,8 @@
         "genes"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-007",
@@ -5251,7 +5365,8 @@
         "structural proteins"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-008",
@@ -5298,7 +5413,8 @@
         "gp41"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-009",
@@ -5344,7 +5460,8 @@
         "drug resistance"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-010",
@@ -5390,7 +5507,8 @@
         "maturation"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-011",
@@ -5436,7 +5554,8 @@
         "replication"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-012",
@@ -5482,7 +5601,8 @@
         "integration"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi35-013",
@@ -5528,7 +5648,8 @@
         "entry"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-014",
@@ -5575,7 +5696,8 @@
         "entry"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-015",
@@ -5621,7 +5743,8 @@
         "macrophages"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-016",
@@ -5667,7 +5790,8 @@
         "history"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-017",
@@ -5713,7 +5837,8 @@
         "HHV-8"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-018",
@@ -5759,7 +5884,8 @@
         "B cells"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-019",
@@ -5805,7 +5931,8 @@
         "history"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-020",
@@ -5851,7 +5978,8 @@
         "epidemiology"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-021",
@@ -5897,7 +6025,8 @@
         "screening"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-022",
@@ -5943,7 +6072,8 @@
         "types"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-023",
@@ -5989,7 +6119,8 @@
         "types"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-024",
@@ -6035,7 +6166,8 @@
         "origins"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-025",
@@ -6081,7 +6213,8 @@
         "history"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-026",
@@ -6127,7 +6260,8 @@
         "counseling"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-027",
@@ -6173,7 +6307,8 @@
         "TORCH"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-028",
@@ -6219,7 +6354,8 @@
         "ART"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-029",
@@ -6265,7 +6401,8 @@
         "transfusion"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-030",
@@ -6311,7 +6448,8 @@
         "sexual transmission"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-031",
@@ -6357,7 +6495,8 @@
         "transmission risk"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-032",
@@ -6403,7 +6542,8 @@
         "negligible exposure"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-033",
@@ -6449,7 +6589,8 @@
         "prevention"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-034",
@@ -6495,7 +6636,8 @@
         "United States"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-035",
@@ -6541,7 +6683,8 @@
         "health disparities"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi35-036",
@@ -6587,7 +6730,8 @@
         "global health"
       ],
       "topicId": "retroviridae-part-1-of-2",
-      "topicName": "Retroviridae (Part 1 of 2)"
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-001",
@@ -6633,7 +6777,8 @@
         "drug resistance"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-002",
@@ -6679,7 +6824,8 @@
         "drug resistance"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-003",
@@ -6725,7 +6871,8 @@
         "cure"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-004",
@@ -6771,7 +6918,8 @@
         "viral load"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-005",
@@ -6817,7 +6965,8 @@
         "cure"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-006",
@@ -6864,7 +7013,8 @@
         "viral entry"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-007",
@@ -6910,7 +7060,8 @@
         "pathogenesis"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-008",
@@ -6956,7 +7107,8 @@
         "CD4 count"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-009",
@@ -7002,7 +7154,8 @@
         "clinical course"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-010",
@@ -7048,7 +7201,8 @@
         "antigen/antibody assay"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-011",
@@ -7094,7 +7248,8 @@
         "immune response"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-012",
@@ -7140,7 +7295,8 @@
         "clinical latency"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi36-013",
@@ -7186,7 +7342,8 @@
         "replication cycle"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-014",
@@ -7232,7 +7389,8 @@
         "CCR5"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-015",
@@ -7278,7 +7436,8 @@
         "disease progression"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-016",
@@ -7324,7 +7483,8 @@
         "CD4 count"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-017",
@@ -7370,7 +7530,8 @@
         "AIDS criteria"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-018",
@@ -7416,7 +7577,8 @@
         "epidemiology"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-019",
@@ -7462,7 +7624,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-020",
@@ -7508,7 +7671,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-021",
@@ -7554,7 +7718,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-022",
@@ -7600,7 +7765,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-023",
@@ -7646,7 +7812,8 @@
         "CD4 thresholds"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-024",
@@ -7692,7 +7859,8 @@
         "lab identification"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-025",
@@ -7738,7 +7906,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-026",
@@ -7784,7 +7953,8 @@
         "imaging"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-027",
@@ -7830,7 +8000,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-028",
@@ -7876,7 +8047,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-029",
@@ -7922,7 +8094,8 @@
         "lab identification"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-030",
@@ -7968,7 +8141,8 @@
         "lab identification"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-031",
@@ -8014,7 +8188,8 @@
         "CNS lymphoma"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-032",
@@ -8060,7 +8235,8 @@
         "HIV opportunistic infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-033",
@@ -8106,7 +8282,8 @@
         "testing"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-034",
@@ -8152,7 +8329,8 @@
         "seroconversion"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-035",
@@ -8198,7 +8376,8 @@
         "NAT"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi36-036",
@@ -8244,7 +8423,8 @@
         "acute infection"
       ],
       "topicId": "retroviridae-part-2-of-2",
-      "topicName": "Retroviridae (Part 2 of 2)"
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi37-001",
@@ -8289,7 +8469,8 @@
         "virus structure"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-002",
@@ -8334,7 +8515,8 @@
         "viral entry"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-003",
@@ -8379,7 +8561,8 @@
         "viral entry"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-004",
@@ -8424,7 +8607,8 @@
         "pathogenesis"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-005",
@@ -8469,7 +8653,8 @@
         "upper respiratory tract"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-006",
@@ -8514,7 +8699,8 @@
         "pathogenesis"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-007",
@@ -8559,7 +8745,8 @@
         "immune evasion"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-008",
@@ -8604,7 +8791,8 @@
         "inflammation"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-009",
@@ -8649,7 +8837,8 @@
         "RNA virus"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-010",
@@ -8694,7 +8883,8 @@
         "spike protein"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-011",
@@ -8739,7 +8929,8 @@
         "epidemiology"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-012",
@@ -8785,7 +8976,8 @@
         "epidemiology"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
     },
     {
       "id": "mi37-013",
@@ -8830,7 +9022,8 @@
         "epidemiology"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-014",
@@ -8875,7 +9068,8 @@
         "prevention"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-015",
@@ -8920,7 +9114,8 @@
         "clinical course"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-016",
@@ -8965,7 +9160,8 @@
         "gastrointestinal"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-017",
@@ -9010,7 +9206,8 @@
         "public health"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-018",
@@ -9055,7 +9252,8 @@
         "clinical course"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-019",
@@ -9100,7 +9298,8 @@
         "cytopenias"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-020",
@@ -9145,7 +9344,8 @@
         "mortality"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-021",
@@ -9190,7 +9390,8 @@
         "coagulopathy"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-022",
@@ -9235,7 +9436,8 @@
         "pathology"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-023",
@@ -9280,7 +9482,8 @@
         "atelectasis"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-024",
@@ -9325,7 +9528,8 @@
         "respiratory failure"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-025",
@@ -9370,7 +9574,8 @@
         "hypercoagulability"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-026",
@@ -9415,7 +9620,8 @@
         "prevention"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-027",
@@ -9460,7 +9666,8 @@
         "diagnosis"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-028",
@@ -9505,7 +9712,8 @@
         "diagnosis"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-029",
@@ -9550,7 +9758,8 @@
         "diagnosis"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-030",
@@ -9595,7 +9804,8 @@
         "laboratory evaluation"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-031",
@@ -9640,7 +9850,8 @@
         "antiviral therapy"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-032",
@@ -9685,7 +9896,8 @@
         "pharmacokinetics"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-033",
@@ -9730,7 +9942,8 @@
         "treatment"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-034",
@@ -9775,7 +9988,8 @@
         "antiviral therapy"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-035",
@@ -9820,7 +10034,8 @@
         "treatment timing"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi37-036",
@@ -9865,7 +10080,8 @@
         "immunomodulation"
       ],
       "topicId": "respiratory-coronaviridae",
-      "topicName": "Respiratory: Coronaviridae (2026)"
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "extra"
     },
     {
       "id": "mi39-001",
@@ -9910,7 +10126,8 @@
         "genome segmentation"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-002",
@@ -9955,7 +10172,8 @@
         "orthomyxoviridae"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-003",
@@ -10000,7 +10218,8 @@
         "taxonomy"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-004",
@@ -10045,7 +10264,8 @@
         "croup"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-005",
@@ -10090,7 +10310,8 @@
         "taxonomy"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-006",
@@ -10135,7 +10356,8 @@
         "influenza D"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-007",
@@ -10180,7 +10402,8 @@
         "epidemiology"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-008",
@@ -10225,7 +10448,8 @@
         "transmission"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-009",
@@ -10270,7 +10494,8 @@
         "attachment"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-010",
@@ -10315,7 +10540,8 @@
         "viral release"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-011",
@@ -10360,7 +10586,8 @@
         "uncoating"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-012",
@@ -10405,7 +10632,8 @@
         "subtypes"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi39-013",
@@ -10450,7 +10678,8 @@
         "ribonucleoprotein"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-014",
@@ -10495,7 +10724,8 @@
         "influenza vaccination"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-015",
@@ -10540,7 +10770,8 @@
         "reassortment"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-016",
@@ -10585,7 +10816,8 @@
         "influenza A"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-017",
@@ -10630,7 +10862,8 @@
         "antigenic shift"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-018",
@@ -10675,7 +10908,8 @@
         "pandemic"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-019",
@@ -10720,7 +10954,8 @@
         "secondary bacterial pneumonia"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-020",
@@ -10765,7 +11000,8 @@
         "cold versus flu"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-021",
@@ -10810,7 +11046,8 @@
         "Staphylococcus aureus"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-022",
@@ -10855,7 +11092,8 @@
         "aspirin"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-023",
@@ -10900,7 +11138,8 @@
         "risk factors"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-024",
@@ -10945,7 +11184,8 @@
         "RT-PCR"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-025",
@@ -10990,7 +11230,8 @@
         "influenza vaccination"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-026",
@@ -11035,7 +11276,8 @@
         "contraindications"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-027",
@@ -11080,7 +11322,8 @@
         "vaccine efficacy"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-028",
@@ -11126,7 +11369,8 @@
         "syncytia"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-029",
@@ -11172,7 +11416,8 @@
         "attachment"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-030",
@@ -11217,7 +11462,8 @@
         "bronchiolitis"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-031",
@@ -11262,7 +11508,8 @@
         "immunity"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-032",
@@ -11307,7 +11554,8 @@
         "pregnancy"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-033",
@@ -11352,7 +11600,8 @@
         "RSV prevention"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-034",
@@ -11397,7 +11646,8 @@
         "older adults"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-035",
@@ -11442,7 +11692,8 @@
         "multiplex panel"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi39-036",
@@ -11487,7 +11738,8 @@
         "pneumoviridae"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-001",
@@ -11533,7 +11785,8 @@
         "PIV-1"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-002",
@@ -11579,7 +11832,8 @@
         "bronchiolitis"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-003",
@@ -11625,7 +11879,8 @@
         "imaging"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-004",
@@ -11671,7 +11926,8 @@
         "taxonomy"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-005",
@@ -11717,7 +11973,8 @@
         "reinfection"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-006",
@@ -11763,7 +12020,8 @@
         "epidemiology"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-007",
@@ -11809,7 +12067,8 @@
         "seroprevalence"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-008",
@@ -11855,7 +12114,8 @@
         "PCR"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-009",
@@ -11901,7 +12161,8 @@
         "diagnosis"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-010",
@@ -11947,7 +12208,8 @@
         "vaccination"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-011",
@@ -11993,7 +12255,8 @@
         "comorbidity"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-012",
@@ -12039,7 +12302,8 @@
         "pneumonia"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi40-013",
@@ -12085,7 +12349,8 @@
         "clinical presentation"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-014",
@@ -12131,7 +12396,8 @@
         "epidemiology"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-015",
@@ -12177,7 +12443,8 @@
         "transmission"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-016",
@@ -12223,7 +12490,8 @@
         "complications"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-017",
@@ -12269,7 +12537,8 @@
         "mortality"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-018",
@@ -12315,7 +12584,8 @@
         "RT-PCR"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-019",
@@ -12361,7 +12631,8 @@
         "specimen timing"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-020",
@@ -12407,7 +12678,8 @@
         "IgM"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-021",
@@ -12453,7 +12725,8 @@
         "vaccine failure"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-022",
@@ -12499,7 +12772,8 @@
         "outbreak control"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-023",
@@ -12545,7 +12819,8 @@
         "tropism"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-024",
@@ -12591,7 +12866,8 @@
         "complications"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-025",
@@ -12637,7 +12913,8 @@
         "clinical presentation"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-026",
@@ -12683,7 +12960,8 @@
         "enanthem"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-027",
@@ -12729,7 +13007,8 @@
         "diagnosis"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-028",
@@ -12775,7 +13054,8 @@
         "clinical presentation"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-029",
@@ -12821,7 +13101,8 @@
         "transmission"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-030",
@@ -12867,7 +13148,8 @@
         "attack rate"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-031",
@@ -12913,7 +13195,8 @@
         "pneumonia"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-032",
@@ -12959,7 +13242,8 @@
         "epidemiology"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-033",
@@ -13005,7 +13289,8 @@
         "complications"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-034",
@@ -13051,7 +13336,8 @@
         "differential diagnosis"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-035",
@@ -13097,7 +13383,8 @@
         "prevention"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi40-036",
@@ -13143,7 +13430,8 @@
         "MMR"
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
-      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi41-001",
@@ -13189,7 +13477,8 @@
         "rotavirus"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-002",
@@ -13235,7 +13524,8 @@
         "viral structure"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-003",
@@ -13281,7 +13571,8 @@
         "segmented genome"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-004",
@@ -13327,7 +13618,8 @@
         "taxonomy"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-005",
@@ -13373,7 +13665,8 @@
         "gastroenteritis"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-006",
@@ -13419,7 +13712,8 @@
         "cruise ship"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-007",
@@ -13465,7 +13759,8 @@
         "epidemiology"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-008",
@@ -13511,7 +13806,8 @@
         "epidemiology"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-009",
@@ -13557,7 +13853,8 @@
         "reinfection"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-010",
@@ -13603,7 +13900,8 @@
         "disinfection"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-011",
@@ -13649,7 +13947,8 @@
         "bleach"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-012",
@@ -13694,7 +13993,8 @@
         "incubation period"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
     },
     {
       "id": "mi41-013",
@@ -13740,7 +14040,8 @@
         "malabsorption"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-014",
@@ -13786,7 +14087,8 @@
         "dehydration"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-015",
@@ -13832,7 +14134,8 @@
         "diagnosis"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-016",
@@ -13878,7 +14181,8 @@
         "shellfish"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-017",
@@ -13924,7 +14228,8 @@
         "daycare"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-018",
@@ -13969,7 +14274,8 @@
         "incubation period"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-019",
@@ -14015,7 +14321,8 @@
         "laboratory identification"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-020",
@@ -14061,7 +14368,8 @@
         "live attenuated"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-021",
@@ -14106,7 +14414,8 @@
         "vaccine schedule"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-022",
@@ -14152,7 +14461,8 @@
         "intussusception"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-023",
@@ -14197,7 +14507,8 @@
         "vaccine efficacy"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-024",
@@ -14243,7 +14554,8 @@
         "immunocompromised"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-025",
@@ -14289,7 +14601,8 @@
         "daycare outbreak"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-026",
@@ -14334,7 +14647,8 @@
         "clinical course"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-027",
@@ -14380,7 +14694,8 @@
         "respiratory droplets"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-028",
@@ -14426,7 +14741,8 @@
         "clinical presentation"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-029",
@@ -14472,7 +14788,8 @@
         "physical exam"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-030",
@@ -14518,7 +14835,8 @@
         "sex differences"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-031",
@@ -14564,7 +14882,8 @@
         "infectivity"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-032",
@@ -14610,7 +14929,8 @@
         "complications"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-033",
@@ -14656,7 +14976,8 @@
         "classic triad"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-034",
@@ -14702,7 +15023,8 @@
         "thrombocytopenia"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-035",
@@ -14748,7 +15070,8 @@
         "TORCH"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     },
     {
       "id": "mi41-036",
@@ -14794,7 +15117,8 @@
         "laboratory identification"
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
-      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae"
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "extra"
     }
   ]
 }

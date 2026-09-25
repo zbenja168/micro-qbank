@@ -45,7 +45,8 @@
         "susceptibility testing"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-002",
@@ -90,7 +91,8 @@
         "definitions"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-003",
@@ -135,7 +137,8 @@
         "susceptibility testing"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-004",
@@ -180,7 +183,8 @@
         "laboratory identification"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-005",
@@ -225,7 +229,8 @@
         "susceptibility testing"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-006",
@@ -270,7 +275,8 @@
         "clinical practice"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-007",
@@ -315,7 +321,8 @@
         "bactericidal"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-008",
@@ -360,7 +367,8 @@
         "bacteriostatic"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-009",
@@ -405,7 +413,8 @@
         "host immunity"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-010",
@@ -450,7 +459,8 @@
         "bactericidal"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-011",
@@ -496,7 +506,8 @@
         "meningitis"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-012",
@@ -541,7 +552,8 @@
         "immunosuppression"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
     },
     {
       "id": "mi04-013",
@@ -586,7 +598,8 @@
         "intermediate"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-014",
@@ -631,7 +644,8 @@
         "site of infection"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-015",
@@ -676,7 +690,8 @@
         "antibiotic selection"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-016",
@@ -721,7 +736,8 @@
         "T>MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-017",
@@ -766,7 +782,8 @@
         "dosing"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-018",
@@ -811,7 +828,8 @@
         "Cmax/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-019",
@@ -856,7 +874,8 @@
         "Cmax/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-020",
@@ -901,7 +920,8 @@
         "AUC/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-021",
@@ -946,7 +966,8 @@
         "T>MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-022",
@@ -991,7 +1012,8 @@
         "T>MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-023",
@@ -1036,7 +1058,8 @@
         "AUC/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-024",
@@ -1081,7 +1104,8 @@
         "Cmax/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-025",
@@ -1127,7 +1151,8 @@
         "Cmax/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-026",
@@ -1172,7 +1197,8 @@
         "bacteriostatic"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-027",
@@ -1218,7 +1244,8 @@
         "AUC/MIC"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-028",
@@ -1263,7 +1290,8 @@
         "meningitis"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-029",
@@ -1308,7 +1336,8 @@
         "turnaround time"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-030",
@@ -1354,7 +1383,8 @@
         "antibiogram"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-031",
@@ -1399,7 +1429,8 @@
         "normal flora"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-032",
@@ -1444,7 +1475,8 @@
         "definitions"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-033",
@@ -1489,7 +1521,8 @@
         "surveillance"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-034",
@@ -1534,7 +1567,8 @@
         "susceptible intermediate resistant"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-035",
@@ -1579,7 +1613,8 @@
         "local resistance"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi04-036",
@@ -1624,7 +1659,8 @@
         "de-escalation"
       ],
       "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs"
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "extra"
     },
     {
       "id": "mi07-001",
@@ -1670,7 +1706,8 @@
         "transpeptidase"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-002",
@@ -1716,7 +1753,8 @@
         "drug class"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-003",
@@ -1762,7 +1800,8 @@
         "D-Ala-D-Ala"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-004",
@@ -1808,7 +1847,8 @@
         "cross-linking"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-005",
@@ -1854,7 +1894,8 @@
         "NAG NAM"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-006",
@@ -1900,7 +1941,8 @@
         "NAM"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-007",
@@ -1946,7 +1988,8 @@
         "growth dependence"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-008",
@@ -1992,7 +2035,8 @@
         "cell wall synthesis"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-009",
@@ -2038,7 +2082,8 @@
         "peptidoglycan"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-010",
@@ -2084,7 +2129,8 @@
         "drug comparison"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-011",
@@ -2130,7 +2176,8 @@
         "drug comparison"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-012",
@@ -2176,7 +2223,8 @@
         "drug comparison"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "core"
     },
     {
       "id": "mi07-013",
@@ -2222,7 +2270,8 @@
         "drug comparison"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-014",
@@ -2268,7 +2317,8 @@
         "classification"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-015",
@@ -2314,7 +2364,8 @@
         "spectrum"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-016",
@@ -2360,7 +2411,8 @@
         "spectrum"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-017",
@@ -2406,7 +2458,8 @@
         "spectrum"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-018",
@@ -2452,7 +2505,8 @@
         "generations"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-019",
@@ -2498,7 +2552,8 @@
         "oral"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-020",
@@ -2544,7 +2599,8 @@
         "surgical prophylaxis"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-021",
@@ -2590,7 +2646,8 @@
         "classification"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-022",
@@ -2636,7 +2693,8 @@
         "naming"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-023",
@@ -2682,7 +2740,8 @@
         "route"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-024",
@@ -2728,7 +2787,8 @@
         "pneumonia"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-025",
@@ -2774,7 +2834,8 @@
         "naming"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-026",
@@ -2820,7 +2881,8 @@
         "classification"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-027",
@@ -2866,7 +2928,8 @@
         "generations"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-028",
@@ -2912,7 +2975,8 @@
         "clinical use"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-029",
@@ -2958,7 +3022,8 @@
         "fifth generation"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-030",
@@ -3004,7 +3069,8 @@
         "adverse effects"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-031",
@@ -3050,7 +3116,8 @@
         "penicillin allergy"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-032",
@@ -3096,7 +3163,8 @@
         "adverse effects"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-033",
@@ -3142,7 +3210,8 @@
         "aminoglycosides"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-034",
@@ -3188,7 +3257,8 @@
         "alcohol"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-035",
@@ -3234,7 +3304,8 @@
         "alcohol"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi07-036",
@@ -3280,7 +3351,8 @@
         "pharmacology"
       ],
       "topicId": "cephalosporins",
-      "topicName": "Cephalosporins"
+      "topicName": "Cephalosporins",
+      "tier": "extra"
     },
     {
       "id": "mi08-001",
@@ -3326,7 +3398,8 @@
         "penicillin-binding protein"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-002",
@@ -3372,7 +3445,8 @@
         "D-Ala-D-Ala"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-003",
@@ -3418,7 +3492,8 @@
         "bactericidal"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-004",
@@ -3464,7 +3539,8 @@
         "growth dependence"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-005",
@@ -3510,7 +3586,8 @@
         "route of administration"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-006",
@@ -3556,7 +3633,8 @@
         "spectrum"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-007",
@@ -3602,7 +3680,8 @@
         "urinary tract infection"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-008",
@@ -3648,7 +3727,8 @@
         "ESBL"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-009",
@@ -3694,7 +3774,8 @@
         "cross-reactivity"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-010",
@@ -3740,7 +3821,8 @@
         "drug classes"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-011",
@@ -3786,7 +3868,8 @@
         "pharmacokinetics"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-012",
@@ -3832,7 +3915,8 @@
         "renal physiology"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "core"
     },
     {
       "id": "mi08-013",
@@ -3878,7 +3962,8 @@
         "half-life"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-014",
@@ -3924,7 +4009,8 @@
         "adverse effects"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-015",
@@ -3970,7 +4056,8 @@
         "meropenem"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-016",
@@ -4016,7 +4103,8 @@
         "drug interaction"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-017",
@@ -4062,7 +4150,8 @@
         "adverse effects"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-018",
@@ -4108,7 +4197,8 @@
         "adverse effects"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-019",
@@ -4154,7 +4244,8 @@
         "adverse effects"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-020",
@@ -4200,7 +4291,8 @@
         "pharmacokinetics"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-021",
@@ -4246,7 +4338,8 @@
         "beta-lactamase inhibitor"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-022",
@@ -4292,7 +4385,8 @@
         "carbapenemase"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-023",
@@ -4338,7 +4432,8 @@
         "broad-spectrum"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-024",
@@ -4384,7 +4479,8 @@
         "last-resort"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-025",
@@ -4430,7 +4526,8 @@
         "inhaled therapy"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-026",
@@ -4476,7 +4573,8 @@
         "penicillin-binding protein"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-027",
@@ -4522,7 +4620,8 @@
         "pharmacokinetics"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-028",
@@ -4568,7 +4667,8 @@
         "renal elimination"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-029",
@@ -4614,7 +4714,8 @@
         "cerebrospinal fluid"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-030",
@@ -4660,7 +4761,8 @@
         "carbapenems"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-031",
@@ -4706,7 +4808,8 @@
         "penicillin allergy"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-032",
@@ -4752,7 +4855,8 @@
         "enzyme inhibition"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-033",
@@ -4798,7 +4902,8 @@
         "pharmacology"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-034",
@@ -4844,7 +4949,8 @@
         "pharmacokinetics"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-035",
@@ -4890,7 +4996,8 @@
         "seizures"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi08-036",
@@ -4936,7 +5043,8 @@
         "relebactam"
       ],
       "topicId": "carbapenems",
-      "topicName": "Carbapenems"
+      "topicName": "Carbapenems",
+      "tier": "extra"
     },
     {
       "id": "mi09-001",
@@ -4981,7 +5089,8 @@
         "drug class"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-002",
@@ -5026,7 +5135,8 @@
         "mechanism of action"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-003",
@@ -5071,7 +5181,8 @@
         "mechanism of action"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-004",
@@ -5116,7 +5227,8 @@
         "cell wall structure"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-005",
@@ -5161,7 +5273,8 @@
         "NAG NAM"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-006",
@@ -5206,7 +5319,8 @@
         "bactoprenol"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-007",
@@ -5251,7 +5365,8 @@
         "NAG NAM"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-008",
@@ -5296,7 +5411,8 @@
         "bactoprenol"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-009",
@@ -5341,7 +5457,8 @@
         "cell wall structure"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-010",
@@ -5386,7 +5503,8 @@
         "cell wall structure"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-011",
@@ -5431,7 +5549,8 @@
         "bactericidal"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-012",
@@ -5476,7 +5595,8 @@
         "clinical use"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
     },
     {
       "id": "mi09-013",
@@ -5521,7 +5641,8 @@
         "beta-lactam contrast"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-014",
@@ -5566,7 +5687,8 @@
         "red man syndrome"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-015",
@@ -5611,7 +5733,8 @@
         "histamine"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-016",
@@ -5656,7 +5779,8 @@
         "prevention"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-017",
@@ -5701,7 +5825,8 @@
         "nephrotoxicity"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-018",
@@ -5746,7 +5871,8 @@
         "pharmacokinetics"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-019",
@@ -5791,7 +5917,8 @@
         "ototoxicity"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-020",
@@ -5836,7 +5963,8 @@
         "drug interaction"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-021",
@@ -5881,7 +6009,8 @@
         "drug interaction"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-022",
@@ -5926,7 +6055,8 @@
         "risk factors"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-023",
@@ -5971,7 +6101,8 @@
         "adverse effects"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-024",
@@ -6016,7 +6147,8 @@
         "adverse effects"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-025",
@@ -6061,7 +6193,8 @@
         "dosing"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-026",
@@ -6106,7 +6239,8 @@
         "nephrotoxicity"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-027",
@@ -6151,7 +6285,8 @@
         "adverse effects"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-028",
@@ -6196,7 +6331,8 @@
         "adverse effects"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-029",
@@ -6241,7 +6377,8 @@
         "MRSA"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-030",
@@ -6286,7 +6423,8 @@
         "clinical use"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-031",
@@ -6332,7 +6470,8 @@
         "mechanism contrast"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-032",
@@ -6377,7 +6516,8 @@
         "peptidoglycan synthesis"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-033",
@@ -6422,7 +6562,8 @@
         "mechanism of action"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-034",
@@ -6467,7 +6608,8 @@
         "beta-lactam contrast"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-035",
@@ -6513,7 +6655,8 @@
         "clinical use"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi09-036",
@@ -6559,7 +6702,8 @@
         "drug interaction"
       ],
       "topicId": "vancomycin-and-bacitracin",
-      "topicName": "Vancomycin and Bacitracin"
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "extra"
     },
     {
       "id": "mi10-001",
@@ -6604,7 +6748,8 @@
         "beta-lactam"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-002",
@@ -6649,7 +6794,8 @@
         "transpeptidase"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-003",
@@ -6694,7 +6840,8 @@
         "peptidoglycan"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-004",
@@ -6739,7 +6886,8 @@
         "bactericidal"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-005",
@@ -6784,7 +6932,8 @@
         "rapid growth"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-006",
@@ -6829,7 +6978,8 @@
         "peptidoglycan"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-007",
@@ -6874,7 +7024,8 @@
         "classification"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-008",
@@ -6919,7 +7070,8 @@
         "acid stability"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-009",
@@ -6964,7 +7116,8 @@
         "nafcillin"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-010",
@@ -7009,7 +7162,8 @@
         "CNS penetration"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-011",
@@ -7054,7 +7208,8 @@
         "renal excretion"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-012",
@@ -7099,7 +7254,8 @@
         "ampicillin"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "core"
     },
     {
       "id": "mi10-013",
@@ -7144,7 +7300,8 @@
         "half-life"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-014",
@@ -7189,7 +7346,8 @@
         "probenecid"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-015",
@@ -7234,7 +7392,8 @@
         "beta-lactamase"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-016",
@@ -7279,7 +7438,8 @@
         "penicillin-binding proteins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-017",
@@ -7324,7 +7484,8 @@
         "methicillin resistance"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-018",
@@ -7369,7 +7530,8 @@
         "porins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-019",
@@ -7414,7 +7576,8 @@
         "treatment"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-020",
@@ -7459,7 +7622,8 @@
         "treatment"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-021",
@@ -7504,7 +7668,8 @@
         "vancomycin contrast"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-022",
@@ -7549,7 +7714,8 @@
         "spectrum"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-023",
@@ -7594,7 +7760,8 @@
         "antistaphylococcal penicillins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-024",
@@ -7639,7 +7806,8 @@
         "antistaphylococcal penicillins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-025",
@@ -7684,7 +7852,8 @@
         "aminopenicillins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-026",
@@ -7729,7 +7898,8 @@
         "antipseudomonal penicillins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-027",
@@ -7774,7 +7944,8 @@
         "semisynthetic penicillins"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-028",
@@ -7819,7 +7990,8 @@
         "adverse effects"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-029",
@@ -7864,7 +8036,8 @@
         "type 1 reaction"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-030",
@@ -7909,7 +8082,8 @@
         "type 2 reaction"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-031",
@@ -7954,7 +8128,8 @@
         "type 3 reaction"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-032",
@@ -7999,7 +8174,8 @@
         "interstitial nephritis"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-033",
@@ -8044,7 +8220,8 @@
         "penicillin allergy"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-034",
@@ -8089,7 +8266,8 @@
         "Jarisch-Herxheimer"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-035",
@@ -8134,7 +8312,8 @@
         "Clostridioides difficile"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi10-036",
@@ -8179,7 +8358,8 @@
         "aminopenicillin rash"
       ],
       "topicId": "penicillins",
-      "topicName": "Penicillins"
+      "topicName": "Penicillins",
+      "tier": "extra"
     },
     {
       "id": "mi14-001",
@@ -8225,7 +8405,8 @@
         "first-line therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-002",
@@ -8271,7 +8452,8 @@
         "penicillins"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-003",
@@ -8317,7 +8499,8 @@
         "cefazolin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-004",
@@ -8363,7 +8546,8 @@
         "cephalexin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-005",
@@ -8409,7 +8593,8 @@
         "bacteremia"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-006",
@@ -8455,7 +8640,8 @@
         "route of administration"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-007",
@@ -8501,7 +8687,8 @@
         "Clostridium difficile"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-008",
@@ -8547,7 +8734,8 @@
         "Clostridium difficile"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-009",
@@ -8593,7 +8781,8 @@
         "ceftaroline"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-010",
@@ -8639,7 +8828,8 @@
         "Gram-negative coverage"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-011",
@@ -8685,7 +8875,8 @@
         "ceftriaxone"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-012",
@@ -8731,7 +8922,8 @@
         "generations"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
     },
     {
       "id": "mi14-013",
@@ -8777,7 +8969,8 @@
         "cefoxitin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-014",
@@ -8823,7 +9016,8 @@
         "intrinsic resistance"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-015",
@@ -8869,7 +9063,8 @@
         "drug classes"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-016",
@@ -8915,7 +9110,8 @@
         "resistance"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-017",
@@ -8961,7 +9157,8 @@
         "penicillins"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-018",
@@ -9007,7 +9204,8 @@
         "resistance"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-019",
@@ -9053,7 +9251,8 @@
         "skin infection"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-020",
@@ -9099,7 +9298,8 @@
         "mechanism"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-021",
@@ -9145,7 +9345,8 @@
         "vancomycin resistance"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-022",
@@ -9191,7 +9392,8 @@
         "Gram-negative"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-023",
@@ -9237,7 +9439,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-024",
@@ -9283,7 +9486,8 @@
         "vancomycin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-025",
@@ -9329,7 +9533,8 @@
         "cefazolin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-026",
@@ -9375,7 +9580,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-027",
@@ -9421,7 +9627,8 @@
         "cephalexin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-028",
@@ -9467,7 +9674,8 @@
         "drug classes"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-029",
@@ -9513,7 +9721,8 @@
         "penicillins"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-030",
@@ -9559,7 +9768,8 @@
         "amoxicillin"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-031",
@@ -9605,7 +9815,8 @@
         "first-line therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-032",
@@ -9651,7 +9862,8 @@
         "antibiotic course"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-033",
@@ -9697,7 +9909,8 @@
         "ceftazidime"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-034",
@@ -9743,7 +9956,8 @@
         "cephalosporins"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-035",
@@ -9789,7 +10003,8 @@
         "resistance"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi14-036",
@@ -9835,7 +10050,8 @@
         "combination therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
-      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin"
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "extra"
     },
     {
       "id": "mi15-001",
@@ -9881,7 +10097,8 @@
         "pyelonephritis"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-002",
@@ -9927,7 +10144,8 @@
         "topoisomerase"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-003",
@@ -9973,7 +10191,8 @@
         "mechanism of action"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-004",
@@ -10019,7 +10238,8 @@
         "topoisomerase"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-005",
@@ -10065,7 +10285,8 @@
         "DNA replication"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-006",
@@ -10111,7 +10332,8 @@
         "drug class"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-007",
@@ -10157,7 +10379,8 @@
         "fluoroquinolones"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-008",
@@ -10203,7 +10426,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-009",
@@ -10249,7 +10473,8 @@
         "topoisomerase IV"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-010",
@@ -10295,7 +10520,8 @@
         "horizontal transfer"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-011",
@@ -10341,7 +10567,8 @@
         "gram-positive"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-012",
@@ -10387,7 +10614,8 @@
         "gram-negative"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
     },
     {
       "id": "mi15-013",
@@ -10433,7 +10661,8 @@
         "Campylobacter jejuni"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-014",
@@ -10479,7 +10708,8 @@
         "levofloxacin"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-015",
@@ -10525,7 +10755,8 @@
         "spectrum"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-016",
@@ -10571,7 +10802,8 @@
         "drug selection"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-017",
@@ -10617,7 +10849,8 @@
         "respiratory fluoroquinolones"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-018",
@@ -10663,7 +10896,8 @@
         "fluoroquinolones"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-019",
@@ -10709,7 +10943,8 @@
         "fluoroquinolones"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-020",
@@ -10755,7 +10990,8 @@
         "levofloxacin"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-021",
@@ -10801,7 +11037,8 @@
         "absorption"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-022",
@@ -10847,7 +11084,8 @@
         "absorption"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-023",
@@ -10893,7 +11131,8 @@
         "tissue penetration"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-024",
@@ -10939,7 +11178,8 @@
         "theophylline"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-025",
@@ -10985,7 +11225,8 @@
         "normal flora"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-026",
@@ -11031,7 +11272,8 @@
         "fluoroquinolones"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-027",
@@ -11077,7 +11319,8 @@
         "dysbiosis"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-028",
@@ -11123,7 +11366,8 @@
         "torsades de pointes"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-029",
@@ -11169,7 +11413,8 @@
         "QTc prolongation"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-030",
@@ -11215,7 +11460,8 @@
         "CNS penetration"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-031",
@@ -11261,7 +11507,8 @@
         "fluoroquinolones"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-032",
@@ -11307,7 +11554,8 @@
         "dermatologic"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-033",
@@ -11353,7 +11601,8 @@
         "hypersensitivity"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-034",
@@ -11399,7 +11648,8 @@
         "arthropathy"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-035",
@@ -11445,7 +11695,8 @@
         "Achilles tendon"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi15-036",
@@ -11491,7 +11742,8 @@
         "hypoglycemia"
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
-      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "extra"
     },
     {
       "id": "mi19-001",
@@ -11537,7 +11789,8 @@
         "aminopenicillins"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-002",
@@ -11583,7 +11836,8 @@
         "beta-lactamase inhibitor"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-003",
@@ -11629,7 +11883,8 @@
         "meningitis"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-004",
@@ -11675,7 +11930,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-005",
@@ -11721,7 +11977,8 @@
         "resistance"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-006",
@@ -11767,7 +12024,8 @@
         "Pseudomonas"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-007",
@@ -11813,7 +12071,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-008",
@@ -11859,7 +12118,8 @@
         "treatment failure"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-009",
@@ -11905,7 +12165,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-010",
@@ -11951,7 +12212,8 @@
         "treatment"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-011",
@@ -11997,7 +12259,8 @@
         "carbapenems"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-012",
@@ -12043,7 +12306,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi19-013",
@@ -12089,7 +12353,8 @@
         "indications"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-014",
@@ -12135,7 +12400,8 @@
         "carbapenems"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-015",
@@ -12181,7 +12447,8 @@
         "carbapenems"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-016",
@@ -12227,7 +12494,8 @@
         "carbapenems"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-017",
@@ -12273,7 +12541,8 @@
         "ertapenem"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-018",
@@ -12319,7 +12588,8 @@
         "gram-negative"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-019",
@@ -12365,7 +12635,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-020",
@@ -12411,7 +12682,8 @@
         "gram-negative"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-021",
@@ -12457,7 +12729,8 @@
         "efflux pump"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-022",
@@ -12503,7 +12776,8 @@
         "gram-negative"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-023",
@@ -12549,7 +12823,8 @@
         "treatment"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-024",
@@ -12595,7 +12870,8 @@
         "Enterobacteriaceae"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-025",
@@ -12641,7 +12917,8 @@
         "gram-positive"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-026",
@@ -12687,7 +12964,8 @@
         "intra-abdominal infection"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-027",
@@ -12733,7 +13011,8 @@
         "Mycoplasma"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-028",
@@ -12779,7 +13058,8 @@
         "skin and soft tissue infection"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-029",
@@ -12825,7 +13105,8 @@
         "gram-positive"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-030",
@@ -12871,7 +13152,8 @@
         "gram-negative"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-031",
@@ -12917,7 +13199,8 @@
         "first-line therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-032",
@@ -12963,7 +13246,8 @@
         "first-line therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-033",
@@ -13009,7 +13293,8 @@
         "Staphylococcus aureus"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-034",
@@ -13055,7 +13340,8 @@
         "Chlamydia"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-035",
@@ -13101,7 +13387,8 @@
         "empiric therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi19-036",
@@ -13147,7 +13434,8 @@
         "ampicillin"
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors"
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi20-001",
@@ -13192,7 +13480,8 @@
         "principles of antibiotic therapy"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-002",
@@ -13237,7 +13526,8 @@
         "translation"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-003",
@@ -13282,7 +13572,8 @@
         "30S subunit"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-004",
@@ -13327,7 +13618,8 @@
         "50S subunit"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-005",
@@ -13372,7 +13664,8 @@
         "50S subunit"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-006",
@@ -13417,7 +13710,8 @@
         "drug structure"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-007",
@@ -13462,7 +13756,8 @@
         "drug classes"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-008",
@@ -13507,7 +13802,8 @@
         "pharmacokinetics"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-009",
@@ -13552,7 +13848,8 @@
         "drug classes"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-010",
@@ -13597,7 +13894,8 @@
         "drug classes"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-011",
@@ -13643,7 +13941,8 @@
         "50S subunit"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-012",
@@ -13688,7 +13987,8 @@
         "oxazolidinone"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
     },
     {
       "id": "mi20-013",
@@ -13734,7 +14034,8 @@
         "A site"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-014",
@@ -13779,7 +14080,8 @@
         "bacteriostatic"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-015",
@@ -13825,7 +14127,8 @@
         "mechanism of action"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-016",
@@ -13871,7 +14174,8 @@
         "mechanism of action"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-017",
@@ -13917,7 +14221,8 @@
         "proofreading"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-018",
@@ -13963,7 +14268,8 @@
         "translocation"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-019",
@@ -14009,7 +14315,8 @@
         "23S rRNA"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-020",
@@ -14054,7 +14361,8 @@
         "cross-resistance"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-021",
@@ -14100,7 +14408,8 @@
         "50S subunit"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-022",
@@ -14146,7 +14455,8 @@
         "bacteriostatic"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-023",
@@ -14191,7 +14501,8 @@
         "ribosome"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-024",
@@ -14237,7 +14548,8 @@
         "toxicity"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-025",
@@ -14282,7 +14594,8 @@
         "intrinsic resistance"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-026",
@@ -14327,7 +14640,8 @@
         "resistance"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-027",
@@ -14373,7 +14687,8 @@
         "aminoglycosides"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-028",
@@ -14419,7 +14734,8 @@
         "MLS cross-resistance"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-029",
@@ -14465,7 +14781,8 @@
         "tetracyclines"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-030",
@@ -14511,7 +14828,8 @@
         "elimination"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-031",
@@ -14557,7 +14875,8 @@
         "elimination"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-032",
@@ -14603,7 +14922,8 @@
         "hepatic metabolism"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-033",
@@ -14649,7 +14969,8 @@
         "pharmacokinetics"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-034",
@@ -14695,7 +15016,8 @@
         "pharmacokinetics"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-035",
@@ -14741,7 +15063,8 @@
         "pharmacokinetics"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi20-036",
@@ -14787,7 +15110,8 @@
         "toxicity"
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
-      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "extra"
     },
     {
       "id": "mi21-001",
@@ -14832,7 +15156,8 @@
         "ototoxicity"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-002",
@@ -14877,7 +15202,8 @@
         "nephrotoxicity"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-003",
@@ -14923,7 +15249,8 @@
         "risk factors"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-004",
@@ -14968,7 +15295,8 @@
         "ototoxicity"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-005",
@@ -15014,7 +15342,8 @@
         "vestibular"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-006",
@@ -15060,7 +15389,8 @@
         "mechanism"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-007",
@@ -15106,7 +15436,8 @@
         "myasthenia gravis"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-008",
@@ -15151,7 +15482,8 @@
         "neuromuscular junction"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-009",
@@ -15196,7 +15528,8 @@
         "pregnancy"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-010",
@@ -15242,7 +15575,8 @@
         "nephrotoxicity"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-011",
@@ -15287,7 +15621,8 @@
         "gastrointestinal"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-012",
@@ -15333,7 +15668,8 @@
         "pediatrics"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
     },
     {
       "id": "mi21-013",
@@ -15379,7 +15715,8 @@
         "thresholds"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-014",
@@ -15425,7 +15762,8 @@
         "pediatrics"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-015",
@@ -15471,7 +15809,8 @@
         "contraindications"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-016",
@@ -15517,7 +15856,8 @@
         "counseling"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-017",
@@ -15563,7 +15903,8 @@
         "thresholds"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-018",
@@ -15609,7 +15950,8 @@
         "chelation"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-019",
@@ -15655,7 +15997,8 @@
         "chelation"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-020",
@@ -15701,7 +16044,8 @@
         "drug interactions"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-021",
@@ -15747,7 +16091,8 @@
         "warfarin"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-022",
@@ -15792,7 +16137,8 @@
         "QT prolongation"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-023",
@@ -15838,7 +16184,8 @@
         "contraindications"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-024",
@@ -15884,7 +16231,8 @@
         "colitis"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-025",
@@ -15929,7 +16277,8 @@
         "neuromuscular blockade"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-026",
@@ -15975,7 +16324,8 @@
         "drug interactions"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-027",
@@ -16021,7 +16371,8 @@
         "mechanism"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-028",
@@ -16067,7 +16418,8 @@
         "mechanism"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-029",
@@ -16113,7 +16465,8 @@
         "bone marrow suppression"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-030",
@@ -16159,7 +16512,8 @@
         "clinical correlation"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-031",
@@ -16205,7 +16559,8 @@
         "thresholds"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-032",
@@ -16251,7 +16606,8 @@
         "thresholds"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-033",
@@ -16297,7 +16653,8 @@
         "aplastic anemia"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-034",
@@ -16343,7 +16700,8 @@
         "neonates"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-035",
@@ -16389,7 +16747,8 @@
         "mechanism"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi21-036",
@@ -16435,7 +16794,8 @@
         "counseling"
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
-      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "extra"
     },
     {
       "id": "mi24-001",
@@ -16481,7 +16841,8 @@
         "Escherichia coli"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-002",
@@ -16527,7 +16888,8 @@
         "Streptococcus pneumoniae"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-003",
@@ -16573,7 +16935,8 @@
         "urinary tract infection"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-004",
@@ -16619,7 +16982,8 @@
         "gram-positive coverage"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-005",
@@ -16665,7 +17029,8 @@
         "drug elimination"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-006",
@@ -16711,7 +17076,8 @@
         "tendon rupture"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-007",
@@ -16757,7 +17123,8 @@
         "QTc prolongation"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-008",
@@ -16803,7 +17170,8 @@
         "teratogenicity"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-009",
@@ -16849,7 +17217,8 @@
         "photosensitivity"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-010",
@@ -16895,7 +17264,8 @@
         "adverse effects"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-011",
@@ -16941,7 +17311,8 @@
         "first-line therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-012",
@@ -16987,7 +17358,8 @@
         "gram-positive cocci"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi24-013",
@@ -17033,7 +17405,8 @@
         "gram-negative rods"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-014",
@@ -17079,7 +17452,8 @@
         "burns"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-015",
@@ -17125,7 +17499,8 @@
         "bacterial conjunctivitis"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-016",
@@ -17171,7 +17546,8 @@
         "pharmacology"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-017",
@@ -17217,7 +17593,8 @@
         "Toxoplasma gondii"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-018",
@@ -17263,7 +17640,8 @@
         "linezolid"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-019",
@@ -17309,7 +17687,8 @@
         "antibiotic selection"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-020",
@@ -17355,7 +17734,8 @@
         "antibiotic selection"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-021",
@@ -17401,7 +17781,8 @@
         "carbapenems"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-022",
@@ -17447,7 +17828,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-023",
@@ -17493,7 +17875,8 @@
         "beta-lactams"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-024",
@@ -17539,7 +17922,8 @@
         "clinical reasoning"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-025",
@@ -17585,7 +17969,8 @@
         "acute cystitis"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-026",
@@ -17631,7 +18016,8 @@
         "gram-negative rods"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-027",
@@ -17677,7 +18063,8 @@
         "spectrum of activity"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-028",
@@ -17723,7 +18110,8 @@
         "gram-negative bacilli"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-029",
@@ -17769,7 +18157,8 @@
         "Moraxella catarrhalis"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-030",
@@ -17815,7 +18204,8 @@
         "atypical pathogens"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-031",
@@ -17861,7 +18251,8 @@
         "risk factors"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-032",
@@ -17907,7 +18298,8 @@
         "antibiotic selection"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-033",
@@ -17953,7 +18345,8 @@
         "urinary pathogens"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-034",
@@ -17999,7 +18392,8 @@
         "sulfa allergy"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-035",
@@ -18045,7 +18439,8 @@
         "antibiotic course"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi24-036",
@@ -18091,7 +18486,8 @@
         "moxifloxacin"
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
-      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides"
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-001",
@@ -18136,7 +18532,8 @@
         "antibiotic history"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-002",
@@ -18181,7 +18578,8 @@
         "drug structure"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-003",
@@ -18226,7 +18624,8 @@
         "pharmacokinetics"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-004",
@@ -18271,7 +18670,8 @@
         "pharmacokinetics"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-005",
@@ -18317,7 +18717,8 @@
         "combination therapy"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-006",
@@ -18362,7 +18763,8 @@
         "drug classes"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-007",
@@ -18407,7 +18809,8 @@
         "clinical use"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-008",
@@ -18452,7 +18855,8 @@
         "bacteriostatic"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-009",
@@ -18497,7 +18901,8 @@
         "bactericidal"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-010",
@@ -18542,7 +18947,8 @@
         "dihydropteroate synthase"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-011",
@@ -18587,7 +18993,8 @@
         "competitive inhibition"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-012",
@@ -18632,7 +19039,8 @@
         "dihydropteroate synthase"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
     },
     {
       "id": "mi25-013",
@@ -18677,7 +19085,8 @@
         "sulfonamides"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-014",
@@ -18722,7 +19131,8 @@
         "nucleic acid synthesis"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-015",
@@ -18767,7 +19177,8 @@
         "folate"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-016",
@@ -18812,7 +19223,8 @@
         "folate auxotrophy"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-017",
@@ -18857,7 +19269,8 @@
         "dihydrofolate reductase"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-018",
@@ -18902,7 +19315,8 @@
         "selective toxicity"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-019",
@@ -18947,7 +19361,8 @@
         "combination therapy"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-020",
@@ -18992,7 +19407,8 @@
         "combination therapy"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-021",
@@ -19037,7 +19453,8 @@
         "dihydropteroate synthase"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-022",
@@ -19082,7 +19499,8 @@
         "PABA"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-023",
@@ -19127,7 +19545,8 @@
         "efflux"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-024",
@@ -19172,7 +19591,8 @@
         "absorption"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-025",
@@ -19217,7 +19637,8 @@
         "metabolism"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-026",
@@ -19262,7 +19683,8 @@
         "warfarin"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-027",
@@ -19307,7 +19729,8 @@
         "drug interactions"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-028",
@@ -19352,7 +19775,8 @@
         "CSF penetration"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-029",
@@ -19397,7 +19821,8 @@
         "urinary tract infection"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-030",
@@ -19442,7 +19867,8 @@
         "patient counseling"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-031",
@@ -19487,7 +19913,8 @@
         "hemolytic anemia"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-032",
@@ -19532,7 +19959,8 @@
         "toxic epidermal necrolysis"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-033",
@@ -19577,7 +20005,8 @@
         "trimethoprim"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-034",
@@ -19622,7 +20051,8 @@
         "neural tube defects"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-035",
@@ -19667,7 +20097,8 @@
         "kernicterus"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi25-036",
@@ -19712,7 +20143,8 @@
         "anaerobes"
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
-      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "extra"
     },
     {
       "id": "mi29-001",
@@ -19757,7 +20189,8 @@
         "mechanism"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-002",
@@ -19802,7 +20235,8 @@
         "drug classes"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-003",
@@ -19847,7 +20281,8 @@
         "atypical pneumonia"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-004",
@@ -19892,7 +20327,8 @@
         "macrolides"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-005",
@@ -19937,7 +20373,8 @@
         "respiratory tract infection"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-006",
@@ -19982,7 +20419,8 @@
         "empiric therapy"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-007",
@@ -20027,7 +20465,8 @@
         "community-acquired pneumonia"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-008",
@@ -20072,7 +20511,8 @@
         "community-acquired pneumonia"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-009",
@@ -20117,7 +20557,8 @@
         "Streptococcus pneumoniae"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-010",
@@ -20162,7 +20603,8 @@
         "definitions"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-011",
@@ -20207,7 +20649,8 @@
         "anaerobes"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-012",
@@ -20252,7 +20695,8 @@
         "spectrum"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
     },
     {
       "id": "mi29-013",
@@ -20297,7 +20741,8 @@
         "Enterococcus"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-014",
@@ -20342,7 +20787,8 @@
         "anaerobes"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-015",
@@ -20387,7 +20833,8 @@
         "VRE"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-016",
@@ -20432,7 +20879,8 @@
         "streptogramins"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-017",
@@ -20477,7 +20925,8 @@
         "MRSA"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-018",
@@ -20522,7 +20971,8 @@
         "drug classes"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-019",
@@ -20567,7 +21017,8 @@
         "MRSA"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-020",
@@ -20612,7 +21063,8 @@
         "VRE"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-021",
@@ -20657,7 +21109,8 @@
         "doxycycline"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-022",
@@ -20702,7 +21155,8 @@
         "tick-borne"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-023",
@@ -20747,7 +21201,8 @@
         "doxycycline"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-024",
@@ -20792,7 +21247,8 @@
         "doxycycline"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-025",
@@ -20837,7 +21293,8 @@
         "levofloxacin"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-026",
@@ -20882,7 +21339,8 @@
         "tick-borne"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-027",
@@ -20927,7 +21385,8 @@
         "case"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-028",
@@ -20972,7 +21431,8 @@
         "adverse effects"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-029",
@@ -21017,7 +21477,8 @@
         "adverse effects"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-030",
@@ -21062,7 +21523,8 @@
         "community-acquired pneumonia"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-031",
@@ -21107,7 +21569,8 @@
         "gram-negative"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-032",
@@ -21152,7 +21615,8 @@
         "atypical coverage"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-033",
@@ -21197,7 +21661,8 @@
         "linezolid"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-034",
@@ -21242,7 +21707,8 @@
         "drug classes"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-035",
@@ -21287,7 +21753,8 @@
         "community-acquired pneumonia"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi29-036",
@@ -21332,7 +21799,8 @@
         "atypicals"
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
-      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors"
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "extra"
     },
     {
       "id": "mi30-001",
@@ -21377,7 +21845,8 @@
         "definitions"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-002",
@@ -21423,7 +21892,8 @@
         "gram-negative"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-003",
@@ -21468,7 +21938,8 @@
         "definitions"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-004",
@@ -21514,7 +21985,8 @@
         "vancomycin"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-005",
@@ -21559,7 +22031,8 @@
         "definitions"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-006",
@@ -21604,7 +22077,8 @@
         "gene transfer"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-007",
@@ -21650,7 +22124,8 @@
         "beta-lactamase inhibitor"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-008",
@@ -21695,7 +22170,8 @@
         "pharmacology"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-009",
@@ -21741,7 +22217,8 @@
         "carbapenem"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-010",
@@ -21786,7 +22263,8 @@
         "gram-negative"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-011",
@@ -21832,7 +22310,8 @@
         "contrasts"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-012",
@@ -21878,7 +22357,8 @@
         "gram-negative"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
     },
     {
       "id": "mi30-013",
@@ -21924,7 +22404,8 @@
         "acquired resistance"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-014",
@@ -21969,7 +22450,8 @@
         "definitions"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-015",
@@ -22014,7 +22496,8 @@
         "team"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-016",
@@ -22059,7 +22542,8 @@
         "pharmacokinetic monitoring"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-017",
@@ -22104,7 +22588,8 @@
         "clinical decision support"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-018",
@@ -22150,7 +22635,8 @@
         "ceftaroline"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-019",
@@ -22195,7 +22681,8 @@
         "audit and feedback"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-020",
@@ -22240,7 +22727,8 @@
         "IV to oral"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-021",
@@ -22286,7 +22774,8 @@
         "VRE"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-022",
@@ -22332,7 +22821,8 @@
         "resistance prevention"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-023",
@@ -22378,7 +22868,8 @@
         "resistance prevention"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-024",
@@ -22424,7 +22915,8 @@
         "resistance"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-025",
@@ -22470,7 +22962,8 @@
         "concepts"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-026",
@@ -22516,7 +23009,8 @@
         "contrasts"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-027",
@@ -22561,7 +23055,8 @@
         "definitions"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-028",
@@ -22607,7 +23102,8 @@
         "stewardship"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-029",
@@ -22652,7 +23148,8 @@
         "definitions"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-030",
@@ -22698,7 +23195,8 @@
         "stewardship"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-031",
@@ -22743,7 +23241,8 @@
         "diagnostic approach"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-032",
@@ -22788,7 +23287,8 @@
         "diagnostic approach"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-033",
@@ -22834,7 +23334,8 @@
         "risk factors"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-034",
@@ -22880,7 +23381,8 @@
         "turnaround"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-035",
@@ -22926,7 +23428,8 @@
         "carbapenem"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     },
     {
       "id": "mi30-036",
@@ -22972,7 +23475,8 @@
         "narrowing"
       ],
       "topicId": "antibiotic-stewardship",
-      "topicName": "Antibiotic Stewardship"
+      "topicName": "Antibiotic Stewardship",
+      "tier": "extra"
     }
   ]
 }

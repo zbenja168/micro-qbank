@@ -46,7 +46,8 @@
         "eukaryotes"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-002",
@@ -92,7 +93,8 @@
         "septa"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-003",
@@ -138,7 +140,8 @@
         "mycelium"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-004",
@@ -184,7 +187,8 @@
         "opportunistic fungi"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-005",
@@ -230,7 +234,8 @@
         "opportunistic fungi"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-006",
@@ -276,7 +281,8 @@
         "transmission"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-007",
@@ -322,7 +328,8 @@
         "fungal reproduction"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-008",
@@ -368,7 +375,8 @@
         "lab identification"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-009",
@@ -414,7 +422,8 @@
         "lab identification"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-010",
@@ -460,7 +469,8 @@
         "life cycle"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-011",
@@ -506,7 +516,8 @@
         "life cycle"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-012",
@@ -552,7 +563,8 @@
         "mnemonic"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "core"
     },
     {
       "id": "mi43-013",
@@ -598,7 +610,8 @@
         "lab identification"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-014",
@@ -644,7 +657,8 @@
         "morphology"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-015",
@@ -690,7 +704,8 @@
         "histopathology"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-016",
@@ -736,7 +751,8 @@
         "histopathology"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-017",
@@ -782,7 +798,8 @@
         "colony morphology"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-018",
@@ -828,7 +845,8 @@
         "structure"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-019",
@@ -874,7 +892,8 @@
         "structure"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-020",
@@ -920,7 +939,8 @@
         "immune recognition"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-021",
@@ -966,7 +986,8 @@
         "antifungals"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-022",
@@ -1012,7 +1033,8 @@
         "antifungals"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-023",
@@ -1058,7 +1080,8 @@
         "drug targets"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-024",
@@ -1104,7 +1127,8 @@
         "ergosterol"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-025",
@@ -1150,7 +1174,8 @@
         "adverse effects"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-026",
@@ -1196,7 +1221,8 @@
         "epidemiology"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-027",
@@ -1242,7 +1268,8 @@
         "classification"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-028",
@@ -1288,7 +1315,8 @@
         "superficial infection"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-029",
@@ -1334,7 +1362,8 @@
         "thrush"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-030",
@@ -1380,7 +1409,8 @@
         "thrush"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-031",
@@ -1426,7 +1456,8 @@
         "exogenous infection"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-032",
@@ -1472,7 +1503,8 @@
         "gold standard"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-033",
@@ -1518,7 +1550,8 @@
         "immunoglobulin"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-034",
@@ -1564,7 +1597,8 @@
         "laboratory methods"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-035",
@@ -1610,7 +1644,8 @@
         "lactophenol blue"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi43-036",
@@ -1656,7 +1691,8 @@
         "Penicillium"
       ],
       "topicId": "mycology-an-introduction",
-      "topicName": "Mycology: An Introduction"
+      "topicName": "Mycology: An Introduction",
+      "tier": "extra"
     },
     {
       "id": "mi44-001",
@@ -1702,7 +1738,8 @@
         "normal flora"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-002",
@@ -1748,7 +1785,8 @@
         "colonization"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-003",
@@ -1794,7 +1832,8 @@
         "species"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-004",
@@ -1840,7 +1879,8 @@
         "species"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-005",
@@ -1886,7 +1926,8 @@
         "numbers"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-006",
@@ -1932,7 +1973,8 @@
         "differential"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-007",
@@ -1978,7 +2020,8 @@
         "risk factors"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-008",
@@ -2024,7 +2067,8 @@
         "immunosuppression"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-009",
@@ -2070,7 +2114,8 @@
         "estrogen"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-010",
@@ -2116,7 +2161,8 @@
         "risk factors"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-011",
@@ -2162,7 +2208,8 @@
         "skin infection"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-012",
@@ -2208,7 +2255,8 @@
         "pediatrics"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "core"
     },
     {
       "id": "mi44-013",
@@ -2254,7 +2302,8 @@
         "Candida"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-014",
@@ -2300,7 +2349,8 @@
         "hospital-acquired"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-015",
@@ -2346,7 +2396,8 @@
         "epidemiology"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-016",
@@ -2392,7 +2443,8 @@
         "translocation"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-017",
@@ -2438,7 +2490,8 @@
         "dimorphism"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-018",
@@ -2484,7 +2537,8 @@
         "Candida"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-019",
@@ -2530,7 +2584,8 @@
         "numbers"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-020",
@@ -2576,7 +2631,8 @@
         "non-culture testing"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-021",
@@ -2622,7 +2678,8 @@
         "candidemia"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-022",
@@ -2668,7 +2725,8 @@
         "taxonomy"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-023",
@@ -2714,7 +2772,8 @@
         "laboratory identification"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-024",
@@ -2760,7 +2819,8 @@
         "conidia"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-025",
@@ -2806,7 +2866,8 @@
         "immunosuppression"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-026",
@@ -2852,7 +2913,8 @@
         "colonization"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-027",
@@ -2898,7 +2960,8 @@
         "clinical presentation"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-028",
@@ -2944,7 +3007,8 @@
         "conidia"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-029",
@@ -2990,7 +3054,8 @@
         "colonization"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-030",
@@ -3036,7 +3101,8 @@
         "tuberculosis"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-031",
@@ -3082,7 +3148,8 @@
         "surgery"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-032",
@@ -3128,7 +3195,8 @@
         "imaging"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-033",
@@ -3174,7 +3242,8 @@
         "comparison"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-034",
@@ -3220,7 +3289,8 @@
         "acute-angle branching"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-035",
@@ -3266,7 +3336,8 @@
         "Aspergillus"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi44-036",
@@ -3312,7 +3383,8 @@
         "serology"
       ],
       "topicId": "candida-and-aspergillus-spp",
-      "topicName": "Candida and Aspergillus spp."
+      "topicName": "Candida and Aspergillus spp.",
+      "tier": "extra"
     },
     {
       "id": "mi45-001",
@@ -3357,7 +3429,8 @@
         "epidemiology"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-002",
@@ -3402,7 +3475,8 @@
         "taxonomy"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-003",
@@ -3447,7 +3521,8 @@
         "culture"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-004",
@@ -3492,7 +3567,8 @@
         "microscopy"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-005",
@@ -3537,7 +3613,8 @@
         "microscopy"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-006",
@@ -3582,7 +3659,8 @@
         "spherule"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-007",
@@ -3627,7 +3705,8 @@
         "arthroconidia"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-008",
@@ -3672,7 +3751,8 @@
         "mold form"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-009",
@@ -3717,7 +3797,8 @@
         "laboratory identification"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-010",
@@ -3762,7 +3843,8 @@
         "capsule"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-011",
@@ -3807,7 +3889,8 @@
         "antigen detection"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-012",
@@ -3852,7 +3935,8 @@
         "culture"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "core"
     },
     {
       "id": "mi45-013",
@@ -3897,7 +3981,8 @@
         "culture"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-014",
@@ -3942,7 +4027,8 @@
         "cross-reactivity"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-015",
@@ -3987,7 +4073,8 @@
         "serology"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-016",
@@ -4032,7 +4119,8 @@
         "immunodiffusion"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-017",
@@ -4077,7 +4165,8 @@
         "culture"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-018",
@@ -4122,7 +4211,8 @@
         "erythema nodosum"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-019",
@@ -4167,7 +4257,8 @@
         "dissemination"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-020",
@@ -4212,7 +4303,8 @@
         "epidemiology"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-021",
@@ -4257,7 +4349,8 @@
         "clinical presentation"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-022",
@@ -4302,7 +4395,8 @@
         "chronic pulmonary"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-023",
@@ -4347,7 +4441,8 @@
         "dissemination"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-024",
@@ -4392,7 +4487,8 @@
         "latency"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-025",
@@ -4437,7 +4533,8 @@
         "CNS infection"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-026",
@@ -4482,7 +4579,8 @@
         "meningitis"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-027",
@@ -4527,7 +4625,8 @@
         "cryptococcoma"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-028",
@@ -4572,7 +4671,8 @@
         "epidemiology"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-029",
@@ -4617,7 +4717,8 @@
         "epidemiology"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-030",
@@ -4662,7 +4763,8 @@
         "exposure"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-031",
@@ -4707,7 +4809,8 @@
         "serology"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-032",
@@ -4752,7 +4855,8 @@
         "risk factors"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-033",
@@ -4797,7 +4901,8 @@
         "risk factors"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-034",
@@ -4842,7 +4947,8 @@
         "diagnosis"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-035",
@@ -4887,7 +4993,8 @@
         "taxonomy"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi45-036",
@@ -4932,7 +5039,8 @@
         "pathogenesis"
       ],
       "topicId": "geographically-defined-mycoses",
-      "topicName": "Geographically Defined Mycoses"
+      "topicName": "Geographically Defined Mycoses",
+      "tier": "extra"
     },
     {
       "id": "mi47-001",
@@ -4977,7 +5085,8 @@
         "keratinase"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-002",
@@ -5022,7 +5131,8 @@
         "skin anatomy"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-003",
@@ -5067,7 +5177,8 @@
         "taxonomy"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-004",
@@ -5112,7 +5223,8 @@
         "taxonomy"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-005",
@@ -5157,7 +5269,8 @@
         "taxonomy"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-006",
@@ -5202,7 +5315,8 @@
         "central clearing"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-007",
@@ -5247,7 +5361,8 @@
         "nomenclature"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-008",
@@ -5292,7 +5407,8 @@
         "onychomycosis"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-009",
@@ -5337,7 +5453,8 @@
         "black dots"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-010",
@@ -5383,7 +5500,8 @@
         "tinea capitis"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-011",
@@ -5429,7 +5547,8 @@
         "zoonotic"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-012",
@@ -5474,7 +5593,8 @@
         "interdigital"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
     },
     {
       "id": "mi47-013",
@@ -5519,7 +5639,8 @@
         "moccasin"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-014",
@@ -5564,7 +5685,8 @@
         "vesiculobullous"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-015",
@@ -5610,7 +5732,8 @@
         "diabetes"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-016",
@@ -5656,7 +5779,8 @@
         "S. pyogenes"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-017",
@@ -5701,7 +5825,8 @@
         "autoinoculation"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-018",
@@ -5746,7 +5871,8 @@
         "treatment"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-019",
@@ -5792,7 +5918,8 @@
         "granuloma"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-020",
@@ -5837,7 +5964,8 @@
         "nail"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-021",
@@ -5882,7 +6010,8 @@
         "risk factors"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-022",
@@ -5927,7 +6056,8 @@
         "environmental risk factors"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-023",
@@ -5972,7 +6102,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-024",
@@ -6018,7 +6149,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-025",
@@ -6064,7 +6196,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-026",
@@ -6110,7 +6243,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-027",
@@ -6156,7 +6290,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-028",
@@ -6201,7 +6336,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-029",
@@ -6246,7 +6382,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-030",
@@ -6291,7 +6428,8 @@
         "culture"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-031",
@@ -6337,7 +6475,8 @@
         "taxonomy"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-032",
@@ -6382,7 +6521,8 @@
         "pityriasis versicolor"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-033",
@@ -6428,7 +6568,8 @@
         "KOH"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-034",
@@ -6474,7 +6615,8 @@
         "HIV"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-035",
@@ -6520,7 +6662,8 @@
         "lymphocutaneous"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     },
     {
       "id": "mi47-036",
@@ -6566,7 +6709,8 @@
         "lab identification"
       ],
       "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections"
+      "topicName": "Fungal Skin Infections",
+      "tier": "extra"
     }
   ]
 }

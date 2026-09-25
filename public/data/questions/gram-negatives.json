@@ -46,7 +46,8 @@
         "meningitis"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-002",
@@ -92,7 +93,8 @@
         "fermentation"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-003",
@@ -138,7 +140,8 @@
         "oxidase"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-004",
@@ -184,7 +187,8 @@
         "Thayer-Martin"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-005",
@@ -230,7 +234,8 @@
         "fastidious bacteria"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-006",
@@ -276,7 +281,8 @@
         "endotoxin"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-007",
@@ -322,7 +328,8 @@
         "serogroups"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-008",
@@ -368,7 +375,8 @@
         "MenACWY"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-009",
@@ -414,7 +422,8 @@
         "schedule"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-010",
@@ -460,7 +469,8 @@
         "pili"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-011",
@@ -506,7 +516,8 @@
         "intracellular"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-012",
@@ -552,7 +563,8 @@
         "colonization"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "core"
     },
     {
       "id": "mi16-013",
@@ -598,7 +610,8 @@
         "host defense"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-014",
@@ -644,7 +657,8 @@
         "encapsulated organisms"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-015",
@@ -690,7 +704,8 @@
         "epidemiology"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-016",
@@ -736,7 +751,8 @@
         "carriers"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-017",
@@ -782,7 +798,8 @@
         "choroid plexus"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-018",
@@ -828,7 +845,8 @@
         "meningitis"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-019",
@@ -874,7 +892,8 @@
         "clinical features"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-020",
@@ -920,7 +939,8 @@
         "Waterhouse-Friderichsen"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-021",
@@ -966,7 +986,8 @@
         "meningococcemia"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-022",
@@ -1012,7 +1033,8 @@
         "rash"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-023",
@@ -1058,7 +1080,8 @@
         "antibiotic resistance"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-024",
@@ -1104,7 +1127,8 @@
         "meningitis"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-025",
@@ -1150,7 +1174,8 @@
         "lab identification"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-026",
@@ -1196,7 +1221,8 @@
         "culture media"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-027",
@@ -1242,7 +1268,8 @@
         "lab identification"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-028",
@@ -1288,7 +1315,8 @@
         "Hib"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-029",
@@ -1334,7 +1362,8 @@
         "epidemiology"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-030",
@@ -1380,7 +1409,8 @@
         "Hib"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-031",
@@ -1426,7 +1456,8 @@
         "management"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-032",
@@ -1472,7 +1503,8 @@
         "vaccine coverage"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-033",
@@ -1518,7 +1550,8 @@
         "normal flora"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-034",
@@ -1564,7 +1597,8 @@
         "immunology"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-035",
@@ -1610,7 +1644,8 @@
         "passive immunity"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi16-036",
@@ -1656,7 +1691,8 @@
         "mucociliary clearance"
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
-      "topicName": "Neisseria meningitidis and Haemophilus influenzae"
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "tier": "extra"
     },
     {
       "id": "mi17-001",
@@ -1701,7 +1737,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-002",
@@ -1746,7 +1783,8 @@
         "lactose fermentation"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-003",
@@ -1791,7 +1829,8 @@
         "EMB agar"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-004",
@@ -1836,7 +1875,8 @@
         "swarming motility"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-005",
@@ -1881,7 +1921,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-006",
@@ -1926,7 +1967,8 @@
         "prodigiosin"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-007",
@@ -1971,7 +2013,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-008",
@@ -2016,7 +2059,8 @@
         "TSI agar"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-009",
@@ -2061,7 +2105,8 @@
         "hydrogen sulfide"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-010",
@@ -2106,7 +2151,8 @@
         "fermentation"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-011",
@@ -2151,7 +2197,8 @@
         "hemolysis"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-012",
@@ -2196,7 +2243,8 @@
         "endotoxin"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi17-013",
@@ -2241,7 +2289,8 @@
         "sepsis"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-014",
@@ -2286,7 +2335,8 @@
         "cell wall"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-015",
@@ -2331,7 +2381,8 @@
         "H antigen"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-016",
@@ -2376,7 +2427,8 @@
         "O157:H7"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-017",
@@ -2421,7 +2473,8 @@
         "shiga-like toxin"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-018",
@@ -2466,7 +2519,8 @@
         "EHEC"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-019",
@@ -2511,7 +2565,8 @@
         "travelers diarrhea"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-020",
@@ -2556,7 +2611,8 @@
         "enterotoxins"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-021",
@@ -2601,7 +2657,8 @@
         "actin pedestals"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-022",
@@ -2646,7 +2703,8 @@
         "dysentery"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-023",
@@ -2691,7 +2749,8 @@
         "HUS"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-024",
@@ -2736,7 +2795,8 @@
         "fimbriae"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-025",
@@ -2781,7 +2841,8 @@
         "biofilm"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-026",
@@ -2826,7 +2887,8 @@
         "selective media"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-027",
@@ -2871,7 +2933,8 @@
         "escherichia coli"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-028",
@@ -2916,7 +2979,8 @@
         "UTI"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-029",
@@ -2961,7 +3025,8 @@
         "K1 capsule"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-030",
@@ -3006,7 +3071,8 @@
         "immune evasion"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-031",
@@ -3051,7 +3117,8 @@
         "epidemiology"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-032",
@@ -3096,7 +3163,8 @@
         "treatment"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-033",
@@ -3141,7 +3209,8 @@
         "escherichia coli"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-034",
@@ -3186,7 +3255,8 @@
         "clinical definitions"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-035",
@@ -3231,7 +3301,8 @@
         "healthcare-associated infection"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi17-036",
@@ -3276,7 +3347,8 @@
         "dehydration"
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
-      "topicName": "Enterobacteriaceae (Part 1 of 2)"
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-001",
@@ -3322,7 +3394,8 @@
         "alcohol use disorder"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-002",
@@ -3368,7 +3441,8 @@
         "virulence factor"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-003",
@@ -3414,7 +3488,8 @@
         "nosocomial"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-004",
@@ -3460,7 +3535,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-005",
@@ -3506,7 +3582,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-006",
@@ -3552,7 +3629,8 @@
         "colony morphology"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-007",
@@ -3598,7 +3676,8 @@
         "Klebsiella pneumoniae"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-008",
@@ -3644,7 +3723,8 @@
         "antibiotic resistance"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-009",
@@ -3690,7 +3770,8 @@
         "treatment"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-010",
@@ -3736,7 +3817,8 @@
         "antibiotic resistance"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-011",
@@ -3782,7 +3864,8 @@
         "numbers"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-012",
@@ -3828,7 +3911,8 @@
         "horizontal gene transfer"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "core"
     },
     {
       "id": "mi18-013",
@@ -3874,7 +3958,8 @@
         "nosocomial"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-014",
@@ -3920,7 +4005,8 @@
         "Klebsiella pneumoniae"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-015",
@@ -3966,7 +4052,8 @@
         "oral flora"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-016",
@@ -4012,7 +4099,8 @@
         "pneumonia"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-017",
@@ -4058,7 +4146,8 @@
         "Klebsiella pneumoniae"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-018",
@@ -4104,7 +4193,8 @@
         "spectrum of disease"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-019",
@@ -4150,7 +4240,8 @@
         "infection control"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-020",
@@ -4196,7 +4287,8 @@
         "tables"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-021",
@@ -4242,7 +4334,8 @@
         "urinary tract infection"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-022",
@@ -4288,7 +4381,8 @@
         "Proteus mirabilis"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-023",
@@ -4334,7 +4428,8 @@
         "urease"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-024",
@@ -4380,7 +4475,8 @@
         "Proteus mirabilis"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-025",
@@ -4426,7 +4522,8 @@
         "urinary tract infection"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-026",
@@ -4472,7 +4569,8 @@
         "Klebsiella pneumoniae"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-027",
@@ -4518,7 +4616,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-028",
@@ -4564,7 +4663,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-029",
@@ -4610,7 +4710,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-030",
@@ -4656,7 +4757,8 @@
         "Yersinia"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-031",
@@ -4702,7 +4804,8 @@
         "pigment"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-032",
@@ -4748,7 +4851,8 @@
         "MacConkey agar"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-033",
@@ -4794,7 +4898,8 @@
         "antibiotic resistance"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-034",
@@ -4840,7 +4945,8 @@
         "indole"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-035",
@@ -4886,7 +4992,8 @@
         "lab identification"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi18-036",
@@ -4933,7 +5040,8 @@
         "epidemiology"
       ],
       "topicId": "enterobacteriaceae-part-2",
-      "topicName": "Enterobacteriaceae (Part 2 of 2)"
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "tier": "extra"
     },
     {
       "id": "mi22-001",
@@ -4979,7 +5087,8 @@
         "molecular mimicry"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-002",
@@ -5025,7 +5134,8 @@
         "TSI agar"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-003",
@@ -5071,7 +5181,8 @@
         "transmission"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-004",
@@ -5117,7 +5228,8 @@
         "vaccine"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-005",
@@ -5163,7 +5275,8 @@
         "growth temperature"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-006",
@@ -5209,7 +5322,8 @@
         "laboratory identification"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-007",
@@ -5255,7 +5369,8 @@
         "hemolytic uremic syndrome"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-008",
@@ -5301,7 +5416,8 @@
         "actin motility"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-009",
@@ -5347,7 +5463,8 @@
         "Peyer patches"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-010",
@@ -5393,7 +5510,8 @@
         "Salmonella"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-011",
@@ -5439,7 +5557,8 @@
         "sickle cell anemia"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-012",
@@ -5485,7 +5604,8 @@
         "complications"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
     },
     {
       "id": "mi22-013",
@@ -5531,7 +5651,8 @@
         "clinical presentation"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-014",
@@ -5577,7 +5698,8 @@
         "epidemiology"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-015",
@@ -5623,7 +5745,8 @@
         "shedding"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-016",
@@ -5669,7 +5792,8 @@
         "epidemiology"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-017",
@@ -5715,7 +5839,8 @@
         "transmission"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-018",
@@ -5761,7 +5886,8 @@
         "taxonomy"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-019",
@@ -5807,7 +5933,8 @@
         "species"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-020",
@@ -5853,7 +5980,8 @@
         "Shigella dysenteriae"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-021",
@@ -5899,7 +6027,8 @@
         "pseudoappendicitis"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-022",
@@ -5945,7 +6074,8 @@
         "Shigella"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-023",
@@ -5991,7 +6121,8 @@
         "motility"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-024",
@@ -6037,7 +6168,8 @@
         "virulence factors"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-025",
@@ -6083,7 +6215,8 @@
         "O H and Vi antigens"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-026",
@@ -6129,7 +6262,8 @@
         "incubation period"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-027",
@@ -6175,7 +6309,8 @@
         "laboratory testing"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-028",
@@ -6221,7 +6356,8 @@
         "infectious dose"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-029",
@@ -6267,7 +6403,8 @@
         "United States"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-030",
@@ -6313,7 +6450,8 @@
         "laboratory identification"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-031",
@@ -6359,7 +6497,8 @@
         "complications"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-032",
@@ -6405,7 +6544,8 @@
         "flagella"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-033",
@@ -6451,7 +6591,8 @@
         "epidemiology"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-034",
@@ -6497,7 +6638,8 @@
         "clinical presentation"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-035",
@@ -6543,7 +6685,8 @@
         "differential diagnosis"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi22-036",
@@ -6589,7 +6732,8 @@
         "epidemiology"
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp."
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "extra"
     },
     {
       "id": "mi23-001",
@@ -6635,7 +6779,8 @@
         "skin infection"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-002",
@@ -6681,7 +6826,8 @@
         "ear infection"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-003",
@@ -6727,7 +6873,8 @@
         "cranial nerves"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-004",
@@ -6773,7 +6920,8 @@
         "virulence factor"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-005",
@@ -6819,7 +6967,8 @@
         "virulence factor"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-006",
@@ -6865,7 +7014,8 @@
         "iron acquisition"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-007",
@@ -6911,7 +7061,8 @@
         "lactose fermentation"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-008",
@@ -6957,7 +7108,8 @@
         "gram-negative rods"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-009",
@@ -7003,7 +7155,8 @@
         "mucoid strain"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-010",
@@ -7049,7 +7202,8 @@
         "numbers"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-011",
@@ -7095,7 +7249,8 @@
         "immune evasion"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-012",
@@ -7141,7 +7296,8 @@
         "prognosis"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
     },
     {
       "id": "mi23-013",
@@ -7187,7 +7343,8 @@
         "skin lesion"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-014",
@@ -7233,7 +7390,8 @@
         "lesion progression"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-015",
@@ -7279,7 +7437,8 @@
         "septicemia"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-016",
@@ -7325,7 +7484,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-017",
@@ -7371,7 +7531,8 @@
         "nosocomial infection"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-018",
@@ -7417,7 +7578,8 @@
         "coccobacilli"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-019",
@@ -7463,7 +7625,8 @@
         "epidemiology"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-020",
@@ -7509,7 +7672,8 @@
         "colonization"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-021",
@@ -7555,7 +7719,8 @@
         "virulence factor"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-022",
@@ -7601,7 +7766,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-023",
@@ -7647,7 +7813,8 @@
         "bacterial physiology"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-024",
@@ -7693,7 +7860,8 @@
         "virulence factor"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-025",
@@ -7739,7 +7907,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-026",
@@ -7785,7 +7954,8 @@
         "gram-negative bacilli"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-027",
@@ -7831,7 +8001,8 @@
         "opportunistic infection"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-028",
@@ -7877,7 +8048,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-029",
@@ -7923,7 +8095,8 @@
         "age-based etiology"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-030",
@@ -7969,7 +8142,8 @@
         "endotracheal tube"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-031",
@@ -8015,7 +8189,8 @@
         "drug resistance"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-032",
@@ -8061,7 +8236,8 @@
         "Pseudomonas aeruginosa"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-033",
@@ -8107,7 +8283,8 @@
         "laboratory identification"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-034",
@@ -8153,7 +8330,8 @@
         "taxonomy"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-035",
@@ -8199,7 +8377,8 @@
         "laboratory identification"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     },
     {
       "id": "mi23-036",
@@ -8245,7 +8424,8 @@
         "genetics"
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria"
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "extra"
     }
   ]
 }

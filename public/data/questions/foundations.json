@@ -46,7 +46,8 @@
         "cell envelope"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-002",
@@ -93,7 +94,8 @@
         "gram-negative"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-003",
@@ -139,7 +141,8 @@
         "endotoxin"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-004",
@@ -185,7 +188,8 @@
         "gram-negative"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-005",
@@ -231,7 +235,8 @@
         "gram-negative"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-006",
@@ -277,7 +282,8 @@
         "cell envelope"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-007",
@@ -323,7 +329,8 @@
         "NAG-NAM"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-008",
@@ -369,7 +376,8 @@
         "innate defense"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-009",
@@ -415,7 +423,8 @@
         "peptidoglycan"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-010",
@@ -461,7 +470,8 @@
         "bacterial identification"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-011",
@@ -508,7 +518,8 @@
         "adhesion"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-012",
@@ -554,7 +565,8 @@
         "antimicrobial resistance"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
     },
     {
       "id": "mi01-013",
@@ -600,7 +612,8 @@
         "organelles"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-014",
@@ -646,7 +659,8 @@
         "cytoplasmic membrane"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-015",
@@ -692,7 +706,8 @@
         "catalase"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-016",
@@ -738,7 +753,8 @@
         "oxygen free radicals"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-017",
@@ -783,7 +799,8 @@
         "oxygen requirements"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-018",
@@ -828,7 +845,8 @@
         "culture requirements"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-019",
@@ -874,7 +892,8 @@
         "fastidious"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-020",
@@ -920,7 +939,8 @@
         "toxins"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-021",
@@ -966,7 +986,8 @@
         "antimicrobial resistance"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-022",
@@ -1011,7 +1032,8 @@
         "reproduction"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-023",
@@ -1058,7 +1080,8 @@
         "Clostridium"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-024",
@@ -1105,7 +1128,8 @@
         "honey"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-025",
@@ -1150,7 +1174,8 @@
         "lag phase"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-026",
@@ -1195,7 +1220,8 @@
         "exponential growth phase"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-027",
@@ -1240,7 +1266,8 @@
         "stationary phase"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-028",
@@ -1286,7 +1313,8 @@
         "immune response"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-029",
@@ -1333,7 +1361,8 @@
         "growth kinetics"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-030",
@@ -1380,7 +1409,8 @@
         "laboratory method"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-031",
@@ -1426,7 +1456,8 @@
         "peptidoglycan"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-032",
@@ -1472,7 +1503,8 @@
         "metabolism"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-033",
@@ -1519,7 +1551,8 @@
         "Nocardia"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-034",
@@ -1565,7 +1598,8 @@
         "negative stain"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-035",
@@ -1611,7 +1645,8 @@
         "morphology"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi01-036",
@@ -1657,7 +1692,8 @@
         "clusters"
       ],
       "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining"
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "extra"
     },
     {
       "id": "mi02-001",
@@ -1702,7 +1738,8 @@
         "chromosome structure"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-002",
@@ -1747,7 +1784,8 @@
         "antibiotic resistance"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-003",
@@ -1792,7 +1830,8 @@
         "clonal division"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-004",
@@ -1837,7 +1876,8 @@
         "70S vs 80S"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-005",
@@ -1883,7 +1923,8 @@
         "zoonotic infection"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-006",
@@ -1928,7 +1969,8 @@
         "selective toxicity"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-007",
@@ -1973,7 +2015,8 @@
         "growth kinetics"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-008",
@@ -2018,7 +2061,8 @@
         "colonization"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-009",
@@ -2063,7 +2107,8 @@
         "origin of replication"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-010",
@@ -2108,7 +2153,8 @@
         "DNA replication"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-011",
@@ -2153,7 +2199,8 @@
         "proofreading"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-012",
@@ -2198,7 +2245,8 @@
         "DNA replication"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
     },
     {
       "id": "mi02-013",
@@ -2243,7 +2291,8 @@
         "chromosome structure"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-014",
@@ -2288,7 +2337,8 @@
         "bacterial evolution"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-015",
@@ -2333,7 +2383,8 @@
         "rapid replication"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-016",
@@ -2378,7 +2429,8 @@
         "antibiotic resistance"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-017",
@@ -2423,7 +2475,8 @@
         "gene transfer mechanics"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-018",
@@ -2468,7 +2521,8 @@
         "plasmid"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-019",
@@ -2513,7 +2567,8 @@
         "cell wall synthesis"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-020",
@@ -2558,7 +2613,8 @@
         "antibiotic resistance"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-021",
@@ -2603,7 +2659,8 @@
         "urinary tract infection"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-022",
@@ -2648,7 +2705,8 @@
         "empiric therapy"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-023",
@@ -2693,7 +2751,8 @@
         "conjugation"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-024",
@@ -2738,7 +2797,8 @@
         "relative frequency"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-025",
@@ -2783,7 +2843,8 @@
         "resistance spread"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-026",
@@ -2829,7 +2890,8 @@
         "conjugation"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-027",
@@ -2874,7 +2936,8 @@
         "F plasmid"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-028",
@@ -2919,7 +2982,8 @@
         "site-specific recombination"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-029",
@@ -2964,7 +3028,8 @@
         "conjugation"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-030",
@@ -3009,7 +3074,8 @@
         "competence"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-031",
@@ -3054,7 +3120,8 @@
         "transformation"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-032",
@@ -3099,7 +3166,8 @@
         "transformation"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-033",
@@ -3144,7 +3212,8 @@
         "transduction"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-034",
@@ -3189,7 +3258,8 @@
         "bacteriophage"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-035",
@@ -3234,7 +3304,8 @@
         "prophage"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi02-036",
@@ -3280,7 +3351,8 @@
         "lysogenic conversion"
       ],
       "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics"
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "extra"
     },
     {
       "id": "mi03-001",
@@ -3325,7 +3397,8 @@
         "microbiota distribution"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-002",
@@ -3370,7 +3443,8 @@
         "normal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-003",
@@ -3416,7 +3490,8 @@
         "pH"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-004",
@@ -3462,7 +3537,8 @@
         "vaginal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-005",
@@ -3507,7 +3583,8 @@
         "vaginal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-006",
@@ -3552,7 +3629,8 @@
         "Lactobacillus"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-007",
@@ -3597,7 +3675,8 @@
         "skin flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-008",
@@ -3643,7 +3722,8 @@
         "antibiotics"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-009",
@@ -3688,7 +3768,8 @@
         "Gardnerella vaginalis"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-010",
@@ -3734,7 +3815,8 @@
         "lab identification"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-011",
@@ -3780,7 +3862,8 @@
         "look-alike contrast"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-012",
@@ -3826,7 +3909,8 @@
         "opportunistic infection"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core"
     },
     {
       "id": "mi03-013",
@@ -3872,7 +3956,8 @@
         "opportunistic infection"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-014",
@@ -3917,7 +4002,8 @@
         "nasopharyngeal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-015",
@@ -3963,7 +4049,8 @@
         "pediatrics"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-016",
@@ -4008,7 +4095,8 @@
         "clinical presentation"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-017",
@@ -4054,7 +4142,8 @@
         "pediatrics"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-018",
@@ -4100,7 +4189,8 @@
         "nasopharyngeal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-019",
@@ -4146,7 +4236,8 @@
         "trauma"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-020",
@@ -4191,7 +4282,8 @@
         "septicemia"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-021",
@@ -4236,7 +4328,8 @@
         "pseudomembranous colitis"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-022",
@@ -4282,7 +4375,8 @@
         "antibiotics"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-023",
@@ -4328,7 +4422,8 @@
         "diarrhea"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-024",
@@ -4374,7 +4469,8 @@
         "antibiotics"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-025",
@@ -4420,7 +4516,8 @@
         "treatment"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-026",
@@ -4466,7 +4563,8 @@
         "treatment"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-027",
@@ -4511,7 +4609,8 @@
         "normal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-028",
@@ -4556,7 +4655,8 @@
         "vitamin synthesis"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-029",
@@ -4602,7 +4702,8 @@
         "benefits of normal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-030",
@@ -4647,7 +4748,8 @@
         "carriage"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-031",
@@ -4692,7 +4794,8 @@
         "urinary tract infection"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-032",
@@ -4737,7 +4840,8 @@
         "microbiota distribution"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-033",
@@ -4782,7 +4886,8 @@
         "microbiota distribution"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-034",
@@ -4827,7 +4932,8 @@
         "normal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-035",
@@ -4873,7 +4979,8 @@
         "microbiota distribution"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi03-036",
@@ -4918,7 +5025,8 @@
         "normal flora"
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease"
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "extra"
     },
     {
       "id": "mi05-001",
@@ -4963,7 +5071,8 @@
         "cell wall"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-002",
@@ -5008,7 +5117,8 @@
         "counterstain"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-003",
@@ -5053,7 +5163,8 @@
         "gram-positive bacilli"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-004",
@@ -5098,7 +5209,8 @@
         "diplococci"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-005",
@@ -5143,7 +5255,8 @@
         "Streptococcus pneumoniae"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-006",
@@ -5188,7 +5301,8 @@
         "spirochetes"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-007",
@@ -5233,7 +5347,8 @@
         "Staphylococcus"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-008",
@@ -5278,7 +5393,8 @@
         "fungi"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-009",
@@ -5323,7 +5439,8 @@
         "Neisseria"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-010",
@@ -5368,7 +5485,8 @@
         "normal flora"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-011",
@@ -5413,7 +5531,8 @@
         "hemolysis"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-012",
@@ -5458,7 +5577,8 @@
         "beta hemolysis"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
     },
     {
       "id": "mi05-013",
@@ -5503,7 +5623,8 @@
         "gamma hemolysis"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-014",
@@ -5548,7 +5669,8 @@
         "hydrogen sulfide"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-015",
@@ -5593,7 +5715,8 @@
         "fermentation"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-016",
@@ -5638,7 +5761,8 @@
         "sugar fermentation"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-017",
@@ -5683,7 +5807,8 @@
         "selective agar"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-018",
@@ -5728,7 +5853,8 @@
         "Staphylococcus aureus"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-019",
@@ -5773,7 +5899,8 @@
         "selective agar"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-020",
@@ -5818,7 +5945,8 @@
         "lactose fermentation"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-021",
@@ -5863,7 +5991,8 @@
         "Escherichia coli"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-022",
@@ -5908,7 +6037,8 @@
         "gram-positive algorithm"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-023",
@@ -5953,7 +6083,8 @@
         "virulence"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-024",
@@ -5998,7 +6129,8 @@
         "Staphylococcus aureus"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-025",
@@ -6043,7 +6175,8 @@
         "Staphylococcus saprophyticus"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-026",
@@ -6088,7 +6221,8 @@
         "Streptococcus pneumoniae"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-027",
@@ -6133,7 +6267,8 @@
         "Streptococcus pyogenes"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-028",
@@ -6178,7 +6313,8 @@
         "Streptococcus pneumoniae"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-029",
@@ -6223,7 +6359,8 @@
         "gram-positive bacilli"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-030",
@@ -6268,7 +6405,8 @@
         "Nocardia"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-031",
@@ -6313,7 +6451,8 @@
         "Neisseria"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-032",
@@ -6358,7 +6497,8 @@
         "Helicobacter pylori"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-033",
@@ -6403,7 +6543,8 @@
         "Pseudomonas"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-034",
@@ -6448,7 +6589,8 @@
         "gram-negative algorithm"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-035",
@@ -6493,7 +6635,8 @@
         "Enterococcus"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     },
     {
       "id": "mi05-036",
@@ -6538,7 +6681,8 @@
         "Salmonella"
       ],
       "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms"
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "extra"
     }
   ]
 }

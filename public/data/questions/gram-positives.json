@@ -46,7 +46,8 @@
         "identification"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-002",
@@ -92,7 +93,8 @@
         "gram-positive cocci"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-003",
@@ -138,7 +140,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-004",
@@ -184,7 +187,8 @@
         "novobiocin"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-005",
@@ -230,7 +234,8 @@
         "coagulase negative"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-006",
@@ -276,7 +281,8 @@
         "lab identification"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-007",
@@ -322,7 +328,8 @@
         "thresholds"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-008",
@@ -368,7 +375,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-009",
@@ -414,7 +422,8 @@
         "comparison table"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-010",
@@ -459,7 +468,8 @@
         "growth requirements"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-011",
@@ -505,7 +515,8 @@
         "terminology"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-012",
@@ -551,7 +562,8 @@
         "immune evasion"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "core"
     },
     {
       "id": "mi06-013",
@@ -597,7 +609,8 @@
         "immune evasion"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-014",
@@ -643,7 +656,8 @@
         "phagocytosis"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-015",
@@ -689,7 +703,8 @@
         "bacteriophage"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-016",
@@ -735,7 +750,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-017",
@@ -781,7 +797,8 @@
         "desmoglein-1"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-018",
@@ -827,7 +844,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-019",
@@ -873,7 +891,8 @@
         "toxic shock syndrome"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-020",
@@ -919,7 +938,8 @@
         "foreign body"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-021",
@@ -965,7 +985,8 @@
         "desquamation"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-022",
@@ -1011,7 +1032,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-023",
@@ -1057,7 +1079,8 @@
         "food poisoning"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-024",
@@ -1103,7 +1126,8 @@
         "enterotoxin"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-025",
@@ -1149,7 +1173,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-026",
@@ -1195,7 +1220,8 @@
         "cystitis"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-027",
@@ -1241,7 +1267,8 @@
         "prosthetic device"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-028",
@@ -1287,7 +1314,8 @@
         "prosthetic valve"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-029",
@@ -1333,7 +1361,8 @@
         "tricuspid valve"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-030",
@@ -1379,7 +1408,8 @@
         "bone infection"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-031",
@@ -1425,7 +1455,8 @@
         "S. aureus"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-032",
@@ -1471,7 +1502,8 @@
         "numbers"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-033",
@@ -1517,7 +1549,8 @@
         "beta-lactam"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-034",
@@ -1563,7 +1596,8 @@
         "penicillin-binding protein"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-035",
@@ -1609,7 +1643,8 @@
         "vancomycin resistance"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi06-036",
@@ -1655,7 +1690,8 @@
         "vancomycin"
       ],
       "topicId": "staphylococci",
-      "topicName": "Staphylococci"
+      "topicName": "Staphylococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-001",
@@ -1701,7 +1737,8 @@
         "catalase"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-002",
@@ -1747,7 +1784,8 @@
         "morphology"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-003",
@@ -1793,7 +1831,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-004",
@@ -1840,7 +1879,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-005",
@@ -1886,7 +1926,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-006",
@@ -1932,7 +1973,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-007",
@@ -1978,7 +2020,8 @@
         "serology"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-008",
@@ -2024,7 +2067,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-009",
@@ -2070,7 +2114,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-010",
@@ -2116,7 +2161,8 @@
         "epidemiology"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-011",
@@ -2162,7 +2208,8 @@
         "lab identification"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-012",
@@ -2208,7 +2255,8 @@
         "skin infection"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
     },
     {
       "id": "mi11-013",
@@ -2254,7 +2302,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-014",
@@ -2300,7 +2349,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-015",
@@ -2346,7 +2396,8 @@
         "prevention"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-016",
@@ -2393,7 +2444,8 @@
         "toxin"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-017",
@@ -2439,7 +2491,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-018",
@@ -2485,7 +2538,8 @@
         "treatment"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-019",
@@ -2531,7 +2585,8 @@
         "M protein"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-020",
@@ -2577,7 +2632,8 @@
         "diagnosis"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-021",
@@ -2623,7 +2679,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-022",
@@ -2669,7 +2726,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-023",
@@ -2715,7 +2773,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-024",
@@ -2761,7 +2820,8 @@
         "nosocomial infection"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-025",
@@ -2807,7 +2867,8 @@
         "S. pyogenes"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-026",
@@ -2853,7 +2914,8 @@
         "MOPSS"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-027",
@@ -2899,7 +2961,8 @@
         "rusty sputum"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-028",
@@ -2946,7 +3009,8 @@
         "sepsis"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-029",
@@ -2993,7 +3057,8 @@
         "virulence factor"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-030",
@@ -3039,7 +3104,8 @@
         "S. pneumoniae"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-031",
@@ -3085,7 +3151,8 @@
         "virulence factor"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-032",
@@ -3131,7 +3198,8 @@
         "prevention"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-033",
@@ -3177,7 +3245,8 @@
         "prevention"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-034",
@@ -3223,7 +3292,8 @@
         "neonatal sepsis"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-035",
@@ -3269,7 +3339,8 @@
         "S. mutans"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi11-036",
@@ -3316,7 +3387,8 @@
         "colon cancer"
       ],
       "topicId": "streptococci-and-enterococci",
-      "topicName": "Streptococci and Enterococci"
+      "topicName": "Streptococci and Enterococci",
+      "tier": "extra"
     },
     {
       "id": "mi12-001",
@@ -3362,7 +3434,8 @@
         "spores"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-002",
@@ -3408,7 +3481,8 @@
         "C. perfringens"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-003",
@@ -3454,7 +3528,8 @@
         "C. perfringens"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-004",
@@ -3500,7 +3575,8 @@
         "lab identification"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-005",
@@ -3546,7 +3622,8 @@
         "nosocomial infection"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-006",
@@ -3592,7 +3669,8 @@
         "colonization"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-007",
@@ -3638,7 +3716,8 @@
         "infection control"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-008",
@@ -3684,7 +3763,8 @@
         "spores"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-009",
@@ -3730,7 +3810,8 @@
         "epidemiology"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-010",
@@ -3776,7 +3857,8 @@
         "outbreak"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-011",
@@ -3822,7 +3904,8 @@
         "pathogenesis"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-012",
@@ -3868,7 +3951,8 @@
         "enterotoxin"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "core"
     },
     {
       "id": "mi12-013",
@@ -3914,7 +3998,8 @@
         "pathology"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-014",
@@ -3960,7 +4045,8 @@
         "mechanism"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-015",
@@ -4006,7 +4092,8 @@
         "mechanism"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-016",
@@ -4052,7 +4139,8 @@
         "risk factors"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-017",
@@ -4098,7 +4186,8 @@
         "antibiotics"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-018",
@@ -4144,7 +4233,8 @@
         "vancomycin"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-019",
@@ -4190,7 +4280,8 @@
         "treatment"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-020",
@@ -4236,7 +4327,8 @@
         "gas gangrene"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-021",
@@ -4282,7 +4374,8 @@
         "hemolysis"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-022",
@@ -4328,7 +4421,8 @@
         "timing"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-023",
@@ -4374,7 +4468,8 @@
         "myonecrosis"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-024",
@@ -4420,7 +4515,8 @@
         "normal flora"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-025",
@@ -4466,7 +4562,8 @@
         "clinical course"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-026",
@@ -4512,7 +4609,8 @@
         "mechanism"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-027",
@@ -4558,7 +4656,8 @@
         "pathophysiology"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-028",
@@ -4604,7 +4703,8 @@
         "tetanus"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-029",
@@ -4650,7 +4750,8 @@
         "immune globulin"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-030",
@@ -4696,7 +4797,8 @@
         "vaccination"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-031",
@@ -4742,7 +4844,8 @@
         "mechanism"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-032",
@@ -4788,7 +4891,8 @@
         "clinical presentation"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-033",
@@ -4834,7 +4938,8 @@
         "management"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-034",
@@ -4880,7 +4985,8 @@
         "floppy baby"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-035",
@@ -4926,7 +5032,8 @@
         "botulinum toxin"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi12-036",
@@ -4972,7 +5079,8 @@
         "transmission"
       ],
       "topicId": "clostridia",
-      "topicName": "Clostridia"
+      "topicName": "Clostridia",
+      "tier": "extra"
     },
     {
       "id": "mi13-001",
@@ -5018,7 +5126,8 @@
         "morphology"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-002",
@@ -5063,7 +5172,8 @@
         "lab identification"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-003",
@@ -5109,7 +5219,8 @@
         "hemolysis"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-004",
@@ -5154,7 +5265,8 @@
         "lab identification"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-005",
@@ -5199,7 +5311,8 @@
         "lab identification"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-006",
@@ -5244,7 +5357,8 @@
         "flagella"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-007",
@@ -5290,7 +5404,8 @@
         "actin rockets"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-008",
@@ -5336,7 +5451,8 @@
         "phagosome escape"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-009",
@@ -5382,7 +5498,8 @@
         "virulence factor"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-010",
@@ -5428,7 +5545,8 @@
         "invasion"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-011",
@@ -5474,7 +5592,8 @@
         "gastroenteritis"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-012",
@@ -5519,7 +5638,8 @@
         "reservoir"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
     },
     {
       "id": "mi13-013",
@@ -5565,7 +5685,8 @@
         "pregnancy"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-014",
@@ -5610,7 +5731,8 @@
         "food safety"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-015",
@@ -5655,7 +5777,8 @@
         "occupational risk"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-016",
@@ -5700,7 +5823,8 @@
         "epidemiology"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-017",
@@ -5745,7 +5869,8 @@
         "cellular immunity"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-018",
@@ -5790,7 +5915,8 @@
         "clinical presentation"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-019",
@@ -5836,7 +5962,8 @@
         "neonate"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-020",
@@ -5881,7 +6008,8 @@
         "granulomatosis infantiseptica"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-021",
@@ -5927,7 +6055,8 @@
         "late-onset disease"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-022",
@@ -5973,7 +6102,8 @@
         "clinical presentation"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-023",
@@ -6019,7 +6149,8 @@
         "transplant"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-024",
@@ -6064,7 +6195,8 @@
         "epidemiology"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-025",
@@ -6110,7 +6242,8 @@
         "immunocompromised"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-026",
@@ -6156,7 +6289,8 @@
         "pathogenesis"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-027",
@@ -6202,7 +6336,8 @@
         "meningitis"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-028",
@@ -6247,7 +6382,8 @@
         "fluoroquinolones"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-029",
@@ -6292,7 +6428,8 @@
         "ampicillin"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-030",
@@ -6337,7 +6474,8 @@
         "gentamicin"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-031",
@@ -6383,7 +6521,8 @@
         "TMP-SMX"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-032",
@@ -6428,7 +6567,8 @@
         "efflux pumps"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-033",
@@ -6473,7 +6613,8 @@
         "mobile genetic elements"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-034",
@@ -6519,7 +6660,8 @@
         "epidemiology"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-035",
@@ -6564,7 +6706,8 @@
         "mortality"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     },
     {
       "id": "mi13-036",
@@ -6610,7 +6753,8 @@
         "epidemiology"
       ],
       "topicId": "listeria-monocytogenes",
-      "topicName": "Listeria monocytogenes"
+      "topicName": "Listeria monocytogenes",
+      "tier": "extra"
     }
   ]
 }

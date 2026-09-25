@@ -46,7 +46,8 @@
         "selective toxicity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-002",
@@ -92,7 +93,8 @@
         "mechanism of action"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-003",
@@ -138,7 +140,8 @@
         "ergosterol"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-004",
@@ -184,7 +187,8 @@
         "adverse effects"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-005",
@@ -230,7 +234,8 @@
         "diabetes insipidus"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-006",
@@ -276,7 +281,8 @@
         "erythropoietin"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-007",
@@ -322,7 +328,8 @@
         "formulations"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-008",
@@ -368,7 +375,8 @@
         "adverse effects"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-009",
@@ -414,7 +422,8 @@
         "CNS distribution"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-010",
@@ -460,7 +469,8 @@
         "ergosterol synthesis"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-011",
@@ -506,7 +516,8 @@
         "fungistatic vs fungicidal"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-012",
@@ -552,7 +563,8 @@
         "endocrine adverse effects"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
     },
     {
       "id": "mi46-013",
@@ -599,7 +611,8 @@
         "CYP2C9"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-014",
@@ -645,7 +658,8 @@
         "adverse effects"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-015",
@@ -691,7 +705,8 @@
         "oral bioavailability"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-016",
@@ -737,7 +752,8 @@
         "renal elimination"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-017",
@@ -783,7 +799,8 @@
         "drug interactions"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-018",
@@ -829,7 +846,8 @@
         "mechanism of action"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-019",
@@ -875,7 +893,8 @@
         "route of administration"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-020",
@@ -921,7 +940,8 @@
         "spectrum of activity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-021",
@@ -967,7 +987,8 @@
         "nucleic acid synthesis"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-022",
@@ -1013,7 +1034,8 @@
         "adverse effects"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-023",
@@ -1059,7 +1081,8 @@
         "renal dosing"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-024",
@@ -1105,7 +1128,8 @@
         "combination therapy"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-025",
@@ -1152,7 +1176,8 @@
         "spectrum of activity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-026",
@@ -1198,7 +1223,8 @@
         "microtubules"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-027",
@@ -1244,7 +1270,8 @@
         "tinea capitis"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-028",
@@ -1290,7 +1317,8 @@
         "drug interactions"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-029",
@@ -1336,7 +1364,8 @@
         "contraindications"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-030",
@@ -1382,7 +1411,8 @@
         "mechanism of action"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-031",
@@ -1428,7 +1458,8 @@
         "hepatotoxicity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-032",
@@ -1474,7 +1505,8 @@
         "oral thrush"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-033",
@@ -1521,7 +1553,8 @@
         "spectrum of activity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-034",
@@ -1568,7 +1601,8 @@
         "spectrum of activity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-035",
@@ -1615,7 +1649,8 @@
         "spectrum of activity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     },
     {
       "id": "mi46-036",
@@ -1661,7 +1696,8 @@
         "spectrum of activity"
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
-      "topicName": "Antifungals—Drugs to Treat Fungal Infections"
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "extra"
     }
   ]
 }

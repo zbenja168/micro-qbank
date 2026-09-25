@@ -46,7 +46,8 @@
         "metronidazole"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-002",
@@ -92,7 +93,8 @@
         "anaerobes"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-003",
@@ -138,7 +140,8 @@
         "drug interaction"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-004",
@@ -184,7 +187,8 @@
         "clinical correlation"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-005",
@@ -230,7 +234,8 @@
         "contraindication"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-006",
@@ -275,7 +280,8 @@
         "adverse effects"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-007",
@@ -321,7 +327,8 @@
         "counseling"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-008",
@@ -367,7 +374,8 @@
         "absorption"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-009",
@@ -413,7 +421,8 @@
         "biliary excretion"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-010",
@@ -459,7 +468,8 @@
         "selective toxicity"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-011",
@@ -505,7 +515,8 @@
         "trichomoniasis"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-012",
@@ -551,7 +562,8 @@
         "indications"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
     },
     {
       "id": "mi50-013",
@@ -597,7 +609,8 @@
         "protozoa"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-014",
@@ -642,7 +655,8 @@
         "adverse effects"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-015",
@@ -688,7 +702,8 @@
         "folate"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-016",
@@ -734,7 +749,8 @@
         "folate deficiency"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-017",
@@ -780,7 +796,8 @@
         "indications"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-018",
@@ -826,7 +843,8 @@
         "tinidazole"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-019",
@@ -871,7 +889,8 @@
         "principles"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-020",
@@ -917,7 +936,8 @@
         "helminths"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-021",
@@ -962,7 +982,8 @@
         "selective toxicity"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-022",
@@ -1008,7 +1029,8 @@
         "helminths"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-023",
@@ -1054,7 +1076,8 @@
         "helminths"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-024",
@@ -1100,7 +1123,8 @@
         "adverse effects"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-025",
@@ -1146,7 +1170,8 @@
         "mechanism of action"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-026",
@@ -1192,7 +1217,8 @@
         "energy depletion"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-027",
@@ -1238,7 +1264,8 @@
         "peristalsis"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-028",
@@ -1284,7 +1311,8 @@
         "hepatotoxicity"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-029",
@@ -1330,7 +1358,8 @@
         "tapeworm"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-030",
@@ -1376,7 +1405,8 @@
         "echinococcosis"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-031",
@@ -1422,7 +1452,8 @@
         "benzimidazoles"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-032",
@@ -1467,7 +1498,8 @@
         "mechanism of action"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-033",
@@ -1513,7 +1545,8 @@
         "helminths"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-034",
@@ -1558,7 +1591,8 @@
         "adverse effects"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-035",
@@ -1604,7 +1638,8 @@
         "ascariasis"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     },
     {
       "id": "mi50-036",
@@ -1650,7 +1685,8 @@
         "Trypanosoma cruzi"
       ],
       "topicId": "agents-treating-helminthic-and-protozoal-infections",
-      "topicName": "Agents treating Helminthic and Protozoal infections"
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "extra"
     }
   ]
 }
