@@ -1,0 +1,2822 @@
+{
+  "categoryId": "w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mi11-001",
+      "stem": "A 19-year-old man has a purulent wound. Gram stain of the drainage shows gram-positive cocci. When a drop of hydrogen peroxide is added to a colony from the blood agar plate, no bubbling is observed. This test result is most useful for distinguishing the isolate from which of the following organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The catalase test separates catalase-negative streptococci and enterococci from catalase-positive staphylococci.",
+        "whyCorrect": "Streptococci are gram-positive, nonmotile, non-spore-forming and uniformly catalase negative. Staphylococci produce catalase, which liberates oxygen bubbles from hydrogen peroxide. A negative catalase test therefore argues against Staphylococcus aureus and supports a streptococcal or enterococcal isolate.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus species are also catalase negative, so the test cannot separate them from streptococci.",
+          "C": "Streptococcus agalactiae is catalase negative and would also fail to bubble.",
+          "D": "Streptococcus pneumoniae is catalase negative and is not distinguished by this test.",
+          "E": "Streptococcus pyogenes is catalase negative and would give this same result."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gram-positive cocci",
+        "lab identification",
+        "catalase"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-002",
+      "stem": "A 68-year-old woman is admitted with fever, headache, and neck stiffness. Gram stain of cerebrospinal fluid shows gram-positive cocci arranged in pairs, with each coccus having a pointed, lancet-shaped end. Which of the following organisms is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lancet-shaped gram-positive diplococci are the classic morphology of Streptococcus pneumoniae.",
+        "whyCorrect": "S. pneumoniae is described as having a lancet-shaped appearance: the diplococci have a pointed end on each coccus. It is a leading cause of meningitis, and its capsule allows it to spread systemically and cross the blood-brain barrier.",
+        "whyWrongByChoice": {
+          "A": "Staphylococcus aureus forms grape-like clusters, not pairs in chains.",
+          "B": "S. agalactiae appears in chains and is a neonatal rather than elderly meningitis pathogen.",
+          "C": "S. mutans is a viridans streptococcus that appears in chains and causes dental caries.",
+          "E": "S. pyogenes appears in chains rather than as lancet-shaped pairs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gram-positive cocci",
+        "S. pneumoniae",
+        "morphology"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-003",
+      "stem": "A throat swab from a 9-year-old with a sore throat is plated on blood agar. After overnight incubation the colonies are surrounded by a completely clear, transparent zone where the red blood cells have been destroyed. Gram stain shows cocci in chains. Which of the following organisms is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus gallolyticus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mitis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Complete (beta) hemolysis on blood agar points to S. pyogenes or S. agalactiae; in a pharyngitis case it is S. pyogenes.",
+        "whyCorrect": "Streptococci are divided by how readily they lyse red blood cells. Beta hemolysis is complete destruction of RBCs, leaving a clear halo around the colony, and S. pyogenes and S. agalactiae are the beta-hemolytic species. S. pyogenes colonizes the skin and throat and is the most common bacterial cause of pharyngitis.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus species are gamma-hemolytic (or alpha), leaving red blood cells intact.",
+          "B": "S. gallolyticus subspecies generally demonstrate gamma hemolysis (nonhemolytic).",
+          "C": "S. mitis is a viridans streptococcus and is alpha-hemolytic.",
+          "D": "S. pneumoniae is alpha-hemolytic aerobically, producing partial green discoloration rather than a clear zone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemolysis",
+        "S. pyogenes",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-004",
+      "stem": "Two beta-hemolytic streptococcal isolates are tested with a bacitracin disk. Isolate 1 shows a clear zone of inhibition around the disk; isolate 2 grows right up to the edge of the disk. Which of the following statements best interprets these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both isolates belong to Lancefield group B"
+        },
+        {
+          "label": "B",
+          "text": "Isolate 1 is S. agalactiae and isolate 2 is S. pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Isolate 1 is S. pneumoniae and isolate 2 is S. mitis"
+        },
+        {
+          "label": "D",
+          "text": "Isolate 1 is S. pyogenes and isolate 2 is S. agalactiae"
+        },
+        {
+          "label": "E",
+          "text": "Neither isolate can be assigned a Lancefield group"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Group A streptococci are bacitracin sensitive; group B streptococci are bacitracin resistant.",
+        "whyCorrect": "Bacitracin is a polypeptide antibiotic that interferes with peptidoglycan synthesis. Group A streptococci such as S. pyogenes are inhibited by only a small amount of bacitracin, whereas group B streptococci such as S. agalactiae usually are not. The mnemonic B-BRAS captures this: group B strep are Resistant, group A strep are Sensitive.",
+        "whyWrongByChoice": {
+          "A": "Only the bacitracin-resistant isolate fits group B; the sensitive one is group A.",
+          "B": "This reverses the relationship; group B strep are the resistant organisms.",
+          "C": "S. pneumoniae and S. mitis are alpha-hemolytic and are separated by optochin, not bacitracin.",
+          "E": "Beta-hemolytic streptococci are precisely the group that is further classified by Lancefield grouping."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bacitracin",
+        "S. pyogenes",
+        "S. agalactiae",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-005",
+      "stem": "Sputum from a patient with lobar pneumonia grows an alpha-hemolytic, catalase-negative gram-positive coccus. Growth of the isolate is reliably inhibited around an optochin disk. Which of the following organisms is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecium"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Optochin sensitivity separates S. pneumoniae from the other alpha-hemolytic streptococci.",
+        "whyCorrect": "Optochin reliably inhibits the growth of S. pneumoniae on culture plates, while viridans and other streptococci are optochin resistant. S. pneumoniae is also the most common cause of bacterial community-acquired pneumonia, which fits the clinical picture.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecium is gamma-hemolytic and is identified by growth in 6.5% NaCl.",
+          "B": "S. agalactiae is beta-hemolytic and bacitracin resistant.",
+          "C": "S. mutans is a viridans streptococcus and is optochin resistant.",
+          "E": "S. pyogenes is beta-hemolytic and is identified with the bacitracin disk."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "optochin",
+        "S. pneumoniae",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-006",
+      "stem": "An alpha-hemolytic gram-positive coccus is recovered from blood cultures. A turbid suspension of the organism is mixed with bile, and the turbidity clears. Which of the following conclusions is best supported by this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The isolate belongs to Lancefield group A"
+        },
+        {
+          "label": "B",
+          "text": "The isolate is a viridans group streptococcus"
+        },
+        {
+          "label": "C",
+          "text": "The isolate is beta-hemolytic when grown aerobically"
+        },
+        {
+          "label": "D",
+          "text": "The isolate is bile insoluble"
+        },
+        {
+          "label": "E",
+          "text": "The isolate is Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bile solubility distinguishes bile-soluble S. pneumoniae from the bile-insoluble viridans streptococci.",
+        "whyCorrect": "The bile solubility test distinguishes bile-soluble S. pneumoniae from all other alpha-hemolytic (viridans) streptococci, which are bile insoluble. A clearing of the turbidity in the bile tube indicates a positive test, meaning the organism has lysed.",
+        "whyWrongByChoice": {
+          "A": "Lancefield grouping is applied to beta-hemolytic streptococci, not to this alpha-hemolytic isolate.",
+          "B": "Viridans group streptococci are bile insoluble, so the tube would remain turbid.",
+          "C": "S. pneumoniae is alpha-hemolytic in aerobic conditions and beta-hemolytic only anaerobically.",
+          "D": "Clearing of the tube defines a positive test, meaning the organism is bile soluble."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bile solubility",
+        "S. pneumoniae",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-007",
+      "stem": "A reference laboratory types several beta-hemolytic streptococcal isolates using panels of specific antisera, assigning each isolate to a letter group. The serologic scheme these antisera rely on is based primarily on antigenic differences in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cell wall carbohydrate composition"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic hydrolysis of the PYR substrate"
+        },
+        {
+          "label": "C",
+          "text": "Susceptibility to optochin and to bacitracin"
+        },
+        {
+          "label": "D",
+          "text": "The ability to grow in 6.5% sodium chloride"
+        },
+        {
+          "label": "E",
+          "text": "The hemolysins released onto blood agar"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lancefield grouping is a serologic scheme based on surface antigens, chiefly cell wall carbohydrates.",
+        "whyCorrect": "Streptococci are subdivided by antibodies that recognize surface antigens into Lancefield groups, which may include one or more species. Grouping is based on antigenic differences in cell wall carbohydrates (groups A to V), in cell wall pili-associated protein, and in the polysaccharide capsule in group B streptococci.",
+        "whyWrongByChoice": {
+          "B": "The PYR test is a biochemical assay for a specific enzyme, not an antigen-antibody reaction.",
+          "C": "Optochin and bacitracin susceptibility are physiologic tests, not serologic grouping.",
+          "D": "Salt tolerance is a biochemical test used to separate Enterococcus from nonenterococcal group D organisms.",
+          "E": "Hemolysin activity defines the alpha, beta, and gamma hemolytic patterns, a separate classification method."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Lancefield grouping",
+        "lab identification",
+        "serology"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-008",
+      "stem": "A urine culture from a hospitalized 71-year-old man grows a catalase-negative, gamma-hemolytic gram-positive coccus. When the isolate is tested with the pyrrolidonyl arylamidase (PYR) reagent, the reagent turns cherry-red. Which of the following organisms is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus gallolyticus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus mitis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A positive PYR test narrows a gram-positive coccus to S. pyogenes or Enterococcus; gamma hemolysis then points to Enterococcus.",
+        "whyCorrect": "The PYR test is used for presumptive identification of S. pyogenes and Enterococcus spp.; hydrolysis of the substrate turns the reagent pink or cherry-red. Since this isolate is gamma-hemolytic rather than beta-hemolytic, it is an Enterococcus, and enterococci commonly cause urinary tract infections.",
+        "whyWrongByChoice": {
+          "B": "S. agalactiae is beta-hemolytic and is not a PYR-positive organism.",
+          "C": "S. gallolyticus is gamma-hemolytic but is not identified by a positive PYR reaction.",
+          "D": "S. mitis is an alpha-hemolytic viridans streptococcus of the oral cavity.",
+          "E": "S. pneumoniae is alpha-hemolytic and is identified by optochin sensitivity and bile solubility."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PYR test",
+        "Enterococcus",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-009",
+      "stem": "Two nonhemolytic, catalase-negative gram-positive cocci are recovered from separate blood cultures. Both organisms grow in the presence of bile, but only isolate B also grows in broth containing 6.5% sodium chloride. Isolate B is best identified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecium"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus gallolyticus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mitis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Both group D strep and enterococci grow in bile, but only Enterococcus grows in 6.5% NaCl.",
+        "whyCorrect": "Enterococcus spp. are very similar to group D strep such as S. gallolyticus but can be distinguished by their ability to grow in salt. Both S. gallolyticus and Enterococcus spp. grow in bile, but only Enterococcus grows in 6.5% NaCl media. E. faecalis and E. faecium are nonhemolytic and are the two named species.",
+        "whyWrongByChoice": {
+          "B": "S. gallolyticus grows in bile but does not tolerate 6.5% NaCl, matching isolate A instead.",
+          "C": "S. mitis is an alpha-hemolytic viridans streptococcus, not a salt-tolerant nonhemolytic organism.",
+          "D": "S. pneumoniae is alpha-hemolytic and bile soluble rather than nonhemolytic and salt tolerant.",
+          "E": "S. pyogenes is beta-hemolytic and would not be described as nonhemolytic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Enterococcus",
+        "group D streptococci",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-010",
+      "stem": "A 7-year-old girl has 2 days of sore throat and malaise. Her temperature is 38.9 C (102 F), her pharynx is erythematous with enlarged tonsils, and she has tender anterior cervical nodes. She has no cough, rhinorrhea, or conjunctivitis. Which of the following features most strongly supports a bacterial rather than a viral cause of her pharyngitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accompanying conjunctival injection"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse lower respiratory symptoms"
+        },
+        {
+          "label": "C",
+          "text": "Fever with cervical lymphadenopathy"
+        },
+        {
+          "label": "D",
+          "text": "Prominent rhinorrhea with a cough"
+        },
+        {
+          "label": "E",
+          "text": "The absence of any measurable fever"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fever plus cervical adenopathy without upper respiratory symptoms favors streptococcal pharyngitis over a viral cause.",
+        "whyCorrect": "S. pyogenes is the most common bacterial cause of pharyngitis, and patients present with a combination of fever, malaise, sore throat, and cervical lymphadenopathy. Viruses are by far the most common cause of pharyngitis overall, but they usually present without fever or adenopathy and with other respiratory symptoms.",
+        "whyWrongByChoice": {
+          "A": "Conjunctivitis is one of the upper respiratory findings that suggests a viral cause.",
+          "B": "Lower respiratory tract symptoms accompany viral pharyngitis rather than GAS infection.",
+          "D": "Rhinorrhea and cough are viral features rather than features of strep throat.",
+          "E": "Lack of fever is characteristic of viral pharyngitis, not streptococcal disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharyngitis",
+        "S. pyogenes",
+        "epidemiology"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-011",
+      "stem": "A child with fever and a sore throat has a rapid strep test performed on a throat swab in clinic. A visible line appears within minutes, confirming the diagnosis. This point-of-care assay detects which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A group-specific carbohydrate antigen"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial catalase enzyme activity"
+        },
+        {
+          "label": "C",
+          "text": "Hemolysin released onto a blood agar plate"
+        },
+        {
+          "label": "D",
+          "text": "Serum antibody against streptolysin O"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcal DNA amplified by PCR"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The rapid strep test is an antibody-based immunoassay for the group A carbohydrate antigen on a throat swab.",
+        "whyCorrect": "In the clinic, the rapid antigen detection test for strep detects S. pyogenes by identifying the group-specific carbohydrate antigen in a throat swab using antibody-based immunoassay technology. A visible line indicates a positive result within minutes, which is very useful for confirming a diagnosis of strep throat.",
+        "whyWrongByChoice": {
+          "B": "Streptococci are catalase negative, so catalase activity is not the target of this assay.",
+          "C": "Hemolysin activity is assessed by culture on blood agar, not by a swab-based strip test.",
+          "D": "Anti-streptolysin O titers document a recent infection serologically, not an acute throat swab result.",
+          "E": "The rapid test described uses immunoassay technology rather than nucleic acid amplification."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rapid antigen test",
+        "S. pyogenes",
+        "lab identification"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi11-012",
+      "stem": "A 5-year-old boy has several crusted lesions on his chin and around his nose. The lesions are erythematous and covered with a honey-colored crust; no blisters are present. Nonbullous impetigo is diagnosed. Although S. pyogenes can produce these lesions, which of the following organisms is the most common cause of both nonbullous and bullous impetigo?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Impetigo caused by S. pyogenes is nonbullous, but S. aureus is the most common cause of impetigo overall.",
+        "whyCorrect": "Impetigo is an epidermal skin infection producing crusted lesions at the site of inoculation, and impetigo caused by S. pyogenes is specifically nonbullous (nonblistering). Staphylococcus aureus, however, is the most common cause of both nonbullous and bullous impetigo.",
+        "whyWrongByChoice": {
+          "A": "Enterococci cause endocarditis, urinary, biliary, and wound infections rather than impetigo.",
+          "C": "S. agalactiae colonizes the vagina and GI tract and causes neonatal invasive disease, not impetigo.",
+          "D": "S. mutans is an oral organism that causes dental caries and subacute endocarditis.",
+          "E": "S. pneumoniae causes respiratory and systemic infections rather than crusted skin lesions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "impetigo",
+        "S. pyogenes",
+        "skin infection"
+      ],
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-001",
+      "stem": "A 61-year-old man is taken to the operating room for a necrotizing infection of the thigh. Anaerobic culture of the debrided tissue grows rapidly overnight, and Gram stain of the isolate shows rods containing refractile terminal swellings. Which of the following best describes the genus to which this organism belongs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-negative, aerobic, spore-forming bacilli"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative, aerobic, spore-forming coccobacilli"
+        },
+        {
+          "label": "C",
+          "text": "Gram-negative, anaerobic, spore-forming cocci"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive, aerobic, non-spore-forming bacilli"
+        },
+        {
+          "label": "E",
+          "text": "Gram-positive, anaerobic, spore-forming bacilli"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clostridia are gram-positive, obligate anaerobic, spore-forming rods.",
+        "whyCorrect": "Every clinically significant Clostridium species is a gram-positive, obligate anaerobic rod that forms endospores. The spores give the terminal swellings seen on Gram stain and allow the organism to survive oxygen exposure, heat, and drying. Rapid growth on anaerobic culture is also typical of the genus.",
+        "whyWrongByChoice": {
+          "A": "Clostridia stain gram-positive, not gram-negative, and they are obligate anaerobes rather than aerobes.",
+          "B": "Clostridia are neither gram-negative nor aerobic, and they are true bacilli rather than coccobacilli.",
+          "C": "Clostridia are rods (bacilli), not cocci, and they are gram-positive.",
+          "D": "Clostridia are obligate anaerobes and they do form spores, so an aerobic non-spore-former does not fit."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "taxonomy",
+        "gram-positive rods",
+        "spores"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-002",
+      "stem": "A microbiology technologist performs motility testing on isolates of the five clinically significant Clostridia species. Four of the isolates are flagellated and motile, but one is consistently nonmotile. Which of the following is the nonmotile species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium botulinum"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium septicum"
+        },
+        {
+          "label": "E",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C. perfringens is the exception to the rule that Clostridia are flagellated and motile.",
+        "whyCorrect": "With the exception of C. perfringens, Clostridia species are flagellated, motile organisms. C. perfringens lacks flagella and is nonmotile, which is a useful laboratory clue when an anaerobic gram-positive rod is recovered from a wound or from contaminated meat.",
+        "whyWrongByChoice": {
+          "A": "C. difficile is one of the motile Clostridia species.",
+          "B": "C. botulinum is flagellated and motile like most of the genus.",
+          "D": "C. septicum is motile; only C. perfringens is the stated exception.",
+          "E": "C. tetani is among the flagellated, motile Clostridia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lab identification",
+        "motility",
+        "C. perfringens"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-003",
+      "stem": "A 34-year-old man sustains a crush injury to the forearm in a farming accident. Tissue from the wound is plated on blood agar and incubated anaerobically. At 24 hours there are large, rapidly growing colonies, each surrounded by an inner zone of complete hemolysis and an outer zone of partial hemolysis. Which of the following organisms is most likely growing on this plate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium botulinum"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium septicum"
+        },
+        {
+          "label": "E",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A double zone of hemolysis on blood agar is the classic colony appearance of C. perfringens.",
+        "whyCorrect": "C. perfringens produces a variety of toxins that, in addition to increasing virulence, generate a double ring of hemolysis around the colony on blood agar. Alpha toxin contributes to this pattern by perforating red blood cells. C. perfringens is also one of the two beta-hemolytic Clostridia and grows rapidly, matching the plate described.",
+        "whyWrongByChoice": {
+          "A": "C. difficile is gamma-hemolytic and does not lyse red blood cells, so no zone of hemolysis would appear.",
+          "B": "C. botulinum is gamma-hemolytic and would leave the blood agar unchanged.",
+          "D": "C. septicum is gamma-hemolytic and would not produce the double ring described.",
+          "E": "C. tetani is beta-hemolytic but produces a single zone of hemolysis, not a double ring."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "lab identification",
+        "hemolysis",
+        "C. perfringens"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-004",
+      "stem": "Gram stain of an anaerobic isolate recovered from a soil-contaminated wound shows slender bacilli, many with a terminal swelling that gives the cell a drumstick appearance. These structures are most directly responsible for which of the following properties?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Attachment to colonic mucosa by surface pili"
+        },
+        {
+          "label": "B",
+          "text": "Fermentation of lactose on selective MacConkey agar"
+        },
+        {
+          "label": "C",
+          "text": "Inactivation of host complement proteins"
+        },
+        {
+          "label": "D",
+          "text": "Production of a thick polysaccharide capsule"
+        },
+        {
+          "label": "E",
+          "text": "Resistance to detergents, heat, and desiccation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The drumstick structures are endospores, which confer resistance to detergents, heat, and drying.",
+        "whyCorrect": "Certain Clostridia species are resistant to detergents, heat, and desiccation because they form endospores, and the spores of Clostridia have a characteristic drumstick appearance on stained smears. This durability is what allows Clostridia to survive adverse conditions, including the presence of oxygen, and to persist in soil and in hospital environments.",
+        "whyWrongByChoice": {
+          "A": "Adhesion to mucosa is a function of surface adhesins, not of the endospore, which is a dormant survival form.",
+          "B": "Spores have nothing to do with sugar fermentation, and MacConkey agar is a selective medium for gram-negative enteric organisms.",
+          "C": "Endospores are structural survival forms and do not act enzymatically on complement.",
+          "D": "A capsule is a separate surface structure; the drumstick appearance reflects an endospore within the cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "spores",
+        "virulence",
+        "lab identification"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-005",
+      "stem": "A 74-year-old woman develops profuse watery diarrhea on hospital day 9, six days after completing a course of antibiotics for pneumonia. The patient who occupied the same room the week before had an identical illness, and the room was cleaned between admissions. Which property of the responsible organism best explains this pattern of spread?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It forms biofilms on indwelling intravenous catheters"
+        },
+        {
+          "label": "B",
+          "text": "It forms endospores that resist detergents and drying"
+        },
+        {
+          "label": "C",
+          "text": "It grows only at temperatures above 42°C"
+        },
+        {
+          "label": "D",
+          "text": "It is transmitted by respiratory droplets over long distances"
+        },
+        {
+          "label": "E",
+          "text": "It survives within host macrophages for weeks"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "C. difficile spores resist routine cleaning, which is why the organism spreads between hospitalized patients.",
+        "whyCorrect": "The ability to form spores makes C. difficile very difficult to eliminate from hospitals, and spread from patient to patient across rooms is a major concern. The spores resist detergents, heat, and desiccation, so ordinary cleaning does not reliably remove them, and proper infection-control protocols are required to prevent transmission within a facility.",
+        "whyWrongByChoice": {
+          "A": "Catheter biofilm is not the mechanism; the reservoir here is spores on environmental surfaces.",
+          "C": "Growth at high temperature is not a feature of C. difficile and would not explain environmental persistence.",
+          "D": "C. difficile spreads by the fecal-oral route from spores in stool, not by respiratory droplets.",
+          "E": "C. difficile causes toxin-mediated colitis at the mucosal surface rather than surviving as an intracellular pathogen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "C. difficile",
+        "spores",
+        "nosocomial infection"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-006",
+      "stem": "An infection-control team screens stool specimens for asymptomatic Clostridioides difficile carriage in two groups: healthy community-dwelling adults and currently hospitalized inpatients. Which of the following pairs of carriage rates (healthy adults; hospitalized patients) is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 5%; 20% to 50%"
+        },
+        {
+          "label": "B",
+          "text": "Less than 5%; 5% to 10%"
+        },
+        {
+          "label": "C",
+          "text": "Less than 5%; less than 5%"
+        },
+        {
+          "label": "D",
+          "text": "20% to 50%; 60% to 80%"
+        },
+        {
+          "label": "E",
+          "text": "20% to 50%; less than 5%"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C. difficile colonizes fewer than 5% of healthy adults but 20% to 50% of hospitalized patients.",
+        "whyCorrect": "C. difficile may be found as normal intestinal flora, but colonization rates are relatively low in healthy adults at less than 5%. In contrast, colonization rates are high in hospitalized patients, in the range of 20% to 50%, because spores persist on hospital surfaces and antibiotic exposure clears the competing normal flora.",
+        "whyWrongByChoice": {
+          "B": "This underestimates inpatient carriage, which reaches 20% to 50%.",
+          "C": "This misses the marked increase in carriage that occurs with hospitalization.",
+          "D": "Healthy adults are colonized at well under 5%, not at 20% to 50%.",
+          "E": "The rates are reversed; the high rate belongs to hospitalized patients, not healthy adults."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C. difficile",
+        "epidemiology",
+        "colonization"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-007",
+      "stem": "A nurse cares for a patient with active Clostridioides difficile diarrhea, cleans her hands with an alcohol-based gel, and then cares for a second patient. Four days later the second patient develops malodorous watery diarrhea and tests positive for the same organism. Which of the following routes of transmission is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bloodborne spread from a contaminated intravenous line"
+        },
+        {
+          "label": "B",
+          "text": "Direct inoculation of spores into broken skin on the hands"
+        },
+        {
+          "label": "C",
+          "text": "Fecal-oral transfer of spores on hands and surfaces"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of preformed toxin present in hospital food"
+        },
+        {
+          "label": "E",
+          "text": "Inhalation of aerosols from the ventilation system"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C. difficile is spread person to person by the fecal-oral route because spores are shed in feces.",
+        "whyCorrect": "C. difficile may be spread from human to human by the fecal-oral route, as the spores can be found in feces. Coming into contact with surfaces contaminated with C. difficile-infected feces can spread the infection, and because the spores resist detergents and drying, hand and environmental contamination readily carries the organism from one patient to the next.",
+        "whyWrongByChoice": {
+          "A": "C. difficile causes a toxin-mediated colitis rather than a line-associated bloodstream infection.",
+          "B": "Inoculation through broken skin describes how C. tetani and C. perfringens enter, not C. difficile.",
+          "D": "C. difficile toxins are produced in the colon after the organism overgrows; disease does not follow ingestion of preformed toxin.",
+          "E": "C. difficile is an enteric pathogen acquired by ingestion, not an airborne respiratory organism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C. difficile",
+        "transmission",
+        "infection control"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-008",
+      "stem": "A 46-year-old farmer steps on a nail that penetrates his boot and drives soil deep into the plantar surface of his foot. Eight days later he develops jaw stiffness and painful spasms of the back muscles. Which feature of a deep puncture wound best explains why it favors the responsible organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It destroys circulating neutrophils throughout the extremity"
+        },
+        {
+          "label": "B",
+          "text": "It exposes the organism to high oxygen tension, triggering toxin release"
+        },
+        {
+          "label": "C",
+          "text": "It introduces the organism directly into the systemic circulation"
+        },
+        {
+          "label": "D",
+          "text": "It provides an anaerobic, nutrient-rich niche for spore germination"
+        },
+        {
+          "label": "E",
+          "text": "It raises local tissue pH, which activates bacterial proteases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Puncture wounds create the anaerobic, nutrient-rich conditions C. tetani spores need to germinate.",
+        "whyCorrect": "C. tetani is most commonly found in soil and can be inoculated into soft tissue following a puncture wound. Puncture wounds and trauma increase access to nutrients and provide an anaerobic environment for C. tetani spores to germinate and cause disease. Because C. tetani is an obligate anaerobe, this low-oxygen pocket is essential to converting dormant spores into toxin-producing bacteria.",
+        "whyWrongByChoice": {
+          "A": "Neutrophil destruction is not how a puncture wound promotes tetanus; the key factor is the anaerobic environment.",
+          "B": "Oxygen exposure is precisely what these obligate anaerobes avoid; spores stay dormant when oxygen is present.",
+          "C": "Tetanus results from local germination and toxin production in the wound rather than from bloodstream inoculation.",
+          "E": "Tissue pH is not the stated determinant; access to nutrients and low oxygen tension are."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C. tetani",
+        "epidemiology",
+        "spores"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-009",
+      "stem": "A 3-month-old girl is brought to the emergency department with 4 days of constipation and poor feeding. Her mother says the baby seems droopy and her sucking is weak. On further history, the mother reports that a relative advised her to put a sweet substance on her nipple to encourage the baby to feed. Which of the following is the most likely source of this infant's illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Home-canned green beans"
+        },
+        {
+          "label": "B",
+          "text": "Honey"
+        },
+        {
+          "label": "C",
+          "text": "Soy-based infant formula"
+        },
+        {
+          "label": "D",
+          "text": "Undercooked ground beef"
+        },
+        {
+          "label": "E",
+          "text": "Unpasteurized apple cider"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Honey is the most common source of the C. botulinum spores that cause infant botulism.",
+        "whyCorrect": "Honey is the most common source of the spores that transmit botulism to infants, which is why honey is avoided in children under 1 year of age. In infants under 2 years, ingested C. botulinum spores germinate in the immature bowel and produce toxin in situ, causing constipation followed by poor feeding, weak suck, and generalized hypotonia.",
+        "whyWrongByChoice": {
+          "A": "Home-canned foods such as green beans are a classic source of preformed toxin in adults rather than the usual source in infants.",
+          "C": "Soy-based formula is a recognized source of C. botulinum contamination but is not the most common source in infants, and it was not what this mother described.",
+          "D": "Undercooked meat transmits C. perfringens food poisoning, which causes watery diarrhea rather than hypotonia.",
+          "E": "Unpasteurized cider is not a described source of Clostridia and does not fit the sweet substance applied to the nipple."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "C. botulinum",
+        "infant botulism",
+        "epidemiology"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-010",
+      "stem": "At least 21 people who attended a church potluck dinner develop blurred vision, difficulty swallowing, and progressive weakness of the arms within 24 hours of the meal, and one 54-year-old woman dies. Investigators trace the illness to a potato salad prepared with home-canned potatoes. Which of the following is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha toxin of C. perfringens"
+        },
+        {
+          "label": "B",
+          "text": "Heat-labile enterotoxin of C. perfringens"
+        },
+        {
+          "label": "C",
+          "text": "Preformed botulinum toxin of C. botulinum"
+        },
+        {
+          "label": "D",
+          "text": "Tetanospasmin of C. tetani"
+        },
+        {
+          "label": "E",
+          "text": "Toxins A and B of C. difficile"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Home-canned foods are a classic source of preformed botulinum toxin causing foodborne botulism in adults.",
+        "whyCorrect": "C. botulinum is associated with foodborne illness, and home-canned foods are a recognized source of contamination. In adults, botulism results from ingestion of preformed toxin rather than from spores. The toxin blocks acetylcholine release at the neuromuscular junction, producing a descending paralysis that begins with the cranial nerves and causes blurred vision and dysphagia before limb weakness.",
+        "whyWrongByChoice": {
+          "A": "Alpha toxin causes myonecrosis and hemolysis in infected wounds, not a foodborne neurologic illness.",
+          "B": "C. perfringens enterotoxin causes watery diarrhea within hours of eating meat, not cranial nerve palsies or paralysis.",
+          "D": "Tetanospasmin causes spastic paralysis and lockjaw after wound inoculation, the opposite of a descending flaccid weakness after a meal.",
+          "E": "C. difficile toxins act on the colon to produce diarrhea and pseudomembranous colitis, and follow antibiotic use rather than a shared meal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C. botulinum",
+        "foodborne illness",
+        "outbreak"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-011",
+      "stem": "A 10-month-old girl and her 6-year-old brother are both given honey by a caregiver. Two weeks later the infant is admitted with constipation, a weak cry, and generalized hypotonia, while her brother remains entirely well. Which of the following best explains why only the infant became ill?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The infant has a gastric pH too low to destroy the spores"
+        },
+        {
+          "label": "B",
+          "text": "The infant has a more permeable blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "The infant ingested a larger dose of toxin per kilogram"
+        },
+        {
+          "label": "D",
+          "text": "The infant lacks transplacental maternal antibody against the toxin"
+        },
+        {
+          "label": "E",
+          "text": "The infant's immature GI tract allows ingested spores to germinate"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Infants under 2 years are susceptible to botulism because their immature GI tract lets ingested spores germinate.",
+        "whyCorrect": "Infants younger than 2 years of age are especially susceptible because their GI tracts are immature and allow ingested spores to germinate in the bowel. In children older than 2 years the GI tract is more developed and can move the bacterial toxin through the gut before it has the opportunity to cause damage, so the older sibling is protected.",
+        "whyWrongByChoice": {
+          "A": "A low gastric pH would be protective; the stated mechanism is an immature gut that permits germination.",
+          "B": "Botulinum toxin acts peripherally at the neuromuscular junction, so blood-brain barrier permeability is not the issue.",
+          "C": "Both children ingested the same food; the difference lies in whether spores can germinate, not in the dose received.",
+          "D": "Susceptibility is explained by gut maturity and spore germination, not by the presence or absence of maternal antibody."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "C. botulinum",
+        "infant botulism",
+        "pathogenesis"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi12-012",
+      "stem": "A 28-year-old man develops abdominal cramping and profuse watery diarrhea 8 hours after eating reheated beef at a buffet. He has no fever and no vomiting, and his symptoms resolve completely the next day. Which of the following virulence factors is responsible for his illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A heat-labile enterotoxin"
+        },
+        {
+          "label": "B",
+          "text": "Alpha toxin, a lecithinase"
+        },
+        {
+          "label": "C",
+          "text": "Botulinum toxin"
+        },
+        {
+          "label": "D",
+          "text": "Tetanospasmin, a protease"
+        },
+        {
+          "label": "E",
+          "text": "Toxin B, a cytotoxin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "C. perfringens food poisoning is caused by a heat-labile enterotoxin acting on the intestinal epithelium.",
+        "whyCorrect": "In addition to the toxins responsible for wound disease, C. perfringens possesses a heat-labile enterotoxin that acts on the intestinal epithelium and leads to profuse watery diarrhea. The illness follows ingestion of undercooked or contaminated meats, has an incubation period on the order of a few hours, and occurs without fever or emesis.",
+        "whyWrongByChoice": {
+          "B": "Alpha toxin is the lecithinase responsible for myonecrosis and hemolysis in wound infection, not for foodborne diarrhea.",
+          "C": "Botulinum toxin causes descending flaccid paralysis, not cramping and watery diarrhea.",
+          "D": "Tetanospasmin is produced by C. tetani and causes spastic paralysis rather than gastrointestinal illness.",
+          "E": "Toxin B is a C. difficile cytotoxin and produces antibiotic-associated colitis, not a few-hour foodborne illness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C. perfringens",
+        "food poisoning",
+        "enterotoxin"
+      ],
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-001",
+      "stem": "A 68-year-old man with non-Hodgkin lymphoma is admitted with fever and confusion. Cerebrospinal fluid culture grows a facultative intracellular bacterium that tends to appear in clusters and pairs and that also grows well at 4°C. Gram stain of this isolate is most likely to show which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Branching, partially acid-fast filaments"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative coccobacilli"
+        },
+        {
+          "label": "C",
+          "text": "Gram-negative diplococci"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive cocci in clusters"
+        },
+        {
+          "label": "E",
+          "text": "Gram-positive rods"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Listeria monocytogenes is a gram-positive, facultative intracellular rod that grows in clusters and pairs and thrives at cold temperatures.",
+        "whyCorrect": "The combination of facultative intracellular growth, a clustered and paired arrangement, and replication at refrigeration temperature identifies L. monocytogenes. On Gram stain the organism is a gram-positive rod. Its tendency to line up in clusters or pairs makes the arrangement superficially resemble Streptococcus, which is a classic reason it is misread on direct smear.",
+        "whyWrongByChoice": {
+          "A": "Branching, partially acid-fast filaments describe Nocardia, a filamentous organism with a completely different morphology from Listeria.",
+          "B": "Gram-negative coccobacilli describe organisms such as Haemophilus; Listeria retains crystal violet and stains gram-positive.",
+          "C": "Gram-negative diplococci describe Neisseria species, which are not facultative intracellular rods and do not grow at 4°C.",
+          "D": "Gram-positive cocci in clusters describes staphylococci; Listeria is a rod, even though its clustered arrangement can mimic a coccal pattern."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gram-positive rod",
+        "taxonomy",
+        "morphology"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-002",
+      "stem": "A public health laboratory is trying to recover a bacterial pathogen from refrigerated deli meat implicated in an outbreak. The specimen is held at 4°C (39.2°F) for a prolonged period before subculture, which allows the suspected organism to outgrow competing flora. This technique is most useful for isolating which of the following organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cold enrichment at 4°C selectively recovers Listeria monocytogenes, which is unusual among bacteria in growing at refrigeration temperature.",
+        "whyCorrect": "Unlike most bacteria, L. monocytogenes grows well in culture at temperatures as low as 4°C (39.2°F), a property exploited in the laboratory technique called cold enrichment. Holding a contaminated specimen in the cold suppresses other flora while Listeria continues to multiply. This same cold tolerance is why the organism persists in cooked, refrigerated foods.",
+        "whyWrongByChoice": {
+          "A": "Haemophilus influenzae is a fastidious organism requiring X and V factors at 35–37°C and does not replicate at refrigeration temperature.",
+          "C": "Neisseria meningitidis is cold-sensitive and fastidious; specimens are kept warm rather than chilled to preserve viability.",
+          "D": "Streptococcus pneumoniae grows optimally near body temperature and is not recovered by prolonged incubation in the cold.",
+          "E": "Streptococcus pyogenes requires enriched media near body temperature and would not outgrow competitors at 4°C."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cold enrichment",
+        "lab identification"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-003",
+      "stem": "An isolate from the blood of a 3-day-old newborn is streaked onto sheep blood agar perpendicular to a streak of Staphylococcus aureus. Where the two streaks converge, an area of enhanced, synergistic lysis of erythrocytes appears. Gram stain of the isolate shows gram-positive rods. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "B",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "C",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A positive CAMP test in a gram-positive rod points to Listeria monocytogenes.",
+        "whyCorrect": "L. monocytogenes is CAMP test positive: its zone of hemolysis is enhanced when the organism is grown adjacent to S. aureus on blood agar, producing synergistic lysis of red blood cells. Combined with gram-positive rod morphology, this finding is characteristic of Listeria. It is one of the standard bench findings used to identify the organism.",
+        "whyWrongByChoice": {
+          "A": "Corynebacterium diphtheriae is a gram-positive rod but is not beta-hemolytic and does not show CAMP synergy with S. aureus.",
+          "B": "Enterococcus faecalis is a gram-positive coccus, not a rod, and does not give the arrowhead pattern of enhanced hemolysis.",
+          "D": "Staphylococcus epidermidis is a gram-positive coccus and is typically nonhemolytic on sheep blood agar.",
+          "E": "Streptococcus pyogenes is a gram-positive coccus that produces a wide zone of beta-hemolysis on its own, without synergy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CAMP test",
+        "lab identification",
+        "hemolysis"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-004",
+      "stem": "A gram-positive organism recovered from the cerebrospinal fluid of a 74-year-old man produces immediate vigorous bubbling when a colony is exposed to hydrogen peroxide. This single result argues most strongly against which of the following identifications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "B",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus agalactiae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Listeria species are catalase positive, which separates them from the catalase-negative streptococci.",
+        "whyCorrect": "Bubbling with hydrogen peroxide indicates catalase activity. Listeria spp. are catalase positive, as are staphylococci and corynebacteria. Streptococci, including S. agalactiae, are catalase negative, so a strongly positive catalase test excludes that identification. Catalase is therefore a useful first test when a gram-positive organism from CSF could be either Listeria or a streptococcus.",
+        "whyWrongByChoice": {
+          "A": "Corynebacterium diphtheriae is catalase positive, so a positive test does not argue against it.",
+          "B": "Listeria monocytogenes is catalase positive, so a positive test is fully compatible with this organism rather than against it.",
+          "C": "Staphylococcus aureus is catalase positive, so the result supports rather than excludes this organism.",
+          "D": "Staphylococcus epidermidis is also catalase positive and remains compatible with the result."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "catalase",
+        "lab identification"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-005",
+      "stem": "Sheep blood agar inoculated with cerebrospinal fluid from a 2-week-old infant grows small colonies of gram-positive rods. Each colony is surrounded by a clear zone that extends only slightly past the colony edge. Which of the following best describes this isolate's hemolytic pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A narrow zone of beta-hemolysis"
+        },
+        {
+          "label": "B",
+          "text": "A wide zone of beta-hemolysis"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-hemolysis with green discoloration of the agar"
+        },
+        {
+          "label": "D",
+          "text": "Gamma-hemolysis with no change in the agar"
+        },
+        {
+          "label": "E",
+          "text": "Hemolysis only when incubated anaerobically"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Listeria monocytogenes is weakly beta-hemolytic, producing only a narrow zone of clearing on sheep blood agar.",
+        "whyCorrect": "Listeria spp. are weakly beta-hemolytic organisms that exhibit a narrow zone of hemolysis when grown on sheep's blood agar. The clearing is complete but subtle, extending just beyond the colony. This weak hemolysis is why the CAMP test, which enhances the zone next to S. aureus, is so helpful for identification.",
+        "whyWrongByChoice": {
+          "B": "A wide zone of beta-hemolysis is typical of S. pyogenes; Listeria hemolysis is described as weak and narrow.",
+          "C": "Alpha-hemolysis produces partial lysis with a green discoloration and is characteristic of organisms such as S. pneumoniae, not Listeria.",
+          "D": "Gamma-hemolysis means no lysis at all; Listeria does clear the agar, just over a narrow zone.",
+          "E": "Listeria hemolysis is readily seen under routine aerobic incubation and is not conditional on anaerobiosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hemolysis",
+        "lab identification"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-006",
+      "stem": "A broth culture of a gram-positive rod is incubated at room temperature and examined as a wet mount. The bacteria show a characteristic end-over-end tumbling movement. Which of the following bacterial structures produces this form of motility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A polysaccharide capsule"
+        },
+        {
+          "label": "B",
+          "text": "A type III secretion apparatus"
+        },
+        {
+          "label": "C",
+          "text": "Fimbriae"
+        },
+        {
+          "label": "D",
+          "text": "Flagella"
+        },
+        {
+          "label": "E",
+          "text": "Polymerized host cell actin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Outside the host cell at room temperature, Listeria monocytogenes shows flagella-driven tumbling motility.",
+        "whyCorrect": "Listeria spp. are flagellated, motile organisms. Outside of the cell at room temperature, L. monocytogenes is characterized by a classic tumbling motility in broth culture that is facilitated by its flagella. This extracellular tumbling is distinct from the organism's second, intracellular mode of movement.",
+        "whyWrongByChoice": {
+          "A": "A capsule is a protective surface layer and contributes nothing to bacterial locomotion.",
+          "B": "A type III secretion apparatus injects effector proteins into host cells and does not propel the bacterium.",
+          "C": "Fimbriae mediate adherence to surfaces and do not generate the propulsive end-over-end movement seen here.",
+          "E": "Polymerized host actin drives the organism's intracellular actin rockets, not the extracellular tumbling seen in broth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "motility",
+        "flagella"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-007",
+      "stem": "Fluorescence microscopy of infected intestinal epithelial cells shows bacilli within the cytoplasm, each trailing a comet-shaped tail of rapidly polymerized host actin that propels the organism into adjacent cells. Which of the following bacterial products mediates this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ActA"
+        },
+        {
+          "label": "B",
+          "text": "Flagellin"
+        },
+        {
+          "label": "C",
+          "text": "Internalin A"
+        },
+        {
+          "label": "D",
+          "text": "Listeriolysin O"
+        },
+        {
+          "label": "E",
+          "text": "Phospholipase C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ActA is the Listeria protein that mediates intracellular motility by driving host actin polymerization.",
+        "whyCorrect": "Inside the host cell, L. monocytogenes forms actin rockets, using rapidly polymerized actin to move among and within host cells. ActA is the protein that mediates this intracellular motility via actin polymerization. This mechanism lets the organism spread cell to cell without re-entering the extracellular space, where antibodies could reach it.",
+        "whyWrongByChoice": {
+          "B": "Flagellin forms the flagella responsible for extracellular tumbling motility, not intracellular actin-based propulsion.",
+          "C": "Internalin A is a surface protein that mediates adhesion to and invasion of enterocytes, a step that precedes cytoplasmic movement.",
+          "D": "Listeriolysin O disrupts the phagosomal membrane so the organism escapes into the cytosol; it does not build actin tails.",
+          "E": "Phospholipase C also works on host membranes to allow phagosomal escape rather than driving actin polymerization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ActA",
+        "virulence factor",
+        "actin rockets"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-008",
+      "stem": "After being taken up by a macrophage through phagocytosis, Listeria monocytogenes escapes into the cytosol rather than being digested. Which of the following bacterial products is most directly responsible for this escape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ActA surface protein"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial catalase"
+        },
+        {
+          "label": "C",
+          "text": "Flagellin monomers"
+        },
+        {
+          "label": "D",
+          "text": "Internalin A protein"
+        },
+        {
+          "label": "E",
+          "text": "Listeriolysin O"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Listeriolysin O lets Listeria avoid digestion in the phagosome by disrupting the host membrane.",
+        "whyCorrect": "Listeriolysin O helps the bacterium avoid digestion in phagosomes after host cell entry via phagocytosis. Its mechanism is host cell membrane disruption, which is also why the organism lyses erythrocytes and appears hemolytic on blood agar. Escaping into the cytosol is the step that permits the organism to survive as a facultative intracellular pathogen.",
+        "whyWrongByChoice": {
+          "A": "ActA mediates intracellular movement through actin polymerization only after the organism has already reached the cytosol.",
+          "B": "Catalase is a metabolic enzyme used for laboratory identification and is not the factor described as mediating phagosomal escape.",
+          "C": "Flagellin builds flagella for extracellular tumbling motility and has no role in breaching the phagosomal membrane.",
+          "D": "Internalin A mediates attachment to and invasion of host cells, a step that occurs before the organism is inside a phagosome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "listeriolysin O",
+        "virulence factor",
+        "phagosome escape"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-009",
+      "stem": "A mutant strain of Listeria monocytogenes is constructed in the laboratory. When macrophages are infected with it, the bacteria remain confined within phagosomes and are degraded. Loss of which of the following pairs of products best explains this phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ActA protein and flagellin subunits"
+        },
+        {
+          "label": "B",
+          "text": "Catalase and superoxide dismutase"
+        },
+        {
+          "label": "C",
+          "text": "Coagulase and staphylococcal protein A"
+        },
+        {
+          "label": "D",
+          "text": "Internalin A and internalin B proteins"
+        },
+        {
+          "label": "E",
+          "text": "Listeriolysin O and phospholipase C"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Listeriolysin O and phospholipase C together allow Listeria to break out of the phagosome after being ingested.",
+        "whyCorrect": "Listeriolysin O and phospholipase C enzymes help the bacteria avoid digestion in phagosomes following host cell entry via phagocytosis. Both act by disrupting host cell membranes. A mutant lacking both would be taken up normally but would be trapped and destroyed inside the phagosome, exactly the phenotype described.",
+        "whyWrongByChoice": {
+          "A": "ActA and flagellin govern movement inside and outside the cell; their loss would impair spread but would not trap the organism in a phagosome.",
+          "B": "Catalase and superoxide dismutase are not the factors this brick identifies as mediating phagosomal escape in Listeria.",
+          "C": "Coagulase and protein A are staphylococcal products and are not produced by Listeria monocytogenes.",
+          "D": "Internalins mediate adhesion and invasion, so their loss would reduce entry into host cells rather than block escape after uptake."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "listeriolysin O",
+        "phospholipase C",
+        "virulence factor"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-010",
+      "stem": "After contaminated food is swallowed, Listeria monocytogenes must attach to and invade the enterocytes lining the gastrointestinal epithelium before it can reach the circulation. Which of the following bacterial surface proteins mediates this adhesion and invasion step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ActA"
+        },
+        {
+          "label": "B",
+          "text": "Flagellin"
+        },
+        {
+          "label": "C",
+          "text": "Internalins"
+        },
+        {
+          "label": "D",
+          "text": "Listeriolysin O"
+        },
+        {
+          "label": "E",
+          "text": "Phospholipase C"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Internalin surface proteins mediate Listeria adhesion to and invasion of host cells, including enterocytes.",
+        "whyCorrect": "Internalins are the surface proteins that allow L. monocytogenes to adhere to and invade the GI epithelium. Internalin A targets enterocytes, while internalin B targets endothelial cells, fibroblasts, and enterocytes. This invasion of the gut lining is the second step in the pathway from ingestion of contaminated food to dissemination.",
+        "whyWrongByChoice": {
+          "A": "ActA drives propulsion through the cytosol by actin polymerization after the organism is already inside a cell.",
+          "B": "Flagellin builds the flagella responsible for extracellular tumbling motility and does not mediate host cell invasion.",
+          "D": "Listeriolysin O disrupts the phagosomal membrane after uptake rather than mediating initial attachment to enterocytes.",
+          "E": "Phospholipase C also acts on host membranes to permit phagosomal escape and is not an adhesion protein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "internalins",
+        "virulence factor",
+        "invasion"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-011",
+      "stem": "A 73-year-old man has a 1-day history of nausea, vomiting, and diarrhea. He has vomited four times today. He recently visited his son's farm, where he drank several glasses of fresh milk taken directly from the farm's supply. Examination shows mild generalized abdominal tenderness. There is no blood in the stool. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus cereus"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "D",
+          "text": "Norovirus"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio parahaemolyticus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Unpasteurized dairy is a classic vehicle for Listeria monocytogenes, which pasteurization would otherwise kill.",
+        "whyCorrect": "The most common route of transmission for L. monocytogenes is ingestion of contaminated food, and unpasteurized dairy products are a leading source. Routine pasteurization at commercial dairies kills the organism, so fresh farm milk that has not been pasteurized is the exposure that stands out here. In an older adult the resulting illness can be more severe than the mild gastroenteritis seen in healthy adults.",
+        "whyWrongByChoice": {
+          "A": "Bacillus cereus food poisoning is classically linked to reheated fried rice, not to unpasteurized milk.",
+          "B": "Clostridioides difficile colitis follows antibiotic exposure with disruption of colonic flora, which this patient does not report.",
+          "D": "Norovirus spreads person to person or through contaminated shared food and would not be specifically tied to raw farm milk.",
+          "E": "Vibrio parahaemolyticus gastroenteritis follows ingestion of raw or undercooked seafood rather than dairy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transmission",
+        "unpasteurized dairy",
+        "gastroenteritis"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi13-012",
+      "stem": "A microbiologist preparing an environmental sampling plan asks where Listeria monocytogenes is most commonly found outside of infected patients. Which of the following best describes the organism's natural distribution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arthropod vectors such as ticks, fleas, and mosquitoes"
+        },
+        {
+          "label": "B",
+          "text": "Hospital water systems and air-conditioning cooling towers"
+        },
+        {
+          "label": "C",
+          "text": "Soil, water, plant life, and the feces of animal carriers"
+        },
+        {
+          "label": "D",
+          "text": "The human nasopharynx, with no environmental reservoir"
+        },
+        {
+          "label": "E",
+          "text": "The intestinal tract of shellfish and other marine animals"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Listeria monocytogenes is abundant in the general environment and in animal carriers, including humans.",
+        "whyCorrect": "L. monocytogenes is abundant in the environment and can be found in plant life, soil, water, and animal carriers, including humans. It can also be isolated from animal feces, and humans may carry a low level of the organism as gastrointestinal flora. This wide environmental distribution explains how the organism repeatedly enters the food supply.",
+        "whyWrongByChoice": {
+          "A": "Listeria is acquired by ingestion of contaminated food or vertically, not through arthropod vectors.",
+          "B": "Water systems and cooling towers are the reservoir for Legionella, not for Listeria monocytogenes.",
+          "D": "Listeria is not a nasopharyngeal colonizer, and it has an extensive environmental reservoir in soil, water, and plants.",
+          "E": "Shellfish are not the defining reservoir; the organism is widespread in terrestrial environments and farm animals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "epidemiology",
+        "reservoir"
+      ],
+      "topicId": "listeria-monocytogenes",
+      "topicName": "Listeria monocytogenes",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-001",
+      "stem": "A 5-year-old child is brought in for 3 days of right ear pain, irritability, and low-grade fever. Otoscopy shows a red, bulging tympanic membrane with decreased mobility on pneumatic otoscopy. Acute otitis media is diagnosed and antibiotic therapy is indicated. Which of the following is the most appropriate first-line agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Cefuroxime"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "D",
+          "text": "Oral vancomycin"
+        },
+        {
+          "label": "E",
+          "text": "Topical bacitracin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amoxicillin, with or without clavulanic acid, is the first-line antibiotic for acute otitis media.",
+        "whyCorrect": "Otitis media is typically caused by Streptococcus pneumoniae and susceptible Gram-negative bacteria. Amoxicillin is a broad-spectrum penicillin with good Gram-positive and Gram-negative coverage, which matches those organisms. It is listed as the first-line agent for otitis media, given with or without clavulanic acid.",
+        "whyWrongByChoice": {
+          "B": "Cefuroxime is a second-generation cephalosporin with very limited Gram-positive coverage and is not the first-line choice here.",
+          "C": "Nafcillin is an antistaphylococcal penicillin aimed at Staphylococcus aureus and is not used for otitis media.",
+          "D": "Oral vancomycin is not absorbed and acts only in the gut; it is reserved for C. difficile infection.",
+          "E": "Bacitracin is a topical agent for minor skin wounds and has no role in middle ear infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "otitis media",
+        "penicillins",
+        "first-line therapy"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-002",
+      "stem": "An 8-year-old girl has fever, sore throat, and tender anterior cervical nodes. A throat culture grows Streptococcus pyogenes. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ceftaroline"
+        },
+        {
+          "label": "B",
+          "text": "Cefuroxime"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin VK"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oral penicillin (Penicillin VK) is the first-line agent for streptococcal pharyngitis.",
+        "whyCorrect": "Penicillins have Gram-positive cocci coverage, and oral penicillin VK remains a useful first-line agent for many streptococcal infections. Pharyngitis due to Strep species is listed with oral penicillins as the first-line antibiotic.",
+        "whyWrongByChoice": {
+          "A": "Ceftaroline is reserved for MRSA and is not used for routine streptococcal pharyngitis.",
+          "B": "Cefuroxime is a second-generation cephalosporin and is not the first-line treatment for pharyngitis.",
+          "C": "Streptococcus species are resistant to nafcillin, which was developed against staphylococci.",
+          "E": "Vancomycin does cover Gram-positive bacteria but is not first-line for pharyngitis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharyngitis",
+        "Streptococcus pyogenes",
+        "penicillins"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-003",
+      "stem": "A 58-year-old man is scheduled for an elective open hernia repair. The surgical team wants an intravenous agent given before incision to cover Gram-positive cocci from the skin, with rapid bioavailability and peak tissue levels at the time of the incision. Which of the following is the most appropriate agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Bacitracin"
+        },
+        {
+          "label": "C",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone"
+        },
+        {
+          "label": "E",
+          "text": "Cephalexin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cefazolin is the first-generation cephalosporin used intravenously for surgical prophylaxis through the skin.",
+        "whyCorrect": "Cefazolin is a first-generation cephalosporin given IV, so it is effective against the Gram-positive skin flora and reaches peak tissue levels rapidly at the time of incision. Surgical prophylaxis of procedures through the skin is listed with cefazolin as the first-line agent.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin is an oral broad-spectrum penicillin and does not provide rapid IV tissue levels.",
+          "B": "Bacitracin is a topical agent and cannot provide systemic prophylaxis.",
+          "D": "Ceftriaxone is a third-generation agent whose value is extended Gram-negative coverage, not skin prophylaxis.",
+          "E": "Cephalexin is also a first-generation cephalosporin but is oral, so it is not used for surgical prophylaxis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "surgical prophylaxis",
+        "cefazolin"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-004",
+      "stem": "A 34-year-old woman has a warm, tender, erythematous plaque on her lower leg after a minor abrasion. There is no abscess, no fever, and no risk factors for resistant organisms. She will be treated as an outpatient with an oral agent. Which of the following is the most appropriate choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cefoxitin"
+        },
+        {
+          "label": "B",
+          "text": "Ceftazidime"
+        },
+        {
+          "label": "C",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "D",
+          "text": "Oral vancomycin"
+        },
+        {
+          "label": "E",
+          "text": "Piperacillin-tazobactam"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Uncomplicated skin and soft tissue infections, typically due to Gram-positive cocci, are treated with a first-generation cephalosporin such as cephalexin.",
+        "whyCorrect": "First-generation cephalosporins are primarily effective against Gram-positive bacteria, including Staphylococcus aureus and Streptococcus species, which are the usual causes of uncomplicated cellulitis. Cephalexin is the oral first-generation agent listed as first-line for these infections.",
+        "whyWrongByChoice": {
+          "A": "Cefoxitin is a second-generation agent valued for Bacteroides coverage, not routine cellulitis.",
+          "B": "Ceftazidime is a third-generation agent used for extended Gram-negative coverage.",
+          "D": "Oral vancomycin is not absorbed from the gut and cannot treat a skin infection.",
+          "E": "Piperacillin-tazobactam is a broad intravenous agent used when Pseudomonas coverage is needed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "skin and soft tissue infection",
+        "cephalosporins",
+        "cephalexin"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-005",
+      "stem": "A 62-year-old hemodialysis patient has fever and rigors. Blood cultures grow methicillin-resistant Staphylococcus aureus. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "B",
+          "text": "Cefepime"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vancomycin is one of the few antibiotics effective against MRSA and is first-line for MRSA infections.",
+        "whyCorrect": "Vancomycin is effective against most Gram-positive organisms and is specifically one of the few agents that works against MRSA. MRSA infections are listed with vancomycin and ceftaroline as first-line treatment.",
+        "whyWrongByChoice": {
+          "A": "Cefazolin is a first-generation cephalosporin with good Gram-positive coverage but does not cover MRSA.",
+          "B": "Cefepime retains good Gram-positive coverage except MRSA, so it would fail here.",
+          "C": "Methicillin-resistant strains are by definition not susceptible to antistaphylococcal penicillins such as nafcillin.",
+          "D": "Penicillin G has limited activity because many staphylococci have developed resistance to penicillin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MRSA",
+        "vancomycin",
+        "bacteremia"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-006",
+      "stem": "A 71-year-old man develops profuse watery diarrhea one week after completing a course of antibiotics. Stool testing confirms Clostridium difficile infection. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacitracin, topical"
+        },
+        {
+          "label": "B",
+          "text": "Ceftriaxone, intravenous"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin, intravenous"
+        },
+        {
+          "label": "D",
+          "text": "Vancomycin, intravenous"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin, oral"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oral vancomycin is the drug of choice for Clostridium difficile infection.",
+        "whyCorrect": "Vancomycin is one of the few antibiotics used to treat C. difficile infection, and the oral formulation is the drug of choice. Because oral vancomycin is not absorbed, it stays in the gut where the infection resides and acts essentially as a topical treatment there.",
+        "whyWrongByChoice": {
+          "A": "Bacitracin is a topical skin preparation and cannot treat a colonic infection.",
+          "B": "Ceftriaxone does not treat C. difficile; broad cephalosporin use is the kind of exposure that precedes it.",
+          "C": "Nafcillin is an antistaphylococcal penicillin and has no role in C. difficile infection.",
+          "D": "Intravenous vancomycin does not cross into the gastric mucosa, so it would be ineffective for C. difficile."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Clostridium difficile",
+        "vancomycin",
+        "route of administration"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-007",
+      "stem": "A hospitalized patient with confirmed Clostridium difficile colitis is started on intravenous vancomycin. After several days the diarrhea is unchanged. Which of the following best explains the treatment failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C. difficile is a Gram-negative rod outside the drug's spectrum"
+        },
+        {
+          "label": "B",
+          "text": "C. difficile produces a β-lactamase that inactivates vancomycin"
+        },
+        {
+          "label": "C",
+          "text": "IV vancomycin does not cross into the infected gastric mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Oral vancomycin is absorbed systemically while the IV form is not"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin has no intrinsic activity against C. difficile organisms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "IV vancomycin has excellent systemic bioavailability but does not reach the gut mucosa, so it fails in C. difficile infection.",
+        "whyCorrect": "An intravenous drug has essentially complete bioavailability and treats systemic infection well, but vancomycin given IV does not cross into the gastric mucosa. Because C. difficile resides primarily in that mucosa, the drug never reaches the organism, and only the oral formulation, which acts topically in the gut, is effective.",
+        "whyWrongByChoice": {
+          "A": "C. difficile is a Gram-positive organism, and vancomycin covers most Gram-positive organisms.",
+          "B": "Vancomycin is not a β-lactam, so β-lactamase production is not the issue.",
+          "D": "The relationship is reversed: oral vancomycin is essentially not absorbed at all.",
+          "E": "Vancomycin is in fact one of the few antibiotics active against C. difficile."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "pharmacokinetics",
+        "Clostridium difficile"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-008",
+      "stem": "A patient with C. difficile colitis is prescribed vancomycin capsules by mouth. Which property of oral vancomycin makes this route appropriate for this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is absorbed and then concentrated into the bile"
+        },
+        {
+          "label": "B",
+          "text": "It is activated by first-pass hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "It is not absorbed, so it acts topically in the gut"
+        },
+        {
+          "label": "D",
+          "text": "It reaches high serum levels after an oral dose"
+        },
+        {
+          "label": "E",
+          "text": "It requires gastric acid to convert to its active form"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oral vancomycin has essentially zero bioavailability, so it stays in the gut and acts as a topical treatment.",
+        "whyCorrect": "When vancomycin is given orally it is not readily absorbed across the gastric mucosa, so its bioavailability is essentially zero. That failure of absorption is exactly what makes it useful: the drug remains at high concentration where C. difficile lives, acting as a local, topical therapy.",
+        "whyWrongByChoice": {
+          "A": "Biliary concentration is not the mechanism by which oral vancomycin reaches the colon.",
+          "B": "Vancomycin is not a prodrug requiring hepatic activation.",
+          "D": "Oral vancomycin produces almost no serum levels; IV dosing is required for systemic infection.",
+          "E": "Vancomycin does not need gastric acid to become active."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "bioavailability",
+        "Clostridium difficile"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-009",
+      "stem": "Which generation of cephalosporins includes an agent with reliable activity against methicillin-resistant Staphylococcus aureus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fifth generation"
+        },
+        {
+          "label": "B",
+          "text": "First generation"
+        },
+        {
+          "label": "C",
+          "text": "Fourth generation"
+        },
+        {
+          "label": "D",
+          "text": "Second generation"
+        },
+        {
+          "label": "E",
+          "text": "Third generation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fifth-generation cephalosporins, such as ceftaroline, are the ones active against MRSA.",
+        "whyCorrect": "Ceftaroline is the fifth-generation cephalosporin and is notable for activity against MRSA while maintaining broad-spectrum activity against Gram-negative bacteria. No earlier generation covers MRSA.",
+        "whyWrongByChoice": {
+          "B": "First-generation agents such as cefazolin and cephalexin cover Gram-positive organisms but explicitly not MRSA.",
+          "C": "Fourth-generation cefepime retains good Gram-positive coverage except for MRSA.",
+          "D": "Second-generation agents have very limited Gram-positive coverage and no MRSA activity.",
+          "E": "Third-generation agents extend Gram-negative coverage to Neisseria but do not cover MRSA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "MRSA",
+        "ceftaroline"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-010",
+      "stem": "A hospitalized patient with a suspected Gram-negative infection is switched from ceftriaxone to cefepime. Which of the following best describes cefepime?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A fifth-generation agent with activity against MRSA"
+        },
+        {
+          "label": "B",
+          "text": "A first-generation agent with mainly Gram-positive activity"
+        },
+        {
+          "label": "C",
+          "text": "A fourth-generation agent with broader Gram-negative activity"
+        },
+        {
+          "label": "D",
+          "text": "A second-generation agent that also covers Bacteroides species"
+        },
+        {
+          "label": "E",
+          "text": "An antipseudomonal penicillin with anaerobic coverage"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cefepime is a fourth-generation cephalosporin: good Gram-positive coverage except MRSA, with increased Gram-negative coverage.",
+        "whyCorrect": "Fourth-generation cephalosporins such as cefepime retain good Gram-positive coverage, with the exception of MRSA, while providing increased Gram-negative coverage compared with third-generation agents. That extra Gram-negative reach is the reason for switching from ceftriaxone.",
+        "whyWrongByChoice": {
+          "A": "The fifth-generation agent active against MRSA is ceftaroline; cefepime does not cover MRSA.",
+          "B": "First-generation agents are cefazolin and cephalexin, not cefepime.",
+          "D": "The cephalosporins that cover Bacteroides are the second-generation agents cefoxitin and cefotetan.",
+          "E": "Piperacillin-tazobactam, not cefepime, is the antipseudomonal penicillin with anaerobic coverage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "cefepime",
+        "Gram-negative coverage"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-011",
+      "stem": "A 19-year-old man has dysuria and a purulent urethral discharge, and testing is positive for Neisseria gonorrhoeae. A cephalosporin whose Gram-negative spectrum extends to Neisseria species is selected. Which of the following agents was chosen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacitracin"
+        },
+        {
+          "label": "B",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "C",
+          "text": "Ceftriaxone"
+        },
+        {
+          "label": "D",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "E",
+          "text": "Nafcillin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Third-generation cephalosporins such as ceftriaxone extend Gram-negative coverage to Neisseria meningitidis and Neisseria gonorrhoeae.",
+        "whyCorrect": "Ceftriaxone is a third-generation cephalosporin with a broad spectrum against Gram-positive bacteria and Gram-negative coverage extended beyond the first and second generations. That extended coverage specifically includes Neisseria meningitidis and Neisseria gonorrhoeae.",
+        "whyWrongByChoice": {
+          "A": "Bacitracin is a topical agent active against Gram-positive skin organisms.",
+          "B": "Cefazolin is a first-generation agent with limited activity against Gram-negative bacteria.",
+          "D": "Cephalexin is the oral first-generation agent and also has limited Gram-negative activity.",
+          "E": "Nafcillin is an antistaphylococcal penicillin directed at Staphylococcus aureus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "Neisseria",
+        "ceftriaxone"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi14-012",
+      "stem": "A patient is started on cefuroxime. Which of the following best describes this agent's generation and spectrum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fifth generation, with reliable activity against MRSA isolates"
+        },
+        {
+          "label": "B",
+          "text": "First generation, with coverage aimed mainly at Gram-positives"
+        },
+        {
+          "label": "C",
+          "text": "Fourth generation, with the broadest Gram-negative coverage"
+        },
+        {
+          "label": "D",
+          "text": "Second generation, with limited Gram-positive activity"
+        },
+        {
+          "label": "E",
+          "text": "Third generation, with coverage extended to Neisseria species"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cefuroxime is a second-generation cephalosporin with very limited Gram-positive coverage and better Gram-negative activity.",
+        "whyCorrect": "Second-generation cephalosporins such as cefuroxime, cefoxitin, and cefotetan have very limited Gram-positive coverage and are more effective against Gram-negative bacteria than the first-generation agents.",
+        "whyWrongByChoice": {
+          "A": "Ceftaroline is the fifth-generation agent with MRSA activity.",
+          "B": "The first-generation agents are cefazolin and cephalexin, which are primarily Gram-positive drugs.",
+          "C": "Cefepime is the fourth-generation agent with the widest Gram-negative reach.",
+          "E": "Ceftriaxone and ceftazidime are the third-generation agents whose coverage includes Neisseria."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "cefuroxime",
+        "generations"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
+      "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-001",
+      "stem": "A 40-year-old woman has a 2-day history of left flank pain, pain with urination, urinary frequency, and fever with occasional nausea. Her temperature is 37.8°C (100°F), and she has left flank percussion tenderness; the remainder of the examination is normal. Acute pyelonephritis is diagnosed and ciprofloxacin is prescribed. This drug acts on which of the following bacterial targets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial DNA-dependent RNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Dihydropteroate synthase in the folate pathway"
+        },
+        {
+          "label": "C",
+          "text": "DNA gyrase and topoisomerase IV"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin-binding transpeptidases of the cell wall"
+        },
+        {
+          "label": "E",
+          "text": "The 30S subunit of the bacterial ribosome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fluoroquinolones inhibit the type II topoisomerases DNA gyrase and topoisomerase IV.",
+        "whyCorrect": "All fluoroquinolones do effectively the same thing: they inhibit the type II topoisomerases DNA gyrase and topoisomerase IV, with variable specificity within the class. Loss of these enzymes halts DNA replication and kills the organism, which is why fluoroquinolones are bactericidal. Ciprofloxacin is a standard systemic fluoroquinolone used for urinary and other infections below the diaphragm.",
+        "whyWrongByChoice": {
+          "A": "RNA polymerase is the target of rifamycins, not of fluoroquinolones.",
+          "B": "Dihydropteroate synthase is the target of the folic acid synthesis inhibitors, a different drug class.",
+          "D": "Transpeptidases are inhibited by β-lactams, which act on the cell wall rather than on DNA.",
+          "E": "The 30S ribosomal subunit is bound by aminoglycosides and tetracyclines, which block protein synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "mechanism of action",
+        "pyelonephritis"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-002",
+      "stem": "In the laboratory, a fluoroquinolone is added to purified bacterial DNA gyrase acting on plasmid DNA. The enzyme continues to cut the DNA backbone but the cut strands are no longer restored. Inhibition of which of the following enzyme domains best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ATPase domain that supplies energy for supercoiling"
+        },
+        {
+          "label": "B",
+          "text": "The helicase domain that separates parental strands"
+        },
+        {
+          "label": "C",
+          "text": "The ligase domain that reseals the nicked strand"
+        },
+        {
+          "label": "D",
+          "text": "The nuclease domain that nicks the DNA strand"
+        },
+        {
+          "label": "E",
+          "text": "The primase domain that lays down RNA primers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fluoroquinolones inhibit the ligase domain of type II topoisomerases while leaving the nuclease domain active.",
+        "whyCorrect": "Both DNA gyrase and topoisomerase IV carry two kinds of domains: a nuclease domain that nicks a DNA strand so the DNA can untwist, and a ligase domain that repairs that nick. Fluoroquinolones target and inhibit the ligase domain, so the nuclease keeps nicking DNA with the repair mechanism removed. The enzyme is effectively converted into a DNA shredder.",
+        "whyWrongByChoice": {
+          "A": "An ATPase block would stop the enzyme altogether rather than leave unrepaired cuts accumulating.",
+          "B": "Helicase is a separate replication enzyme and is not a domain of the type II topoisomerases.",
+          "D": "The nuclease domain remains active; if it were inhibited, no cuts would be made at all.",
+          "E": "Primase synthesizes RNA primers and is not part of DNA gyrase or topoisomerase IV."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "ligase domain",
+        "topoisomerase"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-003",
+      "stem": "A microbiologist exposes a culture of Escherichia coli to levofloxacin. The bacterial chromosome accumulates unrepaired breaks, replication stops, and the organisms are killed rather than merely prevented from dividing. Which of the following best explains this bactericidal effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug binds the ribosome and causes misreading of messenger RNA"
+        },
+        {
+          "label": "B",
+          "text": "The drug blocks DNA repair while the enzyme keeps cutting the DNA"
+        },
+        {
+          "label": "C",
+          "text": "The drug blocks the cross-linking of peptidoglycan in the cell wall"
+        },
+        {
+          "label": "D",
+          "text": "The drug inserts into the membrane and causes leakage of cytoplasm"
+        },
+        {
+          "label": "E",
+          "text": "The drug prevents folate-dependent synthesis of thymidine for DNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Blocking the ligase domain turns type II topoisomerases into DNA shredders, halting replication and killing the cell.",
+        "whyCorrect": "Because fluoroquinolones inhibit the repair (ligase) function while the nuclease continues to nick the DNA, the enzymes effectively shred the chromosome. DNA replication is halted and the bacterial cell dies, which explains the bactericidal nature of the class. This is distinct from bacteriostatic agents that merely stop growth.",
+        "whyWrongByChoice": {
+          "A": "Ribosomal misreading of mRNA is the mechanism of aminoglycosides and does not involve DNA breaks.",
+          "C": "Peptidoglycan cross-linking is inhibited by β-lactams, a different class with a different target.",
+          "D": "Membrane disruption with leakage of cytoplasmic contents describes agents such as polymyxins.",
+          "E": "Folate-dependent thymidine synthesis is blocked by the folic acid synthesis inhibitors, not by fluoroquinolones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "bactericidal",
+        "mechanism of action"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-004",
+      "stem": "Bacterial type II topoisomerases perform several overlapping functions on the chromosome. Which of the following activities is unique to DNA gyrase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutting one DNA strand using an intrinsic nuclease domain"
+        },
+        {
+          "label": "B",
+          "text": "Introducing negative supercoils into the bacterial chromosome"
+        },
+        {
+          "label": "C",
+          "text": "Relaxing negative supercoils that have formed in the DNA"
+        },
+        {
+          "label": "D",
+          "text": "Resealing a cut DNA strand using an intrinsic ligase domain"
+        },
+        {
+          "label": "E",
+          "text": "Separating two completed daughter chromosomes from each other"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Only DNA gyrase can create negative supercoils, which offset the positive supercoiling generated by replication.",
+        "whyCorrect": "DNA gyrase uniquely creates negative supercoils, which help prepare the chromosome for the tension formed during DNA replication. When the strands of the helix are pulled apart, the DNA ahead winds tighter into positive supercoils, and gyrase counteracts this. Topoisomerase IV cannot introduce negative supercoils.",
+        "whyWrongByChoice": {
+          "A": "Both gyrase and topoisomerase IV possess a nuclease domain that nicks DNA.",
+          "C": "Relaxation of negative supercoils is performed by topoisomerase IV and is shared by other topoisomerases.",
+          "D": "Both gyrase and topoisomerase IV possess a ligase domain that repairs the nick.",
+          "E": "Separating completed daughter chromosomes is decatenation, the role of topoisomerase IV."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DNA gyrase",
+        "supercoiling",
+        "topoisomerase"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-005",
+      "stem": "At the end of replication a circular bacterial chromosome remains physically interlinked with its newly synthesized copy, and the two rings must be separated before the cell can divide. Which of the following enzyme activities accomplishes this separation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DNA gyrase introducing negative supercoils ahead of the fork"
+        },
+        {
+          "label": "B",
+          "text": "Helicase unwinding the parental duplex at the origin"
+        },
+        {
+          "label": "C",
+          "text": "Ligase sealing the Okazaki fragments of the lagging strand"
+        },
+        {
+          "label": "D",
+          "text": "Primase synthesizing RNA primers on the leading strand"
+        },
+        {
+          "label": "E",
+          "text": "Topoisomerase IV passing one strand through the other"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Decatenation of the two completed bacterial chromosomes is the distinctive role of topoisomerase IV.",
+        "whyCorrect": "Topoisomerase IV plays a role in decatenation, that is, separating two completed bacterial chromosomes by passing one strand through the other. This progressively reduces the interlinking braids until the two rings are free. Fluoroquinolones that preferentially inhibit topoisomerase IV therefore block the final step of chromosome segregation.",
+        "whyWrongByChoice": {
+          "A": "Negative supercoiling by gyrase manages torsional tension but does not unlink completed chromosomes.",
+          "B": "Helicase separates the two parental strands at the start of replication, not the finished daughter rings.",
+          "C": "Ligase joins Okazaki fragments within a strand and cannot unlink two interlocked circles.",
+          "D": "Primase lays down RNA primers to start synthesis and has no role in decatenation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "topoisomerase IV",
+        "decatenation",
+        "DNA replication"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-006",
+      "stem": "Fluoroquinolones take their name from the addition of a fluorine atom to an older core compound. Which of the following is the original quinolone, now no longer on the market?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "B",
+          "text": "Levofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Moxifloxacin"
+        },
+        {
+          "label": "D",
+          "text": "Nalidixic acid"
+        },
+        {
+          "label": "E",
+          "text": "Ofloxacin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nalidixic acid is the original, non-fluorinated quinolone and is no longer marketed.",
+        "whyCorrect": "Fluoroquinolones are a fluorinated form of quinolone, their core component. Nalidixic acid is presented as an original quinolone that is no longer on the market, in contrast to ciprofloxacin, which is commonly prescribed. The fluorinated derivatives largely replaced it.",
+        "whyWrongByChoice": {
+          "A": "Ciprofloxacin is a fluorinated quinolone that remains one of the most commonly prescribed agents of the class.",
+          "B": "Levofloxacin is a currently marketed fluoroquinolone and is the most commonly used respiratory agent.",
+          "C": "Moxifloxacin is a currently marketed respiratory fluoroquinolone known for QTc prolongation.",
+          "E": "Ofloxacin is a fluorinated quinolone still in use and is not the original core compound."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "nalidixic acid",
+        "quinolone",
+        "drug class"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-007",
+      "stem": "A patient with a severe gram-negative infection is treated with a β-lactam in addition to a fluoroquinolone, and the combination clears the infection more efficiently than either agent alone. Which of the following best explains this synergy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The fluoroquinolone increases expression of the penicillin-binding proteins"
+        },
+        {
+          "label": "B",
+          "text": "The fluoroquinolone inhibits the β-lactamases that would destroy the β-lactam"
+        },
+        {
+          "label": "C",
+          "text": "The β-lactam blocks the efflux pumps that export the fluoroquinolone"
+        },
+        {
+          "label": "D",
+          "text": "The β-lactam disrupts the cell wall so the fluoroquinolone enters more easily"
+        },
+        {
+          "label": "E",
+          "text": "The β-lactam raises intracellular pH so the fluoroquinolone stays ionized"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "β-Lactams inhibit cell wall synthesis, which makes it easier for fluoroquinolones to enter the bacterium and reach their target enzymes.",
+        "whyCorrect": "The efficiency of fluoroquinolones can be increased by using synergistic medications together. β-Lactam antibiotics inhibit bacterial cell wall synthesis, allowing fluoroquinolones to have an easier time entering bacterial cells to reach their target enzymes. The two drugs therefore act at different steps that reinforce one another.",
+        "whyWrongByChoice": {
+          "A": "Increasing penicillin-binding protein expression would not enhance fluoroquinolone activity.",
+          "B": "Fluoroquinolones act on type II topoisomerases and have no activity against β-lactamases.",
+          "C": "β-Lactams do not inhibit the efflux pumps that bacteria use to export fluoroquinolones.",
+          "E": "Synergy is explained by easier entry through a damaged cell wall, not by an intracellular pH shift."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "synergy",
+        "beta-lactam",
+        "fluoroquinolones"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-008",
+      "stem": "A Pseudomonas aeruginosa isolate that was previously susceptible now grows in the presence of ciprofloxacin. Intracellular drug concentrations are far lower than in the susceptible parent strain, while the sequences of the gyrase and topoisomerase IV genes are unchanged. Which of the following best accounts for the resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A point mutation in the gyrase subunit that binds the drug"
+        },
+        {
+          "label": "B",
+          "text": "Acetylation of the drug by a plasmid-encoded transferase"
+        },
+        {
+          "label": "C",
+          "text": "Active transport of the drug out of the cell by efflux pumps"
+        },
+        {
+          "label": "D",
+          "text": "Enzymatic cleavage of the drug by a bacterial hydrolase"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the porin channels required for folate uptake"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "One of the two main routes of fluoroquinolone resistance is efflux of the drug out of the bacterial cell by active transport.",
+        "whyCorrect": "In general there are two main ways resistance develops to fluoroquinolones: active transport of the drug out of bacterial cells through efflux pumps, and alteration of the target binding site. A low intracellular concentration with a normal target sequence points to efflux. Pseudomonas aeruginosa is specifically noted as the most commonly resistant gram-negative organism.",
+        "whyWrongByChoice": {
+          "A": "A target mutation would leave intracellular drug levels normal, which is not what the assay shows.",
+          "B": "Acetylating transferases inactivate aminoglycosides, not fluoroquinolones, and would not lower uptake.",
+          "D": "Hydrolytic destruction of the drug is not described as a mechanism of fluoroquinolone resistance.",
+          "E": "Porin loss affecting folate uptake is unrelated to fluoroquinolones, which do not act on folate synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "efflux pump",
+        "Pseudomonas aeruginosa"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-009",
+      "stem": "Sequencing of a fluoroquinolone-resistant clinical isolate shows a chromosomal point mutation that changes an amino acid in a subunit of topoisomerase IV. Drug accumulation inside the bacterial cell is normal. Which of the following resistance mechanisms does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alteration of the drug's target binding site"
+        },
+        {
+          "label": "B",
+          "text": "Decreased permeability of the outer membrane"
+        },
+        {
+          "label": "C",
+          "text": "Inactivation of the drug by a bacterial enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Increased export of the drug through efflux pumps"
+        },
+        {
+          "label": "E",
+          "text": "Overproduction of the drug's normal substrate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chromosomal mutation of a gyrase or topoisomerase IV subunit alters the target binding site and confers fluoroquinolone resistance.",
+        "whyCorrect": "The second main route of resistance is alteration of the target binding site, specifically the topoisomerase IV or DNA gyrase subunits, by chromosomal mutation. The change can be chromosomal or integrated by way of plasmids acquired from nearby bacterial cells. Normal intracellular drug levels with an altered enzyme sequence identify this mechanism rather than efflux.",
+        "whyWrongByChoice": {
+          "B": "Reduced outer membrane permeability would also lower intracellular drug, not leave it normal.",
+          "C": "No drug-inactivating enzyme is implied, and drug levels inside the cell are normal.",
+          "D": "Efflux would reduce intracellular drug accumulation, which the assay shows is unchanged.",
+          "E": "Fluoroquinolones act on an enzyme rather than competing with a substrate that could be overproduced."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "target site alteration",
+        "topoisomerase IV"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-010",
+      "stem": "An intensive care unit reports that fluoroquinolone resistance appeared in several unrelated gram-negative species within a few weeks of one another. Which of the following best explains how resistance spread so rapidly across different organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of the antibiotic to an inactive metabolite by host enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Independent spontaneous mutations arising in each separate species"
+        },
+        {
+          "label": "C",
+          "text": "Selection of pre-existing resistant clones by antibiotic pressure alone"
+        },
+        {
+          "label": "D",
+          "text": "Transfer of plasmids carrying resistance genes between bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Vertical inheritance of resistance genes from parent to daughter cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Plasmids are little loops of genetic code acquired from nearby bacteria, and they let resistance spread quickly through a bacterial population.",
+        "whyCorrect": "Target site alterations may be chromosomal or integrated by way of plasmids, small loops of genetic code acquired from nearby bacterial cells. Once one bacterium becomes resistant, the spread of resistance mechanisms via plasmids may quickly protect a large population. This horizontal transfer explains near-simultaneous resistance in unrelated species.",
+        "whyWrongByChoice": {
+          "A": "Host metabolism of the antibiotic is a pharmacokinetic issue and is not a bacterial resistance mechanism.",
+          "B": "Simultaneous independent mutation in several unrelated species within weeks is far less likely than plasmid spread.",
+          "C": "Selection pressure alone does not explain how the same resistance determinant appears across species.",
+          "E": "Vertical inheritance passes genes only within a lineage and cannot cross between different species."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "plasmid",
+        "horizontal transfer"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-011",
+      "stem": "Fluoroquinolone resistance is widespread among gram-positive organisms. Which of the following is the most frequent gram-positive culprit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Group A Streptococcus pyogenes from the pharynx"
+        },
+        {
+          "label": "B",
+          "text": "Listeria monocytogenes from food-borne exposure"
+        },
+        {
+          "label": "C",
+          "text": "Methicillin-resistant Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin-resistant Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin-resistant Enterococcus faecium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methicillin-resistant Staphylococcus aureus is the most frequent gram-positive organism with fluoroquinolone resistance.",
+        "whyCorrect": "Resistance to fluoroquinolones is unfortunately widespread among both gram-positive and gram-negative bacteria. Among gram-positive organisms, methicillin-resistant Staphylococcus aureus is the most frequent culprit. This is one reason fluoroquinolones are not relied on as monotherapy for suspected staphylococcal infection.",
+        "whyWrongByChoice": {
+          "A": "Streptococcus pyogenes is not cited as a common source of fluoroquinolone resistance.",
+          "B": "Listeria monocytogenes is not named among the organisms driving fluoroquinolone resistance.",
+          "D": "S. pneumoniae is the organism the respiratory fluoroquinolones are valued for covering, not the leading resistant gram-positive.",
+          "E": "Enterococcus faecium is not identified as the most frequent gram-positive fluoroquinolone-resistant organism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "MRSA",
+        "gram-positive"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    },
+    {
+      "id": "mi15-012",
+      "stem": "A hospital antibiogram shows that among gram-negative isolates, one organism accounts for the largest share of ciprofloxacin resistance. Which of the following is most likely that organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pseudomonas aeruginosa is the most commonly fluoroquinolone-resistant gram-negative bacterium.",
+        "whyCorrect": "Among gram-negative bacteria, Pseudomonas aeruginosa is the most commonly resistant organism to fluoroquinolones. This matters clinically because levofloxacin is chosen among the respiratory fluoroquinolones partly for its better Pseudomonas coverage. Susceptibility testing is therefore important before relying on a fluoroquinolone for pseudomonal infection.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli is a common urinary pathogen but is not named as the most commonly resistant gram-negative.",
+          "B": "Haemophilus influenzae is not cited among the organisms driving fluoroquinolone resistance.",
+          "C": "Klebsiella pneumoniae is not identified as the leading fluoroquinolone-resistant gram-negative organism.",
+          "D": "Proteus mirabilis is not identified as the most commonly resistant gram-negative bacterium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "Pseudomonas aeruginosa",
+        "gram-negative"
+      ],
+      "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
+      "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
+      "tier": "core"
+    }
+  ]
+}

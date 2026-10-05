@@ -1,0 +1,2249 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mi39-001",
+      "stem": "A 34-year-old man develops abrupt fever, myalgias, and cough in January. Sequencing of the virus recovered from a nasal washing shows an enveloped particle whose linear, negative-sense, single-stranded RNA genome is divided into eight separate pieces. Which of the following viruses was most likely recovered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza virus"
+        },
+        {
+          "label": "B",
+          "text": "Measles virus"
+        },
+        {
+          "label": "C",
+          "text": "Metapneumovirus"
+        },
+        {
+          "label": "D",
+          "text": "Parainfluenza virus"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory syncytial virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Among these respiratory viruses, only influenza virus carries a multisegmented genome.",
+        "whyCorrect": "Influenza virus is the medically relevant member of Orthomyxoviridae, and its linear, single-stranded, negative-sense RNA genome is broken into 7 or 8 segments. Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae are all enveloped with ss(-)RNA genomes, so segmentation is the feature that separates influenza from the rest. That segmented genome is also what permits reassortment and antigenic shift.",
+        "whyWrongByChoice": {
+          "B": "Measles virus is a paramyxovirus and likewise carries a continuous ss(-)RNA genome.",
+          "C": "Metapneumovirus is also Pneumoviridae and carries a single continuous ss(-)RNA genome.",
+          "D": "Parainfluenza virus is a paramyxovirus with a continuous, unsegmented ss(-)RNA genome.",
+          "E": "Respiratory syncytial virus is a member of Pneumoviridae and its ss(-)RNA genome is continuous, not segmented."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "orthomyxoviridae",
+        "genome segmentation"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-002",
+      "stem": "In a research laboratory, separate cultures are infected with influenza virus and with respiratory syncytial virus, and newly synthesized viral RNA is labeled. The label accumulates in the nucleus of influenza-infected cells but remains in the cytoplasm of RSV-infected cells. Which of the following best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza virus is a DNA virus that must integrate into host chromosomes"
+        },
+        {
+          "label": "B",
+          "text": "Influenza virus is an RNA virus that is an exception to cytoplasmic replication"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory syncytial virus copies its genome using a host DNA polymerase"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory syncytial virus is a DNA virus while influenza virus is an RNA virus"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory syncytial virus lacks an envelope and therefore cannot reach the nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Influenza virus replicates in the nucleus, breaking the rule that RNA viruses replicate in the cytoplasm.",
+        "whyCorrect": "As a general rule RNA viruses replicate in the cytoplasm and DNA viruses replicate in the nucleus. Orthomyxoviridae are one of the exceptions: influenza virus uses its own RNA-dependent RNA polymerase to copy its genome in the nucleus despite being an RNA virus. Paramyxoviridae and Pneumoviridae, including RSV, replicate in the cytoplasm like most other RNA viruses.",
+        "whyWrongByChoice": {
+          "A": "Influenza virus has an RNA genome and does not make or integrate a DNA copy.",
+          "C": "RSV carries its own RNA-dependent RNA polymerase and does not use a host DNA polymerase.",
+          "D": "RSV is an RNA virus, not a DNA virus; both viruses in this experiment have RNA genomes.",
+          "E": "RSV is enveloped, and envelope status does not determine the compartment in which a genome is copied."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "replication site",
+        "orthomyxoviridae"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-003",
+      "stem": "A 9-month-old infant is admitted with wheezing and hypoxemia. A multiplex PCR panel identifies respiratory syncytial virus, a member of the family Pneumoviridae. Which of the following viruses belongs to that same family?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza virus"
+        },
+        {
+          "label": "B",
+          "text": "Measles virus"
+        },
+        {
+          "label": "C",
+          "text": "Metapneumovirus"
+        },
+        {
+          "label": "D",
+          "text": "Mumps virus"
+        },
+        {
+          "label": "E",
+          "text": "Parainfluenza virus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pneumoviridae contains respiratory syncytial virus and metapneumovirus.",
+        "whyCorrect": "Pneumoviridae contains two medically relevant viruses: respiratory syncytial virus and metapneumovirus. Both are common causes of pneumonia in children, both carry continuous linear ss(-)RNA genomes, and both replicate in the cytoplasm. Their transmission, clinical presentation, risk factors, and seasonality are closely matched.",
+        "whyWrongByChoice": {
+          "A": "Influenza virus is the medically relevant member of Orthomyxoviridae.",
+          "B": "Measles virus belongs to Paramyxoviridae.",
+          "D": "Mumps virus belongs to Paramyxoviridae.",
+          "E": "Parainfluenza virus belongs to Paramyxoviridae."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pneumoviridae",
+        "taxonomy"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-004",
+      "stem": "A 16-month-old boy has two days of runny nose followed by a barking cough and inspiratory stridor that is worse at night. He is diagnosed with croup. Which of the following viruses is the most common cause of this illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza virus"
+        },
+        {
+          "label": "B",
+          "text": "Metapneumovirus"
+        },
+        {
+          "label": "C",
+          "text": "Mumps virus"
+        },
+        {
+          "label": "D",
+          "text": "Parainfluenza virus"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory syncytial virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Parainfluenza virus is the most common cause of croup.",
+        "whyCorrect": "Parainfluenza virus is a member of Paramyxoviridae and is the most common cause of croup, though it also causes other infections of the upper and lower respiratory tract. Like the other viruses in these three families it is enveloped with a linear ss(-)RNA genome, and it replicates in the cytoplasm.",
+        "whyWrongByChoice": {
+          "A": "Influenza virus characteristically causes abrupt fever, aches, and cough rather than croup.",
+          "B": "Metapneumovirus closely resembles RSV and typically causes bronchiolitis and pneumonia.",
+          "C": "Mumps virus causes an acute viral illness with a risk of encephalitis and is prevented by MMR vaccine.",
+          "E": "RSV is the leading cause of bronchiolitis and pneumonia in children under 1 year of age, not of croup."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "paramyxoviridae",
+        "croup"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-005",
+      "stem": "A microbiology course groups influenza virus, respiratory syncytial virus, and measles virus together because their families share several structural features. Which of the following features is common to Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A double-stranded DNA genome that is copied in the host nucleus"
+        },
+        {
+          "label": "B",
+          "text": "A non-enveloped capsid that resists drying on contaminated surfaces"
+        },
+        {
+          "label": "C",
+          "text": "A positive-sense RNA genome translated directly by host ribosomes"
+        },
+        {
+          "label": "D",
+          "text": "A segmented genome that permits genetic reassortment between strains"
+        },
+        {
+          "label": "E",
+          "text": "An envelope surrounding a linear, negative-sense RNA genome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "All three families are enveloped viruses with linear, single-stranded, negative-sense RNA genomes.",
+        "whyCorrect": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae share both structure and clinical manifestations: all are enveloped viruses with linear, single-stranded, negative-sense RNA genomes. The distinctions between them lie elsewhere, in genome continuity and replication site.",
+        "whyWrongByChoice": {
+          "A": "None of these families has a DNA genome; all three carry RNA.",
+          "B": "All three families are enveloped rather than naked.",
+          "C": "Their genomes are negative-sense, so they cannot be translated directly and must first be copied.",
+          "D": "Only Orthomyxoviridae has a multisegmented genome; Pneumoviridae and Paramyxoviridae genomes are continuous."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "viral structure",
+        "taxonomy"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-006",
+      "stem": "Surveillance of respiratory disease in dairy herds identifies an influenza virus that is not one of the types responsible for seasonal epidemics in people. Which of the following types is it most likely to be?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Influenza A"
+        },
+        {
+          "label": "B",
+          "text": "Influenza B"
+        },
+        {
+          "label": "C",
+          "text": "Influenza C"
+        },
+        {
+          "label": "D",
+          "text": "Influenza D"
+        },
+        {
+          "label": "E",
+          "text": "Parainfluenza virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "There are three human influenza types, A, B, and C; influenza D infects cattle.",
+        "whyCorrect": "Influenza A and B are the two types that cause seasonal epidemics in humans, and influenza C is a human type that is simply less prevalent than A or B. Influenza D is the additional type that infects cattle rather than people.",
+        "whyWrongByChoice": {
+          "A": "Influenza A is a human type and the main driver of seasonal epidemics and of pandemics.",
+          "B": "Influenza B is one of the two human types that drive seasonal epidemics.",
+          "C": "Influenza C is a human influenza type; it is less prevalent than A or B but still infects people.",
+          "E": "Parainfluenza virus is a paramyxovirus and is not an influenza virus at all."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "influenza types",
+        "influenza D"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-007",
+      "stem": "A health system is deciding when to add staff to its urgent care clinics for influenza. In the United States, the number of influenza cases peaks most reliably during which of the following intervals?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "August through September"
+        },
+        {
+          "label": "B",
+          "text": "Cases are spread evenly across the year"
+        },
+        {
+          "label": "C",
+          "text": "December through February"
+        },
+        {
+          "label": "D",
+          "text": "June through August"
+        },
+        {
+          "label": "E",
+          "text": "March through May"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Influenza season begins in the colder months and peaks between December and February.",
+        "whyCorrect": "Flu season usually starts in the colder months and peaks between December and February. Each year in the United States between 9 and 41 million people get influenza, with 12,000 to 52,000 deaths, and the totals vary substantially from year to year with the virulence of the circulating strain and the efficacy of the annual vaccine.",
+        "whyWrongByChoice": {
+          "A": "Late summer and early fall precede the seasonal rise rather than the peak.",
+          "B": "Influenza activity is strongly seasonal rather than evenly distributed.",
+          "D": "Summer is the low point of influenza activity, and it is when vaccine strains are chosen for the coming season.",
+          "E": "Late spring falls after the peak, as case counts are declining."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "epidemiology"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-008",
+      "stem": "A hospital infection control team is writing guidance to limit the spread of influenza on an inpatient ward. Which of the following best describes how influenza virus is transmitted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bloodborne spread through shared needles and transfusion"
+        },
+        {
+          "label": "B",
+          "text": "Direct inoculation through breaks in the skin barrier"
+        },
+        {
+          "label": "C",
+          "text": "Fecal-oral spread from water contaminated with sewage"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory droplets and contaminated inanimate surfaces"
+        },
+        {
+          "label": "E",
+          "text": "Vector-borne spread by the bite of an infected mosquito"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Influenza spreads by respiratory droplets and by fomites.",
+        "whyCorrect": "Influenza virus spreads through respiratory droplets and through fomites, the inanimate object surfaces that can transmit infectious agents. Respiratory syncytial virus spreads the same way, which is why droplet precautions and surface disinfection are central to controlling both on a ward.",
+        "whyWrongByChoice": {
+          "A": "Influenza is not a bloodborne pathogen.",
+          "B": "Influenza infects the epithelium lining the respiratory tract, not inoculated skin wounds.",
+          "C": "Influenza is a respiratory pathogen and is not acquired from contaminated water.",
+          "E": "Influenza has no arthropod vector."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "transmission"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-009",
+      "stem": "An investigational drug is designed to block the influenza surface glycoprotein that attaches the virion to its target cell. Binding to which of the following host molecules would this drug prevent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 molecules on the surface of helper T lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Heparan sulfate within the endothelial basement membrane"
+        },
+        {
+          "label": "C",
+          "text": "Integrin receptors on the surface of alveolar macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Mannose receptors on the surface of dendritic cells"
+        },
+        {
+          "label": "E",
+          "text": "Sialic acid residues on respiratory epithelial cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hemagglutinin attaches influenza to sialic acid residues on respiratory epithelium.",
+        "whyCorrect": "Influenza virus has two major surface glycoproteins, hemagglutinin (HA) and neuraminidase (NA). HA is the attachment protein and binds sialic acid residues found on the epithelial cells lining the respiratory tract. Antibodies directed at HA block viral attachment for exactly this reason.",
+        "whyWrongByChoice": {
+          "A": "CD4 is not the receptor for influenza hemagglutinin.",
+          "B": "Heparan sulfate in basement membrane is not the target of hemagglutinin.",
+          "C": "Integrins are not the receptor influenza uses for attachment.",
+          "D": "Mannose receptors on dendritic cells are not the attachment target of influenza."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemagglutinin",
+        "attachment"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-010",
+      "stem": "In a cell culture experiment, newly assembled influenza virions remain tethered to the surface of the epithelial cell in which they were made, and the infection fails to spread to neighboring cells. Loss of which of the following viral proteins best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemagglutinin"
+        },
+        {
+          "label": "B",
+          "text": "Matrix protein 2"
+        },
+        {
+          "label": "C",
+          "text": "Neuraminidase"
+        },
+        {
+          "label": "D",
+          "text": "Ribonucleoprotein"
+        },
+        {
+          "label": "E",
+          "text": "RNA-dependent RNA polymerase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neuraminidase cleaves sialic acid so assembled virions can leave the cell and infect neighbors.",
+        "whyCorrect": "Neuraminidase cleaves sialic acid residues, allowing the virus to leave host cells once it has been assembled so that it can go on to infect flanking epithelial cells. Without functioning NA, progeny virions stay bound by hemagglutinin to the sialic acid on the cell that produced them and the infection cannot spread.",
+        "whyWrongByChoice": {
+          "A": "Hemagglutinin binds sialic acid to mediate entry; losing it would block attachment, not release.",
+          "B": "Matrix protein 2 is a proton channel needed for fusion and uncoating during entry.",
+          "D": "Ribonucleoprotein is the complex of viral RNA with its associated proteins, not the release enzyme.",
+          "E": "The RNA-dependent RNA polymerase copies the genome in the nucleus; its loss would stop genome replication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neuraminidase",
+        "viral release"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-011",
+      "stem": "A compound is engineered to plug the influenza integral membrane protein that conducts protons across the viral envelope. Which of the following steps of the influenza life cycle is most directly impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidification needed for fusion and uncoating"
+        },
+        {
+          "label": "B",
+          "text": "Attachment of hemagglutinin to respiratory epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Cleavage of sialic acid from newly formed virions"
+        },
+        {
+          "label": "D",
+          "text": "Insertion of glycoprotein spikes into the envelope"
+        },
+        {
+          "label": "E",
+          "text": "Transcription of viral RNA within the host nucleus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The M2 proton channel maintains the pH influenza needs to fuse with the host membrane and uncoat.",
+        "whyCorrect": "Matrix protein 2 is an integral membrane protein that functions as a proton channel. It maintains the correct pH needed for the virus to fuse with the host cell envelope and to uncoat once inside the host cell. Blocking M2 leaves the genome trapped inside an intact particle, so replication never begins.",
+        "whyWrongByChoice": {
+          "B": "Attachment is mediated by hemagglutinin binding sialic acid residues.",
+          "C": "Cleaving sialic acid to release progeny is the job of neuraminidase.",
+          "D": "Envelope glycoprotein insertion is not the function of the proton channel.",
+          "E": "Genome copying in the nucleus is carried out by the viral RNA-dependent RNA polymerase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "matrix protein 2",
+        "uncoating"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi39-012",
+      "stem": "A public health laboratory reports that a circulating influenza A strain is H3N2. Which of the following does this designation indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The strain carries three hemagglutinin copies per two neuraminidase"
+        },
+        {
+          "label": "B",
+          "text": "The strain carries type 3 hemagglutinin and type 2 neuraminidase"
+        },
+        {
+          "label": "C",
+          "text": "The strain has 3 genome segments and 2 surface proteins"
+        },
+        {
+          "label": "D",
+          "text": "The strain replicates in the nucleus and matures in the cytoplasm"
+        },
+        {
+          "label": "E",
+          "text": "The strain was the third isolate typed in the second wave"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Influenza A subtypes name which HA type and which NA type the strain carries.",
+        "whyCorrect": "Influenza A viruses are described by differences in HA and NA. There are currently 18 known types of HA and 11 known types of NA, and strains are classified by which combination they possess. H1N1 means the virus carries type 1 HA and type 1 NA, so H3N2 carries type 3 HA and type 2 NA.",
+        "whyWrongByChoice": {
+          "A": "The numbers are not a ratio of spike proteins on the virion.",
+          "C": "The influenza genome is divided into 7 or 8 segments regardless of subtype designation.",
+          "D": "Replication site is a family-level feature and is not encoded in the subtype name.",
+          "E": "The numbers refer to glycoprotein types, not to the order in which isolates were identified."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "influenza A",
+        "subtypes"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-001",
+      "stem": "A 2-year-old boy is brought to the clinic in October with 2 days of runny nose, sore throat, and low-grade fever. Last night he developed a harsh, seal-like cough and a high-pitched noise when he breathes in, both of which were worse after he went to bed. He is alert and drooling is absent. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Measles virus"
+        },
+        {
+          "label": "B",
+          "text": "Mumps virus"
+        },
+        {
+          "label": "C",
+          "text": "Parainfluenza virus type 1"
+        },
+        {
+          "label": "D",
+          "text": "Parainfluenza virus type 3"
+        },
+        {
+          "label": "E",
+          "text": "Parainfluenza virus type 4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PIV-1 is the most common cause of croup (laryngotracheobronchitis), with fall outbreaks and a barking cough plus stridor that worsen at night.",
+        "whyCorrect": "Croup begins with mild upper respiratory symptoms and progresses to a harsh, seal-like barking cough with hoarseness and stridor that worsens at night. PIV-1 is the most common cause of croup/LTB in infants and children, and its outbreaks occur most often in the fall, matching this October presentation.",
+        "whyWrongByChoice": {
+          "A": "Measles produces the 3Cs and a descending maculopapular rash, neither of which is present here.",
+          "B": "Mumps causes parotid gland swelling with fever and myalgia, not a barking cough with stridor.",
+          "D": "PIV-3 causes severe lower respiratory disease such as bronchiolitis and pneumonia, not classic croup.",
+          "E": "PIV-4 is the rarest PIV type and usually produces only moderate upper respiratory symptoms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "croup",
+        "PIV-1"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-002",
+      "stem": "A 7-month-old infant is admitted in May with 3 days of cough and increasing work of breathing. She is tachypneic with diffuse wheezes and crackles, and she has no barking cough or stridor. A respiratory viral panel is positive for a parainfluenza virus. Which type is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mumps virus"
+        },
+        {
+          "label": "B",
+          "text": "Parainfluenza virus type 1"
+        },
+        {
+          "label": "C",
+          "text": "Parainfluenza virus type 2"
+        },
+        {
+          "label": "D",
+          "text": "Parainfluenza virus type 3"
+        },
+        {
+          "label": "E",
+          "text": "Parainfluenza virus type 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PIV-3 is a major cause of severe lower respiratory tract infection in infants, including bronchiolitis and pneumonia, and peaks March through June.",
+        "whyCorrect": "In children younger than 1 year, PIV-3 is a common cause of bronchitis, bronchiolitis, and pneumonia. PIV-3 infections occur in any season, but March through June is the peak, which fits a May admission with lower respiratory findings rather than croup.",
+        "whyWrongByChoice": {
+          "A": "Mumps virus targets the parotid glands and other glandular tissue rather than the lower airways.",
+          "B": "PIV-1 chiefly produces croup and other upper respiratory illness, and its outbreaks cluster in the fall.",
+          "C": "PIV-2 causes disease similar to PIV-1 but much less often, and it also peaks in the fall.",
+          "E": "PIV-4 is the rarest type and typically causes moderate upper respiratory infection only."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "PIV-3",
+        "bronchiolitis"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-003",
+      "stem": "An 18-month-old girl has a barking cough, hoarseness, and inspiratory stridor. An anteroposterior radiograph of the neck is obtained. Which of the following findings is most likely to be seen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A large layering pleural effusion on the left"
+        },
+        {
+          "label": "B",
+          "text": "A thumbprint sign at the epiglottis"
+        },
+        {
+          "label": "C",
+          "text": "Dense lobar consolidation of the right lower lobe"
+        },
+        {
+          "label": "D",
+          "text": "Hyperinflation with flattened hemidiaphragms"
+        },
+        {
+          "label": "E",
+          "text": "Tapered subglottic narrowing of the tracheal air column"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Croup causes inflammatory narrowing of the upper trachea, seen radiographically as the steeple sign.",
+        "whyCorrect": "Croup inflames the larynx, windpipe, and bronchi. The resulting narrowing of the subglottic tracheal air column tapers to a point on an AP neck film, an appearance called the steeple sign, and this same narrowing produces the barking cough and stridor.",
+        "whyWrongByChoice": {
+          "A": "A pleural effusion is not part of the airway inflammation that causes croup.",
+          "B": "A thumbprint appearance reflects a swollen epiglottis, which is not the lesion described in croup.",
+          "C": "Lobar consolidation indicates pneumonia rather than the upper airway inflammation of croup.",
+          "D": "Hyperinflation reflects distal small airway obstruction, not narrowing at the subglottis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "croup",
+        "steeple sign",
+        "imaging"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-004",
+      "stem": "A medical student is asked to summarize the four parainfluenza virus types. Which type is the rarest cause of disease overall and most commonly produces only moderate upper respiratory tract infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human metapneumovirus"
+        },
+        {
+          "label": "B",
+          "text": "Parainfluenza virus type 1"
+        },
+        {
+          "label": "C",
+          "text": "Parainfluenza virus type 2"
+        },
+        {
+          "label": "D",
+          "text": "Parainfluenza virus type 3"
+        },
+        {
+          "label": "E",
+          "text": "Parainfluenza virus type 4"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PIV-4 is the rarest of the four parainfluenza types and usually causes moderate upper respiratory illness.",
+        "whyCorrect": "Of the four PIV types, PIV-4 causes disease least often. When it does cause illness, moderate upper respiratory tract infection is the most common clinical manifestation rather than croup or lower respiratory disease.",
+        "whyWrongByChoice": {
+          "A": "Human metapneumovirus is a separate virus and, with RSV and PIV-3, is a leading cause of childhood lower respiratory infection.",
+          "B": "PIV-1 is the leading cause of croup and is one of the more frequently encountered types.",
+          "C": "PIV-2 causes disease less often than PIV-1 but is not the rarest type.",
+          "D": "PIV-3 is very common and is a major cause of severe lower respiratory infection in infants."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "PIV-4",
+        "taxonomy"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-005",
+      "stem": "A 3-year-old boy had documented croup caused by parainfluenza virus type 1 at 14 months of age. He now presents with croup again, and testing identifies parainfluenza virus type 2. Which of the following best explains why the earlier infection did not protect him?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody made in infancy is exclusively IgA and is no longer produced after the first year of life"
+        },
+        {
+          "label": "B",
+          "text": "Maternal antibody blocks the infant from mounting any antibody response to all four PIV types"
+        },
+        {
+          "label": "C",
+          "text": "The segmented genome reassorts between types, generating a new subtype with every infection"
+        },
+        {
+          "label": "D",
+          "text": "The surface antigens of the PIV types are distinct, so immunity to one does not extend to the others"
+        },
+        {
+          "label": "E",
+          "text": "The virus integrates into host DNA and reactivates whenever cell-mediated immunity declines with age"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Infection with one PIV type does not protect against the others because their surface antigens are distinct.",
+        "whyCorrect": "The brick states that infection by one type of PIV does not provide protection against other types, since the surface antigens are distinct. Reinfection is therefore common, and children may have repeated PIV illnesses caused by different types.",
+        "whyWrongByChoice": {
+          "A": "Children do generate lasting antibody, and by age 3 virtually all possess antibodies against PIV-3.",
+          "B": "Maternal antibody does not abolish the infant's own response; most children are infected and seroconvert early.",
+          "C": "Reassortment of a segmented genome is a feature of influenza viruses, not the parainfluenza viruses.",
+          "E": "PIV does not establish a latent, integrated state that reactivates; each episode is a new infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "antigens",
+        "reinfection"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-006",
+      "stem": "Several toddlers in the same daycare room develop croup within a week of one another. Which of the following best describes how parainfluenza virus is transmitted between these children?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bites from an arthropod vector that feeds on infected hosts"
+        },
+        {
+          "label": "B",
+          "text": "Consumption of unpasteurized milk from an infected animal"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of contaminated food and water by the fecal-oral route"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous exposure to infected blood or body fluids"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory droplets and contact with contaminated fomites"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PIV spreads by respiratory droplets and fomites, which is why it moves rapidly through daycares, schools, and families.",
+        "whyCorrect": "The brick states that PIV is spread by respiratory droplets and fomites and that these viruses are particularly good at spreading rapidly among closely knit populations such as families, schools, and daycares. A daycare cluster of croup fits this transmission pattern exactly.",
+        "whyWrongByChoice": {
+          "A": "No arthropod vector is involved in parainfluenza transmission.",
+          "B": "Unpasteurized milk transmits foodborne bacterial pathogens, not parainfluenza virus.",
+          "C": "PIV is a respiratory pathogen and is not acquired by the fecal-oral route.",
+          "D": "PIV is not a bloodborne pathogen and does not require percutaneous exposure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "transmission",
+        "epidemiology"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-007",
+      "stem": "A pediatrician is counseling a parent about how common parainfluenza virus type 3 infection is in early childhood. Which of the following pairs of figures is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 25% infected in the first year of life; antibodies present in nearly all children by age 8"
+        },
+        {
+          "label": "B",
+          "text": "About 40% infected in the first year of life; antibodies present in nearly all children by age 6"
+        },
+        {
+          "label": "C",
+          "text": "Fewer than 10% infected in the first year of life; antibodies present in nearly all children by age 10"
+        },
+        {
+          "label": "D",
+          "text": "Nearly all infected in the first month of life; antibodies present in nearly all children by age 1"
+        },
+        {
+          "label": "E",
+          "text": "Over 60% infected in the first year of life; antibodies present in nearly all children by age 3"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Over 60% of infants are infected with PIV-3 in their first year, and by age 3 virtually all children have antibodies to it.",
+        "whyCorrect": "PIV-3 is an extremely common infection in infancy: more than 60% of infants are infected in the first year of life, and by age three virtually all children possess antibodies against PIV-3. Most children are infected in the first or second year of life, and reinfection is common.",
+        "whyWrongByChoice": {
+          "A": "A quarter of infants is far below the observed rate of more than 60%.",
+          "B": "Forty percent still understates infant infection, and seroprevalence is near universal well before age 6.",
+          "C": "This underestimates infant infection badly; PIV-3 infects the majority of infants in year one.",
+          "D": "Infection is not essentially universal within the first month of life; it accrues over the first years."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PIV-3",
+        "epidemiology",
+        "seroprevalence"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-008",
+      "stem": "A 52-year-old woman who received a lung transplant 4 months ago has 3 days of cough, congestion, and dyspnea. Because she is at high risk for severe disease, the team wants to identify the responsible respiratory virus quickly and exclude other agents. Which of the following is the most appropriate test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Culture of a nasal swab on Thayer-Martin agar"
+        },
+        {
+          "label": "B",
+          "text": "Gram stain and routine bacterial culture of sputum"
+        },
+        {
+          "label": "C",
+          "text": "Nucleic acid amplification testing of a nasopharyngeal specimen"
+        },
+        {
+          "label": "D",
+          "text": "Paired serum IgG titers drawn 4 weeks apart"
+        },
+        {
+          "label": "E",
+          "text": "Serum cold agglutinin titer obtained at presentation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nucleic acid amplification testing such as PCR rapidly identifies PIV along with the other respiratory viruses that mimic it.",
+        "whyCorrect": "Identification of PIV is rarely needed because supportive therapy suffices in healthy hosts, but in patients at high risk for severe disease testing is valuable to rule out other infectious agents. Nucleic acid amplification testing, like PCR, can rapidly identify PIV and the other common respiratory viruses that cause similar presentations.",
+        "whyWrongByChoice": {
+          "A": "Thayer-Martin agar is a selective bacterial medium and will not recover a respiratory virus.",
+          "B": "Bacterial stain and culture do not detect viruses and would miss PIV entirely.",
+          "D": "Paired titers require weeks and are retrospective, so they cannot guide care in a deteriorating patient.",
+          "E": "Cold agglutinins are a nonspecific test and do not identify parainfluenza virus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "lab identification",
+        "PCR"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-009",
+      "stem": "An unvaccinated 4-year-old with fever, cough, coryza, conjunctivitis, and white spots on the buccal mucosa arrives in a busy clinic. Which of the following is the most appropriate immediate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airborne precautions with an N95, with a throat swab sent for RT-PCR"
+        },
+        {
+          "label": "B",
+          "text": "Contact precautions in an open bay, with a stool specimen sent for virus"
+        },
+        {
+          "label": "C",
+          "text": "Droplet precautions with a surgical mask, with blood cultures drawn"
+        },
+        {
+          "label": "D",
+          "text": "No precautions until the rash becomes confluent, then routine testing"
+        },
+        {
+          "label": "E",
+          "text": "Standard precautions alone, with a serum IgG titer sent from the clinic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Suspected measles requires an N95 and prompt isolation, plus a throat or nasopharyngeal swab for RT-PCR and serum for IgM.",
+        "whyCorrect": "Measles is extremely contagious and spreads predominantly through airborne droplets, so an N95 mask and isolating the patient are critical to prevent spread. A throat or nasopharyngeal swab should be collected for RT-PCR along with serum for measles IgM, and infection control and local or state public health offices should be contacted.",
+        "whyWrongByChoice": {
+          "B": "Contact precautions in an open bay leave other patients exposed, and stool is not the diagnostic specimen.",
+          "C": "A surgical mask is inadequate for an airborne pathogen, and blood cultures address bacterial disease.",
+          "D": "Waiting delays isolation during the period when the patient is already highly contagious.",
+          "E": "Standard precautions do not stop airborne spread, and an IgG titer does not confirm acute measles."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "measles",
+        "isolation",
+        "diagnosis"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-010",
+      "stem": "A student asks why measles cases continue to be reported in the United States. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Measles disappears each winter and returns each summer from an animal reservoir"
+        },
+        {
+          "label": "B",
+          "text": "Measles has never been eliminated in the United States and remains endemic nationwide"
+        },
+        {
+          "label": "C",
+          "text": "Measles was eliminated in 2000, and cases still occur in travelers and low-vaccination areas"
+        },
+        {
+          "label": "D",
+          "text": "Measles was eliminated when the vaccine was licensed in 1963, and outbreaks then stopped"
+        },
+        {
+          "label": "E",
+          "text": "Measles was eradicated worldwide in 1980, and all current cases are vaccine-derived"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Measles was officially eliminated from the U.S. in 2000 through vaccination, but importation and low vaccination coverage keep producing outbreaks.",
+        "whyCorrect": "Elimination was declared in 2000, yet cases still occur in travelers and in areas with low vaccination rates. Coverage has slipped: in the 2022-2023 school year only 93.1% of kindergartners had received MMR, leaving roughly 250,000 kindergartners unprotected, and outbreaks have been increasing over the last decade.",
+        "whyWrongByChoice": {
+          "A": "Measles has no animal reservoir; resurgence comes from importation into susceptible populations.",
+          "B": "Endemic transmission was interrupted; elimination was formally declared in 2000.",
+          "D": "Vaccine licensure in 1963 sharply reduced cases, but elimination was not achieved until 2000.",
+          "E": "Smallpox, not measles, was eradicated globally, and U.S. measles cases are wild-type infections."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "measles",
+        "epidemiology",
+        "vaccination"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-011",
+      "stem": "A clinic is deciding which adult patients to prioritize for early evaluation during a community outbreak of respiratory viral illness. Which of the following groups is most likely to experience exacerbations and further complications from these infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patients with COPD, chronic asthma, or cystic fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Patients with stable primary hypothyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Patients with symptomatic knee osteoarthritis"
+        },
+        {
+          "label": "D",
+          "text": "Patients with treated iron deficiency anemia"
+        },
+        {
+          "label": "E",
+          "text": "Patients with well-controlled essential hypertension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic lung disease is the comorbidity that most consistently worsens outcomes from these respiratory viruses.",
+        "whyCorrect": "The brick states that, as with all the viruses discussed, people with lung diseases such as COPD, chronic asthma, and cystic fibrosis are high-risk groups who commonly have exacerbations of symptoms along with further complications. Comorbidities that affect the lungs can rapidly worsen during any of these respiratory tract infections.",
+        "whyWrongByChoice": {
+          "B": "Stable hypothyroidism is not among the comorbidities that worsen these infections.",
+          "C": "Osteoarthritis is a joint disease and does not affect pulmonary reserve.",
+          "D": "Treated iron deficiency anemia does not impair airway or pulmonary reserve in this way.",
+          "E": "Controlled hypertension is not identified as a risk factor for severe respiratory viral disease here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parainfluenza",
+        "risk factors",
+        "comorbidity"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi40-012",
+      "stem": "A 9-month-old infant is hospitalized in July with parainfluenza pneumonia. Which of the following best identifies the likely type and explains the timing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PIV-1, because it is the most common cause of bronchiolitis in infants"
+        },
+        {
+          "label": "B",
+          "text": "PIV-1, because its outbreaks are concentrated in the summer months"
+        },
+        {
+          "label": "C",
+          "text": "PIV-2, because it circulates only during the fall and winter months"
+        },
+        {
+          "label": "D",
+          "text": "PIV-3, because it circulates in any season and peaks March through June"
+        },
+        {
+          "label": "E",
+          "text": "PIV-4, because it is the leading cause of pneumonia in young infants"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PIV-3 causes severe lower respiratory disease in infants and, unlike PIV-1 and PIV-2, occurs in any season with a spring peak.",
+        "whyCorrect": "PIV-1 and PIV-2 outbreaks tend to occur in the fall, whereas PIV-3 infections can occur in any season, with March through June the peak. A July pneumonia in an infant therefore points to PIV-3, which is a major cause of bronchitis, bronchiolitis, and pneumonia in children younger than 1 year.",
+        "whyWrongByChoice": {
+          "A": "Bronchiolitis in infants is attributed to PIV-3, not PIV-1.",
+          "B": "PIV-1 outbreaks cluster in the fall, and PIV-1 causes croup rather than infant pneumonia.",
+          "C": "PIV-2 also peaks in the fall and causes PIV-1-like illness at much lower frequency.",
+          "E": "PIV-4 is the rarest type and typically causes only moderate upper respiratory infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PIV-3",
+        "seasonality",
+        "pneumonia"
+      ],
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-001",
+      "stem": "A virology laboratory characterizes the rotavirus particle recovered from the stool of an infant with vomiting and watery diarrhea. Which of the following best describes the structure and genome of this virus and the other members of its family?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Double-stranded DNA genome, nonenveloped, icosahedral capsid"
+        },
+        {
+          "label": "B",
+          "text": "Double-stranded RNA genome, enveloped, helical capsid"
+        },
+        {
+          "label": "C",
+          "text": "Double-stranded RNA genome, nonenveloped, icosahedral capsid"
+        },
+        {
+          "label": "D",
+          "text": "Single-stranded RNA genome, enveloped, icosahedral capsid"
+        },
+        {
+          "label": "E",
+          "text": "Single-stranded RNA genome, nonenveloped, helical capsid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reoviridae, the family containing rotavirus, are nonenveloped icosahedral viruses with a double-stranded RNA genome.",
+        "whyCorrect": "Reoviridae store their genetic information as complementary strands of double-stranded RNA rather than as a single strand. Like Caliciviridae and Matonaviridae, they are nonenveloped and have an icosahedral capsule. The defining difference from those two families is the double-stranded, segmented nature of the reovirus genome.",
+        "whyWrongByChoice": {
+          "A": "Reoviruses store their genetic information as RNA, not as DNA.",
+          "B": "The genome is correct, but reoviruses are nonenveloped and the capsid is icosahedral, not helical.",
+          "D": "Reoviruses are not single-stranded RNA viruses and they carry no lipid envelope.",
+          "E": "Reoviruses are not single-stranded RNA viruses, and their capsid is icosahedral rather than helical."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Reoviridae",
+        "viral structure",
+        "rotavirus"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-002",
+      "stem": "Norovirus and rubella virus are assigned to different viral families, yet the two are discussed together because they share several basic features. Which of the following features is shared by members of Caliciviridae and Matonaviridae?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A double-stranded RNA genome inside an icosahedral capsid"
+        },
+        {
+          "label": "B",
+          "text": "A helical nucleocapsid surrounded by a host-derived lipid bilayer"
+        },
+        {
+          "label": "C",
+          "text": "A negative-sense single-stranded RNA genome with an envelope"
+        },
+        {
+          "label": "D",
+          "text": "A positive-sense single-stranded RNA genome with no envelope"
+        },
+        {
+          "label": "E",
+          "text": "A segmented genome that permits genetic reassortment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caliciviridae and Matonaviridae are both nonenveloped, icosahedral, positive-sense single-stranded RNA viruses.",
+        "whyCorrect": "These two families are presented together precisely because their characteristics overlap so closely. Both store their genetic information as (+)ssRNA, both are nonenveloped, and both have an icosahedral capsule. Reoviridae shares the nonenveloped icosahedral shape but differs in having a double-stranded, segmented genome.",
+        "whyWrongByChoice": {
+          "A": "A double-stranded RNA genome is the hallmark of Reoviridae; these two families carry single-stranded RNA.",
+          "B": "Both families have an icosahedral capsule and lack a lipid envelope entirely.",
+          "C": "Neither family is enveloped, and neither carries a negative-sense genome.",
+          "E": "A segmented genome and reassortment are features of Reoviridae, not of Caliciviridae or Matonaviridae."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Caliciviridae",
+        "Matonaviridae",
+        "viral structure"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-003",
+      "stem": "Surveillance identifies a rotavirus strain whose genome carries pieces derived from two different parent strains that were circulating in the same community. Which feature of this virus best explains how the new strain arose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its capsid proteins are acquired from the host cell membrane as the particle buds out"
+        },
+        {
+          "label": "B",
+          "text": "Its envelope glycoproteins accumulate point mutations gradually over successive seasons"
+        },
+        {
+          "label": "C",
+          "text": "Its genome is divided into separate dsRNA segments that can be exchanged during coinfection"
+        },
+        {
+          "label": "D",
+          "text": "Its polymerase copies the genome through a DNA intermediate that integrates into the host"
+        },
+        {
+          "label": "E",
+          "text": "Its positive-sense RNA is translated directly into one large polyprotein that is then cleaved"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rotavirus has a segmented dsRNA genome, so coinfecting strains can swap segments and produce novel variants through reassortment.",
+        "whyCorrect": "The reovirus genome is broken into 10 to 12 different dsRNA pieces. When two strains infect the same cell, the virus can mix up pieces of its genome and produce novel variants, a process called genetic reassortment. This is why rotavirus shows high genetic diversity and why new strains continue to emerge.",
+        "whyWrongByChoice": {
+          "A": "Rotavirus is nonenveloped and does not acquire host membrane during release.",
+          "B": "Rotavirus has no envelope, and gradual point mutation does not explain a genome built from two parents.",
+          "D": "Rotavirus is an RNA virus that does not use a DNA intermediate or integrate into host DNA.",
+          "E": "A single translated polyprotein does not create hybrid genomes drawn from two parent strains."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rotavirus",
+        "reassortment",
+        "segmented genome"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-004",
+      "stem": "A student reviewing viral taxonomy notes that rubella virus was originally grouped with the togaviruses but was recently reclassified. Rubella virus is now the only medically significant member of which of the following families?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenoviridae"
+        },
+        {
+          "label": "B",
+          "text": "Caliciviridae"
+        },
+        {
+          "label": "C",
+          "text": "Matonaviridae"
+        },
+        {
+          "label": "D",
+          "text": "Reoviridae"
+        },
+        {
+          "label": "E",
+          "text": "Togaviridae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rubella virus is the only medically significant member of Matonaviridae, having been recently moved out of Togaviridae.",
+        "whyCorrect": "Matonaviridae contains a single virus of clinical importance, rubella virus, the cause of rubella. Rubella was originally part of the Togaviridae family but was recently reclassified into Matonaviridae. Its structure, (+)ssRNA and nonenveloped with an icosahedral capsule, is why it is taught alongside Caliciviridae.",
+        "whyWrongByChoice": {
+          "A": "Adenoviridae includes enteric adenovirus, a separate cause of watery diarrhea.",
+          "B": "Caliciviridae contains norovirus and sapovirus, both causes of gastroenteritis.",
+          "D": "Reoviridae contains rotavirus and is defined by a segmented dsRNA genome.",
+          "E": "Togaviridae is the family rubella was moved out of, not its current assignment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rubella",
+        "Matonaviridae",
+        "taxonomy"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-005",
+      "stem": "A 58-year-old woman develops abrupt nausea, vomiting, and watery nonbloody diarrhea on the fourth day of a cruise. Twenty-two other passengers and several crew members have reported the same illness within the past 36 hours, and most recover within 2 days. Which of the following is the most likely causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterotoxigenic Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Norovirus"
+        },
+        {
+          "label": "C",
+          "text": "Rotavirus"
+        },
+        {
+          "label": "D",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "E",
+          "text": "Sapovirus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Norovirus is the most common cause of diarrhea on cruise ships and the leading cause of acute viral gastroenteritis overall.",
+        "whyCorrect": "Explosive, rapidly spreading vomiting and watery diarrhea in a closed setting such as a cruise ship is the classic norovirus pattern. Norovirus is the most common cause of acute gastroenteritis and the most common cause of diarrhea on cruise ships, and illness is short-lived and self-limiting.",
+        "whyWrongByChoice": {
+          "A": "Enterotoxigenic E. coli causes travelers' diarrhea through heat-labile and heat-stable toxins, not this outbreak pattern.",
+          "C": "Rotavirus is primarily a disease of young children and is far less likely in an adult shipboard outbreak.",
+          "D": "Rubella causes a rash illness spread by respiratory droplets and does not cause watery diarrhea.",
+          "E": "Sapovirus causes an identical syndrome but the large majority of clinical cases occur in children under 5."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "outbreak",
+        "gastroenteritis"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-006",
+      "stem": "A public health officer is asked how much of the annual United States norovirus burden is actually attributable to cruise ships, since shipboard outbreaks dominate news coverage. Although norovirus is the most common cause of diarrhea on cruise ships, cruise ship outbreaks account for approximately what proportion of reported norovirus infections each year?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 0.01%"
+        },
+        {
+          "label": "B",
+          "text": "About 1%"
+        },
+        {
+          "label": "C",
+          "text": "About 15%"
+        },
+        {
+          "label": "D",
+          "text": "About 35%"
+        },
+        {
+          "label": "E",
+          "text": "About 58%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cruise ship outbreaks are highly visible but represent only about 1% of reported norovirus infections annually.",
+        "whyCorrect": "Most of the time a norovirus outbreak is reported in the media, it is on a cruise ship, which distorts perception of where transmission occurs. Norovirus is indeed the most common cause of diarrhea on cruise ships, but shipboard outbreaks account for only 1% of the total reported cases of norovirus infection annually.",
+        "whyWrongByChoice": {
+          "A": "This understates the shipboard contribution, which is on the order of 1%.",
+          "C": "Cruise ships account for a far smaller share than this; the great majority of cases are community acquired.",
+          "D": "No more than a small fraction of annual norovirus cases are linked to cruise ships.",
+          "E": "58% is the share of United States foodborne illness caused by norovirus, not the cruise ship share."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "epidemiology",
+        "cruise ship"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-007",
+      "stem": "An epidemiologist reviewing United States foodborne illness data notes that a single viral agent accounts for the majority of cases. Norovirus alone is responsible for approximately what percentage of foodborne illness in the United States?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1%"
+        },
+        {
+          "label": "B",
+          "text": "15%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "58%"
+        },
+        {
+          "label": "E",
+          "text": "90%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Norovirus causes roughly 58% of foodborne illness in the United States.",
+        "whyCorrect": "Most cases of acute gastroenteritis are caused by viruses, and norovirus is the single most common cause. Noroviruses alone are responsible for 58% of foodborne illnesses in the United States, which is why food handling and hand hygiene are central to control.",
+        "whyWrongByChoice": {
+          "A": "1% is the share of annual norovirus cases traced to cruise ship outbreaks.",
+          "B": "This substantially understates the norovirus share of foodborne illness.",
+          "C": "Norovirus accounts for well over a third of foodborne illness in the United States.",
+          "E": "No single agent accounts for nine-tenths of foodborne illness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "foodborne illness",
+        "epidemiology"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-008",
+      "stem": "A county health department is deciding when to increase staffing for viral gastroenteritis surveillance. Reported norovirus outbreaks in the United States, which number roughly 2,500 each year, reach their peak during which of the following months?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "April"
+        },
+        {
+          "label": "B",
+          "text": "August"
+        },
+        {
+          "label": "C",
+          "text": "January"
+        },
+        {
+          "label": "D",
+          "text": "June"
+        },
+        {
+          "label": "E",
+          "text": "October"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Norovirus outbreaks in the United States number about 2,500 per year and peak around January.",
+        "whyCorrect": "Surveillance data on average reported norovirus outbreaks by month show a pronounced winter peak, with cases peaking around January and falling to a trough in the summer months. Nonfoodborne transmission accounts for most of that winter surge.",
+        "whyWrongByChoice": {
+          "A": "April falls on the declining limb of the outbreak curve, well below the winter peak.",
+          "B": "August is near the annual minimum for reported outbreaks.",
+          "D": "Summer months represent the annual low point for reported norovirus outbreaks.",
+          "E": "October is on the rising limb but well below the January peak."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "seasonality",
+        "epidemiology"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-009",
+      "stem": "A 34-year-old man had laboratory-confirmed norovirus gastroenteritis 14 months ago and now presents with an identical illness after attending a catered event. Which of the following best explains why he was susceptible again?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Many strains circulate, and immunity to one does not protect against another"
+        },
+        {
+          "label": "B",
+          "text": "Prior mucosal immunity is erased by each subsequent gastrointestinal illness"
+        },
+        {
+          "label": "C",
+          "text": "The current illness is a relapse of the original inadequately treated infection"
+        },
+        {
+          "label": "D",
+          "text": "The viral genome integrates into host DNA and is re-expressed months later"
+        },
+        {
+          "label": "E",
+          "text": "The virus establishes lifelong latency and reactivates during periods of stress"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "There are many norovirus strains, and infection with one does not confer immunity to another, so repeat infections occur throughout life.",
+        "whyCorrect": "Norovirus exists as many different strains. Infection with one does not convey immunity to another, so repeated norovirus infections throughout a person's life are possible and expected. This is also why prevention depends on hand washing, avoiding raw or undercooked shellfish, and washing produce rather than on acquired immunity.",
+        "whyWrongByChoice": {
+          "B": "Unrelated gastrointestinal illness does not erase immunity to a previously encountered strain.",
+          "C": "Norovirus infection is self-limiting and has no specific treatment, so relapse of an untreated case is not the mechanism.",
+          "D": "Norovirus is an RNA virus and does not integrate into host DNA.",
+          "E": "Norovirus does not establish latency; each episode is a new infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "immunity",
+        "reinfection"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-010",
+      "stem": "During a norovirus outbreak in a long-term care facility, staff have been using an alcohol-based hand rub between residents, and transmission has continued unabated. Which property of norovirus best explains why this measure is inadequate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The virus forms environmentally resistant endospores on the skin surface"
+        },
+        {
+          "label": "B",
+          "text": "The virus has no lipid envelope, so the sanitizer has no membrane to disrupt"
+        },
+        {
+          "label": "C",
+          "text": "The virus is shed only in vomitus, to which hand rubs are not routinely applied"
+        },
+        {
+          "label": "D",
+          "text": "The virus replicates within host phagocytes, which shields it from topical antiseptics"
+        },
+        {
+          "label": "E",
+          "text": "The virus requires a contact time longer than 5 minutes with any agent"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alcohol sanitizers work by disrupting a lipid envelope, which norovirus lacks, making it notoriously resistant to them.",
+        "whyCorrect": "Enveloped viruses have a lipid membrane that alcohol-based sanitizers disrupt, inactivating the virus. Norovirus is nonenveloped, so there is no membrane to dissolve and the particle is far more resistant. This is why the CDC recommends hand washing with soap and water, which physically removes virus, rather than alcohol hand rubs.",
+        "whyWrongByChoice": {
+          "A": "Viruses do not form endospores; that is a bacterial survival structure.",
+          "C": "Norovirus is shed in stool as well as vomitus and spreads by the fecal-oral route.",
+          "D": "Norovirus infects the gastrointestinal tract rather than hiding inside phagocytes.",
+          "E": "The 5-minute contact time applies to bleach left on surfaces, not to a universal requirement of all agents."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "nonenveloped",
+        "disinfection"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-011",
+      "stem": "After a norovirus outbreak in a school cafeteria, the environmental services team asks how to decontaminate the hard surfaces in the kitchen. Which of the following is the recommended approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apply a quaternary ammonium cleaner and rinse it off immediately afterward"
+        },
+        {
+          "label": "B",
+          "text": "Apply bleach and leave it on the surface for at least 5 minutes"
+        },
+        {
+          "label": "C",
+          "text": "Heat all surfaces and utensils to 145 degrees Fahrenheit for one minute"
+        },
+        {
+          "label": "D",
+          "text": "Use a low-concentration bleach solution and wipe it away at once"
+        },
+        {
+          "label": "E",
+          "text": "Wipe surfaces with 70% isopropyl alcohol and allow them to air dry"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Surface decontamination for norovirus requires bleach left in contact with the surface for at least 5 minutes.",
+        "whyCorrect": "Norovirus is highly resistant to many common disinfectants, to heat up to 145 degrees Fahrenheit, and even to low-concentration bleach solutions. The CDC recommendation is therefore to leave bleach on surfaces for at least 5 minutes, along with hand washing using soap and water, cooking shellfish thoroughly, and washing clothes in hot water.",
+        "whyWrongByChoice": {
+          "A": "Norovirus resists many common disinfectants, and immediate rinsing eliminates any contact time.",
+          "C": "Norovirus is resistant to heat up to 145 degrees Fahrenheit, so this temperature is not reliable.",
+          "D": "Norovirus resists low-concentration bleach, and wiping it away at once removes the needed contact time.",
+          "E": "Alcohol works on enveloped viruses; nonenveloped norovirus resists it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "infection control",
+        "bleach"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi41-012",
+      "stem": "Five members of a family become ill after a shared church potluck. Vomiting and watery diarrhea began in all five within a narrow window after the meal, and norovirus is later confirmed. Which of the following best represents the usual incubation period of this virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 to 3 hours"
+        },
+        {
+          "label": "B",
+          "text": "4 to 7 days"
+        },
+        {
+          "label": "C",
+          "text": "4 to 8 hours"
+        },
+        {
+          "label": "D",
+          "text": "12 to 23 days"
+        },
+        {
+          "label": "E",
+          "text": "12 to 48 hours"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Norovirus has a relatively short incubation period averaging 12 to 48 hours.",
+        "whyCorrect": "Once infected with norovirus, the incubation period is relatively short, on average 12 to 48 hours. The virus then infects the gastrointestinal tract and produces acute vomiting and watery diarrhea. This short interval is part of why point-source outbreaks appear so explosive.",
+        "whyWrongByChoice": {
+          "A": "This is far shorter than the norovirus incubation period.",
+          "B": "This is longer than the usual norovirus incubation period; sapovirus runs 1 to 4 days.",
+          "C": "Norovirus symptoms typically begin later than this, on average 12 to 48 hours after exposure.",
+          "D": "12 to 23 days is the incubation period of rubella, not norovirus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "norovirus",
+        "incubation period"
+      ],
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-001",
+      "stem": "A 34-year-old woman develops fever, myalgia, and cough during influenza season. A rapid influenza test is positive, and she is started on oseltamivir. Which of the following is the mechanism of action of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of host receptor binding"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of the M2 ion channel"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of viral DNA polymerase"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of viral neuraminidase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of viral RNA polymerase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oseltamivir and zanamivir treat influenza by inhibiting the viral enzyme neuraminidase.",
+        "whyCorrect": "Neuraminidase inhibitors are the mainstay of influenza treatment, and oseltamivir is the current drug of choice. Neuraminidase is a viral enzyme that releases budding viruses from the infected cell's outer membrane, so blocking it reduces the rate at which newly formed virions reach healthy cells and slows the progression of infection.",
+        "whyWrongByChoice": {
+          "A": "Neuraminidase inhibitors act at viral release, not at the receptor-binding step of entry.",
+          "B": "M2 ion channel blockade is the mechanism of amantadine and rimantadine, not oseltamivir.",
+          "C": "Inhibition of viral DNA polymerase describes guanosine analogs such as acyclovir and ganciclovir.",
+          "E": "Activity against viral RNA polymerase describes ribavirin, the agent used for RSV."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "neuraminidase inhibitors",
+        "mechanism of action"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-002",
+      "stem": "A 41-year-old man with influenza is treated with zanamivir. Which step of the viral life cycle is most directly interrupted by this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assembly of new virion particles"
+        },
+        {
+          "label": "B",
+          "text": "Attachment to the host cell receptor"
+        },
+        {
+          "label": "C",
+          "text": "Endocytosis of the virion into the cell"
+        },
+        {
+          "label": "D",
+          "text": "Release of progeny virions from the cell"
+        },
+        {
+          "label": "E",
+          "text": "Replication of the viral genome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neuraminidase inhibitors act at the release-of-progeny-virus step of the influenza life cycle.",
+        "whyCorrect": "Neuraminidase frees budding virions from the outer membrane of the infected cell. Oseltamivir and zanamivir block that enzyme, so newly formed virus stays tethered to the cell it came from and fewer particles travel on to healthy cells.",
+        "whyWrongByChoice": {
+          "A": "Virion assembly proceeds normally; only the final release of the particles is blocked.",
+          "B": "Receptor binding occurs before the drug's target step and is unaffected by neuraminidase inhibition.",
+          "C": "Endocytosis brings the virion into the cell and is not the step these drugs block.",
+          "E": "Genome replication is the target of nucleic acid synthesis inhibitors such as ribavirin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "neuraminidase inhibitors",
+        "viral life cycle"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-003",
+      "stem": "A 45-year-old man with laboratory-confirmed influenza and asthma is seen 1 day after symptom onset. Which of the following is the current drug of choice for treating his influenza?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "B",
+          "text": "Amantadine"
+        },
+        {
+          "label": "C",
+          "text": "Ganciclovir"
+        },
+        {
+          "label": "D",
+          "text": "Oseltamivir"
+        },
+        {
+          "label": "E",
+          "text": "Ribavirin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oseltamivir is the current drug of choice for influenza.",
+        "whyCorrect": "Neuraminidase inhibitors are the mainstay of influenza management, and among them oseltamivir is the current drug of choice. Comorbid asthma also places this patient at increased risk of progressing to severe influenza, which supports treating him.",
+        "whyWrongByChoice": {
+          "A": "Acyclovir is a guanosine analog used for HSV and VZV infections.",
+          "B": "Amantadine is an M2 ion channel blocker formerly used for influenza but discontinued because of resistance.",
+          "C": "Ganciclovir is a guanosine analog used for cytomegalovirus infection.",
+          "E": "Ribavirin is the drug used for RSV and hepatitis C, not for influenza."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "oseltamivir",
+        "treatment"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-004",
+      "stem": "A 38-year-old woman asks when influenza antiviral therapy must be started to be effective. Which of the following describes the window of maximum effectiveness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "After the fever has resolved"
+        },
+        {
+          "label": "B",
+          "text": "At any point during the illness"
+        },
+        {
+          "label": "C",
+          "text": "Only once hypoxemia develops"
+        },
+        {
+          "label": "D",
+          "text": "Within 48 hours of symptom onset"
+        },
+        {
+          "label": "E",
+          "text": "Within 7 days of symptom onset"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Influenza antivirals have maximum effectiveness when started within 48 hours of symptom onset.",
+        "whyCorrect": "These drugs work best when given in the first 48 hours after symptoms begin. After that window, the drug does not provide any additional benefit, so the timing of the first dose is the single most important determinant of whether therapy helps.",
+        "whyWrongByChoice": {
+          "A": "Waiting for defervescence would push treatment past the window of benefit.",
+          "B": "Timing is crucial; the drugs are not equally useful at any point in the illness.",
+          "C": "Waiting for hypoxemia would delay therapy well beyond the effective window.",
+          "E": "Seven days is far outside the effective window; benefit is lost after 48 hours."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "treatment window",
+        "oseltamivir"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-005",
+      "stem": "A 52-year-old man with influenza presents 4 days after symptom onset and asks why oseltamivir is unlikely to help him now. Which of the following best explains the loss of benefit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutralizing antibody binds the drug and inactivates it after several days"
+        },
+        {
+          "label": "B",
+          "text": "Resistance mutations arise in nearly every strain by the fourth day"
+        },
+        {
+          "label": "C",
+          "text": "The drug is cleared too rapidly to reach the airway this late in illness"
+        },
+        {
+          "label": "D",
+          "text": "The virus switches to cell-to-cell spread that the drug cannot block"
+        },
+        {
+          "label": "E",
+          "text": "Viral budding has slowed, so there is little neuraminidase activity left to block"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "After 48 hours the rate of new virion budding is very low, so a neuraminidase inhibitor has little left to do.",
+        "whyCorrect": "Oseltamivir works by keeping budding virions tethered to the infected cell's outer membrane. Past the 48-hour mark the rate of newly formed virus is very low, so blocking neuraminidase is essentially ineffective because the virus is no longer budding.",
+        "whyWrongByChoice": {
+          "A": "Antibody does not inactivate oseltamivir, and this is not the reason for the 48-hour rule.",
+          "B": "Resistance from mutations occurs in some strains, but most circulating strains remain susceptible.",
+          "C": "Drug clearance does not change with the day of illness; the problem is the absence of the target activity.",
+          "D": "The explanation for late failure is reduced budding, not a switch in the mode of viral spread."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "influenza",
+        "treatment window",
+        "mechanism of action"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-006",
+      "stem": "A 27-year-old woman with influenza is prescribed an antiviral given as an inhaled aerosol powder. Which of the following adverse effects is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute kidney injury"
+        },
+        {
+          "label": "B",
+          "text": "Hemolytic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Nasal and airway irritation"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "E",
+          "text": "Photosensitivity rash"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Zanamivir is inhaled, and its adverse effects reflect that route: airway and nasal irritation.",
+        "whyCorrect": "Neuraminidase inhibitors are generally well tolerated, and their side effects track with the route of administration. Zanamivir is an inhaled aerosol powder and primarily causes airway irritation, along with headache, sore throat, and myalgia.",
+        "whyWrongByChoice": {
+          "A": "Acute kidney injury is not a reported adverse effect of zanamivir.",
+          "B": "Hemolytic anemia is the black box adverse effect of ribavirin, not of an inhaled neuraminidase inhibitor.",
+          "D": "Peripheral neuropathy is not among the reported adverse effects of these drugs.",
+          "E": "Photosensitivity is not an adverse effect associated with neuraminidase inhibitors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "zanamivir",
+        "adverse effects",
+        "influenza"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-007",
+      "stem": "A 33-year-old man takes an oral neuraminidase inhibitor for influenza and calls about a side effect. Which of the following is he most likely to report?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airway irritation"
+        },
+        {
+          "label": "B",
+          "text": "Hearing loss"
+        },
+        {
+          "label": "C",
+          "text": "Hemolytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Nausea and vomiting"
+        },
+        {
+          "label": "E",
+          "text": "Neutropenic fever"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Oseltamivir is given orally and mainly causes headache and gastrointestinal upset.",
+        "whyCorrect": "Adverse effects of neuraminidase inhibitors follow their route of administration. Because oseltamivir is swallowed, it mainly produces gastrointestinal disturbance such as nausea and vomiting, along with headache.",
+        "whyWrongByChoice": {
+          "A": "Airway irritation is characteristic of inhaled zanamivir rather than oral oseltamivir.",
+          "B": "Hearing loss is not an adverse effect associated with these antiviral agents.",
+          "C": "Hemolytic anemia is an adverse effect of ribavirin, which is used for RSV and hepatitis C.",
+          "E": "Neutropenia is reported with ribavirin therapy, not with oral neuraminidase inhibitors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oseltamivir",
+        "adverse effects",
+        "influenza"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-008",
+      "stem": "A 58-year-old lung transplant recipient with severe RSV infection is given ribavirin. Which of the following best describes how this drug works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks the M2 ion channel and prevents viral uncoating"
+        },
+        {
+          "label": "B",
+          "text": "Blocks viral attachment to host sialic acid receptors"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits guanine nucleotide synthesis and halts strand elongation"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits viral neuraminidase and blocks virion release"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits viral protease and prevents polyprotein cleavage"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ribavirin is a guanine nucleotide synthesis inhibitor that mimics purine structure and stops viral nucleic acid elongation.",
+        "whyCorrect": "Ribavirin is a broad-spectrum nucleoside antiviral that mimics purine structure. It competitively inhibits nucleic acid synthesis by being incorporated into the growing nucleic acid strand and halting elongation, which decreases viral replication.",
+        "whyWrongByChoice": {
+          "A": "M2 channel blockade describes amantadine and rimantadine, which are no longer used for influenza.",
+          "B": "Ribavirin acts inside the cell on nucleic acid synthesis, not at the attachment step.",
+          "D": "Neuraminidase inhibition describes oseltamivir and zanamivir, which are used for influenza.",
+          "E": "Protease inhibition is not the mechanism of ribavirin as described for RSV therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ribavirin",
+        "RSV",
+        "mechanism of action"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-009",
+      "stem": "Five patients with respiratory syncytial virus infection are evaluated. Which of the following patients is the most appropriate candidate for antiviral therapy with ribavirin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 30-year-old with a mild RSV upper respiratory infection"
+        },
+        {
+          "label": "B",
+          "text": "A 70-year-old with treated hypertension and an RSV cough"
+        },
+        {
+          "label": "C",
+          "text": "A bone marrow transplant recipient with severe RSV pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "A healthy 2-year-old with RSV bronchiolitis and a good appetite"
+        },
+        {
+          "label": "E",
+          "text": "A woman in the third trimester of pregnancy with RSV"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ribavirin for RSV is reserved for severely immunocompromised patients, such as transplant recipients.",
+        "whyCorrect": "RSV is usually self-limiting and managed supportively. Antiviral therapy with ribavirin is only indicated in patients who are severely immunocompromised, such as transplant patients or those with certain cancers, and even then it must be considered carefully and individualized because of the drug's risks.",
+        "whyWrongByChoice": {
+          "A": "Mild RSV upper respiratory illness is self-limiting and requires no antiviral therapy.",
+          "B": "Well-controlled hypertension does not make a patient severely immunocompromised.",
+          "D": "A healthy toddler with bronchiolitis is managed with supportive care, not ribavirin.",
+          "E": "Ribavirin is an FDA category X drug and is contraindicated in pregnancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ribavirin",
+        "RSV",
+        "indications"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-010",
+      "stem": "A previously healthy 9-month-old infant has rhinorrhea, cough, and low-grade fever from RSV. He is feeding well and has normal oxygen saturation. Which of the following is the preferred management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "B",
+          "text": "Oseltamivir"
+        },
+        {
+          "label": "C",
+          "text": "Ribavirin"
+        },
+        {
+          "label": "D",
+          "text": "Supportive care alone"
+        },
+        {
+          "label": "E",
+          "text": "Zanamivir"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The preferred treatment of RSV infection is no antiviral treatment, because the infection is self-limiting.",
+        "whyCorrect": "RSV is a self-limiting infection, so the preferred approach is supportive care: maintaining oxygenation, replenishing fluids, and managing symptoms. Antiviral therapy is reserved for severely immunocompromised patients.",
+        "whyWrongByChoice": {
+          "A": "Acyclovir is a guanosine analog used for HSV and VZV infections.",
+          "B": "Oseltamivir treats influenza and has no activity against RSV.",
+          "C": "Ribavirin is restricted to severely immunocompromised patients because of its risks.",
+          "E": "Zanamivir is a neuraminidase inhibitor for influenza, not an RSV drug."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "RSV",
+        "supportive care",
+        "treatment"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-011",
+      "stem": "A 3-year-old with known asthma has an RSV lower respiratory tract infection with cough and diffuse wheezing. Which of the following is most likely to relieve his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aerosolized ribavirin"
+        },
+        {
+          "label": "B",
+          "text": "Bronchodilators and steroids"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Oral amantadine"
+        },
+        {
+          "label": "E",
+          "text": "Oral oseltamivir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In RSV lower respiratory tract infection with cough and wheezing, bronchodilators and steroids may relieve symptoms, especially with underlying reactive airway disease.",
+        "whyCorrect": "Management of RSV is supportive. In patients with lower respiratory tract infection who present with cough and wheezing, bronchodilators and steroids may result in symptom relief, particularly when the patient has underlying reactive airway disease such as asthma or COPD.",
+        "whyWrongByChoice": {
+          "A": "Ribavirin is reserved for severely immunocompromised patients with RSV.",
+          "C": "Antibiotics do not treat a viral lower respiratory tract infection.",
+          "D": "Amantadine was an influenza drug and is no longer used because of resistance.",
+          "E": "Oseltamivir is an influenza drug and has no role in RSV infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RSV",
+        "reactive airway disease",
+        "supportive care"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi42-012",
+      "stem": "A 60-year-old woman is counseled before starting ribavirin. Which of the following adverse effects carries an FDA black box warning for this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic failure"
+        },
+        {
+          "label": "C",
+          "text": "Nephrotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Stevens-Johnson syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Torsades de pointes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hemolytic anemia is the black box warning issued by the FDA for ribavirin.",
+        "whyCorrect": "Ribavirin is associated with anemia, hemolytic anemia, and neutropenia. The hemolytic anemia is serious enough that it carries an FDA black box warning, because the resulting anemia can worsen preexisting cardiac disease.",
+        "whyWrongByChoice": {
+          "B": "Hepatic failure is not the black box warning attached to ribavirin.",
+          "C": "Nephrotoxicity is not the warned-about toxicity for this drug.",
+          "D": "Stevens-Johnson syndrome is not a described ribavirin adverse effect.",
+          "E": "Torsades de pointes is not among ribavirin's reported adverse effects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ribavirin",
+        "adverse effects",
+        "black box warning"
+      ],
+      "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
+      "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
+      "tier": "core"
+    }
+  ]
+}

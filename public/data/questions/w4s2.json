@@ -1,0 +1,2246 @@
+{
+  "categoryId": "w4s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mi47-001",
+      "stem": "A 30-year-old man has an intensely itchy, scaly, ring-shaped patch on his forearm. A scraping grows a filamentous fungus that grows readily on dead, keratinized tissue. Which nutrient does this group of fungi prefer, and which secreted enzyme do they use to obtain it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chitin, broken down by secreted chitinase"
+        },
+        {
+          "label": "B",
+          "text": "Collagen, broken down by secreted collagenase"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen, broken down by secreted amylase"
+        },
+        {
+          "label": "D",
+          "text": "Keratin, broken down by secreted keratinase"
+        },
+        {
+          "label": "E",
+          "text": "Sebum lipids, broken down by secreted lipase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dermatophytes feed on keratin using secreted keratinase.",
+        "whyCorrect": "Dermatophytes colonize keratinized tissues (skin, hair, and nails). Keratin is a structural protein of those tissues, and dermatophytes secrete keratinase to degrade keratin and use it as an energy source. This is why they stay confined to keratinized structures rather than invading deeper.",
+        "whyWrongByChoice": {
+          "A": "Chitin is a component of the fungal cell wall itself, the target of calcofluor white stain, not a host nutrient.",
+          "B": "Collagen is a dermal protein; dermatophytes do not penetrate into the dermis and do not feed on collagen.",
+          "C": "Glycogen is the fungal cell-wall carbohydrate that PAS stain binds; it is not the nutrient dermatophytes harvest from the host.",
+          "E": "Lipids are the preferred energy source of Malassezia spp., which is precisely why Malassezia is not classified as a dermatophyte."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dermatophytes",
+        "keratinase"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-002",
+      "stem": "A 26-year-old woman has an itchy, scaly annular rash on her trunk. There is no pus, no fluctuance, and no deep swelling. The infection is confined to the layer of dead, keratinized cells that shields the living epidermis from the environment. Which layer is involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Papillary dermis"
+        },
+        {
+          "label": "B",
+          "text": "Reticular dermis"
+        },
+        {
+          "label": "C",
+          "text": "Stratum basale"
+        },
+        {
+          "label": "D",
+          "text": "Stratum corneum"
+        },
+        {
+          "label": "E",
+          "text": "Stratum spinosum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dermatophyte infections are limited to the stratum corneum, the outermost keratinized layer.",
+        "whyCorrect": "The stratum corneum is made of dead, keratinized cells and protects healthy cells from the external environment. Dermatophytes impact only this outermost layer, which is why their infections are itchy and scaly rather than purulent or swollen the way deeper bacterial infections are.",
+        "whyWrongByChoice": {
+          "A": "Dermatophytes do not penetrate into the dermis; dermal involvement would suggest a different organism such as S. schenckii.",
+          "B": "The reticular dermis is deeper still and is unaffected in superficial dermatophyte infection.",
+          "C": "The stratum basale is the deepest, actively dividing epidermal layer and is not colonized by dermatophytes.",
+          "E": "The stratum spinosum lies deep to the granulosum and lucidum and contains living, non-keratinized cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dermatophytes",
+        "skin anatomy"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-003",
+      "stem": "A dermatologist wants to name the one dermatophyte genus that routinely causes disease in all three keratinized sites: skin, hair, and nails. Which genus fits that description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermophyton spp."
+        },
+        {
+          "label": "B",
+          "text": "Malassezia spp."
+        },
+        {
+          "label": "C",
+          "text": "Microsporum spp."
+        },
+        {
+          "label": "D",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton spp."
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Trichophyton spp. cause skin, hair, and nail infections.",
+        "whyCorrect": "Of the three dermatophyte genera, Trichophyton spp. are the ones described as causing skin, hair, and nail infections. This broad tissue range is why Trichophyton species appear as common causes of tinea corporis, cruris, pedis, barbae, capitis, and unguium.",
+        "whyWrongByChoice": {
+          "A": "Epidermophyton spp. cause skin and nail infections but not hair infections.",
+          "B": "Malassezia spp. are not dermatophytes at all; they use lipids and cause pityriasis versicolor.",
+          "C": "Microsporum spp. cause skin and hair infections and only rarely cause nail infections.",
+          "D": "Sporothrix schenckii is a dimorphic fungus causing subcutaneous, lymphocutaneous disease, not a dermatophyte."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dermatophytes",
+        "taxonomy"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-004",
+      "stem": "A 42-year-old man has had recurrent tinea cruris and thickened, discolored toenails for years, but has never had scalp or beard involvement. Which dermatophyte genus characteristically infects skin and nails while sparing hair?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermophyton spp."
+        },
+        {
+          "label": "B",
+          "text": "Malassezia spp."
+        },
+        {
+          "label": "C",
+          "text": "Microsporum spp."
+        },
+        {
+          "label": "D",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epidermophyton spp. infect skin and nails, not hair.",
+        "whyCorrect": "Epidermophyton spp. are listed as causing skin and nail infections only. Epidermophyton floccosum is among the most common causes of tinea cruris, tinea pedis, tinea corporis, and tinea unguium, but it does not figure among causes of the hair-bearing tineas.",
+        "whyWrongByChoice": {
+          "B": "Malassezia spp. are lipid-dependent yeasts causing pityriasis versicolor, not nail disease.",
+          "C": "Microsporum spp. infect skin and hair and only rarely nails, the opposite of this pattern.",
+          "D": "Sporothrix schenckii causes ulcerating nodules along lymphatics after skin puncture, not tinea.",
+          "E": "Trichophyton spp. infect skin, hair, and nails, so hair-bearing sites would not be spared."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Epidermophyton",
+        "taxonomy"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-005",
+      "stem": "A microbiology instructor asks which dermatophyte genus is described as causing skin and hair infections while only rarely infecting nails. Which of the following is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermophyton spp., which infect skin and nails"
+        },
+        {
+          "label": "B",
+          "text": "Malassezia spp., which infect sebum-rich skin"
+        },
+        {
+          "label": "C",
+          "text": "Microsporum spp., which infect skin and hair"
+        },
+        {
+          "label": "D",
+          "text": "Sporothrix schenckii, which infects lymphatics"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton spp., which infect skin, hair, nails"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Microsporum spp. cause skin and hair infections and rarely nail infections.",
+        "whyCorrect": "Microsporum spp. are described as causing skin and hair infections, rarely causing nail infections. This matches their clinical profile: Microsporum canis is a frequent cause of tinea capitis and of tinea corporis among pet owners, but it is not on the list of common onychomycosis pathogens.",
+        "whyWrongByChoice": {
+          "A": "Epidermophyton spp. spare hair entirely, so they do not match a skin-and-hair pattern.",
+          "B": "Malassezia spp. are not dermatophytes and cause pityriasis versicolor on sebum-rich skin.",
+          "D": "Sporothrix schenckii is not a dermatophyte and spreads along lymphatic channels after inoculation.",
+          "E": "Trichophyton spp. routinely infect nails as well, so nail infection is not rare for them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Microsporum",
+        "taxonomy"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-006",
+      "stem": "A 19-year-old has an expanding lesion on the shoulder with an inflamed, red, scaly advancing border and skin in the center that looks nearly normal. Which mechanism best explains this ring-shaped appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Keratinase is secreted only at the leading edge and never within the older central skin"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophilic pus accumulates centrally and lifts the infected scale off the skin surface"
+        },
+        {
+          "label": "C",
+          "text": "Scratching mechanically strips the infected stratum corneum away from the lesion center"
+        },
+        {
+          "label": "D",
+          "text": "The fungus exhausts available keratin centrally and then migrates outward to fresh tissue"
+        },
+        {
+          "label": "E",
+          "text": "The immune response partially clears the center while the fungus keeps spreading outward"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Central clearing results from the immune system clearing the center while the infection spreads peripherally.",
+        "whyCorrect": "As a tinea lesion spreads, the immune system fights the infection and partially clears it in the center while the infection continues to spread outward. The result is centralized clearing with an inflamed, red, scaly advancing border, which is what gives tinea lesions their ring appearance.",
+        "whyWrongByChoice": {
+          "A": "Keratinase secretion is how dermatophytes feed throughout the lesion; it is not restricted to the border.",
+          "B": "Dermatophyte infections are characteristically non-purulent; pus suggests bacterial co-infection instead.",
+          "C": "Scratching causes breaks in the skin that admit bacteria; it does not create the ring morphology.",
+          "D": "Keratin is not depleted; the stratum corneum is continuously renewed and there is no described nutrient-exhaustion mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea corporis",
+        "central clearing"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-007",
+      "stem": "A 21-year-old collegiate wrestler has an itchy, red, scaly eruption with an advancing border involving the groin, inner thighs, and scrotum. Which tinea infection does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tinea barbae"
+        },
+        {
+          "label": "B",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "C",
+          "text": "Tinea cruris"
+        },
+        {
+          "label": "D",
+          "text": "Tinea manuum"
+        },
+        {
+          "label": "E",
+          "text": "Tinea pedis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tinea cruris is jock itch, the dermatophyte infection of the groin.",
+        "whyCorrect": "Tinea cruris (jock itch) affects the groin and surrounding regions and can involve the thighs, buttocks, and scrotum. It is common in athletes because the thighs rub together during exercise and cause skin damage, increasing the likelihood of infection; tight-fitting clothing contributes for the same reason.",
+        "whyWrongByChoice": {
+          "A": "Tinea barbae affects the beard area of the face.",
+          "B": "Tinea corporis is ringworm of the body; it can occur near folds but is not the groin-specific name.",
+          "D": "Tinea manuum is infection of the hands.",
+          "E": "Tinea pedis is athlete's foot, affecting the feet, typically starting between the toes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tinea cruris",
+        "nomenclature"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-008",
+      "stem": "A 60-year-old woman has thick, discolored, brittle toenails, and the junction between the nail and the surrounding skin has become disconnected. This infection is also known as onychomycosis. What is the corresponding tinea name?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tinea barbae"
+        },
+        {
+          "label": "B",
+          "text": "Tinea capitis"
+        },
+        {
+          "label": "C",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "D",
+          "text": "Tinea manuum"
+        },
+        {
+          "label": "E",
+          "text": "Tinea unguium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinea unguium is nail infection, also called onychomycosis.",
+        "whyCorrect": "Tinea unguium is the dermatophyte infection of the nails, also called onychomycosis. It is characterized by thick, discolored nails that may become brittle and break off, and the intersection between the nail and surrounding skin may become disconnected.",
+        "whyWrongByChoice": {
+          "A": "Tinea barbae affects the beard area.",
+          "B": "Tinea capitis is scalp infection, most common in children.",
+          "C": "Tinea corporis is ringworm of the body.",
+          "D": "Tinea manuum is infection of the hands, not of the nail plate itself."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tinea unguium",
+        "onychomycosis"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-009",
+      "stem": "A 6-year-old boy has an inflamed, scaly scalp patch with irregular, patchy hair loss. On close inspection the hairs in the affected area are short and stubby and appear as black dots at the scalp surface. Which mechanism explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Comedones form as excess sebum plugs the openings of the hair follicles"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhage into the hair follicles is caused by vigorous, repeated scratching"
+        },
+        {
+          "label": "C",
+          "text": "Melanin granules are deposited into the follicular openings by the fungus"
+        },
+        {
+          "label": "D",
+          "text": "Pigmented fungal colonies grow outward on the surface of the scalp skin"
+        },
+        {
+          "label": "E",
+          "text": "The fungus infects the hair, making it brittle so it breaks before growing out"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Black dots in tinea capitis are hairs made brittle by fungal invasion that break off at the scalp.",
+        "whyCorrect": "In tinea capitis, the fungus infects the hair itself, making it brittle so that it breaks off before it can grow out. The residual short, stubby hairs appear as black dots. The associated hair loss is irregular and patchy and is temporary with prompt treatment.",
+        "whyWrongByChoice": {
+          "A": "Sebum plugging produces comedones, which is a feature of acne rather than dermatophyte infection.",
+          "B": "Scratching can break the skin and admit bacteria but does not produce the black-dot hair pattern.",
+          "C": "There is no described fungal deposition of melanin into follicles in tinea capitis.",
+          "D": "The appearance comes from broken hair shafts, not surface colonies of pigmented fungus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea capitis",
+        "black dots"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-010",
+      "stem": "A 4-year-old boy has scaly scalp patches with central clearing, an advancing red border, and broken-off hairs. He sleeps with the family dog. A Wood's lamp examination is positive, and a KOH preparation with stain shows microconidia and rough-walled, spindle-shaped macroconidia. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermophyton floccosum"
+        },
+        {
+          "label": "B",
+          "text": "Malassezia globosa"
+        },
+        {
+          "label": "C",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "D",
+          "text": "Trichophyton rubrum"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton verrucosum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A pet-associated, Wood's-lamp-positive tinea capitis with spindle-shaped macroconidia is Microsporum canis.",
+        "whyCorrect": "Microsporum canis is the dermatophyte that commonly comes from pets, it fluoresces under a Wood's lamp, and Microsporum spp. show rough-walled, spindle-shaped macroconidia with microconidia present. Scalp infections are most frequently caused by Trichophyton and Microsporum species, and tinea capitis is most common in children.",
+        "whyWrongByChoice": {
+          "A": "Epidermophyton produces smooth, club-shaped macroconidia with no microconidia, and it does not infect hair.",
+          "B": "Malassezia globosa causes pityriasis versicolor and shows yeast with short hyphae, not macroconidia.",
+          "D": "Trichophyton spp. show cigar-shaped macroconidia with spiraled hyphae, not spindle-shaped macroconidia.",
+          "E": "Trichophyton verrucosum is acquired from livestock and is the usual cause of tinea barbae in farmers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Microsporum canis",
+        "Wood's lamp",
+        "tinea capitis"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-011",
+      "stem": "A 45-year-old dairy farmer has itchy, red, crusted lesions in his beard area with patchy loss of beard hair. He handles cattle daily and has no rodent exposure. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epidermophyton floccosum"
+        },
+        {
+          "label": "B",
+          "text": "Malassezia furfur"
+        },
+        {
+          "label": "C",
+          "text": "Microsporum canis"
+        },
+        {
+          "label": "D",
+          "text": "Trichophyton mentagrophytes"
+        },
+        {
+          "label": "E",
+          "text": "Trichophyton verrucosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Trichophyton verrucosum causes livestock-associated tinea barbae.",
+        "whyCorrect": "Trichophyton verrucosum causes infections in livestock, and in farmers and others who work with livestock it is the most common cause of tinea barbae. Tinea barbae presents with itchy, red, crusted lesions of the beard area and, like tinea capitis, can cause hair loss in the affected area.",
+        "whyWrongByChoice": {
+          "A": "Epidermophyton floccosum does not infect hair and so is not a cause of tinea barbae.",
+          "B": "Malassezia furfur is a lipid-dependent yeast causing pityriasis versicolor, not beard infection.",
+          "C": "Microsporum canis is the pet-associated dermatophyte, typically from dogs and cats rather than cattle.",
+          "D": "Trichophyton mentagrophytes is shed by rodents and is more common in urban environments."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinea barbae",
+        "Trichophyton verrucosum",
+        "zoonotic"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi47-012",
+      "stem": "A 25-year-old man has itchy, macerated, scaly skin between his fourth and fifth toes. Which clinical form of tinea pedis is this, and how common is it relative to the others?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interdigital (toe web) form, the least common form"
+        },
+        {
+          "label": "B",
+          "text": "Interdigital (toe web) form, the most common form"
+        },
+        {
+          "label": "C",
+          "text": "Moccasin (chronic hyperkeratotic) form, the most common form"
+        },
+        {
+          "label": "D",
+          "text": "Ulcerative form, the most common form"
+        },
+        {
+          "label": "E",
+          "text": "Vesiculobullous form, the most common form"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The interdigital (toe web) form is the most common presentation of tinea pedis.",
+        "whyCorrect": "Tinea pedis typically starts between the toes and extends outward. The interdigital, or toe web, form is listed as the most common presentation, predominantly involving the skin between the toes.",
+        "whyWrongByChoice": {
+          "A": "The site is correctly identified but the frequency is wrong; the interdigital form is the most common.",
+          "C": "The moccasin form is a recognized presentation but is not the most common one.",
+          "D": "Ulceration is a rare complication of tinea pedis, mostly in immunocompromised and diabetic patients.",
+          "E": "The vesiculobullous form produces painful, itchy blisters and is not the most common form."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tinea pedis",
+        "interdigital"
+      ],
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-001",
+      "stem": "A 32-year-old man has a 1-week history of diarrhea, bloating, and excessive gas. He describes his stools as very foul-smelling, greasy, and floating. The week before symptoms began he went on a camping trip, slept outside, and drank unfiltered stream water. He is otherwise healthy. Microscopic examination of the stool shows rapidly motile single-celled organisms that have two nuclei and flagella. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balantidium coli"
+        },
+        {
+          "label": "B",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "C",
+          "text": "Leishmania spp."
+        },
+        {
+          "label": "D",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "E",
+          "text": "Trypanosome spp."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Greasy, foul-smelling stools after drinking untreated surface water, with binucleate flagellated protozoa in stool, indicate giardiasis.",
+        "whyCorrect": "Giardia lamblia is a flagellate protozoan whose organisms show two nuclei and flagella, exactly as described on stool microscopy. G. lamblia survives in the environment for months, so campers and people who drink unfiltered outdoor water are at risk in addition to person-to-person fecal-oral spread. Beyond generic gastrointestinal symptoms, giardiasis characteristically produces smelly, greasy, fatty stools.",
+        "whyWrongByChoice": {
+          "A": "Balantidium coli is a ciliate whose surface is covered by cilia rather than a few flagella, and it has no binucleate appearance.",
+          "C": "Leishmania spp. are flagellates, but they are not acquired by drinking contaminated water and do not produce fatty stools.",
+          "D": "Naegleria fowleri is an amoeba that moves by pseudopods and causes a brain infection, not watery greasy diarrhea.",
+          "E": "Trypanosome spp. are flagellates that are not transmitted in stream water and are not diagnosed by stool microscopy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protozoa",
+        "flagellates",
+        "Giardia lamblia"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-002",
+      "stem": "In everyday usage, a parasite is any organism that lives on or inside a host and takes nutrients from it. In medicine, however, the word is applied much more narrowly. Which of the following descriptions matches the medical definition of a parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A eukaryotic fungus that invades and damages host tissue"
+        },
+        {
+          "label": "B",
+          "text": "A eukaryotic organism that infects humans and is not a fungus"
+        },
+        {
+          "label": "C",
+          "text": "A prokaryotic organism that colonizes the host intestine"
+        },
+        {
+          "label": "D",
+          "text": "An agent that is neither prokaryotic nor eukaryotic in structure"
+        },
+        {
+          "label": "E",
+          "text": "Any organism that takes nutrients from the host it lives on"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Medically, a parasite is a eukaryotic organism that infects humans but is not a fungus.",
+        "whyCorrect": "The medical definition deliberately excludes bacteria, viruses, and fungi. Bacteria are prokaryotic and therefore not classified as parasites, and viruses are neither prokaryotic nor eukaryotic, so they also fall outside the category. What remains are eukaryotic, non-fungal organisms such as protozoa and helminths.",
+        "whyWrongByChoice": {
+          "A": "Fungi are eukaryotic but are specifically excluded by the medical definition of a parasite.",
+          "C": "Bacteria are prokaryotic, so they are excluded from the medical definition even though they take nutrients from the host.",
+          "D": "This describes viruses, which are neither prokaryotic nor eukaryotic and therefore fall outside the medical category.",
+          "E": "This is the broad, general definition, under which most pathogens would qualify as parasites."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "definitions",
+        "classification"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-003",
+      "stem": "Parasites are broken down into two broad categories, ectoparasites and endoparasites. Which of the following features defines an ectoparasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It interacts only superficially and does not invade deeper tissues"
+        },
+        {
+          "label": "B",
+          "text": "It is always multicellular, whereas endoparasites are single-celled"
+        },
+        {
+          "label": "C",
+          "text": "It is prokaryotic, whereas endoparasites are eukaryotic organisms"
+        },
+        {
+          "label": "D",
+          "text": "It provides a nutritional benefit to the host it colonizes"
+        },
+        {
+          "label": "E",
+          "text": "It requires an arthropod vector, whereas endoparasites are ingested"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An ectoparasite interacts only superficially with its host and does not invade deeper tissues.",
+        "whyCorrect": "Ectoparasites such as mosquitoes, ticks, fleas, lice, bedbugs, and mites live on the surface of the host. Endoparasites, by contrast, infect beyond the skin and advance into the organ systems. The superficial versus deep distinction, not size or cell type, is what separates the two groups.",
+        "whyWrongByChoice": {
+          "B": "Both groups contain multicellular members; helminths are multicellular endoparasites, so this does not separate them.",
+          "C": "Neither group is prokaryotic; parasites by the medical definition are eukaryotic organisms.",
+          "D": "Parasitism is a one-sided relationship in which the host receives no benefit.",
+          "E": "Ectoparasites can be vectors themselves rather than requiring one, and endoparasites are acquired by many routes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ectoparasites",
+        "classification"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-004",
+      "stem": "A 28-year-old man presents with an intensely itchy rash on his hands, feet, and waistline that is worst at night and disturbs his sleep. Physical examination shows small erythematous papules and burrow-like tracks between the fingers. He has been staying in a crowded shelter since losing his home to a natural disaster. Which of the following is the most likely etiologic agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Necator spp."
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium vivax"
+        },
+        {
+          "label": "D",
+          "text": "Sarcoptes scabiei"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An intensely itchy papular rash with burrows between the fingers, acquired in crowded living conditions, is scabies.",
+        "whyCorrect": "Sarcoptes scabiei is a microscopic mite that burrows into the skin and is transmitted through close personal contact or shared fomites, which makes crowded settings such as shelters, jails, childcare facilities, and nursing homes high risk. The lesions are small papules, burrows, and excoriations that favor the finger webs, skin folds, waistline, genitals, nipples, and buttocks. Itching is characteristically worse at night.",
+        "whyWrongByChoice": {
+          "A": "Diphyllobothrium latum is the fish tapeworm and causes gastrointestinal symptoms after eating undercooked fish.",
+          "B": "Necator spp. are nematodes that penetrate the skin of bare feet and then infect the gastrointestinal tract.",
+          "C": "Plasmodium vivax causes malaria with cyclic fever and chills and is spread by the Anopheles mosquito.",
+          "E": "Wuchereria bancrofti is transmitted by mosquito bites and causes lymphatic filariasis with massive limb swelling, not burrows."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ectoparasites",
+        "Sarcoptes scabiei",
+        "scabies"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-005",
+      "stem": "A 30-year-old woman has a scabies infestation with an intensely pruritic papular rash. The mites in her skin release soluble antigens in their saliva, eggs, feces, and other secretions. Which of the following best describes the immune reaction these antigens provoke and the cell chiefly responsible for the resulting tissue injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct complement activation, with the alternative pathway lysing host epidermal cells"
+        },
+        {
+          "label": "B",
+          "text": "Type I hypersensitivity, begun by IgE and mast cells and then dominated by eosinophils"
+        },
+        {
+          "label": "C",
+          "text": "Type II hypersensitivity, with IgG binding antigens on host keratinocyte surfaces"
+        },
+        {
+          "label": "D",
+          "text": "Type III hypersensitivity, with immune complexes depositing in dermal blood vessels"
+        },
+        {
+          "label": "E",
+          "text": "Type IV hypersensitivity, with sensitized T cells recruiting and activating macrophages"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Scabies antigens trigger a Type I hypersensitivity reaction that is quickly taken over by eosinophils, which cause the tissue damage.",
+        "whyCorrect": "Soluble mite antigens produce a Type I hypersensitivity reaction initiated by IgE and mast cells. That initial reaction is rapidly dominated by eosinophils, which release the factors ultimately responsible for tissue injury. This mechanism explains why the rash is so intensely itchy and inflamed relative to the small number of mites present.",
+        "whyWrongByChoice": {
+          "A": "Complement-mediated lysis of host epidermal cells is not the pathway described for scabies.",
+          "C": "Antibody directed against antigens fixed on host cell surfaces is not how the mite antigens act here.",
+          "D": "Immune complex deposition in vessel walls is not the described mechanism of scabies skin injury.",
+          "E": "The reaction is not a delayed, T cell and macrophage driven process; it begins with IgE and mast cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Sarcoptes scabiei",
+        "hypersensitivity",
+        "eosinophils"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-006",
+      "stem": "A 74-year-old nursing home resident has an itchy papular rash with excoriations over the trunk and hands, and the physician suspects scabies. Which of the following is the most appropriate test to confirm the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonoscopy with inspection of the bowel for attached worms"
+        },
+        {
+          "label": "B",
+          "text": "Giemsa-stained thick blood smear examined for larval worms"
+        },
+        {
+          "label": "C",
+          "text": "Lumbar puncture with microscopic examination of spinal fluid"
+        },
+        {
+          "label": "D",
+          "text": "Skin scraping examined microscopically for mites, eggs, or feces"
+        },
+        {
+          "label": "E",
+          "text": "Stool examination for cysts and flagellated organisms"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Scabies is confirmed by scraping the skin and identifying the mite, its eggs, or its feces under the microscope.",
+        "whyCorrect": "Because Sarcoptes scabiei lives in burrows within the superficial skin, scraping the involved skin samples the organism directly. The scraping is examined under the microscope for the mite itself, its eggs, or its feces. No blood, stool, or spinal fluid testing is needed for this superficial ectoparasite.",
+        "whyWrongByChoice": {
+          "A": "Colonoscopy detects intestinal helminths and would not sample a mite living in the skin.",
+          "B": "A Giemsa-stained thick blood smear is used to look for bloodborne worm larvae, such as in lymphatic filariasis.",
+          "C": "Spinal fluid examination is used when a brain infection such as primary amebic meningoencephalitis is suspected.",
+          "E": "Stool examination for cysts and flagellated organisms is how giardiasis is diagnosed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sarcoptes scabiei",
+        "lab identification"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-007",
+      "stem": "A 4-month-old infant is brought to clinic with an intensely itchy rash, and skin scraping confirms Sarcoptes scabiei. Compared with the usual pattern in healthy adults, which of the following distributions is most characteristic of scabies in infants and immunocompromised patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Finger webs, wrists, and waistline only"
+        },
+        {
+          "label": "B",
+          "text": "Genitals, nipples, and buttocks only"
+        },
+        {
+          "label": "C",
+          "text": "Groin and axillae, with sparing of the hands"
+        },
+        {
+          "label": "D",
+          "text": "Head, face, neck, palms, and soles"
+        },
+        {
+          "label": "E",
+          "text": "Lower legs at the site of larval entry"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Infants and immunocompromised patients with scabies may develop rash on the head, face, neck, palms, and soles.",
+        "whyCorrect": "Scabies lesions can appear anywhere on the body, but in healthy adults they are most commonly found between the fingers, in skin folds, along the waistline, and on the genitals, nipples, or buttocks. Infants and immunocompromised patients extend beyond that adult pattern and may have rash on the head, face, neck, palms, and soles. Recognizing this broader distribution prevents a missed diagnosis in these groups.",
+        "whyWrongByChoice": {
+          "A": "Finger webs, wrists, and waistline describe the classic adult pattern, which is the comparison group in this question.",
+          "B": "Genitals, nipples, and buttocks are also typical adult sites rather than the distinguishing infant pattern.",
+          "C": "Scabies characteristically involves the hands, so a pattern sparing them does not fit this infestation.",
+          "E": "Lesions at a larval entry site on the legs describe skin-penetrating nematodes, not a burrowing mite."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sarcoptes scabiei",
+        "scabies",
+        "rash distribution"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-008",
+      "stem": "A patient with an intensely itchy rash that is worse at night has thin, winding, snake-like lines in the skin of the finger webs in addition to small papules and excoriations. Which of the following best explains these linear lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excoriations created entirely by the patient's own scratching"
+        },
+        {
+          "label": "B",
+          "text": "Linear pustules that follow the course of cutaneous nerves"
+        },
+        {
+          "label": "C",
+          "text": "Serpiginous burrows made as the mite tunnels through the skin"
+        },
+        {
+          "label": "D",
+          "text": "Vesicles formed by mast cell degranulation around dermal vessels"
+        },
+        {
+          "label": "E",
+          "text": "Wheals caused by adult worms moving through subcutaneous fat"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The snake-like lines of scabies are burrows tunneled by the mite and are described as a serpiginous rash.",
+        "whyCorrect": "Scabies mites burrow into the skin, and the resulting tunnels can be seen on the surface as lines that look like snakes. These are called serpiginous rashes and are a hallmark of the infestation. They occur alongside the small papules and excoriations, and the associated itching is characteristically worse at night.",
+        "whyWrongByChoice": {
+          "A": "Scratching produces excoriations, but the winding tracks are made by the mite itself as it burrows.",
+          "B": "The burrows follow the mite's path through the skin, not the distribution of cutaneous nerves.",
+          "D": "Although mast cells participate in the hypersensitivity response, the visible lines are tunnels, not vesicles around vessels.",
+          "E": "No adult worm migrates through subcutaneous fat in scabies; the organism is a microscopic mite in the skin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sarcoptes scabiei",
+        "serpiginous rash"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-009",
+      "stem": "Over 6 weeks, several residents of a nursing home develop intensely itchy rashes with burrows, and two staff members become affected as well. Which of the following best explains how the responsible organism spread through this facility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bites from mosquitoes breeding in standing water nearby"
+        },
+        {
+          "label": "B",
+          "text": "Close personal contact and sharing of contaminated fomites"
+        },
+        {
+          "label": "C",
+          "text": "Drinking tap water that contains environmental cyst forms"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of food contaminated with parasite eggs and feces"
+        },
+        {
+          "label": "E",
+          "text": "Walking barefoot on soil that contains infective larvae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Scabies spreads by close personal contact and shared fomites, which is why outbreaks cluster in crowded institutions.",
+        "whyCorrect": "Transmission of Sarcoptes scabiei occurs through close personal contact or shared fomites such as bedding and clothing. That is why outbreaks are common in childcare facilities, jails, and nursing homes, where people are in sustained close contact and share items. Staff who handle residents and their linens are exposed by the same route.",
+        "whyWrongByChoice": {
+          "A": "Mosquito bites transmit organisms such as Plasmodium spp. and Wuchereria bancrofti, not a skin-burrowing mite.",
+          "C": "Contaminated drinking water transmits protozoa such as Giardia lamblia rather than an ectoparasitic mite.",
+          "D": "Fecal-oral ingestion transmits organisms such as Giardia lamblia and Ascaris spp., not scabies.",
+          "E": "Soil contact with bare feet transmits skin-penetrating nematodes such as Strongyloides, Ancylostoma, and Necator spp."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sarcoptes scabiei",
+        "transmission",
+        "outbreaks"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-010",
+      "stem": "A lecturer states that, after humans, mosquitoes are the most lethal animal on earth, even though an individual mosquito bite causes only a small local reaction. Which of the following best explains this statement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mosquito bites cause fatal anaphylaxis in most exposed people"
+        },
+        {
+          "label": "B",
+          "text": "Mosquito saliva contains a toxin that is lethal in large doses"
+        },
+        {
+          "label": "C",
+          "text": "Mosquitoes act as vectors for parasites, bacteria, and viruses"
+        },
+        {
+          "label": "D",
+          "text": "Mosquitoes invade deep tissue and destroy the lymphatic system"
+        },
+        {
+          "label": "E",
+          "text": "Mosquitoes reproduce within human skin and cause chronic rashes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ectoparasites such as mosquitoes are dangerous mainly because they transmit other pathogens, not because of the bite itself.",
+        "whyCorrect": "Ectoparasites in and of themselves are largely an inconvenience, but their role as vectors for other parasites and microorganisms is deadly. Mosquitoes carry parasites, bacteria, and viruses, and the infections they spread cause millions of deaths worldwide every year. Malaria alone, transmitted by the Anopheles mosquito, is the most lethal parasitic infection on earth.",
+        "whyWrongByChoice": {
+          "A": "Most bites cause only a minor local reaction rather than fatal systemic allergy.",
+          "B": "The danger comes from organisms the mosquito carries, not from a toxin in its saliva.",
+          "D": "The mosquito is a superficial ectoparasite; it is the worm it can transmit that damages the lymphatic system.",
+          "E": "Mosquitoes do not reproduce inside human skin; that behavior belongs to mites such as Sarcoptes scabiei."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ectoparasites",
+        "vectors",
+        "mosquitoes"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-011",
+      "stem": "Endoparasites are further broken down into two subcategories. Which of the following correctly distinguishes those two groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protozoa are always motile, whereas helminths are never motile"
+        },
+        {
+          "label": "B",
+          "text": "Protozoa are multicellular, whereas helminths are single-celled"
+        },
+        {
+          "label": "C",
+          "text": "Protozoa are prokaryotic, whereas helminths are eukaryotic"
+        },
+        {
+          "label": "D",
+          "text": "Protozoa are single-celled, whereas helminths are multicellular"
+        },
+        {
+          "label": "E",
+          "text": "Protozoa infect only skin, whereas helminths infect organ systems"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Endoparasites are subdivided by cellularity: protozoa are single-celled and helminths are multicellular worms.",
+        "whyCorrect": "Both groups are endoparasites, meaning they infect beyond the skin and advance into the organ systems. Protozoa are single-celled endoparasites, while helminths, the worms, are multicellular endoparasites. This size difference is practical as well: protozoa require a microscope, whereas helminths can be enormous, with the fish tapeworm reaching over 30 feet.",
+        "whyWrongByChoice": {
+          "A": "Motility does not separate the groups; some protozoa are non-motile in parts of their life cycle.",
+          "B": "This reverses the definitions; protozoa are the single-celled group.",
+          "C": "Neither group is prokaryotic, since parasites by the medical definition are eukaryotes.",
+          "E": "Infection limited to the skin surface describes ectoparasites, not either subcategory of endoparasite."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endoparasites",
+        "protozoa",
+        "helminths"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi48-012",
+      "stem": "A 40-year-old man has several days of diarrhea with blood and mucus after fecal-oral exposure on a farm. Stool microscopy shows a large single-celled organism whose entire outer edge appears fuzzy because it is covered with thousands of tiny hair-like projections. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balantidium coli"
+        },
+        {
+          "label": "B",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "C",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "D",
+          "text": "Plasmodium vivax"
+        },
+        {
+          "label": "E",
+          "text": "Trypanosome spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Balantidium coli is the only ciliate known to infect humans and can cause gastroenteritis with diarrhea or dysentery.",
+        "whyCorrect": "Parasites that move by cilia are rare causes of human disease, and B. coli is the only known ciliate that infects humans. Its fuzzy outer edge on microscopy is created by thousands of tiny cilia. B. coli is transmitted fecal-orally and usually causes asymptomatic infection, but in rare cases it produces gastroenteritis with accompanying diarrhea or dysentery.",
+        "whyWrongByChoice": {
+          "B": "Giardia lamblia is a flagellate with two nuclei and a few whip-like flagella, not a surface covered in cilia.",
+          "C": "Naegleria fowleri is an amoeba that moves by pseudopods and causes a brain infection rather than dysentery.",
+          "D": "Plasmodium vivax is a sporozoan transmitted by mosquitoes and causes malaria, not bloody diarrhea.",
+          "E": "Trypanosome spp. are flagellates and are not identified in stool as large ciliated organisms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "protozoa",
+        "ciliates",
+        "Balantidium coli"
+      ],
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-001",
+      "stem": "A 14-year-old boy is brought to the emergency department with a severe frontal headache, fever, and vomiting that began 5 days after he spent an afternoon diving into a warm freshwater lake. Over the next day he develops a stiff neck and has a generalized seizure. A wet preparation of his cerebrospinal fluid shows motile amebae. Which of the following routes of entry best explains how this organism reached his brain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct extension from a middle ear infection through the mastoid air cells"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding of the meninges from an unrecognized lung infection"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of lake water with absorption of the organism across the intestinal wall"
+        },
+        {
+          "label": "D",
+          "text": "Inoculation of the organism through a small abrasion on the skin of his leg"
+        },
+        {
+          "label": "E",
+          "text": "Penetration of the nasal mucosa with spread along the olfactory nerve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naegleria fowleri infects when contaminated water is forced up the nose, after which it invades the olfactory nerve and reaches the brain.",
+        "whyCorrect": "Infection begins when water containing the amoeba goes up the nose during diving, swimming, or nasal rinsing. The organism penetrates the nasal mucosa, infects the olfactory nerve, and travels along it into the brain, producing primary amebic meningoencephalitis. Finding motile amebae in the CSF of a patient with recent warm freshwater exposure is the classic picture.",
+        "whyWrongByChoice": {
+          "A": "Spread from the middle ear is a route for bacterial meningitis, not for this free-living amoeba.",
+          "B": "Naegleria fowleri does not establish a pulmonary focus and does not seed the meninges through the bloodstream.",
+          "C": "Swallowing water containing the amoeba does not cause illness; the organism must enter through the nose.",
+          "D": "Naegleria fowleri is not acquired by inoculation through broken skin; skin ulcers after an outdoor exposure suggest a different parasite entirely."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "transmission",
+        "PAM"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-002",
+      "stem": "Autopsy of a 19-year-old man who died of a rapidly progressive meningoencephalitis one week after water skiing shows amebic trophozoites tracking from the roof of the nasal cavity into the frontal lobes. Which of the following structures did the organism most likely traverse to enter the cranial cavity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cribriform plate"
+        },
+        {
+          "label": "B",
+          "text": "Foramen ovale"
+        },
+        {
+          "label": "C",
+          "text": "Internal acoustic meatus"
+        },
+        {
+          "label": "D",
+          "text": "Jugular foramen"
+        },
+        {
+          "label": "E",
+          "text": "Superior orbital fissure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Naegleria fowleri follows the olfactory nerve through the cribriform plate to reach the brain.",
+        "whyCorrect": "The olfactory nerve filaments pass from the nasal roof into the anterior cranial fossa through the perforations of the cribriform plate. The amoeba uses this pathway to move from the nasal mucosa directly into the frontal lobes, which is why the disease is a meningoencephalitis rather than a simple meningitis.",
+        "whyWrongByChoice": {
+          "B": "The foramen ovale transmits the mandibular division of the trigeminal nerve and is not on the olfactory pathway.",
+          "C": "The internal acoustic meatus transmits the facial and vestibulocochlear nerves, far from the nasal roof.",
+          "D": "The jugular foramen lies in the posterior cranial fossa and carries the internal jugular vein and lower cranial nerves.",
+          "E": "The superior orbital fissure connects the orbit to the middle cranial fossa and does not communicate with the nasal roof."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "anatomy",
+        "pathogenesis"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-003",
+      "stem": "A county health officer is drafting a public advisory about Naegleria fowleri. Which of the following exposures carries the greatest risk of infection in the United States?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drinking untreated well water on a rural farm in the fall"
+        },
+        {
+          "label": "B",
+          "text": "Showering in chlorinated municipal tap water in the winter"
+        },
+        {
+          "label": "C",
+          "text": "Swimming in a warm southern freshwater lake in August"
+        },
+        {
+          "label": "D",
+          "text": "Swimming in the ocean surf along the Gulf coast in July"
+        },
+        {
+          "label": "E",
+          "text": "Wading in a cold mountain stream during the early spring"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cases cluster in warm freshwater in southern states during the summer months.",
+        "whyCorrect": "Naegleria fowleri lives in warm bodies of fresh water such as lakes, rivers, and hot springs, and the majority of reported United States cases occur in southern coastal states during summer. A hot August day in a southern lake combines the warm water, the freshwater habitat, and the recreational diving that drives water up the nose.",
+        "whyWrongByChoice": {
+          "A": "Drinking water that contains the amoeba does not cause disease, so ingestion of well water is not the risk of concern.",
+          "B": "The amoeba is only rarely found in tap water, and properly chlorinated municipal water in winter is a very low-risk exposure.",
+          "D": "The organism is found in fresh water rather than in ocean surf.",
+          "E": "The organism favors warm water; a cold stream in early spring is a poor habitat for it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "epidemiology"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-004",
+      "stem": "A family learns that the warm spring-fed pond behind their house has tested positive for Naegleria fowleri. Several family members have swallowed pond water while fishing, and none has been ill. Which of the following is the most appropriate counseling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anyone who swallowed the water should be isolated from young children"
+        },
+        {
+          "label": "B",
+          "text": "Every household member should begin antiparasitic prophylaxis today"
+        },
+        {
+          "label": "C",
+          "text": "Household members should be managed as contacts of a reportable illness"
+        },
+        {
+          "label": "D",
+          "text": "Serum antibody titers should be drawn now and repeated in two weeks"
+        },
+        {
+          "label": "E",
+          "text": "Swallowing water that contains the amoeba does not cause this infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Drinking water contaminated with Naegleria fowleri does not cause illness; only nasal entry does.",
+        "whyCorrect": "Disease requires the amoeba to be forced up the nose so it can invade the olfactory nerve. Water that is swallowed passes through the gastrointestinal tract without causing infection, so the family needs advice about keeping water out of their noses rather than about ingestion.",
+        "whyWrongByChoice": {
+          "A": "The infection is not transmitted between people, so isolation serves no purpose.",
+          "B": "There is no prophylactic regimen given after a possible environmental exposure to this organism.",
+          "C": "Person-to-person spread does not occur, so household members are not contacts in any meaningful sense.",
+          "D": "Serology is not how this infection is identified; diagnosis rests on visualizing the amoeba, PCR, or antigen detection in CSF or tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "transmission",
+        "prevention"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-005",
+      "stem": "A 21-year-old woman is admitted with fever, severe frontal headache, and vomiting. Her family reports that she soaked in a natural hot spring shortly before becoming ill, and primary amebic meningoencephalitis is suspected. Which of the following intervals between nasal exposure and the onset of symptoms is most typical for this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1 to 7 days, with a median of about 5 days"
+        },
+        {
+          "label": "B",
+          "text": "2 to 3 months, with a median of about 10 weeks"
+        },
+        {
+          "label": "C",
+          "text": "2 to 4 weeks, with a median of about 3 weeks"
+        },
+        {
+          "label": "D",
+          "text": "6 to 12 hours, with a median of about 8 hours"
+        },
+        {
+          "label": "E",
+          "text": "12 to 36 hours, with a median of about 1 day"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Symptoms of primary amebic meningoencephalitis begin 1 to 7 days after nasal exposure, with a median of about 5 days.",
+        "whyCorrect": "The incubation period is short but not immediate: symptoms typically begin within a week of the water exposure, with a median of roughly 5 days. Death usually follows 1 to 18 days after symptoms start, which is why the illness is so often recognized only at autopsy.",
+        "whyWrongByChoice": {
+          "B": "A latent period of months is characteristic of other infections, not of this rapidly fatal amebic disease.",
+          "C": "A multi-week incubation period does not fit; most patients are ill within a week of exposure.",
+          "D": "An onset within hours is far too rapid for this infection.",
+          "E": "Onset on the first day after exposure is earlier than the typical 1 to 7 day window."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "PAM",
+        "timeline"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-006",
+      "stem": "A 16-year-old boy with confirmed primary amebic meningoencephalitis has had a severe frontal headache, fever, nausea, and vomiting for 2 days. Which of the following new findings would indicate that his illness has progressed to the second stage of the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A generalized seizure followed by altered mental status"
+        },
+        {
+          "label": "B",
+          "text": "A headache that becomes more severe when he lies flat in bed"
+        },
+        {
+          "label": "C",
+          "text": "A temperature that climbs above 39.5 C despite antipyretics"
+        },
+        {
+          "label": "D",
+          "text": "Nausea that returns whenever he attempts to eat solid food"
+        },
+        {
+          "label": "E",
+          "text": "Two further episodes of vomiting after he drinks clear fluids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Stage 1 of PAM is headache, fever, nausea, and vomiting; stage 2 brings stiff neck, seizures, altered mental status, hallucinations, and coma.",
+        "whyCorrect": "The CDC divides the illness into two stages. The first is nonspecific and mimics bacterial meningitis. The second is marked by neurologic deterioration: nuchal rigidity, seizures, confusion or altered mental status, hallucinations, and finally coma. A seizure with a change in mental status therefore marks the transition to stage 2.",
+        "whyWrongByChoice": {
+          "B": "Headache is a stage 1 feature; a change in its positional character does not define progression.",
+          "C": "Fever is present from stage 1 onward, and a higher temperature alone does not mark progression.",
+          "D": "Nausea is a stage 1 symptom and does not signal neurologic deterioration.",
+          "E": "Vomiting belongs to stage 1 and its persistence does not indicate a new stage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "PAM",
+        "clinical staging"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-007",
+      "stem": "A water sample containing Naegleria fowleri trophozoites is transferred from nutrient-rich lake water into cold distilled water. Which of the following changes is most likely to be observed first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of the trophozoites into non-feeding flagellated forms"
+        },
+        {
+          "label": "B",
+          "text": "Fusion of the trophozoites into a large multinucleated syncytium"
+        },
+        {
+          "label": "C",
+          "text": "Immediate conversion of the trophozoites into thick-walled cysts"
+        },
+        {
+          "label": "D",
+          "text": "Loss of all motility with permanent attachment to the flask wall"
+        },
+        {
+          "label": "E",
+          "text": "Rapid replication of the trophozoites with increased feeding activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adverse conditions first drive Naegleria fowleri from the ameboid trophozoite into a non-feeding flagellate form.",
+        "whyCorrect": "The life cycle has three phases: ameboid trophozoite, flagellate, and cyst. When food is scarce or temperatures are extreme, the trophozoite converts into a non-feeding flagellate. Only if the adverse conditions persist does the organism go on to encyst. Despite using flagella in this stage, the organism is still called an amoeba.",
+        "whyWrongByChoice": {
+          "B": "This organism does not form a multinucleated syncytium at any point in its life cycle.",
+          "C": "Encystment is the later response, occurring only after adverse conditions persist beyond the flagellate stage.",
+          "D": "The organism retains motility using either pseudopods or flagella depending on its form.",
+          "E": "Nutrient-poor, cold conditions suppress feeding and replication rather than stimulating them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "life cycle",
+        "flagellate"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-008",
+      "stem": "The cold, nutrient-poor conditions in that same flask are maintained for several more weeks. Which of the following best describes the form the organism now predominantly takes and its significance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cyst form, which persists until the environment improves and is not contagious"
+        },
+        {
+          "label": "B",
+          "text": "The cyst form, which spreads between people by the respiratory droplet route"
+        },
+        {
+          "label": "C",
+          "text": "The flagellate form, which is the only stage able to survive in completely dry soil"
+        },
+        {
+          "label": "D",
+          "text": "The flagellate form, which is the stage transmitted directly from person to person"
+        },
+        {
+          "label": "E",
+          "text": "The trophozoite form, which is shed in stool and spreads by the fecal-oral route"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When adverse conditions persist, Naegleria fowleri encysts, and the cyst is a survival form that is not contagious.",
+        "whyCorrect": "The cyst is the organism's response to prolonged adverse conditions and allows it to wait until the environment improves, at which point it reverts to the trophozoite. The cyst form is explicitly not contagious, consistent with the fact that this infection is never transmitted between people.",
+        "whyWrongByChoice": {
+          "B": "Respiratory droplet spread between people does not occur; infection requires water entering the nose.",
+          "C": "The flagellate is a transient, non-feeding swimming form, not a durable survival stage.",
+          "D": "There is no person-to-person transmission of this organism in any form.",
+          "E": "The trophozoite is not shed in stool, and fecal-oral spread plays no role in this infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "life cycle",
+        "cyst"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-009",
+      "stem": "A 25-year-old man is admitted with fever, headache, and confusion 4 days after swimming in a warm lake. Which of the following findings would confirm a diagnosis of Naegleria fowleri infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacilli seen in a cytospin preparation of cerebrospinal fluid"
+        },
+        {
+          "label": "B",
+          "text": "Branching septate hyphae seen on a potassium hydroxide preparation"
+        },
+        {
+          "label": "C",
+          "text": "Budding yeast with a wide clear halo on an India ink preparation"
+        },
+        {
+          "label": "D",
+          "text": "Gram-negative diplococci seen on a Gram stain of cerebrospinal fluid"
+        },
+        {
+          "label": "E",
+          "text": "Motile trophozoites seen in a wet preparation of cerebrospinal fluid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Naegleria fowleri is identified by seeing trophozoites or flagellates in CSF, biopsy, or tissue, or by PCR or antigen detection on those samples.",
+        "whyCorrect": "The three standard approaches are direct detection of trophozoites and flagellates in CSF, biopsy, or tissue; detection of parasite nucleic acid by PCR on those same specimens; and detection of parasite antigen using specific antibodies in immunohistochemical testing. Seeing the motile amoeba in spinal fluid establishes the diagnosis at the bedside.",
+        "whyWrongByChoice": {
+          "A": "Acid-fast bacilli point to mycobacterial disease, not to a free-living amoeba.",
+          "B": "Septate hyphae on potassium hydroxide indicate a mold and would not be found in this infection.",
+          "C": "A wide clear halo on India ink indicates an encapsulated yeast, not an amoeba.",
+          "D": "Gram-negative diplococci indicate bacterial meningitis, the illness this infection is most often confused with."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "laboratory diagnosis",
+        "CSF"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-010",
+      "stem": "A hospital reviews a death from primary amebic meningoencephalitis that was recognized only at autopsy. More than three-quarters of these cases in the United States are diagnosed after death, and fewer than 5 of roughly 164 reported patients have survived. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody titers become detectable only several weeks into recovery"
+        },
+        {
+          "label": "B",
+          "text": "Lumbar puncture is contraindicated once meningeal signs have appeared"
+        },
+        {
+          "label": "C",
+          "text": "The illness is rare and progresses so fast that it is rarely considered"
+        },
+        {
+          "label": "D",
+          "text": "The organism cannot be visualized in cerebrospinal fluid during life"
+        },
+        {
+          "label": "E",
+          "text": "The organism stays confined to brain tissue and never reaches the spinal fluid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PAM is so rare and so rapidly progressive that it is seldom included in the differential diagnosis while the patient is alive.",
+        "whyCorrect": "Because the early symptoms are indistinguishable from bacterial meningitis and the infection kills within 1 to 18 days of symptom onset, clinicians rarely consider it in time. Its rarity compounds the problem: with only about 164 reported cases since 1962 and roughly 98% mortality, it is almost never on the initial differential unless a history of swimming in warm, soil-contaminated water is elicited.",
+        "whyWrongByChoice": {
+          "A": "Diagnosis does not depend on antibody titers; direct detection, PCR, and antigen testing are used.",
+          "B": "Lumbar puncture is how the spinal fluid containing the amoeba is obtained; it is not the obstacle.",
+          "D": "Trophozoites and flagellates can in fact be seen in cerebrospinal fluid from living patients.",
+          "E": "The organism is recoverable from cerebrospinal fluid as well as from brain tissue."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Naegleria fowleri",
+        "PAM",
+        "prognosis"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-011",
+      "stem": "A 28-year-old woman at 10 weeks' gestation asks which household chores she should hand off to her husband. The couple keeps one indoor cat. Which of the following activities poses the greatest risk of Toxoplasma gondii infection for her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brushing the cat's fur each evening after dinner"
+        },
+        {
+          "label": "B",
+          "text": "Emptying and scrubbing out the cat's litter box"
+        },
+        {
+          "label": "C",
+          "text": "Petting the cat while it sits on her lap at night"
+        },
+        {
+          "label": "D",
+          "text": "Refilling the cat's dry food and water bowls"
+        },
+        {
+          "label": "E",
+          "text": "Washing the cat's blanket in the household machine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Toxoplasma gondii oocysts are shed in cat feces, so pregnant women should avoid contact with cat litter.",
+        "whyCorrect": "Cats release oocysts in their feces, and humans become infected by ingesting food or water contaminated with cat feces. Because the parasite can cross the placenta and infect the fetus, pregnant women are specifically advised to avoid contact with cat feces, which makes litter box duty the exposure to eliminate.",
+        "whyWrongByChoice": {
+          "A": "Grooming a cat is not the described route of transmission; the parasite is acquired from feces or from meat.",
+          "C": "Petting a cat does not transmit the parasite, which is why cat ownership itself need not be avoided.",
+          "D": "Handling food and water bowls does not involve contact with cat feces.",
+          "E": "Laundering bedding is not a described route of infection for this parasite."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Toxoplasma gondii",
+        "transmission",
+        "pregnancy"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi49-012",
+      "stem": "A 34-year-old man who has never owned a pet develops 2 weeks of low-grade fever, malaise, and cervical lymphadenopathy. Serology is positive for acute Toxoplasma gondii infection. He reports eating rare lamb and home-butchered venison several times a month. Which of the following best explains how he acquired the infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bite from an infected female phlebotomine sandfly"
+        },
+        {
+          "label": "B",
+          "text": "Contact with the saliva of an infected neighborhood cat"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of tissue cysts present in undercooked meat"
+        },
+        {
+          "label": "D",
+          "text": "Inhalation of aerosolized oocysts while cleaning out a barn"
+        },
+        {
+          "label": "E",
+          "text": "Transmission during unprotected sexual contact with a partner"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Eating undercooked meat containing tissue cysts is a common route of Toxoplasma gondii infection, independent of cat ownership.",
+        "whyCorrect": "Toxoplasma gondii infects a wide range of warm-blooded mammals, and the meat of infected animals contains tissue cysts. Consuming that meat undercooked delivers viable parasites to the gut, and this is one of the two common routes of human infection alongside ingestion of oocysts from cat feces. Healthy adults typically develop a mononucleosis-like illness, as here.",
+        "whyWrongByChoice": {
+          "A": "Sandfly bites transmit Leishmania species, not Toxoplasma gondii.",
+          "B": "The parasite is acquired from cat feces, not from cat saliva or casual cat contact.",
+          "D": "Aerosol inhalation is not a described route of transmission for this parasite.",
+          "E": "Sexual transmission characterizes Trichomonas vaginalis, not Toxoplasma gondii."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Toxoplasma gondii",
+        "transmission",
+        "tissue cyst"
+      ],
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-001",
+      "stem": "A 28-year-old man returns from a mountain camping trip with 8 days of nausea, cramping, and bloating. His stools smell terrible, he has excessive gas, and he feels plain tired. He recalls drinking untreated water from a stream. His abdomen is mildly tender and distended, with no rebound and no organomegaly. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metronidazole is the drug of choice for giardiasis.",
+        "whyCorrect": "Ingesting untreated mountain stream water followed by bloating, foul-smelling stools, flatulence, and fatigue is the classic picture of Giardia, a parasite that beavers notoriously carry into such streams. Metronidazole is the drug of choice for giardiasis. It is absorbed in the intestinal tract and partially excreted in bile, so it acts both in tissue and in the intestinal lumen. With a history this straightforward, empiric treatment is reasonable, since stool testing delays therapy and adds cost without changing management.",
+        "whyWrongByChoice": {
+          "A": "Albendazole is a benzimidazole for helminths such as ascariasis, neurocysticercosis, and hookworm, not for protozoa.",
+          "B": "Ivermectin is the drug of choice for strongyloidiasis and onchocerciasis, both helminth infections.",
+          "D": "Praziquantel is used for schistosomiasis and intestinal tapeworms, which are helminth infections.",
+          "E": "Pyrimethamine is the agent commonly used for toxoplasmosis, a different protozoal infection."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protozoa",
+        "giardiasis",
+        "metronidazole"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-002",
+      "stem": "In a laboratory model, metronidazole enters Trichomonas and anaerobic bacteria as an inactive compound and becomes cytotoxic only after an intracellular event. Which of the following is required to activate the drug inside the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylation by a parasite N-acetyltransferase"
+        },
+        {
+          "label": "B",
+          "text": "Hydrolysis by esterases in the worm cuticle"
+        },
+        {
+          "label": "C",
+          "text": "Oxidation by host hepatic cytochrome P450"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation by a parasite thymidine kinase"
+        },
+        {
+          "label": "E",
+          "text": "Reduction by ferredoxin and related electron transport proteins"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Metronidazole must be reduced intracellularly by electron transport proteins such as ferredoxin before it can kill.",
+        "whyCorrect": "Metronidazole is active only when it is reduced intracellularly by electron transport proteins such as ferredoxin. The reduced drug and the free radicals it generates interfere with DNA synthesis and can result in DNA degradation. Only organisms that carry the necessary electron transport machinery, such as anaerobic bacteria and susceptible protozoa, perform this reduction, which is the basis of the drug's selectivity.",
+        "whyWrongByChoice": {
+          "A": "Acetylation is not part of metronidazole activation; the brick describes reduction, not acetyl transfer.",
+          "B": "Metronidazole is an antiprotozoal and antianaerobic agent and does not depend on worm cuticle enzymes.",
+          "C": "Host P450 oxidation would occur in the liver, not inside the organism, and does not generate the active species.",
+          "D": "No kinase step is involved; metronidazole is not a nucleoside analogue requiring phosphorylation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "mechanism of action",
+        "anaerobes"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-003",
+      "stem": "A 30-year-old woman is prescribed metronidazole for trichomoniasis. She asks whether she may drink wine at a wedding this weekend. Which of the following is she at risk for if she drinks alcohol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute dystonia with torticollis"
+        },
+        {
+          "label": "B",
+          "text": "Disulfiram-like reaction with flushing"
+        },
+        {
+          "label": "C",
+          "text": "Hemolytic anemia with jaundice"
+        },
+        {
+          "label": "D",
+          "text": "Optic neuritis with visual loss"
+        },
+        {
+          "label": "E",
+          "text": "Photosensitivity rash with blistering"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alcohol combined with metronidazole can precipitate a disulfiram-like reaction.",
+        "whyCorrect": "Metronidazole can cause a disulfiram-like reaction when combined with alcohol, producing flushing, tachycardia, and nausea. Alcohol should therefore be avoided during therapy and for 3 days after the last dose. This interaction is one of the counseling points that accompanies every prescription for the drug.",
+        "whyWrongByChoice": {
+          "A": "Acute dystonic reactions are not described with metronidazole use.",
+          "C": "Hemolysis with jaundice is not a reaction attributed to metronidazole and alcohol.",
+          "D": "Optic neuritis is not a reported consequence of combining metronidazole with alcohol.",
+          "E": "A blistering photosensitivity rash is not among the described adverse effects of metronidazole."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "adverse effects",
+        "drug interaction"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-004",
+      "stem": "The reaction that occurs when alcohol is taken with metronidazole is described as disulfiram-like. Disulfiram itself deters drinking by which of the following actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of hepatic aldehyde reductase"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of central GABA-A receptors"
+        },
+        {
+          "label": "C",
+          "text": "Induction of hepatic cytochrome P450"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of acetaldehyde dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of alcohol dehydrogenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Disulfiram inhibits acetaldehyde dehydrogenase, so acetaldehyde accumulates after a drink.",
+        "whyCorrect": "Disulfiram was used in the past to treat alcohol dependence. It increases sensitivity to alcohol by inhibiting acetaldehyde dehydrogenase, so acetaldehyde accumulates and produces nausea, vomiting, and headache as a deterrent to drinking. Drugs said to cause a disulfiram-like reaction either inhibit this same enzyme or act in other ways to slow alcohol metabolism.",
+        "whyWrongByChoice": {
+          "A": "Activating aldehyde reductase would help clear the aldehyde rather than cause its buildup.",
+          "B": "GABA-A blockade is not the mechanism by which disulfiram discourages drinking.",
+          "C": "Inducing P450 would accelerate alcohol clearance and would not produce the deterrent symptoms.",
+          "E": "Blocking alcohol dehydrogenase would reduce acetaldehyde formation rather than let it accumulate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "disulfiram",
+        "alcohol metabolism",
+        "clinical correlation"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-005",
+      "stem": "A 23-year-old woman at 8 weeks' gestation is diagnosed with trichomoniasis. Which of the following statements about metronidazole applies to her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is contraindicated in the first trimester"
+        },
+        {
+          "label": "B",
+          "text": "It is contraindicated in the third trimester only"
+        },
+        {
+          "label": "C",
+          "text": "It is contraindicated only during breastfeeding"
+        },
+        {
+          "label": "D",
+          "text": "It is safe at any dose throughout pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "It must be given intravenously during pregnancy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metronidazole is contraindicated in the first trimester of pregnancy.",
+        "whyCorrect": "Metronidazole is generally well tolerated, but it is contraindicated in the first trimester of pregnancy. At 8 weeks' gestation this patient is still in the first trimester, so metronidazole should not be used and an alternative approach is required. The other standard cautions with the drug are headache, nausea, metallic taste, and the disulfiram-like reaction with alcohol.",
+        "whyWrongByChoice": {
+          "B": "The contraindication applies to the first trimester, not the third.",
+          "C": "Breastfeeding is not the restriction described for this drug.",
+          "D": "The drug is not considered safe at any point in pregnancy; the first trimester is an explicit contraindication.",
+          "E": "Route of administration does not remove the first-trimester contraindication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "pregnancy",
+        "contraindication"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-006",
+      "stem": "A 45-year-old man taking metronidazole for amebiasis complains of a persistent unpleasant taste in his mouth, along with headache and nausea. Which of the following is he most likely describing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blue-green discoloration of the urine"
+        },
+        {
+          "label": "B",
+          "text": "Gingival hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Loss of high-frequency hearing"
+        },
+        {
+          "label": "D",
+          "text": "Metallic taste"
+        },
+        {
+          "label": "E",
+          "text": "Orange discoloration of the sclerae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Headache, nausea, and a metallic taste are the most common adverse effects of metronidazole.",
+        "whyCorrect": "Metronidazole is generally well tolerated, and its most common adverse effects are headache, nausea, and metallic taste. This patient has all three. These effects are nuisance reactions rather than reasons to stop the drug in most cases.",
+        "whyWrongByChoice": {
+          "A": "Discolored urine is not among the common adverse effects attributed to metronidazole.",
+          "B": "Gum overgrowth is not a listed adverse effect of this agent.",
+          "C": "Ototoxicity is not described as a reaction to metronidazole.",
+          "E": "Scleral discoloration is not a reported metronidazole reaction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "adverse effects"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-007",
+      "stem": "A patient takes the final dose of her metronidazole course today and asks how much longer she must keep avoiding alcohol. Which of the following is the most appropriate answer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol may be resumed immediately"
+        },
+        {
+          "label": "B",
+          "text": "Avoid alcohol for 1 more month"
+        },
+        {
+          "label": "C",
+          "text": "Avoid alcohol for 12 more hours"
+        },
+        {
+          "label": "D",
+          "text": "Avoid alcohol for 2 more weeks"
+        },
+        {
+          "label": "E",
+          "text": "Avoid alcohol for 3 more days"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alcohol should be avoided during metronidazole therapy and for 3 days after the last dose.",
+        "whyCorrect": "Alcohol should be avoided during metronidazole use and for 3 days after the course is finished. Drinking within that window risks a disulfiram-like reaction with flushing, tachycardia, and nausea. Counseling patients on the specific 3-day interval is more useful than a vague instruction to avoid alcohol.",
+        "whyWrongByChoice": {
+          "A": "Resuming alcohol immediately leaves the patient exposed to the disulfiram-like reaction.",
+          "B": "A month of abstinence is not required after metronidazole.",
+          "C": "A 12-hour interval is shorter than the recommended wait.",
+          "D": "Two weeks is longer than the interval described for this drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "alcohol",
+        "counseling"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-008",
+      "stem": "Which of the following best describes the way metronidazole crosses membranes to be absorbed after an oral dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active uptake by an organic anion transporter"
+        },
+        {
+          "label": "B",
+          "text": "Facilitated diffusion through a nucleoside carrier"
+        },
+        {
+          "label": "C",
+          "text": "Paracellular movement through tight junctions"
+        },
+        {
+          "label": "D",
+          "text": "Passive diffusion in its unionized form"
+        },
+        {
+          "label": "E",
+          "text": "Receptor-mediated endocytosis by enterocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metronidazole is absorbed by passive diffusion in its unionized form.",
+        "whyCorrect": "Metronidazole is absorbed by passive diffusion in its unionized form, which is why it distributes so widely and can reach tissues beyond the gut. Only after it is inside the organism and reduced by electron transport proteins does it become an active cytotoxic species. Good absorption plus intracellular activation is what gives the drug its broad usefulness.",
+        "whyWrongByChoice": {
+          "A": "No carrier-mediated active transport step is involved in metronidazole absorption.",
+          "B": "Metronidazole is not a nucleoside and does not use a nucleoside carrier.",
+          "C": "Absorption is transcellular by diffusion, not through tight junctions.",
+          "E": "Endocytosis is not how this small, lipid-permeable molecule enters cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "pharmacokinetics",
+        "absorption"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-009",
+      "stem": "Metronidazole is effective against organisms that have invaded tissue and also against organisms that remain in the intestinal lumen. Which of the following properties best explains its luminal activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is concentrated in red cells and released into the gut"
+        },
+        {
+          "label": "B",
+          "text": "It is eliminated unchanged by glomerular filtration"
+        },
+        {
+          "label": "C",
+          "text": "It is not absorbed from the intestinal tract at all"
+        },
+        {
+          "label": "D",
+          "text": "It is partially excreted in bile and returns to the intestinal tract"
+        },
+        {
+          "label": "E",
+          "text": "It is secreted into saliva and continuously swallowed"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Biliary excretion returns metronidazole to the intestinal lumen, so it works in tissue and lumen alike.",
+        "whyCorrect": "Metronidazole is mostly absorbed in the intestinal tract and is partially excreted through bile. Because bile carries drug back into the gut, the agent acts not only in the tissues but also in the intestinal lumen. This dual exposure is part of why it works well for luminal protozoa such as Giardia as well as for infection that has spread past the GI tract.",
+        "whyWrongByChoice": {
+          "A": "Erythrocyte sequestration is not a described feature of metronidazole disposition.",
+          "B": "Renal elimination would not return drug to the intestinal lumen.",
+          "C": "The drug is in fact mostly absorbed from the intestinal tract, not left unabsorbed.",
+          "E": "Salivary secretion is not the route described for its luminal presence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "pharmacokinetics",
+        "biliary excretion"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-010",
+      "stem": "Metronidazole reliably kills anaerobic bacteria but has essentially no useful activity against strictly aerobic organisms. Which feature of anaerobes best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They carry efflux pumps that fail without oxygen"
+        },
+        {
+          "label": "B",
+          "text": "They concentrate the drug through aerobic glycolysis"
+        },
+        {
+          "label": "C",
+          "text": "They have a thicker outer membrane that traps the drug"
+        },
+        {
+          "label": "D",
+          "text": "They have the electron transport proteins that reduce the drug"
+        },
+        {
+          "label": "E",
+          "text": "They lack a cell wall and therefore take up more drug"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anaerobic bacteria possess the electron transport needed to reduce metronidazole to its active form.",
+        "whyCorrect": "Anaerobic bacteria have the electron transport necessary for reduction of metronidazole. The drug is reduced by these organisms, and the reduced metronidazole with its free radicals interferes with DNA synthesis and degrades DNA. Because the reducing machinery is what turns the drug on, organisms lacking it are spared, and this is why metronidazole provides coverage for anaerobic infections.",
+        "whyWrongByChoice": {
+          "A": "Efflux pump activity is not the mechanism described for this drug's selectivity.",
+          "B": "Anaerobes do not rely on aerobic glycolysis, and drug concentration is not the explanation.",
+          "C": "Membrane thickness is not the basis of metronidazole selectivity.",
+          "E": "Anaerobes are not defined by an absent cell wall, and wall status is not what activates the drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "anaerobes",
+        "selective toxicity"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-011",
+      "stem": "A 26-year-old woman with vaginal trichomoniasis had intolerable nausea the last time she took metronidazole. Which of the following agents has activity against amebiasis, giardiasis, and vaginal trichomoniasis and may be better tolerated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mebendazole"
+        },
+        {
+          "label": "B",
+          "text": "Pentamidine"
+        },
+        {
+          "label": "C",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "D",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "E",
+          "text": "Tinidazole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tinidazole covers amebiasis, giardiasis, and vaginal trichomoniasis and may be better tolerated than metronidazole.",
+        "whyCorrect": "Tinidazole has activity against amebiasis, giardiasis, and vaginal trichomoniasis, and it may be better tolerated than metronidazole. It shares the nitroimidazole mechanism of free-radical formation and inhibition of DNA synthesis, and it carries the same disulfiram reaction with alcohol. For a patient who could not tolerate metronidazole, it is the logical substitute for the same spectrum.",
+        "whyWrongByChoice": {
+          "A": "Mebendazole is a benzimidazole for helminth infections, not for protozoa.",
+          "B": "Pentamidine is used for Trichomonas but does not cover amebiasis and giardiasis as described.",
+          "C": "Praziquantel treats schistosomiasis and intestinal tapeworms, which are helminths.",
+          "D": "Pyrimethamine is used for toxoplasmosis and does not cover this spectrum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tinidazole",
+        "protozoa",
+        "trichomoniasis"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi50-012",
+      "stem": "A 35-year-old man has trichomoniasis that has extended beyond the genitourinary tract into adjacent tissue. Which of the following agents is the drug of choice for both intestinal and extraintestinal trichomoniasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albendazole"
+        },
+        {
+          "label": "B",
+          "text": "Ivermectin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Pyrimethamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metronidazole is the drug of choice for giardiasis and for intestinal or extraintestinal trichomoniasis.",
+        "whyCorrect": "Metronidazole can be used to treat infection that has spread past the GI tract to other parts of the body, and it is the drug of choice for giardiasis and for intestinal or extraintestinal trichomoniasis. Because it is well absorbed and also partially excreted in bile, it reaches both tissue sites and the intestinal lumen. That combination of distribution is what makes it useful when the infection is no longer confined to the gut.",
+        "whyWrongByChoice": {
+          "A": "Albendazole is a benzimidazole used for helminths such as ascariasis and neurocysticercosis.",
+          "B": "Ivermectin treats strongyloidiasis and onchocerciasis, not protozoal disease.",
+          "D": "Praziquantel is reserved for schistosomiasis and intestinal tapeworms.",
+          "E": "Pyrimethamine is the antiprotozoal commonly used for toxoplasmosis, not trichomoniasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "trichomoniasis",
+        "indications"
+      ],
+      "topicId": "agents-treating-helminthic-and-protozoal-infections",
+      "topicName": "Agents treating Helminthic and Protozoal infections",
+      "tier": "core"
+    }
+  ]
+}

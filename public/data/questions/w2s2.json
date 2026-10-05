@@ -1,6 +1,6 @@
 {
-  "categoryId": "gram-negatives",
-  "categoryName": "Gram-Negative Organisms",
+  "categoryId": "w2s2",
+  "categoryName": "Session 2",
   "questions": [
     {
       "id": "mi16-001",
@@ -1683,619 +1683,149 @@
       "tier": "core"
     },
     {
-      "id": "mi22-001",
-      "stem": "A 32-year-old woman has 4 days of progressive weakness in both legs, preceded by numbness and tingling in her feet. The tingling has now started in her hands. Two weeks ago she had several days of abdominal cramping and diarrhea that was watery at first and later dark; it resolved without treatment. Cerebrospinal fluid shows elevated protein with a normal cell count. Which of the following organisms most likely preceded her current illness?",
+      "id": "mi19-001",
+      "stem": "A 41-year-old woman has an 11-day history of facial pressure, purulent nasal discharge, and fever. Examination shows maxillary sinus tenderness, and acute bacterial sinusitis is diagnosed. Which of the following groups of organisms is most likely responsible for her infection?",
       "choices": [
         {
           "label": "A",
-          "text": "Campylobacter jejuni"
+          "text": "Escherichia coli, Klebsiella pneumoniae, and Proteus mirabilis"
         },
         {
           "label": "B",
-          "text": "Enterohemorrhagic Escherichia coli"
+          "text": "Listeria monocytogenes, Enterococcus faecalis, and Clostridioides difficile"
         },
         {
           "label": "C",
-          "text": "Salmonella enterica serotype Typhi"
+          "text": "Mycoplasma pneumoniae, Chlamydia trachomatis, and Rickettsia rickettsii"
         },
         {
           "label": "D",
-          "text": "Shigella sonnei"
+          "text": "Pseudomonas aeruginosa, Acinetobacter baumannii, and Serratia marcescens"
         },
         {
           "label": "E",
-          "text": "Yersinia enterocolitica"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Campylobacter spp. are the most common cause of Guillain-Barre syndrome in the United States.",
-        "whyCorrect": "An ascending sensory and motor neuropathy beginning 1-3 weeks after a diarrheal illness, with elevated CSF protein and a normal cell count, is Guillain-Barre syndrome. About 1 in every 1,000 people with a Campylobacter infection develops GBS, and Campylobacter spp. are the leading cause in the U.S. The mechanism is molecular mimicry: bacterial proteins resemble proteins in the nervous system, so the immune response against the bacteria also attacks nerves.",
-        "whyWrongByChoice": {
-          "B": "Enterohemorrhagic E. coli makes Shiga toxin and is associated with hemolytic uremic syndrome, not with a demyelinating neuropathy.",
-          "C": "Typhoid fever presents with prolonged fever, headache, hepatosplenomegaly, and a transient truncal rash, and is not the organism linked to Guillain-Barre syndrome.",
-          "D": "Shigella causes bacillary dysentery with small-volume bloody stools and tenesmus; its neurologic sequel is not Guillain-Barre syndrome.",
-          "E": "Yersinia enterocolitica is associated with day care outbreaks and pseudoappendicitis, not with Guillain-Barre syndrome."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Campylobacter",
-        "Guillain-Barre syndrome",
-        "molecular mimicry"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-002",
-      "stem": "A 40-year-old man has fever and bloody diarrhea that started 2 days after a barbecue. A stool isolate is a gram-negative straight rod that forms colorless colonies on MacConkey agar and is oxidase negative. On triple sugar iron agar the butt is yellow and a black precipitate is present. Which of the following is the most likely organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni"
-        },
-        {
-          "label": "B",
-          "text": "Entamoeba histolytica"
-        },
-        {
-          "label": "C",
-          "text": "Escherichia coli"
-        },
-        {
-          "label": "D",
-          "text": "Salmonella enterica"
-        },
-        {
-          "label": "E",
-          "text": "Shigella flexneri"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "A black precipitate on TSI agar means H2S production, which separates Salmonella from Shigella.",
-        "whyCorrect": "Salmonella spp. are gram-negative rods that do not ferment lactose and are oxidase negative. They ferment glucose, which acidifies and yellows the TSI butt, and they produce H2S, which forms the black precipitate. That combination identifies Salmonella in this isolate.",
-        "whyWrongByChoice": {
-          "A": "Campylobacter spp. are oxidase positive and are comma- or S-shaped rather than straight rods.",
-          "B": "Entamoeba histolytica is a protozoan that causes amebic dysentery and liver abscess and is not grown on these bacterial agars.",
-          "C": "Escherichia coli ferments lactose, so it would form colored colonies on MacConkey agar rather than colorless ones.",
-          "E": "Shigella spp. are also non-lactose fermenting and oxidase negative, but they do not produce H2S, so there is no black precipitate on TSI agar."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Salmonella",
-        "laboratory identification",
-        "TSI agar"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-003",
-      "stem": "A 4-year-old girl develops fever and bloody diarrhea. Within a week, three of her four household members become ill with the same illness despite no shared meals, and the family reports only casual hand contact. Which of the following organisms is most consistent with illness after ingesting only 10 to 100 organisms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni"
-        },
-        {
-          "label": "B",
-          "text": "Entamoeba histolytica"
-        },
-        {
-          "label": "C",
-          "text": "Salmonella enterica serotype Typhi"
-        },
-        {
-          "label": "D",
-          "text": "Salmonella enterica serotype Typhimurium"
-        },
-        {
-          "label": "E",
-          "text": "Shigella sonnei"
+          "text": "Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Shigella spp. have an extremely low infectious dose, estimated at 10-100 organisms.",
-        "whyCorrect": "Shigella spp. have adapted to the acidic environment of the stomach, so very few organisms survive to reach the colon and cause disease. This very low infectious dose explains easy person-to-person spread by hands and contaminated surfaces, and it is why even flies can transfer the bacteria.",
+        "summary": "Acute bacterial sinusitis is usually caused by S. pneumoniae, H. influenzae, and M. catarrhalis.",
+        "whyCorrect": "Acute bacterial sinusitis is an upper respiratory tract infection, and the three organisms that classically cause it are Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis. This trio drives the choice of therapy, which must cover a gram-positive coccus plus two gram-negative respiratory organisms. Amoxicillin/clavulanate is therefore a very common treatment.",
         "whyWrongByChoice": {
-          "A": "Campylobacter spp. are usually acquired from contaminated poultry, raw milk, or water rather than from a 10-100 organism inoculum.",
-          "B": "Entamoeba histolytica is a protozoan cause of dysentery and liver abscess, not a low-dose bacterial pathogen.",
-          "C": "Typhoidal Salmonella is spread by contaminated food and water from human carriers and is not characterized by this very low dose.",
-          "D": "Nontyphoidal Salmonella generally requires a large ingested dose because it is not well adapted to stomach acid."
+          "A": "These Enterobacteriaceae cause urinary and intra-abdominal infections, not the typical upper respiratory tract picture of sinusitis.",
+          "B": "Listeria, Enterococcus, and C. difficile cause meningitis, urinary tract infection, and colitis respectively, not sinusitis.",
+          "C": "These atypical and rickettsial organisms cause atypical pneumonia, genital infection, and tick-borne illness rather than bacterial sinusitis.",
+          "D": "These are hospital-associated gram-negative organisms seen in ventilated or severely ill patients, not causes of community sinusitis."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "Shigella",
-        "infectious dose",
-        "transmission"
+        "sinusitis",
+        "upper respiratory infection",
+        "aminopenicillins"
       ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi22-004",
-      "stem": "A 26-year-old man planning travel to South Asia receives an inactivated vaccine made from a purified capsular polysaccharide. He asks whether it will also protect him from the Salmonella gastroenteritis he read about in a recent poultry outbreak at home. Which of the following best explains why it will not?",
+      "id": "mi19-002",
+      "stem": "A 29-year-old man is diagnosed with acute bacterial sinusitis and needs an oral antibiotic that will cover Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis. Which of the following is the most appropriate therapy?",
       "choices": [
         {
           "label": "A",
-          "text": "Nontyphoidal serotypes are not members of the family Enterobacteriaceae"
+          "text": "Amoxicillin-clavulanate"
         },
         {
           "label": "B",
-          "text": "Nontyphoidal serotypes are restricted to human and primate reservoirs"
+          "text": "Gentamicin"
         },
         {
           "label": "C",
-          "text": "Nontyphoidal serotypes do not express the O antigen of lipopolysaccharide"
+          "text": "Imipenem/cilastatin"
         },
         {
           "label": "D",
-          "text": "Nontyphoidal serotypes do not possess the Vi antigen"
+          "text": "Linezolid"
         },
         {
           "label": "E",
-          "text": "Nontyphoidal serotypes lack flagella and therefore lack the H antigen"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Typhoid vaccines target the Vi capsular antigen, which nontyphoidal Salmonella do not have.",
-        "whyCorrect": "One distinction of the Salmonella subtypes that cause typhoid fever is a capsule composed of the polysaccharide Vi antigen. Inactivated typhoid vaccines use purified Vi antigen to protect travelers going to regions where typhoidal salmonellosis is prevalent. Because nontyphoidal Salmonella spp. do not have the Vi antigen, these vaccines are not effective against them.",
-        "whyWrongByChoice": {
-          "A": "Both typhoidal and nontyphoidal Salmonella are members of Enterobacteriaceae, so family membership does not explain the gap in coverage.",
-          "B": "It is the typhoid-causing serotypes that are restricted to humans; nontyphoidal serotypes have wide animal reservoirs.",
-          "C": "The O antigen of lipopolysaccharide is one of the three key antigens used to serotype Salmonella and is present across the genus.",
-          "E": "Nontyphoidal Salmonella are motile and use flagellar H antigen in serotyping, so they are not missing flagella."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Salmonella Typhi",
-        "Vi antigen",
-        "vaccine"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-005",
-      "stem": "A stool isolate from a patient with watery diarrhea after drinking raw milk is a gram-negative curved rod. The laboratory reports that the organism failed to grow well on the standard 37 degrees C plate but grew abundantly when incubated at 42 degrees C. Which of the following organisms is most consistent with this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Campylobacter jejuni"
-        },
-        {
-          "label": "B",
-          "text": "Enteroinvasive Escherichia coli"
-        },
-        {
-          "label": "C",
-          "text": "Salmonella enterica serotype Enteritidis"
-        },
-        {
-          "label": "D",
-          "text": "Shigella dysenteriae"
-        },
-        {
-          "label": "E",
-          "text": "Yersinia enterocolitica"
+          "text": "Nafcillin"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Campylobacter spp. grow optimally at 42 degrees C, unlike most human pathogens.",
-        "whyCorrect": "Most bacteria that infect humans grow best at 37 degrees C, but Campylobacter spp. grow optimally at 42 degrees C. Selective incubation at that temperature is a standard way to recover the organism from stool, and it pairs with the comma or S shape seen on Gram stain.",
+        "summary": "Amoxicillin/clavulanate is the common treatment for acute bacterial sinusitis.",
+        "whyCorrect": "Aminopenicillins such as amoxicillin, when combined with a β-lactamase inhibitor like clavulanate, provide good gram-positive coverage plus good gram-negative coverage. That combination spans S. pneumoniae as well as H. influenzae and M. catarrhalis, which are the organisms of acute bacterial sinusitis. It is therefore a very common outpatient choice for this infection.",
         "whyWrongByChoice": {
-          "B": "Enteroinvasive Escherichia coli invades colonic mucosa but is a straight rod with no elevated growth temperature requirement.",
-          "C": "Salmonella enterica serotype Enteritidis is a straight rod that grows on MacConkey and EMB agar at standard incubation temperature.",
-          "D": "Shigella dysenteriae is a straight gram-negative rod recovered on routine enteric media incubated at 37 degrees C.",
-          "E": "Yersinia enterocolitica is linked to day care outbreaks and pseudoappendicitis and is not identified by growth at 42 degrees C."
+          "B": "Gentamicin is an aminoglycoside with limited gram-positive activity and is not an oral agent for sinusitis.",
+          "C": "Carbapenems are reserved for complicated infections such as hospital-acquired pneumonia and are not oral agents.",
+          "D": "Linezolid covers gram-positive organisms only and provides no coverage of the gram-negative respiratory pathogens.",
+          "E": "Nafcillin is an antistaphylococcal penicillin that is not effective against many gram-negative bacteria such as H. influenzae."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "Campylobacter",
-        "laboratory identification",
-        "growth temperature"
+        "sinusitis",
+        "aminopenicillins",
+        "beta-lactamase inhibitor"
       ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi22-006",
-      "stem": "Three gram-negative enteric isolates from patients with bloody diarrhea are tested. Two are oxidase negative; the third is oxidase positive. Which of the following conclusions about the oxidase-positive isolate is best supported?",
+      "id": "mi19-003",
+      "stem": "A 19-year-old college student is admitted with fever, headache, and nuchal rigidity. Cerebrospinal fluid Gram stain shows gram-negative diplococci, and cultures grow Neisseria meningitidis. Which of the following antibiotics has activity against this organism?",
       "choices": [
         {
           "label": "A",
-          "text": "It is a lactose fermenter rather than a non-lactose fermenter"
+          "text": "Ampicillin-sulbactam"
         },
         {
           "label": "B",
-          "text": "It is a Shiga toxin producer rather than a non-producer"
+          "text": "Linezolid"
         },
         {
           "label": "C",
-          "text": "It is Campylobacter rather than Salmonella or Shigella"
+          "text": "Nafcillin"
         },
         {
           "label": "D",
-          "text": "It is Salmonella rather than Shigella or Campylobacter"
+          "text": "Oral vancomycin"
         },
         {
           "label": "E",
-          "text": "It is Shigella rather than Salmonella or Campylobacter"
+          "text": "Oxacillin"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Oxidase production separates Campylobacter from Salmonella and Shigella.",
-        "whyCorrect": "Campylobacter spp. produce oxidase, while Salmonella spp. and Shigella spp. are oxidase negative. Oxidase therefore sorts the bloody-diarrhea isolates into Campylobacter versus the two enteric genera, and it complements the morphologic clue that Campylobacter is comma- or S-shaped while the others are straight rods.",
+        "summary": "Ampicillin combined with sulbactam is effective against Neisseria meningitidis.",
+        "whyCorrect": "Aminopenicillins paired with a β-lactamase inhibitor extend their reach into gram-negative organisms. Ampicillin with sulbactam is specifically effective against Neisseria meningitidis, which causes bacterial meningitis and septicemia. The other listed agents act only on gram-positive bacteria.",
         "whyWrongByChoice": {
-          "A": "Oxidase testing measures a respiratory enzyme and says nothing about whether the organism ferments lactose.",
-          "B": "Shiga toxin production is a property of S. dysenteriae type I and EHEC and is unrelated to the oxidase reaction.",
-          "D": "Salmonella spp. are oxidase negative and catalase positive, so a positive oxidase test argues against Salmonella.",
-          "E": "Shigella spp. are oxidase negative, so a positive test argues against Shigella."
+          "B": "Linezolid is a gram-positive agent and would not treat a gram-negative diplococcus.",
+          "C": "Nafcillin is an antistaphylococcal penicillin and is not effective against many gram-negative bacteria, including Neisseria.",
+          "D": "Oral vancomycin is not absorbed, acts only in the gut, and has no gram-negative activity.",
+          "E": "Oxacillin, like nafcillin, is aimed at staphylococci and lacks gram-negative coverage."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "Campylobacter",
-        "oxidase",
-        "laboratory identification"
+        "aminopenicillins",
+        "Neisseria meningitidis",
+        "meningitis"
       ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi22-007",
-      "stem": "A 6-year-old boy has bloody diarrhea followed by pallor, decreased urine output, and bruising. Laboratory studies show anemia, thrombocytopenia, and a rising creatinine. The responsible toxin is an AB toxin whose enzymatically active A component enters host cells. Which of the following best describes the action of that component?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blocks the release of the neurotransmitters GABA and glycine"
-        },
-        {
-          "label": "B",
-          "text": "Creates double-stranded breaks in host cell DNA"
-        },
-        {
-          "label": "C",
-          "text": "Crosslinks T-cell receptors to MHC class II molecules"
-        },
-        {
-          "label": "D",
-          "text": "Inactivates the 60S subunit of the ribosome"
-        },
-        {
-          "label": "E",
-          "text": "Increases intracellular cyclic AMP by ADP-ribosylation"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Shiga toxin inactivates the 60S ribosomal subunit and halts protein synthesis.",
-        "whyCorrect": "Shigella dysenteriae type I and enterohemorrhagic E. coli both produce Shiga toxin, an AB toxin in which the B subunit binds the target cell and the A subunit acts inside it. The A subunit inactivates the 60S ribosomal subunit, blocking protein synthesis and killing the cell. When the toxin leaks out of the GI tract it destroys red cells and injures the kidney, producing hemolytic uremic syndrome.",
-        "whyWrongByChoice": {
-          "A": "Blocking release of GABA and glycine is the mechanism of tetanospasmin, the tetanus toxin.",
-          "B": "Causing double-stranded DNA breaks is the mechanism of cytolethal distending toxin of Campylobacter spp.",
-          "C": "Crosslinking the T-cell receptor to MHC class II is how superantigens such as TSST-1 and SpeA act.",
-          "E": "Raising cyclic AMP by ADP-ribosylation is the mechanism of heat-labile toxin of E. coli and several other bacterial toxins."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Shiga toxin",
-        "Shigella dysenteriae",
-        "hemolytic uremic syndrome"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-008",
-      "stem": "An intestinal biopsy from a patient with bacillary dysentery shows bacteria inside colonic epithelial cells, many with a comet-like tail of host cytoskeletal filaments extending from one end and some already within neighboring cells. The isolate has no flagella. Which of the following best explains how this organism reaches adjacent cells?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It is carried between cells inside migrating tissue macrophages"
-        },
-        {
-          "label": "B",
-          "text": "It polymerizes host actin at one pole and is propelled forward"
-        },
-        {
-          "label": "C",
-          "text": "It re-enters the lumen and is taken up again by distant M cells"
-        },
-        {
-          "label": "D",
-          "text": "It secretes a toxin that opens epithelial tight junctions"
-        },
-        {
-          "label": "E",
-          "text": "It uses a polar flagellum to swim through the mucus layer"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Shigella spp. are non-motile but spread cell to cell using host actin polymerization.",
-        "whyCorrect": "Unlike Salmonella spp., Shigella spp. are non-motile and have neither flagella nor cilia. They express proteins that cause host actin to polymerize at one end of the bacterium, producing a rocket-like effect that shoots the organism out of its current cell and into flanking cells. This is how the infection spreads laterally through the epithelium after initial entry through M cells.",
-        "whyWrongByChoice": {
-          "A": "Shigella kills the macrophages it encounters and spreads directly between epithelial cells rather than riding inside them.",
-          "C": "Spread is direct from one cell into flanking cells, not by a second round of luminal uptake at distant M cells.",
-          "D": "Shigella injures epithelium through invasion, inflammation, and apoptosis rather than by a toxin that opens tight junctions.",
-          "E": "A polar flagellum is a feature of Campylobacter spp.; Shigella spp. have no flagella at all."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "Shigella",
-        "virulence factors",
-        "actin motility"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-009",
-      "stem": "After ingestion, Salmonella spp. reach the small intestine and first invade a specialized epithelial cell that normally samples luminal antigens and hands them to immune cells. Which of the following cells does the organism exploit for this initial entry?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Enterochromaffin cells of the gastric antrum"
-        },
-        {
-          "label": "B",
-          "text": "Goblet cells of the colonic crypts"
-        },
-        {
-          "label": "C",
-          "text": "M cells overlying the Peyer patches"
-        },
-        {
-          "label": "D",
-          "text": "Paneth cells at the base of the crypts"
-        },
-        {
-          "label": "E",
-          "text": "Parietal cells of the gastric fundus"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Salmonella spp. enter through M cells of the Peyer patches to reach gut tissue and lymph nodes.",
-        "whyCorrect": "M cells are specialized epithelial cells found in mucosa-associated lymphoid tissue, particularly the Peyer patches of the small intestine, and their normal job is to transport antigens from the lumen to immune cells. Salmonella spp. use them to gain access to the tissue of the GI tract and local lymph nodes. Once through, the organism infects neutrophils, macrophages, and dendritic cells as a facultative intracellular pathogen.",
-        "whyWrongByChoice": {
-          "A": "Enterochromaffin cells are hormone-secreting cells and are not the portal of entry described.",
-          "B": "Goblet cells secrete mucus and are not the antigen-sampling route the organism exploits.",
-          "D": "Paneth cells release antimicrobial peptides into the crypt lumen rather than transporting antigen across the epithelium.",
-          "E": "Parietal cells secrete gastric acid, which Salmonella tolerates poorly; they are not an entry route."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Salmonella",
-        "M cells",
-        "Peyer patches"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-010",
-      "stem": "Salmonella, Shigella, and Campylobacter spp. all use a needle-like apparatus that spans the inner and outer membranes of the bacterium. Which of the following best describes what this structure accomplishes?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It anchors lipopolysaccharide to the outer leaflet of the membrane"
-        },
-        {
-          "label": "B",
-          "text": "It exports a capsular polysaccharide that blocks complement deposition"
-        },
-        {
-          "label": "C",
-          "text": "It injects effector proteins that drive bacterial entry into host cells"
-        },
-        {
-          "label": "D",
-          "text": "It pumps antibiotics out of the bacterial cytoplasm into the environment"
-        },
-        {
-          "label": "E",
-          "text": "It transfers plasmid DNA between adjacent bacteria during conjugation"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The type III secretion system injects effector proteins that force host cells to take the bacterium in.",
-        "whyCorrect": "The type III secretion system is a needle-like structure that injects host cells with effector proteins. Those effectors facilitate entry of the bacteria into cells and prevent destruction of the bacteria once they have been phagocytized, and the infected cells are eventually destroyed. All three genera in this brick use a T3SS for this purpose.",
-        "whyWrongByChoice": {
-          "A": "Lipopolysaccharide is a structural component of the outer membrane and is not positioned by this apparatus.",
-          "B": "Capsule export is a separate process; the Vi capsule of typhoidal Salmonella is not delivered by the secretion needle.",
-          "D": "Antibiotic efflux is performed by membrane pumps and is unrelated to the injection apparatus described.",
-          "E": "Plasmid transfer during conjugation uses a sex pilus, not the effector-injecting needle."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "type III secretion system",
-        "virulence factors",
-        "Salmonella"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-011",
-      "stem": "A 14-year-old boy with sickle cell anemia has 5 days of fever and worsening right thigh pain after an episode of diarrhea. Imaging shows osteomyelitis of the femur, and blood cultures grow a non-lactose-fermenting gram-negative rod. Which of the following best explains his susceptibility to this disseminated infection?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Absent terminal complement components of the membrane attack complex"
-        },
-        {
-          "label": "B",
-          "text": "Defective neutrophil oxidative burst from an NADPH oxidase defect"
-        },
-        {
-          "label": "C",
-          "text": "Functional asplenia from repeated splenic infarction"
-        },
-        {
-          "label": "D",
-          "text": "Impaired mucosal IgA secretion across the intestinal epithelium"
-        },
-        {
-          "label": "E",
-          "text": "Loss of gastric acid from long-term acid suppression therapy"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Sickle cell anemia causes autosplenectomy, and asplenic patients are prone to disseminated salmonellosis.",
-        "whyCorrect": "Invasive Salmonella disease is rare but occurs in children, patients over 50, the immunocompromised, and patients without spleens or with poorly functioning spleens. In sickle cell anemia, abnormally shaped red blood cells drive repeated splenic infarcts, progressively destroying the spleen. This autosplenectomy leaves the patient susceptible to disseminated salmonellosis, which can present as septicemia, osteomyelitis, septic arthritis, or meningitis.",
-        "whyWrongByChoice": {
-          "A": "Terminal complement deficiency is not the explanation offered for disseminated Salmonella in sickle cell anemia.",
-          "B": "A defective neutrophil oxidative burst is not the mechanism described for salmonellosis risk in sickle cell disease.",
-          "D": "Mucosal IgA secretion is not the defect that makes these patients prone to invasive Salmonella infection.",
-          "E": "Reduced gastric acid lowers the dose needed for infection but does not account for bone and bloodstream dissemination here."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Salmonella",
-        "disseminated salmonellosis",
-        "sickle cell anemia"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi22-012",
-      "stem": "A 27-year-old man has 2 weeks of knee and ankle pain, red eyes, and burning with urination. Three weeks earlier he had a self-limited episode of bloody diarrhea. Which of the following best characterizes his current condition?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A crystal-induced synovitis precipitated by the preceding illness"
-        },
-        {
-          "label": "B",
-          "text": "A demyelinating process triggered by antibody molecular mimicry"
-        },
-        {
-          "label": "C",
-          "text": "A septic joint seeded by bacteria still present in the synovium"
-        },
-        {
-          "label": "D",
-          "text": "A toxin-mediated arthropathy caused by circulating Shiga toxin"
-        },
-        {
-          "label": "E",
-          "text": "An autoimmune arthritis strongly associated with the HLA-B27 allele"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Reactive arthritis is an autoimmune disease after GI or GU infection, and 70-90% of patients carry HLA-B27.",
-        "whyCorrect": "Reactive arthritis occurs 1-4 weeks after gastrointestinal and genitourinary infections, and its three most common features are conjunctivitis, urethritis, and arthritis, remembered as cannot see, pee, or climb a tree. It is unclear exactly why it happens, but 70-90% of patients carry the HLA-B27 allele of MHC class I. Most cases resolve in a few months with anti-inflammatory therapy.",
-        "whyWrongByChoice": {
-          "A": "Crystal-induced synovitis is a separate entity and is not the postinfectious syndrome described here.",
-          "B": "A demyelinating process from molecular mimicry describes Guillain-Barre syndrome, which causes weakness, not arthritis.",
-          "C": "Reactive arthritis is immune-mediated and follows the infection; it is not a joint with ongoing bacterial infection.",
-          "D": "Shiga toxin causes hemolytic uremic syndrome, not the conjunctivitis-urethritis-arthritis triad."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "reactive arthritis",
-        "HLA-B27",
-        "complications"
-      ],
-      "topicId": "salmonella-shigella-and-campylobacter-spp",
-      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
-    },
-    {
-      "id": "mi23-001",
-      "stem": "A 19-year-old man develops an itchy rash two days after spending an evening in a poorly maintained hotel hot tub. Examination shows tender red papules and pustules centered on hair follicles over the trunk and thighs, most dense where his swim trunks sat. He is afebrile and otherwise healthy. Which of the following is the most likely causal organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Candida albicans"
-        },
-        {
-          "label": "B",
-          "text": "Pseudomonas aeruginosa"
-        },
-        {
-          "label": "C",
-          "text": "Staphylococcus aureus"
-        },
-        {
-          "label": "D",
-          "text": "Staphylococcus epidermidis"
-        },
-        {
-          "label": "E",
-          "text": "Streptococcus pyogenes"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Folliculitis following immersion in a poorly maintained hot tub is caused by the water-loving Pseudomonas aeruginosa.",
-        "whyCorrect": "A hot tub that is not properly maintained quickly becomes a breeding ground for water-loving bacteria such as Pseudomonas. Prolonged soaking swells the skin and creates microabrasions that let the organism enter soft tissue. The result is tender, sometimes itchy red papules and pustules focused around hair follicles, which occurs in otherwise healthy people and usually resolves on its own.",
-        "whyWrongByChoice": {
-          "A": "Candida albicans causes intertriginous and mucosal yeast infections, not follicular pustules after water immersion.",
-          "C": "Staphylococcus aureus is the most common cause of skin infection generally, but the hot tub exposure points to Pseudomonas.",
-          "D": "Staphylococcus epidermidis is a low-virulence skin commensal and is not the organism linked to hot tub exposure.",
-          "E": "Streptococcus pyogenes is a common cause of skin infection but does not have the hot tub and whirlpool association."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "Pseudomonas aeruginosa",
-        "hot tub folliculitis",
-        "skin infection"
-      ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
-    },
-    {
-      "id": "mi23-002",
-      "stem": "A 12-year-old competitive swimmer has three days of right ear pain and drainage. Pulling on the auricle reproduces the pain. The external auditory canal is red, swollen, and filled with purulent debris; the tympanic membrane appears normal where it can be seen. Which of the following is the most likely causal organism?",
+      "id": "mi19-004",
+      "stem": "A 68-year-old man has a urinary tract infection, and ampicillin is started. Aminopenicillins retain useful gram-positive activity with one important exception. Which of the following organisms is reliably covered by ampicillin?",
       "choices": [
         {
           "label": "A",
@@ -2303,511 +1833,1528 @@
         },
         {
           "label": "B",
-          "text": "Haemophilus influenzae"
+          "text": "Enterococcus faecalis"
         },
         {
           "label": "C",
-          "text": "Moraxella catarrhalis"
+          "text": "ESBL-producing Klebsiella pneumoniae"
         },
         {
           "label": "D",
+          "text": "Methicillin-resistant Staphylococcus aureus"
+        },
+        {
+          "label": "E",
           "text": "Pseudomonas aeruginosa"
-        },
-        {
-          "label": "E",
-          "text": "Streptococcus pneumoniae"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Pseudomonas species are the most common cause of acute otitis externa, and swimming is the usual precipitant.",
-        "whyCorrect": "Contaminated water enters the outer ear canal and Pseudomonas enters through the small microabrasions created as the skin stretches and swells. Otitis externa presents with pain, redness, and swelling of the outer canal, with purulent discharge in more severe cases, and the pain characteristically worsens with manipulation of the ear. Swimming is the most common cause, and blocking the ears before swimming helps prevent it.",
-        "whyWrongByChoice": {
-          "A": "Acinetobacter baumannii causes hospital-acquired pneumonia and wound infection, not swimmer's ear in a healthy child.",
-          "B": "Haemophilus influenzae likewise causes acute otitis media behind an intact tympanic membrane.",
-          "C": "Moraxella catarrhalis is one of the classic middle ear pathogens and is not a typical otitis externa organism.",
-          "E": "Streptococcus pneumoniae is a leading cause of middle ear infection (acute otitis media), not the outer ear canal."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "Pseudomonas aeruginosa",
-        "otitis externa",
-        "ear infection"
-      ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
-    },
-    {
-      "id": "mi23-003",
-      "stem": "A 71-year-old man with poorly controlled type 2 diabetes has three weeks of worsening left ear pain and drainage despite topical therapy. Granulation tissue is seen in the canal, and he has now developed hoarseness and difficulty swallowing. Culture grows an oxidase-positive gram-negative rod. Which of the following best explains his new symptoms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Compression of the ear canal by impacted cerumen and debris"
-        },
-        {
-          "label": "B",
-          "text": "Invasion of the skull base involving cranial nerves IX through XII"
-        },
-        {
-          "label": "C",
-          "text": "Perforation of the tympanic membrane with a middle ear effusion"
-        },
-        {
-          "label": "D",
-          "text": "Reactivation of varicella-zoster virus within the geniculate ganglion"
-        },
-        {
-          "label": "E",
-          "text": "Septic emboli to the brainstem arising from infective endocarditis"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "In diabetics and the immunocompromised, otitis externa can become malignant otitis externa, invading deep tissue and bone and involving cranial nerves IX-XII.",
-        "whyCorrect": "Malignant otitis externa presents with symptoms similar to ordinary otitis externa but with far more severe tissue damage. Invasion into deeper tissues, bone, and the bloodstream is possible. Involvement of cranial nerves IX-XII produces difficulty swallowing, hoarseness, and difficulty speaking, and the infection is life-threatening.",
+        "summary": "Aminopenicillins cover gram-positive organisms including Enterococcus, but not MRSA.",
+        "whyCorrect": "Amoxicillin and ampicillin provide good gram-positive coverage, and Enterococcus is specifically included in that spectrum. The single gram-positive exception is MRSA, which aminopenicillins do not cover. Enterococcal urinary tract infection is therefore a classic ampicillin indication.",
         "whyWrongByChoice": {
-          "A": "Impacted cerumen causes conductive hearing loss and fullness; it does not produce cranial nerve palsies.",
-          "C": "A perforated tympanic membrane causes drainage and hearing loss but leaves the lower cranial nerves intact.",
-          "D": "Zoster reactivation in the geniculate ganglion causes facial palsy with vesicles, not an oxidase-positive bacterial infection.",
-          "E": "Infective endocarditis is not suggested here, and emboli would not follow a progressive external ear infection."
+          "A": "Acinetobacter is a resistant gram-negative organism outside the aminopenicillin spectrum.",
+          "C": "Extended-spectrum β-lactamase producing Enterobacteriaceae are explicitly not covered by aminopenicillins.",
+          "D": "MRSA is the named gram-positive exception to aminopenicillin coverage.",
+          "E": "Aminopenicillins, even with a β-lactamase inhibitor, do not cover Pseudomonas."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "malignant otitis externa",
-        "diabetes",
-        "cranial nerves"
+        "aminopenicillins",
+        "Enterococcus",
+        "spectrum of activity"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi23-004",
-      "stem": "A 58-year-old woman in a burn unit develops septicemia caused by Pseudomonas aeruginosa. The isolate produces exotoxin A, a toxin present in most clinical isolates of this organism. Which of the following best describes how this toxin kills host cells?",
+      "id": "mi19-005",
+      "stem": "A 70-year-old hospitalized woman with a catheter-associated urinary tract infection is treated with ampicillin-sulbactam but remains febrile. Urine culture grows an extended-spectrum β-lactamase (ESBL)-producing Escherichia coli. Which of the following best explains the treatment failure?",
       "choices": [
         {
           "label": "A",
-          "text": "It blocks elongation factor 2, halting host protein synthesis"
+          "text": "Aminopenicillins act only on organisms growing anaerobically"
         },
         {
           "label": "B",
-          "text": "It cleaves ribosomal RNA within the 60S ribosomal subunit"
+          "text": "Aminopenicillins are excreted unchanged and never reach the urine"
         },
         {
           "label": "C",
-          "text": "It degrades membrane phospholipids and lyses the cell"
+          "text": "Aminopenicillins cover only atypical intracellular pathogens"
         },
         {
           "label": "D",
-          "text": "It prevents the release of the inhibitory neurotransmitters"
+          "text": "Aminopenicillins do not cover ESBL-producing Enterobacteriaceae"
         },
         {
           "label": "E",
-          "text": "It raises intracellular cAMP by modifying a G protein"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Pseudomonas exotoxin A blocks elongation factor 2, shutting down protein synthesis and killing the target cell.",
-        "whyCorrect": "Strains of Pseudomonas secrete several toxins that damage host cells, and exotoxin A is present in most clinical isolates. It blocks elongation factor 2 activity, which is critical for translation. Without functioning EF-2 the cell cannot make protein and ultimately dies.",
-        "whyWrongByChoice": {
-          "B": "Inactivation of the 60S ribosomal subunit is the mechanism of Shiga toxin, not exotoxin A.",
-          "C": "Phospholipase activity that lyses membranes describes the alpha toxin of Clostridium perfringens in gas gangrene.",
-          "D": "Blocking release of GABA and glycine describes tetanospasmin from Clostridium tetani.",
-          "E": "Raising cAMP by modifying a G protein describes toxins such as cholera toxin, heat-labile toxin of ETEC, anthrax toxin, and pertussis toxin."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "exotoxin A",
-        "elongation factor 2",
-        "virulence factor"
-      ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
-    },
-    {
-      "id": "mi23-005",
-      "stem": "A wound isolate of Pseudomonas aeruginosa produces a blue pigment that is directly toxic to host cells, including leukocytes and epithelial cells. Which of the following is this pigment?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Alginate"
-        },
-        {
-          "label": "B",
-          "text": "Exotoxin A"
-        },
-        {
-          "label": "C",
-          "text": "Lipopolysaccharide"
-        },
-        {
-          "label": "D",
-          "text": "Pyocyanin"
-        },
-        {
-          "label": "E",
-          "text": "Pyoverdine"
+          "text": "Aminopenicillins inhibit the 30S ribosome rather than the cell wall"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Pyocyanin is the blue Pseudomonas pigment that is toxic to leukocytes and epithelial cells.",
-        "whyCorrect": "P. aeruginosa makes two pigments, pyocyanin and pyoverdine. Pyocyanin is blue and toxic for cells, including leukocytes and epithelial cells, so it contributes directly to tissue damage. Together with pyoverdine it gives colonies their blue-to-aqua appearance.",
+        "summary": "Aminopenicillins fail against ESBL-producing Enterobacteriaceae and against Pseudomonas.",
+        "whyCorrect": "Amoxicillin and ampicillin, even with a β-lactamase inhibitor, do not cover extended-spectrum β-lactamase producing Enterobacteriaceae or Pseudomonas. ESBL organisms make β-lactamase enzymes that degrade these β-lactam antibiotics. Carbapenems are the reliable option once an ESBL producer is identified.",
         "whyWrongByChoice": {
-          "A": "Alginate is the polysaccharide of the mucoid capsule; it is not a pigment and is not cytotoxic.",
-          "B": "Exotoxin A is a secreted protein toxin, not a pigment, and it acts by blocking elongation factor 2.",
-          "C": "Lipopolysaccharide is the gram-negative outer membrane endotoxin and does not color the colony.",
-          "E": "Pyoverdine is the other Pseudomonas pigment, but it is yellow and fluorescent and functions in iron binding."
+          "A": "Aminopenicillins are not restricted to anaerobic growth conditions; E. coli grows aerobically and is ordinarily within their spectrum.",
+          "B": "Drug delivery to the urine is not the problem here; enzymatic degradation of the antibiotic is.",
+          "C": "Aminopenicillins with an inhibitor cover many atypicals but are not limited to them; they are primarily cell-wall active agents.",
+          "E": "Aminopenicillins are β-lactams that block cell wall synthesis; 30S inhibition describes aminoglycosides and tetracyclines."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "pyocyanin",
-        "pigment",
-        "virulence factor"
+        "ESBL",
+        "aminopenicillins",
+        "resistance"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi23-006",
-      "stem": "A flask of Pseudomonas culture glows yellow-green when a ultraviolet lamp is shone on it in a darkened laboratory. The molecule responsible also binds iron for the bacterium. Which of the following is it?",
+      "id": "mi19-006",
+      "stem": "A 58-year-old man in the intensive care unit develops fever and hypotension three days after abdominal surgery. Broad empiric coverage of gram-positive organisms, Enterobacteriaceae, and Pseudomonas aeruginosa is needed while cultures are pending. Which of the following single agents is most appropriate?",
       "choices": [
         {
           "label": "A",
-          "text": "Alginate"
+          "text": "Ampicillin-sulbactam"
         },
         {
           "label": "B",
-          "text": "Exotoxin A"
+          "text": "Aztreonam"
         },
         {
           "label": "C",
-          "text": "Polysaccharide capsule"
+          "text": "Doxycycline"
         },
         {
           "label": "D",
-          "text": "Pyocyanin"
+          "text": "Nafcillin"
         },
         {
           "label": "E",
-          "text": "Pyoverdine"
+          "text": "Piperacillin-tazobactam"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Pyoverdine is a yellow, fluorescent, iron-binding pigment that makes Pseudomonas fluoresce under UV light.",
-        "whyCorrect": "Pyoverdine is one of the two pigments produced by P. aeruginosa. It is yellow and fluorescent, and it binds iron. Other Pseudomonas species can produce pyoverdine as well, which is why they fluoresce under ultraviolet light.",
+        "summary": "Piperacillin-tazobactam has one of the broadest gram-negative spectra and is used for initial empiric therapy.",
+        "whyCorrect": "Piperacillin-tazobactam has broad gram-positive coverage (except MRSA) together with one of the broadest gram-negative coverages, including Enterobacter, Escherichia coli, Klebsiella, Serratia, Proteus, ESBL producers, and Pseudomonas. That breadth is exactly why it is chosen for initial empiric therapy in a septic post-surgical patient. No other listed agent spans gram-positives and Pseudomonas at once.",
         "whyWrongByChoice": {
-          "A": "Alginate forms the mucoid capsule seen in cystic fibrosis isolates and does not fluoresce.",
-          "B": "Exotoxin A is a secreted protein toxin that blocks elongation factor 2 and has no pigment function.",
-          "C": "The polysaccharide capsule contributes to adherence and protection, not to fluorescence or iron acquisition.",
-          "D": "Pyocyanin is blue and cytotoxic; it is not the fluorescent iron-binding pigment."
+          "A": "Ampicillin-sulbactam does not cover Pseudomonas or ESBL-producing Enterobacteriaceae.",
+          "B": "Aztreonam treats only aerobic gram-negative bacteria and would leave gram-positive organisms uncovered.",
+          "C": "Doxycycline is not effective against Pseudomonas aeruginosa and has limited activity against anaerobes.",
+          "D": "Nafcillin is an antistaphylococcal penicillin with no meaningful gram-negative activity."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "pyoverdine",
-        "pigment",
-        "iron acquisition"
+        "piperacillin-tazobactam",
+        "empiric therapy",
+        "Pseudomonas"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi23-007",
-      "stem": "Sputum from an intubated patient grows a motile gram-negative rod that does not ferment lactose and is oxidase positive. The colonies are blue-green. Which of the following is the most likely organism?",
+      "id": "mi19-007",
+      "stem": "A patient with a complicated intra-abdominal infection is receiving piperacillin-tazobactam, and cultures return a gram-negative bacillus. Which of the following organisms is expected to be covered by this agent?",
       "choices": [
         {
           "label": "A",
-          "text": "Acinetobacter baumannii"
-        },
-        {
-          "label": "B",
-          "text": "Escherichia coli"
-        },
-        {
-          "label": "C",
           "text": "Klebsiella pneumoniae"
         },
         {
+          "label": "B",
+          "text": "Methicillin-resistant Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
           "label": "D",
-          "text": "Pseudomonas aeruginosa"
+          "text": "Rickettsia rickettsii"
         },
         {
           "label": "E",
-          "text": "Salmonella enterica"
+          "text": "Vancomycin-resistant Enterococcus faecium"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "A motile, non-lactose-fermenting, oxidase-positive gram-negative rod with blue-green colonies is Pseudomonas.",
-        "whyCorrect": "Pseudomonas species are gram-negative, do not ferment lactose, and are oxidase positive. They are motile by a single polar flagellum, and pyocyanin and pyoverdine give the colonies an aqua or green color. This combination identifies the organism in the laboratory.",
+        "summary": "Piperacillin-tazobactam covers Enterobacteriaceae such as E. coli, Klebsiella, Serratia, and Proteus.",
+        "whyCorrect": "Beyond its broad gram-positive coverage, piperacillin-tazobactam covers gram-negative organisms including Enterobacter species, Escherichia coli, Klebsiella, Serratia, and Proteus. Klebsiella pneumoniae therefore falls squarely within its spectrum. This is part of why it is a workhorse empiric agent for intra-abdominal infection.",
         "whyWrongByChoice": {
-          "A": "Acinetobacter is a non-motile, oxidase-negative coccobacillus with colorless or creamy colonies.",
-          "B": "Escherichia coli also ferments lactose, which separates it from Pseudomonas on MacConkey agar.",
-          "C": "Klebsiella pneumoniae ferments lactose and does not produce a blue-green pigment.",
-          "E": "Salmonella does not ferment lactose but is oxidase negative and produces no pigment."
+          "B": "MRSA is the stated gram-positive exception to piperacillin-tazobactam coverage.",
+          "C": "Mycoplasma is an atypical pathogen treated with doxycycline, not with a β-lactam.",
+          "D": "Rickettsial organisms are treated first-line with doxycycline and are not covered by β-lactams.",
+          "E": "Vancomycin-resistant Enterococcus is not within its spectrum; tetracyclines are the class credited with VRE activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "piperacillin-tazobactam",
+        "Enterobacteriaceae",
+        "spectrum of activity"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi19-008",
+      "stem": "A 47-year-old man with a severe skin and soft tissue infection is receiving piperacillin-tazobactam but remains febrile. Blood cultures grow methicillin-resistant Staphylococcus aureus. Which of the following best explains the inadequate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Piperacillin-tazobactam lacks activity against Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Piperacillin-tazobactam lacks activity against Klebsiella species"
+        },
+        {
+          "label": "C",
+          "text": "Piperacillin-tazobactam lacks activity against MRSA"
+        },
+        {
+          "label": "D",
+          "text": "Piperacillin-tazobactam lacks activity against Proteus species"
+        },
+        {
+          "label": "E",
+          "text": "Piperacillin-tazobactam lacks activity against Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Piperacillin-tazobactam has broad gram-positive coverage except for MRSA.",
+        "whyCorrect": "Piperacillin-tazobactam's gram-positive coverage is broad but explicitly excludes MRSA. When MRSA is isolated, an anti-MRSA agent must be used instead of relying on the β-lactam. Its gram-negative reach, by contrast, is one of the broadest available.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli is covered by piperacillin-tazobactam.",
+          "B": "Klebsiella is within its gram-negative spectrum.",
+          "D": "Proteus is among the gram-negative organisms it covers.",
+          "E": "Piperacillin-tazobactam does cover Pseudomonas, which is one of its main advantages."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "piperacillin-tazobactam",
+        "MRSA",
+        "treatment failure"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi19-009",
+      "stem": "A 33-year-old man is hospitalized with bloody diarrhea and bacteremia, and blood cultures grow Campylobacter. Which of the following agents provides coverage of this organism in addition to broad gram-positive and gram-negative coverage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Linezolid"
+        },
+        {
+          "label": "B",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "C",
+          "text": "Oral vancomycin"
+        },
+        {
+          "label": "D",
+          "text": "Oxacillin"
+        },
+        {
+          "label": "E",
+          "text": "Piperacillin-tazobactam"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Piperacillin-tazobactam's broad spectrum includes Pseudomonas and Campylobacter.",
+        "whyCorrect": "Piperacillin-tazobactam has broad gram-positive coverage (except MRSA) and very broad gram-negative coverage that includes Pseudomonas and Campylobacter. That breadth makes it suitable for initial empiric therapy in a septic patient before the organism is known. The other options are gram-positive agents or narrow penicillins.",
+        "whyWrongByChoice": {
+          "A": "Linezolid is a gram-positive agent and would not treat a gram-negative enteric organism.",
+          "B": "Nafcillin is an antistaphylococcal penicillin and is not effective against many gram-negative bacteria.",
+          "C": "Oral vancomycin is not absorbed, works only in the gut lumen, and has no gram-negative activity.",
+          "D": "Oxacillin is an antistaphylococcal penicillin aimed at gram-positive cocci, not enteric gram-negative rods."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "piperacillin-tazobactam",
+        "Campylobacter",
+        "spectrum of activity"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi19-010",
+      "stem": "Blood cultures from a 66-year-old woman with pyelonephritis grow an extended-spectrum β-lactamase (ESBL)-producing Klebsiella pneumoniae. Which of the following agents is the most reliable treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Linezolid"
+        },
+        {
+          "label": "B",
+          "text": "Meropenem"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Carbapenems are the most reliable treatment for ESBL-producing bacteria.",
+        "whyCorrect": "Carbapenems are considered the most reliable treatment for infections caused by extended-spectrum β-lactamase producing organisms. Their broad-spectrum activity and stability against β-lactamase enzymes is what preserves activity when other β-lactams are degraded. Meropenem is the only carbapenem among the options.",
+        "whyWrongByChoice": {
+          "A": "Linezolid covers gram-positive organisms and has no activity against a gram-negative bacillus.",
+          "C": "Nafcillin is an antistaphylococcal penicillin and is not effective against gram-negative bacteria.",
+          "D": "Penicillin is readily degraded by β-lactamases and lacks the needed gram-negative spectrum.",
+          "E": "Vancomycin has no gram-negative coverage at all."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "laboratory identification",
-        "oxidase",
-        "lactose fermentation"
+        "carbapenems",
+        "ESBL",
+        "treatment"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi23-008",
-      "stem": "Two gram-negative rods from different patients both fail to ferment lactose on MacConkey agar; one is later identified as Pseudomonas and the other as a Salmonella species. Which of the following laboratory findings best separates Pseudomonas from non-lactose-fermenting organisms such as Salmonella and Shigella?",
+      "id": "mi19-011",
+      "stem": "An Escherichia coli isolate from a hospitalized patient is resistant to ampicillin, amoxicillin-clavulanate, and several cephalosporins but remains susceptible to meropenem. Which of the following best explains this resistance pattern?",
       "choices": [
         {
           "label": "A",
-          "text": "Ability to grow on standard blood agar"
+          "text": "The organism grows only under anaerobic conditions"
         },
         {
           "label": "B",
-          "text": "Catalase production by the colonies"
+          "text": "The organism has acquired a thick polysaccharide capsule"
         },
         {
           "label": "C",
-          "text": "Gram stain morphology of the organism"
+          "text": "The organism has lost its peptidoglycan cell wall"
         },
         {
           "label": "D",
-          "text": "Lactose fermentation on MacConkey agar"
+          "text": "The organism has mutated its 30S ribosomal subunit"
         },
         {
           "label": "E",
-          "text": "Oxidase production by the colonies"
+          "text": "The organism produces extended-spectrum β-lactamase enzymes"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Oxidase positivity distinguishes Pseudomonas from the other non-lactose-fermenting gram-negative rods.",
-        "whyCorrect": "Two tests anchor the identification of Pseudomonas. The inability to ferment lactose separates it from lactose fermenters such as E. coli and Klebsiella. Oxidase production then separates it from the non-lactose-fermenting gram-negatives such as Salmonella and Shigella, which are oxidase negative.",
+        "summary": "ESBL producers make enzymes that degrade β-lactam antibiotics, leaving carbapenems as the reliable option.",
+        "whyCorrect": "Extended-spectrum β-lactamase producing bacteria secrete β-lactamase enzymes that degrade other β-lactam antibiotics, which explains resistance across penicillins and cephalosporins. Carbapenems combine broad-spectrum activity with resistance to these enzymes, so they remain active. That is why carbapenems are the most reliable therapy for ESBL infections.",
         "whyWrongByChoice": {
-          "A": "All of these organisms grow readily on routine laboratory media.",
-          "B": "Catalase is not the test used to distinguish these gram-negative rods from one another.",
-          "C": "All are gram-negative rods on Gram stain, so morphology does not separate them.",
-          "D": "All three organisms in question fail to ferment lactose, so this test cannot tell them apart."
+          "A": "E. coli is a facultative organism, and anaerobic growth does not explain β-lactam degradation.",
+          "B": "A capsule impairs phagocytosis but does not selectively inactivate β-lactam antibiotics.",
+          "C": "Loss of the cell wall is not a feature of E. coli and would not spare carbapenem activity.",
+          "D": "A 30S mutation would affect aminoglycosides and tetracyclines, not β-lactams."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "oxidase",
-        "laboratory identification",
-        "gram-negative rods"
+        "ESBL",
+        "resistance",
+        "carbapenems"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
       "tier": "core"
     },
     {
-      "id": "mi23-009",
-      "stem": "Sputum from a 17-year-old with cystic fibrosis grows Pseudomonas colonies that are strikingly slimy and wet in appearance, unlike the dry colonies grown from a burn wound isolate on the adjacent plate. Overproduction of which of the following explains this mucoid phenotype?",
+      "id": "mi19-012",
+      "stem": "Carbapenems are often summarized as covering essentially all gram-positive and gram-negative bacteria. Which of the following organisms is the important gram-positive exception to that rule?",
       "choices": [
         {
           "label": "A",
-          "text": "Alginate"
+          "text": "Beta-lactamase-producing Haemophilus influenzae"
         },
         {
           "label": "B",
-          "text": "Exotoxin A"
+          "text": "ESBL-producing Klebsiella pneumoniae"
         },
         {
           "label": "C",
-          "text": "Lipopolysaccharide"
+          "text": "Methicillin-resistant Staphylococcus aureus"
         },
         {
           "label": "D",
-          "text": "Pyocyanin"
+          "text": "Methicillin-susceptible Staphylococcus aureus"
         },
         {
           "label": "E",
-          "text": "Pyoverdine"
+          "text": "Penicillin-susceptible Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Carbapenems cover a wide range of gram-positive and gram-negative organisms except MRSA.",
+        "whyCorrect": "The shorthand for carbapenems is that they cover all gram-positive and gram-negative bacteria, but MRSA is the explicit gram-positive exclusion. Anti-MRSA therapy must be added when that organism is suspected or isolated. The rest of the gram-positive and gram-negative spectrum is broad.",
+        "whyWrongByChoice": {
+          "A": "Haemophilus influenzae is a gram-negative organism covered by carbapenems, not the exception.",
+          "B": "ESBL-producing Klebsiella is precisely the organism carbapenems treat most reliably.",
+          "D": "Methicillin-susceptible S. aureus is a gram-positive organism well within the carbapenem spectrum.",
+          "E": "Streptococcus pneumoniae is covered by the broad gram-positive activity of carbapenems."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "MRSA",
+        "spectrum of activity"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-001",
+      "stem": "A 19-year-old man is admitted with a pyogenic infection. The team selects a protein synthesis inhibitor. Under which condition are protein synthesis inhibitors most effective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "When host phagocytes have already engulfed most of the organisms"
+        },
+        {
+          "label": "B",
+          "text": "When the bacteria are actively dividing during acute infection"
+        },
+        {
+          "label": "C",
+          "text": "When the infection has become chronic and walled off by fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "When the organism has formed a mature biofilm on a foreign body"
+        },
+        {
+          "label": "E",
+          "text": "When the organisms have entered a dormant, non-replicating state"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Protein synthesis inhibitors work best during the acute stage of infection, when bacteria are actively dividing.",
+        "whyCorrect": "Protein synthesis inhibitors act on the bacterial ribosome, so their effect depends on ongoing translation. Actively dividing organisms are synthesizing protein at a high rate and are therefore maximally susceptible. This is why these drugs are most effective during the acute stage of an infection.",
+        "whyWrongByChoice": {
+          "A": "Phagocytosis is a host clearance mechanism and is not the condition that determines protein synthesis inhibitor efficacy.",
+          "C": "A chronic, walled-off focus contains slowly metabolizing organisms and is the opposite of the acute stage favored here.",
+          "D": "Biofilm organisms are metabolically slowed and shielded, which reduces rather than enhances the effect of these agents.",
+          "E": "Dormant, non-replicating organisms are translating minimally, so ribosome-directed drugs have little to act on."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protein synthesis inhibitors",
+        "principles of antibiotic therapy"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-002",
+      "stem": "A student is learning bacterial translation and notes that the ribosome contains three defined positions where individual amino acids are loaded and bonded, designated A, P, and E. Which set of names corresponds to these three letters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acceptor, peptidyl, and elongation"
+        },
+        {
+          "label": "B",
+          "text": "Activation, polymerase, and extension"
+        },
+        {
+          "label": "C",
+          "text": "Anchor, priming, and exchange"
+        },
+        {
+          "label": "D",
+          "text": "Anticodon, primer, and editing"
+        },
+        {
+          "label": "E",
+          "text": "Attachment, processing, and excision"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The mucoid capsule of Pseudomonas is made of alginate and is characteristic of cystic fibrosis isolates.",
-        "whyCorrect": "Pseudomonas can produce a mucoid capsule made of alginate, a polysaccharide that absorbs a large multiple of its own weight in water. Strains expressing this capsule adhere to and colonize mucus far better. Mucoid strains are almost exclusively isolated from the lungs of cystic fibrosis patients.",
+        "summary": "The three ribosomal sites are A (acceptor), P (peptidyl), and E (elongation).",
+        "whyCorrect": "Bacterial ribosomes contain three sites important for peptide synthesis: A = acceptor, P = peptidyl, and E = elongation. Individual amino acids are loaded and bonded at these positions. Protein synthesis inhibitors act by interacting with these sites or with other parts of the ribosomal subunits.",
         "whyWrongByChoice": {
-          "B": "Exotoxin A is a secreted toxin; in chronically colonized CF lungs these toxins are actually downregulated.",
-          "C": "Lipopolysaccharide is present on all gram-negative bacteria and does not confer the mucoid appearance.",
-          "D": "Pyocyanin is the blue cytotoxic pigment and affects colony color rather than texture.",
-          "E": "Pyoverdine is a fluorescent iron-binding pigment and does not create a slimy colony."
+          "B": "Activation, polymerase, and extension describe other biochemical concepts, not the A, P, and E positions.",
+          "C": "Anchor, priming, and exchange do not correspond to any of the three defined ribosomal sites.",
+          "D": "Anticodon, primer, and editing are not the names given to the three ribosomal sites.",
+          "E": "Attachment, processing, and excision are unrelated to the acceptor, peptidyl, and elongation sites."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ribosome",
+        "translation"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-003",
+      "stem": "An investigator studies an antibiotic whose target lies within the small subunit of the bacterial ribosome. That subunit is built from a single ribosomal RNA molecule together with 21 associated proteins. Which ribosomal RNA is present in this subunit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5S ribosomal RNA"
+        },
+        {
+          "label": "B",
+          "text": "16S ribosomal RNA"
+        },
+        {
+          "label": "C",
+          "text": "18S ribosomal RNA"
+        },
+        {
+          "label": "D",
+          "text": "23S ribosomal RNA"
+        },
+        {
+          "label": "E",
+          "text": "28S ribosomal RNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The prokaryotic 30S subunit is composed of 16S rRNA plus 21 other proteins.",
+        "whyCorrect": "The small ribosomal subunit in bacteria is the 30S subunit, and it is made up of 16S rRNA and 21 additional proteins. Aminoglycosides act at the 30S subunit and specifically target this 16S rRNA. Enzymatic modification of aminoglycosides prevents their interaction with the 16S rRNA.",
+        "whyWrongByChoice": {
+          "A": "5S rRNA is a component of the large 50S subunit, not the small subunit.",
+          "C": "18S rRNA is a eukaryotic ribosomal RNA and is not part of the bacterial small subunit.",
+          "D": "23S rRNA belongs to the 50S subunit and carries peptidyl transferase activity.",
+          "E": "28S rRNA is a eukaryotic ribosomal RNA and is not found in bacterial ribosomes."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "alginate",
-        "cystic fibrosis",
-        "mucoid strain"
+        "ribosome",
+        "30S subunit"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
       "tier": "core"
     },
     {
-      "id": "mi23-010",
-      "stem": "The mucoid capsule that Pseudomonas expresses in the cystic fibrosis lung is a polysaccharide with a striking capacity to hold water, which helps the organism adhere to and colonize airway mucus. Approximately how much water can it absorb relative to its own weight?",
+      "id": "mi20-004",
+      "stem": "The large subunit of the 70S bacterial ribosome is responsible for forming the peptide bond between successive amino acids during protein synthesis. Which ribosomal RNA molecules compose this subunit?",
       "choices": [
         {
           "label": "A",
-          "text": "2 to 3 times its weight"
+          "text": "16S rRNA and 23S rRNA"
         },
         {
           "label": "B",
-          "text": "10 to 20 times its weight"
+          "text": "16S rRNA and 5S rRNA"
         },
         {
           "label": "C",
-          "text": "50 to 60 times its weight"
+          "text": "18S rRNA and 28S rRNA"
         },
         {
           "label": "D",
-          "text": "200 to 300 times its weight"
+          "text": "23S rRNA and 28S rRNA"
         },
         {
           "label": "E",
-          "text": "2,000 to 3,000 times its weight"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Alginate can absorb roughly 200-300 times its own weight in water.",
-        "whyCorrect": "Alginate is the polysaccharide of the Pseudomonas mucoid capsule and absorbs about 200-300 times its weight in water. That water-holding capacity is what makes the colonies visibly slimy and lets the organism bind and colonize the thick mucus of the cystic fibrosis airway.",
-        "whyWrongByChoice": {
-          "A": "This underestimates the capacity by roughly two orders of magnitude.",
-          "B": "This is far below the figure described for alginate.",
-          "C": "This is still well short of the actual water-binding capacity.",
-          "E": "This overstates the capacity by about tenfold."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "alginate",
-        "cystic fibrosis",
-        "numbers"
-      ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
-    },
-    {
-      "id": "mi23-011",
-      "stem": "Pseudomonas isolates recovered from the chronically colonized lungs of cystic fibrosis patients express far fewer secreted toxins than isolates recovered from acute wound infections in other patients. Which of the following best explains this behavior?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Antibiotic exposure selects for strains unable to produce toxins"
-        },
-        {
-          "label": "B",
-          "text": "Host mucus chemically inactivates the secreted bacterial toxins"
-        },
-        {
-          "label": "C",
-          "text": "Loss of the polar flagellum prevents export of secreted toxins"
-        },
-        {
-          "label": "D",
-          "text": "Toxin genes are transferred away to other bacteria in the biofilm"
-        },
-        {
-          "label": "E",
-          "text": "White blood cells penetrate mucus poorly, so toxins are dispensable"
+          "text": "23S rRNA and 5S rRNA"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "In the cystic fibrosis lung Pseudomonas downregulates most virulence factors because white blood cells cannot reach it through the mucus.",
-        "whyCorrect": "Pseudomonas colonizing cystic fibrosis mucus stops producing most of its virulence factors. White blood cells cannot infiltrate the mucus layer well, so the organism can save energy by shutting those factors off. Virulence factor reduction of this kind is uncommon among pathogenic bacteria.",
+        "summary": "The 50S subunit is composed of 23S rRNA and 5S rRNA.",
+        "whyCorrect": "In prokaryotes the large subunit is the 50S subunit, composed of 23S rRNA and 5S rRNA. It is the subunit important for forming the peptide bond between amino acids in protein synthesis. The 23S rRNA within it contains peptidyl transferase.",
         "whyWrongByChoice": {
-          "A": "Antibiotics select for resistance, not for loss of toxin production.",
-          "B": "The toxins are not being made in the first place; this is a change in bacterial gene expression, not chemical inactivation.",
-          "C": "Flagellar loss relates to motility, and toxin secretion does not depend on the flagellum here.",
-          "D": "Gene transfer within a biofilm does not explain the coordinated downregulation seen in these isolates."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cystic fibrosis",
-        "virulence factor",
-        "immune evasion"
-      ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
-    },
-    {
-      "id": "mi23-012",
-      "stem": "A 26-year-old with cystic fibrosis has had recurrent pulmonary infections and a steady decline in lung function since childhood. Which of the following is the most common cause of death in patients with this disease?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Hepatic cirrhosis from biliary tract obstruction"
-        },
-        {
-          "label": "B",
-          "text": "Intestinal obstruction from inspissated secretions"
-        },
-        {
-          "label": "C",
-          "text": "Pancreatic insufficiency with severe malnutrition"
-        },
-        {
-          "label": "D",
-          "text": "Respiratory failure from chronic lung infection"
-        },
-        {
-          "label": "E",
-          "text": "Septicemia arising from urinary tract infection"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Respiratory failure due to chronic infection is the most common cause of death in cystic fibrosis.",
-        "whyCorrect": "Thick mucus lets bacteria colonize deeper in the lungs and in higher numbers, which drives chronic inflammation. That inflammation progressively destroys the lungs and increases the risk of further infection, a cycle in which Pseudomonas plays a central role. Respiratory failure from these chronic infections is the most common cause of death.",
-        "whyWrongByChoice": {
-          "A": "Liver disease can complicate cystic fibrosis but does not account for most deaths.",
-          "B": "Intestinal obstruction occurs in cystic fibrosis but is not the leading cause of mortality.",
-          "C": "Pancreatic involvement causes malabsorption and is managed with enzyme replacement; it is not the usual cause of death.",
-          "E": "Urinary tract infection is not a characteristic complication of cystic fibrosis."
+          "A": "16S rRNA belongs to the small subunit, so this pairing spans two different subunits.",
+          "B": "16S rRNA is a component of the 30S small subunit, not of the large subunit.",
+          "C": "18S and 28S rRNA are eukaryotic ribosomal RNAs and are absent from bacterial ribosomes.",
+          "D": "28S rRNA is eukaryotic, so it cannot be part of the bacterial 50S subunit."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "cystic fibrosis",
-        "respiratory failure",
-        "prognosis"
+        "ribosome",
+        "50S subunit"
       ],
-      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
-      "topicName": "Pseudomonas species and other closely related bacteria",
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-005",
+      "stem": "A bacterial mutant binds incoming charged tRNAs normally but cannot join successive amino acids into a growing polypeptide chain. The defect maps to the ribosomal RNA that carries peptidyl transferase activity. Which molecule is defective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The 16S rRNA of the 30S subunit"
+        },
+        {
+          "label": "B",
+          "text": "The 23S rRNA of the 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "The 5S rRNA of the 50S subunit"
+        },
+        {
+          "label": "D",
+          "text": "The initiator tRNA of the initiation complex"
+        },
+        {
+          "label": "E",
+          "text": "The messenger RNA at the acceptor site"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Peptidyl transferase, the enzyme that forms peptide bonds, resides in the 23S rRNA of the 50S subunit.",
+        "whyCorrect": "The 23S rRNA contains peptidyl transferase, the enzyme that forms the peptide bonds between amino acids. A defect there permits tRNA binding but prevents bond formation. Chloramphenicol produces the same functional block by preventing transpeptidation at the 50S subunit.",
+        "whyWrongByChoice": {
+          "A": "16S rRNA is in the small subunit and is involved in decoding, not in peptide bond formation.",
+          "C": "5S rRNA is part of the 50S subunit but is not the molecule that carries peptidyl transferase.",
+          "D": "The initiator tRNA participates in initiation complex formation rather than in transpeptidation.",
+          "E": "Messenger RNA carries the coding sequence and has no catalytic role in peptide bond formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peptidyl transferase",
+        "50S subunit"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-006",
+      "stem": "A medicinal chemist describes a class of antibacterial agents constructed from two or more amino sugars linked to a central aminocyclitol nucleus, with individual members differing in the amino sugars they carry. Which antibiotic class is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "B",
+          "text": "Macrolides"
+        },
+        {
+          "label": "C",
+          "text": "Oxazolidinones"
+        },
+        {
+          "label": "D",
+          "text": "Streptogramins"
+        },
+        {
+          "label": "E",
+          "text": "Tetracyclines"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aminoglycosides are composed of two or more amino sugars bonded to an aminocyclitol nucleus.",
+        "whyCorrect": "Structurally, aminoglycosides consist of two or more amino sugars bonded to an aminocyclitol nucleus, and the various aminoglycosides differ in which amino sugars they carry. These sugar moieties make the agents very hydrophilic, which is why they must be given intravenously.",
+        "whyWrongByChoice": {
+          "B": "Macrolides carry the suffix '-mycin' and include azithromycin, clarithromycin, and erythromycin.",
+          "C": "Oxazolidinones are represented by linezolid and are structurally unrelated to amino sugars.",
+          "D": "Streptogramins comprise dalfopristin and quinupristin and do not share this aminocyclitol structure.",
+          "E": "Tetracyclines are named for their four-ring structure and end in the suffix '-cycline', not for amino sugars."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "drug structure"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-007",
+      "stem": "A 68-year-old man with a health care-associated gram-negative infection is to be started on an aminoglycoside. Which of the following drugs belongs to that class?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "B",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "C",
+          "text": "Erythromycin"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Tobramycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tobramycin is an aminoglycoside, alongside streptomycin, neomycin, gentamicin, and amikacin.",
+        "whyCorrect": "Common examples of aminoglycosides include streptomycin, neomycin, gentamicin, tobramycin, and amikacin. All are 30S protein synthesis inhibitors. Because their structure contains sugar moieties they are very hydrophilic and are administered intravenously.",
+        "whyWrongByChoice": {
+          "A": "Clindamycin is a lincosamide that binds the 50S ribosomal subunit.",
+          "B": "Doxycycline is a second-generation tetracycline, a different 30S protein synthesis inhibitor.",
+          "C": "Erythromycin is a macrolide, identified by the '-mycin' suffix, acting at the 50S subunit.",
+          "D": "Linezolid is an oxazolidinone that binds the 23S rRNA of the 50S subunit."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "drug classes"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-008",
+      "stem": "An intern asks why gentamicin cannot simply be prescribed as a tablet for an outpatient. Which property of aminoglycosides best explains the need for parenteral administration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dietary calcium chelates them within the gastric lumen"
+        },
+        {
+          "label": "B",
+          "text": "Extensive first-pass hepatic metabolism removes them rapidly"
+        },
+        {
+          "label": "C",
+          "text": "Gastric acid degrades them into inactive ring fragments"
+        },
+        {
+          "label": "D",
+          "text": "Gut peptidases destroy them before absorption occurs"
+        },
+        {
+          "label": "E",
+          "text": "Their sugar moieties make them hydrophilic and poorly absorbed"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aminoglycosides are highly hydrophilic because of their sugar moieties, so they are absorbed poorly and given IV or IM.",
+        "whyCorrect": "Because their structure contains sugar moieties, aminoglycosides are very hydrophilic. Poor oral absorption follows, so these agents are administered intravenously or intramuscularly. They are then eliminated unchanged by the kidneys.",
+        "whyWrongByChoice": {
+          "A": "Chelation by dietary cations is not the mechanism given for the parenteral route of aminoglycosides.",
+          "B": "The 30S ribosomal inhibitors are not substantially metabolized, so first-pass metabolism does not explain this.",
+          "C": "Acid degradation is not the stated limitation; poor absorption of a hydrophilic molecule is.",
+          "D": "Aminoglycosides are not peptides, and proteolysis in the gut is not the reason they are given parenterally."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "pharmacokinetics"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-009",
+      "stem": "Tetracyclines were originally valued for broad-spectrum activity, but bacterial resistance eroded that advantage. Agents with greater antibacterial properties were then developed and remain widely used today. Which pair represents these second-generation tetracyclines?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin and clarithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Dalfopristin and quinupristin"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline and minocycline"
+        },
+        {
+          "label": "D",
+          "text": "Streptomycin and neomycin"
+        },
+        {
+          "label": "E",
+          "text": "Tobramycin and amikacin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Doxycycline and minocycline are the second-generation tetracyclines developed in response to resistance.",
+        "whyCorrect": "Tetracyclines end in '-cycline' and were known for broad-spectrum activity. As bacteria developed resistance, the second-generation agents doxycycline and minocycline were developed with greater antibacterial properties and are still widely used today.",
+        "whyWrongByChoice": {
+          "A": "Azithromycin and clarithromycin are macrolides that act at the 50S subunit.",
+          "B": "Dalfopristin and quinupristin are streptogramins that act synergistically at the 50S subunit.",
+          "D": "Streptomycin and neomycin are aminoglycosides, not tetracyclines.",
+          "E": "Tobramycin and amikacin are aminoglycosides composed of amino sugars."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tetracyclines",
+        "drug classes"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-010",
+      "stem": "A 30-year-old woman with community-acquired atypical pneumonia is treated with a macrolide. Which of the following agents is a macrolide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amikacin"
+        },
+        {
+          "label": "B",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "C",
+          "text": "Chloramphenicol"
+        },
+        {
+          "label": "D",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "E",
+          "text": "Linezolid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Macrolides carry the suffix '-mycin' and include azithromycin, clarithromycin, and erythromycin.",
+        "whyCorrect": "The macrolides are 50S protein synthesis inhibitors identified by the suffix '-mycin' and include azithromycin, clarithromycin, and erythromycin. They interfere with protein elongation by binding reversibly to the 50S ribosomal subunit.",
+        "whyWrongByChoice": {
+          "A": "Amikacin is an aminoglycoside that acts at the 30S subunit.",
+          "C": "Chloramphenicol is its own agent that binds the 50S subunit and prevents transpeptidation.",
+          "D": "Clindamycin is a lincosamide, a separate class that also binds the 50S subunit.",
+          "E": "Linezolid is an oxazolidinone that binds the 23S rRNA of the 50S subunit."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "macrolides",
+        "drug classes"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-011",
+      "stem": "A 45-year-old man with an anaerobic soft-tissue infection is treated with clindamycin. To which antibiotic class does clindamycin belong, and which ribosomal subunit does it bind?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside; 30S subunit"
+        },
+        {
+          "label": "B",
+          "text": "Lincosamide; 50S subunit"
+        },
+        {
+          "label": "C",
+          "text": "Macrolide; 50S subunit"
+        },
+        {
+          "label": "D",
+          "text": "Oxazolidinone; 50S subunit"
+        },
+        {
+          "label": "E",
+          "text": "Tetracycline; 30S subunit"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clindamycin is the lincosamide among the 50S protein synthesis inhibitors.",
+        "whyCorrect": "The 50S protein synthesis inhibitors comprise macrolides, the lincosamide clindamycin, streptogramins, and oxazolidinones. Clindamycin binds reversibly to the 50S ribosomal subunit and, like the macrolides, interferes with protein elongation.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides are amino sugar compounds acting at the 30S subunit and 16S rRNA.",
+          "C": "Macrolides are the '-mycin' agents azithromycin, clarithromycin, and erythromycin, not clindamycin.",
+          "D": "The oxazolidinone class is represented by linezolid, a different 50S agent.",
+          "E": "Tetracyclines end in '-cycline' and bind the 30S subunit, which does not describe clindamycin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clindamycin",
+        "lincosamide",
+        "50S subunit"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi20-012",
+      "stem": "A 60-year-old woman with a resistant gram-positive bloodstream infection is given linezolid. Linezolid is the representative member of which antibiotic class?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "B",
+          "text": "Lincosamides"
+        },
+        {
+          "label": "C",
+          "text": "Macrolides"
+        },
+        {
+          "label": "D",
+          "text": "Oxazolidinones"
+        },
+        {
+          "label": "E",
+          "text": "Streptogramins"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Linezolid is an oxazolidinone and one of the 50S protein synthesis inhibitors.",
+        "whyCorrect": "Oxazolidinones, represented by linezolid, are important members of the 50S protein synthesis inhibitors. Linezolid binds the 23S ribosomal RNA of the 50S subunit at the interphase of the 30S and 50S subunits to prevent initiation complex formation.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides are 30S inhibitors built from amino sugars, such as gentamicin.",
+          "B": "The lincosamide class is represented by clindamycin, not linezolid.",
+          "C": "Macrolides carry the '-mycin' suffix and include azithromycin and erythromycin.",
+          "E": "Streptogramins are dalfopristin and quinupristin, which are given together for synergy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "linezolid",
+        "oxazolidinone"
+      ],
+      "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
+      "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-001",
+      "stem": "A 68-year-old man with gram-negative bacteremia completes a 10-day course of an intravenous antibiotic. Two weeks later he reports persistent high-frequency hearing loss and constant ringing in both ears. Which of the following antibiotics is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amikacin"
+        },
+        {
+          "label": "B",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Quinupristin/dalfopristin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ototoxicity is one of the two classic adverse reactions of the aminoglycosides.",
+        "whyCorrect": "Amikacin is an aminoglycoside, and nephrotoxicity and ototoxicity are the two common adverse reactions of this class. The drug accumulates in cochlear cells, where inhibition of mitochondrial ribosomes causes cell death. Because cochlear cells cannot regenerate, the resulting hearing loss is irreversible.",
+        "whyWrongByChoice": {
+          "B": "Clindamycin causes diarrhea, allergic reaction and neuromuscular blockade, and is linked to pseudomembranous colitis.",
+          "C": "Doxycycline is a tetracycline; its characteristic adverse effects are GI upset, photosensitivity and tooth discoloration, not ototoxicity.",
+          "D": "Linezolid most characteristically causes bone marrow suppression, peripheral neuropathy and serotonin syndrome.",
+          "E": "Quinupristin/dalfopristin is a streptogramin, and its hallmark adverse effect is arthralgia/myalgia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "ototoxicity"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-002",
+      "stem": "A 71-year-old woman receiving gentamicin for 8 days has a rise in serum creatinine from 0.9 mg/dL to 2.1 mg/dL. Urine microscopy shows muddy brown granular casts consistent with acute tubular necrosis. Which of the following best explains this drug's renal toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It constricts the afferent arteriole and lowers glomerular filtration pressure"
+        },
+        {
+          "label": "B",
+          "text": "It is filtered at the glomerulus and accumulates within proximal tubular cells"
+        },
+        {
+          "label": "C",
+          "text": "It obstructs the collecting ducts with pigmented protein casts"
+        },
+        {
+          "label": "D",
+          "text": "It precipitates as insoluble crystals within the distal tubular lumen"
+        },
+        {
+          "label": "E",
+          "text": "It triggers an IgE-mediated hypersensitivity reaction in the renal interstitium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aminoglycoside nephrotoxicity is proximal tubular accumulation leading to acute tubular necrosis.",
+        "whyCorrect": "Aminoglycosides are able to filter across the glomerulus and then accumulate in the cells of the proximal convoluted tubule. That accumulation increases the permeability of those cells, which can lead to acute tubular necrosis. This is why creatinine and urine sediment are monitored during therapy.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides are not described as causing renal injury through afferent arteriolar constriction.",
+          "C": "Pigment cast obstruction describes myoglobinuric injury, not aminoglycoside toxicity.",
+          "D": "Crystal precipitation in the tubular lumen is not the mechanism described for aminoglycosides.",
+          "E": "The injury is a direct toxic tubular effect, not an allergic interstitial reaction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "nephrotoxicity"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-003",
+      "stem": "Two patients are started on the same weight-based dose of gentamicin: a 25-year-old man with normal renal function and an 80-year-old woman with a creatinine clearance of 30 mL/min. The older patient is judged to be at substantially higher risk of nephrotoxicity. Which of the following best accounts for this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside plasma protein binding is markedly higher in older adults"
+        },
+        {
+          "label": "B",
+          "text": "Elderly patients absorb a much greater fraction of each intramuscular dose"
+        },
+        {
+          "label": "C",
+          "text": "Elderly patients convert aminoglycosides into a nephrotoxic metabolite"
+        },
+        {
+          "label": "D",
+          "text": "Elderly patients have higher renal clearance of aminoglycosides"
+        },
+        {
+          "label": "E",
+          "text": "Impaired renal function and advanced age both raise aminoglycoside nephrotoxic risk"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aminoglycoside nephrotoxic risk rises with impaired renal function and with older age.",
+        "whyCorrect": "The brick states explicitly that the nephrotoxicity risk of aminoglycosides increases with impaired renal function and in the elderly. Both features apply to the older patient, so the same dose carries a higher risk of tubular accumulation and acute tubular necrosis for her.",
+        "whyWrongByChoice": {
+          "A": "Altered protein binding is not given as the reason for the increased risk.",
+          "B": "Increased intramuscular absorption with age is not a described risk factor for this toxicity.",
+          "C": "Aminoglycoside toxicity is attributed to accumulation of the drug itself, not to a metabolite.",
+          "D": "Renal clearance falls rather than rises with age and renal impairment."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "nephrotoxicity",
+        "risk factors"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-004",
+      "stem": "A 55-year-old woman treated with amikacin develops bilateral sensorineural hearing loss. Six months after the drug was stopped, repeat audiometry shows no improvement. Which of the following best explains the permanence of this deficit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides permanently occlude the cochlear blood supply"
+        },
+        {
+          "label": "B",
+          "text": "Cochlear cells that have been killed are unable to regenerate"
+        },
+        {
+          "label": "C",
+          "text": "Cochlear damage is sustained by an ongoing autoimmune response"
+        },
+        {
+          "label": "D",
+          "text": "The deficit reflects irreversible injury to the auditory cortex"
+        },
+        {
+          "label": "E",
+          "text": "The drug remains irreversibly bound to cochlear ribosomes for years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aminoglycoside hearing loss is permanent because cochlear cells cannot regenerate.",
+        "whyCorrect": "Ototoxicity is caused by inhibition of mitochondrial ribosomes in cochlear and vestibular cells, resulting in cell death. Cochlear cells are unable to regenerate, so once they are lost the hearing loss is irreversible. This contrasts with the vestibular deficits, which are sometimes reversed.",
+        "whyWrongByChoice": {
+          "A": "Vascular occlusion of the cochlea is not the described mechanism.",
+          "C": "No autoimmune mechanism is described for aminoglycoside ototoxicity.",
+          "D": "The lesion is in the cochlear hair cells of the inner ear, not in the auditory cortex.",
+          "E": "The brick attributes the permanence to cell death and failed regeneration, not to persistent drug binding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "ototoxicity"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-005",
+      "stem": "A 60-year-old man treated with gentamicin develops disequilibrium and unsteady gait along with hearing loss. Over the following months his balance gradually improves, although his hearing remains unchanged. Which of the following best explains the improvement in his balance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides are cleared from vestibular tissue within hours"
+        },
+        {
+          "label": "B",
+          "text": "The balance symptoms were caused by a transient electrolyte shift"
+        },
+        {
+          "label": "C",
+          "text": "The vestibular nerve is shielded from the drug by the blood-labyrinth barrier"
+        },
+        {
+          "label": "D",
+          "text": "Vestibular cells are able to regenerate after they are injured"
+        },
+        {
+          "label": "E",
+          "text": "Vestibular cells are not affected by aminoglycoside exposure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vestibular cells can regenerate, so aminoglycoside balance deficits are sometimes reversible.",
+        "whyCorrect": "Aminoglycosides kill both cochlear and vestibular cells by inhibiting mitochondrial ribosomes. Unlike cochlear cells, vestibular cells can regenerate, and balance deficits are therefore sometimes reversed. The cochlear loss in the same patient remains permanent.",
+        "whyWrongByChoice": {
+          "A": "Rapid clearance from the tissue is not the reason given for recovery.",
+          "B": "The deficit is due to drug-induced vestibular cell death, not an electrolyte disturbance.",
+          "C": "The vestibular apparatus is clearly exposed to the drug, as shown by the symptoms.",
+          "E": "Vestibular cells are directly affected; that is why the patient became unsteady in the first place."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "ototoxicity",
+        "vestibular"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-006",
+      "stem": "A researcher exposes cultured cochlear hair cells to increasing concentrations of gentamicin and observes progressive cell death. Which of the following intracellular targets is most directly responsible for this toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lysosomal proton pumps"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial ribosomes"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear DNA topoisomerase II"
+        },
+        {
+          "label": "D",
+          "text": "Plasma membrane sodium channels"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoplasmic calcium ATPase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aminoglycoside ototoxicity comes from inhibition of mitochondrial ribosomes in inner ear cells.",
+        "whyCorrect": "Ototoxicity is caused by inhibition of mitochondrial ribosomes in cochlear and vestibular cells, which results in cell death. Mitochondrial ribosomes resemble the bacterial ribosomes these drugs are designed to target, which is why host inner ear cells are vulnerable.",
+        "whyWrongByChoice": {
+          "A": "Lysosomal proton pumps are not the target described for aminoglycoside inner ear toxicity.",
+          "C": "Topoisomerase inhibition is not a mechanism attributed to aminoglycosides.",
+          "D": "Sodium channel blockade is unrelated to aminoglycoside cochlear injury.",
+          "E": "Calcium ATPase inhibition is not described as the basis of ototoxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "ototoxicity",
+        "mechanism"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-007",
+      "stem": "A 46-year-old woman with myasthenia gravis is given intravenous tobramycin for a resistant urinary tract infection. Within hours she develops worsening ptosis, diplopia, and shallow breathing requiring respiratory support. Which of the following drug effects best explains this deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antagonism of acetylcholine receptors producing neuromuscular blockade"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of voltage-gated sodium channels in the phrenic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Depletion of acetylcholine stores from presynaptic vesicles"
+        },
+        {
+          "label": "D",
+          "text": "Increased production of anti-acetylcholine receptor antibodies"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of acetylcholinesterase at the motor end plate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aminoglycosides can rarely antagonize acetylcholine receptors and cause neuromuscular blockade.",
+        "whyCorrect": "Rarely, aminoglycosides antagonize acetylcholine receptors, leading to neuromuscular blockade, so caution is advised in patients with myasthenia gravis. In myasthenia gravis, antibodies already interrupt acetylcholine binding at the receptor, and an aminoglycoside blockade directly compounds that existing deficit.",
+        "whyWrongByChoice": {
+          "B": "The effect described is at the acetylcholine receptor, not at nerve sodium channels.",
+          "C": "Aminoglycosides act on the receptor rather than by depleting presynaptic acetylcholine stores.",
+          "D": "Aminoglycosides are not described as increasing autoantibody production.",
+          "E": "Acetylcholinesterase inhibition would increase acetylcholine at the junction and improve, not worsen, weakness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "neuromuscular blockade",
+        "myasthenia gravis"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-008",
+      "stem": "A 32-year-old woman reports drooping eyelids and weakness of her arms that worsens the longer she uses them and improves with rest. Which of the following best describes the underlying defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies that block acetylcholine binding to its receptor"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies directed against skeletal muscle actin"
+        },
+        {
+          "label": "C",
+          "text": "Degeneration of anterior horn motor neurons"
+        },
+        {
+          "label": "D",
+          "text": "Demyelination of peripheral motor nerves"
+        },
+        {
+          "label": "E",
+          "text": "Failure of acetylcholine release from the presynaptic terminal"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Myasthenia gravis is an autoimmune disease in which antibodies interrupt acetylcholine binding at its receptor.",
+        "whyCorrect": "Myasthenia gravis classically presents as muscle weakness that worsens with usage. Normally acetylcholine released from the nerve activates receptors on muscle to initiate contraction; in myasthenia gravis, antibodies alter those receptors and interrupt acetylcholine binding. This is the deficit that an aminoglycoside-induced neuromuscular blockade would compound.",
+        "whyWrongByChoice": {
+          "B": "The antibodies are directed at the acetylcholine receptor rather than at muscle actin.",
+          "C": "Anterior horn cell degeneration describes a motor neuron disease, not myasthenia gravis.",
+          "D": "Demyelination of motor nerves is not the lesion in myasthenia gravis.",
+          "E": "The defect is at the postsynaptic receptor, not in presynaptic acetylcholine release."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myasthenia gravis",
+        "neuromuscular junction"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-009",
+      "stem": "A 27-year-old woman who is 16 weeks pregnant requires antibiotic therapy. Which of the following agents is most likely to be avoided in this patient because of the risk of fetal harm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin, given orally"
+        },
+        {
+          "label": "B",
+          "text": "Clindamycin, given orally"
+        },
+        {
+          "label": "C",
+          "text": "Erythromycin, given orally"
+        },
+        {
+          "label": "D",
+          "text": "Gentamicin, given intravenously"
+        },
+        {
+          "label": "E",
+          "text": "Quinupristin/dalfopristin, given intravenously"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Aminoglycosides can cause fetal harm and are avoided in pregnancy.",
+        "whyCorrect": "Gentamicin is an aminoglycoside, and the brick states that aminoglycosides can cause fetal harm if given in pregnancy. Of the listed protein synthesis inhibitors, it is the one whose fetal risk is specifically highlighted.",
+        "whyWrongByChoice": {
+          "A": "Azithromycin is a macrolide; fetal harm is not the adverse effect emphasized for this class.",
+          "B": "Clindamycin's listed adverse effects are diarrhea, allergic reaction and neuromuscular blockade.",
+          "C": "Erythromycin's concerns are hepatic metabolism, CYP3A4 interactions and QT prolongation.",
+          "E": "Streptogramins are associated with arthralgia/myalgia and laboratory abnormalities, not fetal harm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "pregnancy"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-010",
+      "stem": "A 63-year-old man is receiving amikacin for a resistant Pseudomonas infection, and the team wants to avoid adding a second nephrotoxic agent. Which of the following medications would most increase his risk of renal injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "C",
+          "text": "Doxycycline"
+        },
+        {
+          "label": "D",
+          "text": "Linezolid"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Concurrent nephrotoxic drugs such as vancomycin add to aminoglycoside renal risk.",
+        "whyCorrect": "The brick lists concurrent use of other nephrotoxic drugs as a risk multiplier for aminoglycoside nephrotoxicity, naming amphotericin B, polymyxins, NSAIDs, radiocontrast dye and vancomycin. Adding vancomycin to amikacin therefore compounds the tubular injury risk.",
+        "whyWrongByChoice": {
+          "A": "Azithromycin's key concerns are CYP3A4 interactions and QT prolongation, not renal toxicity.",
+          "B": "Clindamycin is associated with diarrhea and pseudomembranous colitis rather than nephrotoxicity.",
+          "C": "Doxycycline is linked to GI symptoms and photosensitivity, not renal injury.",
+          "D": "Linezolid causes bone marrow suppression, peripheral neuropathy and serotonin syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aminoglycosides",
+        "drug interactions",
+        "nephrotoxicity"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-011",
+      "stem": "A 22-year-old woman begins oral tetracycline for acne and asks what side effects are most likely. Which of the following should she be told is the most common problem with this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Easy bruising and mucosal bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Nausea, vomiting, and diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Numbness and tingling of the feet"
+        },
+        {
+          "label": "D",
+          "text": "Painful joints and aching muscles"
+        },
+        {
+          "label": "E",
+          "text": "Ringing in the ears and hearing loss"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tetracyclines are generally well tolerated but commonly cause gastrointestinal upset.",
+        "whyCorrect": "Tetracyclines are considered generally safe, and their most common adverse reactions are gastrointestinal symptoms such as nausea, vomiting and diarrhea. Counseling patients that these may occur, and asking them to report if the symptoms become a problem, is part of routine advice when starting the drug.",
+        "whyWrongByChoice": {
+          "A": "Bleeding from blood dyscrasias suggests chloramphenicol or linezolid marrow toxicity.",
+          "C": "Peripheral neuropathy is characteristic of prolonged linezolid therapy.",
+          "D": "Arthralgia and myalgia are the hallmark of the streptogramins.",
+          "E": "Tinnitus and hearing loss point to aminoglycoside ototoxicity, not tetracyclines."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "tetracyclines",
+        "gastrointestinal"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
+      "tier": "core"
+    },
+    {
+      "id": "mi21-012",
+      "stem": "A 5-year-old boy is given a 3-week course of tetracycline. Two years later his erupting permanent teeth show permanent yellow discoloration, and his growth has lagged. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug chelates calcium and deposits in calcifying teeth and bone"
+        },
+        {
+          "label": "B",
+          "text": "The drug directly inhibits ribosomes inside mature ameloblasts"
+        },
+        {
+          "label": "C",
+          "text": "The drug induces enamel-degrading matrix metalloproteinases"
+        },
+        {
+          "label": "D",
+          "text": "The drug is oxidized to a yellow pigment within saliva"
+        },
+        {
+          "label": "E",
+          "text": "The drug stimulates melanocytes located within the dental pulp"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tetracyclines chelate calcium and deposit in calcifying teeth and bone.",
+        "whyCorrect": "Tetracyclines other than doxycycline deposit in calcifying teeth and bone, which discolors teeth yellow and can stunt growth in children. The mechanism is chelation, in which the drug binds calcium. This is why tetracyclines are contraindicated in children younger than 8 years.",
+        "whyWrongByChoice": {
+          "B": "The dental effect is due to calcium chelation and deposition, not host ribosomal inhibition.",
+          "C": "Enzymatic degradation of enamel is not how tetracyclines discolor teeth.",
+          "D": "Salivary oxidation to a pigment is not the described mechanism of staining.",
+          "E": "Melanocyte stimulation in the pulp is not a described tetracycline effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tetracyclines",
+        "chelation",
+        "pediatrics"
+      ],
+      "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
+      "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
       "tier": "core"
     }
   ]

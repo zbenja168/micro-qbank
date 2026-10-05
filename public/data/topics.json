@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "foundations",
-      "name": "Bacterial Foundations & Lab Identification",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "bacterial-structure-growth-and-staining",
@@ -29,137 +29,34 @@
           "questionCount": 36
         },
         {
+          "id": "principles-of-antibacterial-drugs",
+          "name": "Principles of Antibacterial Drugs",
+          "sourceFile": "Micro Brick 4",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
+        {
           "id": "gram-positive-and-negative-algorithms",
           "name": "Gram-Positive and Negative Algorithms",
           "sourceFile": "Micro Brick 5",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "gram-positives",
-      "name": "Gram-Positive Organisms",
-      "topics": [
+        },
         {
           "id": "staphylococci",
           "name": "Staphylococci",
           "sourceFile": "Micro Brick 6",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "streptococci-and-enterococci",
-          "name": "Streptococci and Enterococci",
-          "sourceFile": "Micro Brick 11",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "clostridia",
-          "name": "Clostridia",
-          "sourceFile": "Micro Brick 12",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "listeria-monocytogenes",
-          "name": "Listeria monocytogenes",
-          "sourceFile": "Micro Brick 13",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "gram-negatives",
-      "name": "Gram-Negative Organisms",
-      "topics": [
-        {
-          "id": "neisseria-meningitidis-and-haemophilus-influenzae",
-          "name": "Neisseria meningitidis and Haemophilus influenzae",
-          "sourceFile": "Micro Brick 16",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "enterobacteriaceae-part-1-of-2",
-          "name": "Enterobacteriaceae (Part 1 of 2)",
-          "sourceFile": "Micro Brick 17",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "enterobacteriaceae-part-2",
-          "name": "Enterobacteriaceae (Part 2 of 2)",
-          "sourceFile": "Micro Brick 18",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "salmonella-shigella-and-campylobacter-spp",
-          "name": "Salmonella, Shigella, and Campylobacter spp.",
-          "sourceFile": "Micro Brick 22",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "pseudomonas-species-and-other-closely-related-bacteria",
-          "name": "Pseudomonas species and other closely related bacteria",
-          "sourceFile": "Micro Brick 23",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "mycobacteria-atypicals",
-      "name": "Mycobacteria, Atypicals & Tick-Borne Disease",
-      "topics": [
-        {
-          "id": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
-          "name": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-          "sourceFile": "Micro Brick 26",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "atypical-bacteria",
-          "name": "Atypical Bacteria",
-          "sourceFile": "Micro Brick 27",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "bacterial-tick-borne-diseases",
-          "name": "Bacterial Tick-borne Diseases",
-          "sourceFile": "Micro Brick 28",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "antibacterials",
-      "name": "Antibacterial Pharmacology",
-      "topics": [
-        {
-          "id": "principles-of-antibacterial-drugs",
-          "name": "Principles of Antibacterial Drugs",
-          "sourceFile": "Micro Brick 4",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -195,6 +92,39 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "streptococci-and-enterococci",
+          "name": "Streptococci and Enterococci",
+          "sourceFile": "Micro Brick 11",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "clostridia",
+          "name": "Clostridia",
+          "sourceFile": "Micro Brick 12",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "listeria-monocytogenes",
+          "name": "Listeria monocytogenes",
+          "sourceFile": "Micro Brick 13",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         },
         {
           "id": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
@@ -208,6 +138,39 @@
           "id": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
           "name": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
           "sourceFile": "Micro Brick 15",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "neisseria-meningitidis-and-haemophilus-influenzae",
+          "name": "Neisseria meningitidis and Haemophilus influenzae",
+          "sourceFile": "Micro Brick 16",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "enterobacteriaceae-part-1-of-2",
+          "name": "Enterobacteriaceae (Part 1 of 2)",
+          "sourceFile": "Micro Brick 17",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "enterobacteriaceae-part-2",
+          "name": "Enterobacteriaceae (Part 2 of 2)",
+          "sourceFile": "Micro Brick 18",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -235,6 +198,31 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "salmonella-shigella-and-campylobacter-spp",
+          "name": "Salmonella, Shigella, and Campylobacter spp.",
+          "sourceFile": "Micro Brick 22",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "pseudomonas-species-and-other-closely-related-bacteria",
+          "name": "Pseudomonas species and other closely related bacteria",
+          "sourceFile": "Micro Brick 23",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
         },
         {
           "id": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
@@ -248,6 +236,39 @@
           "id": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
           "name": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
           "sourceFile": "Micro Brick 25",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s4",
+      "name": "Session 4",
+      "topics": [
+        {
+          "id": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
+          "name": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
+          "sourceFile": "Micro Brick 26",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "atypical-bacteria",
+          "name": "Atypical Bacteria",
+          "sourceFile": "Micro Brick 27",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
+        {
+          "id": "bacterial-tick-borne-diseases",
+          "name": "Bacterial Tick-borne Diseases",
+          "sourceFile": "Micro Brick 28",
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
@@ -268,11 +289,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "virology",
-      "name": "Virology",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "introduction-to-virology",
@@ -299,6 +323,23 @@
           "questionCount": 36
         },
         {
+          "id": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+          "name": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+          "sourceFile": "Micro Brick 34",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
+        {
           "id": "retroviridae-part-1-of-2",
           "name": "Retroviridae (Part 1 of 2)",
           "sourceFile": "Micro Brick 35",
@@ -323,6 +364,23 @@
           "questionCount": 36
         },
         {
+          "id": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+          "name": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+          "sourceFile": "Micro Brick 38",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
           "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
           "name": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
           "sourceFile": "Micro Brick 39",
@@ -345,28 +403,6 @@
           "coreCount": 12,
           "extraCount": 24,
           "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "antivirals",
-      "name": "Antivirals & Antiretrovirals",
-      "topics": [
-        {
-          "id": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
-          "name": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
-          "sourceFile": "Micro Brick 34",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        },
-        {
-          "id": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
-          "name": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-          "sourceFile": "Micro Brick 38",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
         },
         {
           "id": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
@@ -376,11 +412,14 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "mycology",
-      "name": "Mycology",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "mycology-an-introduction",
@@ -407,20 +446,6 @@
           "questionCount": 36
         },
         {
-          "id": "fungal-skin-infections",
-          "name": "Fungal Skin Infections",
-          "sourceFile": "Micro Brick 47",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
-    },
-    {
-      "id": "antifungals",
-      "name": "Antifungals",
-      "topics": [
-        {
           "id": "antifungals-drugs-to-treat-fungal-infections",
           "name": "Antifungals—Drugs to Treat Fungal Infections",
           "sourceFile": "Micro Brick 46",
@@ -428,12 +453,23 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "parasitology",
-      "name": "Parasitology",
+      "id": "w4s2",
+      "name": "Session 2",
       "topics": [
+        {
+          "id": "fungal-skin-infections",
+          "name": "Fungal Skin Infections",
+          "sourceFile": "Micro Brick 47",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        },
         {
           "id": "introduction-to-parasitology",
           "name": "Introduction to Parasitology",
@@ -451,6 +487,23 @@
           "questionCount": 36
         },
         {
+          "id": "agents-treating-helminthic-and-protozoal-infections",
+          "name": "Agents treating Helminthic and Protozoal infections",
+          "sourceFile": "Micro Brick 50",
+          "coreCount": 12,
+          "extraCount": 24,
+          "questionCount": 36
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s3",
+      "name": "Session 3",
+      "topics": [
+        {
           "id": "helminths-part-1",
           "name": "Helminths (Part 1 of 2)",
           "sourceFile": "Micro Brick 51",
@@ -466,21 +519,10 @@
           "extraCount": 24,
           "questionCount": 36
         }
-      ]
-    },
-    {
-      "id": "antiparasitics",
-      "name": "Antiparasitic Agents",
-      "topics": [
-        {
-          "id": "agents-treating-helminthic-and-protozoal-infections",
-          "name": "Agents treating Helminthic and Protozoal infections",
-          "sourceFile": "Micro Brick 50",
-          "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
-        }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 1872

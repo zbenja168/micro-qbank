@@ -1,0 +1,1140 @@
+{
+  "categoryId": "w4s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mi51-001",
+      "stem": "A 37-year-old woman has a 3-month history of abdominal discomfort, increasing fatigue, and intermittent diarrhea. Over the past year she has stopped eating red meat and now eats fresh fish several times a week, including sushi and ceviche. Serum vitamin B12 concentration is low. Stool examination shows large, oval eggs with an operculum at one pole. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia asiatica"
+        },
+        {
+          "label": "D",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "E",
+          "text": "Taenia solium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Raw freshwater fish plus low vitamin B12 plus large oval operculated eggs in stool is diphyllobothriasis.",
+        "whyCorrect": "Diphyllobothrium latum, the fish tapeworm, is acquired by eating raw or undercooked fish that contains the plerocercoid larva. Its eggs are oval with a small lid, the operculum, at one end and sometimes a slight knob at the other. A history of raw fish together with low B12 points to this infection, and finding these eggs in stool supports the diagnosis.",
+        "whyWrongByChoice": {
+          "B": "This is a free-living amoeba that causes rapidly fatal central nervous system disease, not an intestinal helminth that sheds eggs in stool.",
+          "C": "The Asian tapeworm is a pork-associated Taenia found only in Asia, and its eggs are the same round, striated Taenia eggs.",
+          "D": "The beef tapeworm is acquired from undercooked beef and sheds round eggs with a striated outer membrane, not operculated oval eggs.",
+          "E": "The pork tapeworm is acquired from undercooked pork and also sheds round, striated eggs rather than operculated ones."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Diphyllobothrium latum",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-002",
+      "stem": "A 25-year-old man has a 3-week history of moderate abdominal discomfort and infrequent diarrhea. He follows a fad \"primal diet\" and regularly eats raw beef. A tapeworm infection is suspected and stool microscopy is performed. Which of the following findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Encysted larvae within fragments of striated muscle"
+        },
+        {
+          "label": "B",
+          "text": "Oval eggs bearing an operculum at one pole"
+        },
+        {
+          "label": "C",
+          "text": "Proglottids with a rosette-shaped central uterus"
+        },
+        {
+          "label": "D",
+          "text": "Round eggs with striations around the outer membrane"
+        },
+        {
+          "label": "E",
+          "text": "Worm segments whose scolex bears two grooves"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "All Taenia species shed round eggs with a striated outer membrane; raw beef points to T. saginata.",
+        "whyCorrect": "Eating raw or undercooked beef transmits Taenia saginata. The eggs of every Taenia species are round and carry striations, or fine lines, all around the outer membrane, and small hooks can occasionally be seen inside the egg. These eggs confirm taeniasis but cannot identify the species.",
+        "whyWrongByChoice": {
+          "A": "Cysticerci sit in the muscle of infected cattle and pigs; they are not a finding in a human stool specimen.",
+          "B": "An operculated oval egg is the egg of Diphyllobothrium spp., which is acquired from raw fish rather than beef.",
+          "C": "A rosette-shaped central uterus is the distinguishing feature of Diphyllobothrium proglottids, not Taenia proglottids.",
+          "E": "Two grooves, the bothria, are found on the Diphyllobothrium scolex, not on a beef tapeworm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia saginata",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-003",
+      "stem": "A 47-year-old woman has a first generalized seizure. She has no history of head trauma or prior neurologic disease. MRI of the brain shows multiple calcified lesions scattered through both cerebral hemispheres. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Seizures with multiple calcified brain lesions are the classic picture of neurocysticercosis from Taenia solium.",
+        "whyCorrect": "Taenia solium is the only tapeworm in this brick whose eggs hatch after a human swallows them. The released larvae invade the intestinal wall, enter the bloodstream, and seed tissues including the brain, where they mature into cysticerci. The resulting inflammation leaves calcified lesions, and seizures are the most common presentation of neurocysticercosis.",
+        "whyWrongByChoice": {
+          "A": "The fish tapeworm stays in the lumen of the small intestine and does not invade tissue or reach the brain.",
+          "B": "This amoeba causes a fulminant meningitis; patients do not live long enough for calcified lesions to form.",
+          "C": "Its eggs do not hatch when swallowed by humans, so it causes intestinal disease only and never tissue cysts.",
+          "E": "This filarial nematode causes lymphatic filariasis, not calcified intracranial lesions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia solium",
+        "neurocysticercosis"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-004",
+      "stem": "Humans are described as the definitive host for Taenia saginata, Taenia solium, and Taenia asiatica. Which of the following best describes what makes a host the definitive host for a parasite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The parasite completes only larval development in it"
+        },
+        {
+          "label": "B",
+          "text": "The parasite forms tissue cysts in its skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "The parasite is delivered to it by an arthropod vector"
+        },
+        {
+          "label": "D",
+          "text": "The parasite lives in it without ever causing disease"
+        },
+        {
+          "label": "E",
+          "text": "The parasite reaches adulthood and sexual maturity in it"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The definitive host is where the parasite matures sexually and lays its eggs.",
+        "whyCorrect": "A definitive host is the host in which the parasite reaches adulthood and sexual maturity and lays eggs. For all three Taenia species, humans fill that role: the swallowed cysticercus matures into an adult worm that attaches to the intestine with its scolex and sheds eggs and gravid proglottids in stool.",
+        "whyWrongByChoice": {
+          "A": "Supporting only larval development is exactly what defines the intermediate host, not the definitive host.",
+          "B": "Forming cysticerci in muscle is what happens in the intermediate host, which for these tapeworms is cattle or pigs.",
+          "C": "Taenia has no arthropod vector; it is acquired by eating undercooked meat containing cysticerci.",
+          "D": "Whether infection causes symptoms is unrelated to host classification; most taeniasis is mild but humans remain definitive hosts."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "life cycle",
+        "definitive host"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-005",
+      "stem": "A public health officer is mapping the global distribution of the three tapeworms that cause taeniasis. Which of the following statements about their geographic distribution is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All three species are evenly distributed worldwide"
+        },
+        {
+          "label": "B",
+          "text": "All three species are restricted to Asia"
+        },
+        {
+          "label": "C",
+          "text": "Taenia asiatica is restricted to Asia, the others worldwide"
+        },
+        {
+          "label": "D",
+          "text": "Taenia saginata is restricted to Asia, the others worldwide"
+        },
+        {
+          "label": "E",
+          "text": "Taenia solium is restricted to Asia, the others worldwide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "T. saginata and T. solium occur worldwide, while T. asiatica is found only in Asia.",
+        "whyCorrect": "Taenia saginata and Taenia solium are found worldwide but are more prevalent in poorer countries where people live in close contact with pigs and cattle. Taenia asiatica, the Asian tapeworm, is found in Asia only.",
+        "whyWrongByChoice": {
+          "A": "Distribution is not even; the beef and pork tapeworms concentrate where people live closely with cattle and pigs.",
+          "B": "Only Taenia asiatica is limited to Asia; the other two species occur on every continent.",
+          "D": "The beef tapeworm is worldwide in distribution, not confined to Asia.",
+          "E": "The pork tapeworm is found worldwide; it is Taenia asiatica that is restricted to Asia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "epidemiology",
+        "Taenia asiatica"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-006",
+      "stem": "A 34-year-old man has intestinal infection with Taenia solium. His physician warns him that he faces a complication that patients with Taenia saginata do not face. Which of the following properties of Taenia solium accounts for this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its adult worm grows far longer than that of T. saginata"
+        },
+        {
+          "label": "B",
+          "text": "Its eggs hatch when swallowed by a human and invade tissue"
+        },
+        {
+          "label": "C",
+          "text": "Its eggs survive for years rather than months outdoors"
+        },
+        {
+          "label": "D",
+          "text": "Its gravid proglottids hold more uterine branches per side"
+        },
+        {
+          "label": "E",
+          "text": "Its scolex anchors more deeply into the intestinal mucosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Only Taenia solium eggs hatch in humans, which is why only it causes cysticercosis and autoinfection.",
+        "whyCorrect": "Unlike T. saginata and T. asiatica, the eggs of T. solium hatch when consumed by humans and treat us the same way they treat pigs. The released oncospheres invade the intestinal wall, enter the blood, and form cysticerci in tissue. Because a patient who carries an adult worm can swallow his own eggs, this also produces autoinfection with repeated reinfection.",
+        "whyWrongByChoice": {
+          "A": "Adult T. solium worms are 2 to 7 m long, shorter than T. saginata, which is usually 5 m or less but may reach 25 m.",
+          "C": "Taenia eggs survive days to months in the environment, and egg durability does not confer tissue invasion.",
+          "D": "T. solium proglottids carry 7 to 13 lateral branches per side, fewer than the 12 to 30 of T. saginata.",
+          "E": "Both species attach with suckers on the scolex, and depth of attachment has nothing to do with tissue invasion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia solium",
+        "autoinfection"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-007",
+      "stem": "A 29-year-old woman who has been a strict vegetarian since childhood has new-onset seizures, and MRI shows several cystic and calcified lesions in the brain. She lives with relatives who recently emigrated from a rural area where pigs roam freely. Which of the following best explains how she acquired this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She ate undercooked beef containing cysticerci from a cow"
+        },
+        {
+          "label": "B",
+          "text": "She ate undercooked pork containing cysticerci as a child"
+        },
+        {
+          "label": "C",
+          "text": "She drank lake water holding larvae shed by crustaceans"
+        },
+        {
+          "label": "D",
+          "text": "She swallowed tapeworm eggs shed by an infected household member"
+        },
+        {
+          "label": "E",
+          "text": "She was bitten by an insect that inoculated larvae in blood"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cysticercosis follows swallowing T. solium eggs from human feces, not from eating meat.",
+        "whyCorrect": "Tissue cysts come from swallowing T. solium eggs, which are shed in the stool of someone carrying an adult worm. Trace amounts of feces reach food and surfaces such as door handles and tables when handwashing is poor, so a person who has never eaten pork can still acquire cysticercosis from a household contact or food handler.",
+        "whyWrongByChoice": {
+          "A": "Beef transmits T. saginata, whose eggs do not hatch in humans, so it cannot produce brain cysts.",
+          "B": "Swallowing cysticerci in meat produces an adult worm in the intestine, that is taeniasis, and she has never eaten pork.",
+          "C": "Larval stages in crustaceans belong to the fish tapeworm, which never invades human tissue.",
+          "E": "Taenia has no arthropod vector; transmission is by eating cysticerci in meat or by the fecal-oral route."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia solium",
+        "cysticercosis",
+        "transmission"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-008",
+      "stem": "A patient with taeniasis passes an intact adult worm. Examination of the head of the worm shows suckers together with a rostellum carrying two rows of hooks. Which of the following is the most likely species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A rostellum with two rows of hooks identifies the scolex of Taenia solium.",
+        "whyCorrect": "Because the eggs of all Taenia species look alike, species identification depends on the passed proglottids or the adult worm. The scolex of T. solium carries four suckers plus a rostellum armed with two rows of hooks, which distinguishes it from the other tapeworms.",
+        "whyWrongByChoice": {
+          "A": "The fish tapeworm scolex has two grooves called bothria rather than suckers and hooks.",
+          "B": "This is a free-living amoeba, not a helminth, so it has no scolex at all.",
+          "C": "The beef tapeworm scolex has four large suckers but no rostellum and no hooks.",
+          "E": "This is a filarial nematode that causes lymphatic filariasis; it has no scolex."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia solium",
+        "scolex",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-009",
+      "stem": "An adult tapeworm recovered from a patient's stool has a scolex with four large suckers but no rostellum and no hooks. Which of the following is the most likely species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Four large suckers with no rostellum and no hooks identify Taenia saginata.",
+        "whyCorrect": "The scolex of T. saginata bears four large suckers and lacks both a rostellum and hooks. Since the eggs of all Taenia species are essentially identical, this feature of the recovered adult worm is what allows the beef tapeworm to be named.",
+        "whyWrongByChoice": {
+          "A": "The fish tapeworm attaches with two grooves, the bothria, and has no suckers.",
+          "B": "This is an amoeba rather than a worm, so it has no scolex.",
+          "D": "The pork tapeworm carries a rostellum with two rows of hooks in addition to its suckers.",
+          "E": "This is a filarial nematode; it has no scolex and does not live in the intestinal lumen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia saginata",
+        "scolex",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-010",
+      "stem": "A gravid proglottid recovered from a patient's stool is examined. Approximately 20 lateral uterine branches are counted on each side of the central uterine stem. Which of the following is the most likely species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Taenia saginata gravid proglottids have 12 to 30 lateral uterine branches per side.",
+        "whyCorrect": "The number of uterine branches in a gravid proglottid separates the two main Taenia species. T. saginata has 12 to 30 lateral branches on each side of the proglottid, so a count near 20 fits the beef tapeworm.",
+        "whyWrongByChoice": {
+          "A": "The fish tapeworm proglottid has a rosette-shaped central uterus instead of counted lateral branches.",
+          "B": "This is a single-celled amoeba and produces no proglottids of any kind.",
+          "D": "The pork tapeworm has only 7 to 13 lateral branches on each side of a gravid proglottid.",
+          "E": "This filarial nematode has no proglottids, so branch counting does not apply."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia saginata",
+        "proglottid",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-011",
+      "stem": "A gravid proglottid passed by a patient with taeniasis is examined and shows about 9 lateral uterine branches on each side. Which of the following is the most likely species?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Taenia solium gravid proglottids have only 7 to 13 lateral uterine branches per side.",
+        "whyCorrect": "T. solium contains 7 to 13 lateral branches on each side of the gravid proglottid, a lower count than T. saginata. Identifying the species matters here because only T. solium can go on to cause cysticercosis and neurocysticercosis.",
+        "whyWrongByChoice": {
+          "A": "The fish tapeworm proglottid shows a rosette-shaped central uterus, not branches to be counted.",
+          "B": "This amoeba is not a worm and produces no proglottids.",
+          "C": "The beef tapeworm has 12 to 30 lateral branches per side, well above the count described.",
+          "E": "This filarial nematode has no proglottids and lives in lymphatics rather than the gut."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Taenia solium",
+        "proglottid",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi51-012",
+      "stem": "A patient passes a mass of worm segments. Microscopy shows that each segment contains a central uterus arranged so that it resembles a rosette of flower petals. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Naegleria fowleri"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        },
+        {
+          "label": "E",
+          "text": "Wuchereria bancrofti"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A rosette-shaped central uterus in the proglottid distinguishes Diphyllobothrium from Taenia.",
+        "whyCorrect": "Diphyllobothrium proglottids have central uteruses that look like flower petals, a rosette shape. This is the feature used to tell Diphyllobothrium spp. apart from Taenia spp. when segments are recovered from stool, since the eggs alone cannot separate Diphyllobothrium species from one another.",
+        "whyWrongByChoice": {
+          "B": "This free-living amoeba is not a segmented worm and forms no proglottids.",
+          "C": "Beef tapeworm gravid proglottids show 12 to 30 lateral uterine branches per side.",
+          "D": "Pork tapeworm gravid proglottids show 7 to 13 lateral uterine branches per side, not a rosette.",
+          "E": "This nematode does not form proglottids; it causes lymphatic filariasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cestodes",
+        "Diphyllobothrium latum",
+        "proglottid",
+        "lab identification"
+      ],
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-001",
+      "stem": "A 34-year-old man returns from three months of agricultural work in rural Southeast Asia, where he often worked barefoot in wet fields. He first noticed an itchy rash on his feet, then developed a dry cough, and now has intermittent diarrhea and abdominal pain. Stool microscopy reveals motile rhabditiform larvae. Which of the following best describes how this organism entered his body?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct penetration of intact skin by filariform larvae in soil"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of embryonated eggs in contaminated drinking water"
+        },
+        {
+          "label": "C",
+          "text": "Ingestion of undercooked freshwater fish containing larvae"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of undercooked pork containing encysted larvae"
+        },
+        {
+          "label": "E",
+          "text": "Inhalation of aerosolized larvae from dried contaminated dust"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Strongyloides stercoralis is a soil-transmitted nematode whose filariform larvae burrow directly through intact skin.",
+        "whyCorrect": "Strongyloides spp., Ancylostoma spp., and Necator americanus are the soil-transmitted helminths: they are acquired when a person walks on soil contaminated with the parasite. Unlike the tapeworms acquired by eating undercooked meat, these roundworms do not have to be consumed at all — the filariform larval stage in soil burrows directly into the skin of the definitive host. Barefoot contact with warm, wet soil in a tropical region is the classic exposure.",
+        "whyWrongByChoice": {
+          "B": "Fecal-oral ingestion of embryonated eggs is the route for Ascaris spp., which cannot burrow through skin.",
+          "C": "Undercooked freshwater fish transmits the fish tapeworm, not a skin-penetrating roundworm.",
+          "D": "Ingestion of larvae encysted in undercooked meat describes the tapeworms, not a soil-transmitted nematode.",
+          "E": "Helminths in this group are not transmitted by inhaled aerosols or respiratory droplets."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "transmission",
+        "nematode"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-002",
+      "stem": "A 41-year-old woman who emigrated from a rural tropical region 12 years ago reports recurrent, intensely itchy linear red tracks over her buttocks and thighs; individual tracks appear and fade within hours. Stool examination reveals rhabditiform larvae of Strongyloides stercoralis. Which of the following terms best describes her rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous larva migrans"
+        },
+        {
+          "label": "B",
+          "text": "Erythema marginatum"
+        },
+        {
+          "label": "C",
+          "text": "Erythema migrans"
+        },
+        {
+          "label": "D",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "E",
+          "text": "Larva currens"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The migrating, pruritic, linear rash caused by Strongyloides larvae burrowing through skin is called larva currens.",
+        "whyCorrect": "When filariform larvae penetrate skin and wiggle through it searching for a blood vessel or lymphatic, they leave a mild, pruritic, erythematous, linear rash named larva currens. In chronic strongyloidiasis the same appearance recurs on the buttocks, perineum, and thighs because autoinfective filariform larvae burrow out of the perianal region and back into the skin there.",
+        "whyWrongByChoice": {
+          "A": "Cutaneous larva migrans is the name given to the rash of Ancylostoma/Necator spp., not to the Strongyloides rash.",
+          "B": "Erythema marginatum is a non-pruritic, evanescent ring-shaped rash unrelated to helminth migration.",
+          "C": "Erythema migrans is the expanding target-like rash of a tick-borne bacterial infection, not a larval track.",
+          "D": "Erythema nodosum consists of tender subcutaneous nodules on the shins, not migrating linear tracks."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "skin findings",
+        "larva currens"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-003",
+      "stem": "A patient becomes infected with Strongyloides stercoralis after walking barefoot on contaminated soil. Which of the following sequences best describes the infectious cycle of this parasite within the host?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ingestion of eggs, blood vessels, lungs, coughed up and swallowed, colon and cecum"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of eggs, small intestine, colon, perianal skin, environment, reingestion"
+        },
+        {
+          "label": "C",
+          "text": "Skin penetration, blood vessels or lymphatics, lungs, coughed up and swallowed, small intestine"
+        },
+        {
+          "label": "D",
+          "text": "Skin penetration, lymph nodes, liver, portal circulation, small intestine, colon"
+        },
+        {
+          "label": "E",
+          "text": "Skin penetration, subcutaneous tissue only, spontaneous death of larvae after weeks"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Strongyloides filariform larvae go skin to bloodstream or lymphatics to lungs, then are coughed up, swallowed, and mature in the small intestine.",
+        "whyCorrect": "The filariform larva penetrates skin and burrows until it finds a blood vessel or lymphatic. It is carried to the lungs, where it matures further, then is coughed up and swallowed. Once in the small intestine the larva matures into an adult female, which embeds in the submucosa. This skin-blood-lung-gut route is shared with the hookworms.",
+        "whyWrongByChoice": {
+          "A": "Ingestion of eggs with a lung migration describes Ascaris spp., and those adults live in the small intestine, not the cecum.",
+          "B": "Egg ingestion followed by colonic maturation and perianal egg laying describes the pinworm cycle.",
+          "D": "There is no hepatic or portal phase in the Strongyloides cycle; larvae reach the lungs from the systemic circulation or lymphatics.",
+          "E": "Larvae dying in the skin without reaching the circulation describes Ancylostoma braziliense, not S. stercoralis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "life cycle",
+        "nematode"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-004",
+      "stem": "An adult Strongyloides stercoralis worm is recovered from the duodenal mucosa of an infected patient. Which of the following is most likely true of this worm and how it reproduces inside the host?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both male and female worms are present and reproduce sexually in the mucosa"
+        },
+        {
+          "label": "B",
+          "text": "It is a female worm that produces fertilized eggs asexually in the submucosa"
+        },
+        {
+          "label": "C",
+          "text": "It is a female worm whose eggs are fertilized by males arriving from the lungs"
+        },
+        {
+          "label": "D",
+          "text": "It is a hermaphroditic worm that self-fertilizes within the intestinal lumen"
+        },
+        {
+          "label": "E",
+          "text": "It is a male worm that fertilizes females embedded in the duodenal mucosa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Only female Strongyloides adults parasitize humans, and they produce fertilized eggs asexually in the intestinal submucosa.",
+        "whyCorrect": "Larvae that reach the small intestine mature into adult females; males do not cause infection. The female embeds in the submucosa of the small intestine and asexually produces fertilized eggs, which hatch in the mucosa to release rhabditiform larvae. Males and females do meet and reproduce sexually, but only outside the host, in the free-living soil cycle.",
+        "whyWrongByChoice": {
+          "A": "Both sexes mating in the intestine describes hookworms, which is precisely what distinguishes them from Strongyloides spp.",
+          "C": "No male worms migrate from the lungs; the parasitic adult population in humans is female only.",
+          "D": "The brick describes asexual production of fertilized eggs by the female, not hermaphroditic self-fertilization.",
+          "E": "Male Strongyloides worms do not establish infection in humans and are not found parasitizing the gut."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "life cycle",
+        "reproduction"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-005",
+      "stem": "A 58-year-old man has had mild intermittent abdominal discomfort for 20 years. He immigrated from a tropical country two decades ago and has not traveled since. Stool studies now reveal Strongyloides stercoralis larvae. Which feature of this parasite best explains an infection persisting for 20 years without re-exposure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adult worms are continually reacquired from household contacts by fomites"
+        },
+        {
+          "label": "B",
+          "text": "Adult worms survive in the small intestine for decades without laying eggs"
+        },
+        {
+          "label": "C",
+          "text": "Eggs lie dormant in the biliary tree and hatch intermittently over decades"
+        },
+        {
+          "label": "D",
+          "text": "Encysted larvae in skeletal muscle periodically release progeny into the blood"
+        },
+        {
+          "label": "E",
+          "text": "Rhabditiform larvae mature to filariform larvae and reinvade gut or perianal skin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Autoinfection lets Strongyloides complete its entire cycle inside one host, so infection is lifelong without treatment.",
+        "whyCorrect": "Rhabditiform larvae hatching in the intestinal mucosa do not have to leave the body. Some mature into filariform larvae that burrow back through the intestinal mucosa or through the perianal skin, find a blood vessel, and restart the lung-to-gut migration. This autoinfective loop means a person infected with Strongyloides spp. stays infected for life unless anti-parasitics are given.",
+        "whyWrongByChoice": {
+          "A": "Person-to-person fomite spread characterizes pinworm eggs, not Strongyloides filariform larvae.",
+          "B": "Persistence depends on continuous reinfection of the host, not on unusually long-lived, non-reproducing adults.",
+          "C": "Strongyloides eggs hatch in the intestinal mucosa; they do not lie dormant in the biliary tree.",
+          "D": "Encystment in skeletal muscle is not part of the Strongyloides life cycle described in this brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "autoinfection",
+        "chronic infection"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-006",
+      "stem": "Rhabditiform larvae of Strongyloides stercoralis are passed in the stool of an infected patient and reach warm, moist soil. In addition to developing into infective filariform larvae, which of the following can these larvae do?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Develop into adults capable of reproducing only inside a canine host"
+        },
+        {
+          "label": "B",
+          "text": "Develop into male and female adults that reproduce within the soil"
+        },
+        {
+          "label": "C",
+          "text": "Embryonate over roughly 18 days before becoming able to infect skin"
+        },
+        {
+          "label": "D",
+          "text": "Encyst within soil particles and remain infective for several decades"
+        },
+        {
+          "label": "E",
+          "text": "Enter a snail intermediate host before becoming able to infect humans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Strongyloides has a free-living cycle in which soil-dwelling adults reproduce sexually outside any host.",
+        "whyCorrect": "Rhabditiform larvae passed in the stool have two options. They can develop directly into filariform larvae that penetrate the next host's skin, or they can develop into male and female adults that reproduce sexually in the soil. That second option is the free-living cycle, in which adult worms can go on reproducing outside a host indefinitely.",
+        "whyWrongByChoice": {
+          "A": "Dogs can serve as definitive hosts, but free-living soil reproduction needs no host at all.",
+          "C": "A required embryonation period in soil applies to Ascaris eggs, not to larvae that have already hatched.",
+          "D": "Strongyloides larvae do not encyst in soil; they either develop to filariform larvae or become free-living adults.",
+          "E": "No snail or other intermediate host is required for any stage of the Strongyloides life cycle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "free-living cycle",
+        "life cycle"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-007",
+      "stem": "A 63-year-old man who immigrated from Southeast Asia is started on high-dose prednisone for a newly diagnosed autoimmune disease. Three weeks later he develops severe abdominal pain, bloody diarrhea, hemoptysis, and gram-negative sepsis; chest radiograph shows diffuse interstitial infiltrates. Which of the following best explains his deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hypersensitivity reaction to dying worms triggered by the corticosteroid"
+        },
+        {
+          "label": "B",
+          "text": "Acquisition of a new soil-transmitted infection while he was hospitalized"
+        },
+        {
+          "label": "C",
+          "text": "Direct corticosteroid toxicity to gut mucosa allowing worms to invade"
+        },
+        {
+          "label": "D",
+          "text": "Loss of immune control over autoinfection causing hyperinfection syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Reactivation of larvae encysted in his skeletal muscle by the corticosteroid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Severe immunosuppression, especially high-dose corticosteroids, converts chronic strongyloidiasis into hyperinfection syndrome.",
+        "whyCorrect": "In chronic strongyloidiasis the immune system holds the autoinfective cycle in check. Severe immunosuppression or high-dose corticosteroid treatment lets the autoinfection cycle accelerate, and the parasite burden explodes. Burrowing larvae disseminate beyond the gastrointestinal tract and lungs, producing GI bleeding and obstruction, pneumonitis with hemoptysis and diffuse infiltrates, meningitis, and sepsis.",
+        "whyWrongByChoice": {
+          "A": "The syndrome is driven by an enormous live parasite burden, not by an allergic response to dying worms.",
+          "B": "A newly acquired soil-transmitted infection could not produce disseminated disease within three weeks in a hospital.",
+          "C": "Larvae penetrate intestinal mucosa as a normal part of autoinfection, independent of steroid mucosal toxicity.",
+          "E": "Strongyloides does not encyst in skeletal muscle; the reservoir is the ongoing autoinfective cycle itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "hyperinfection",
+        "immunosuppression"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-008",
+      "stem": "A patient with chronic strongyloidiasis develops hyperinfection syndrome with dissemination of larvae beyond the gastrointestinal tract and lungs. Even with appropriate anti-parasitic treatment, which of the following best approximates the mortality of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Approximately 10 percent"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 25 percent"
+        },
+        {
+          "label": "C",
+          "text": "Approximately 50 percent"
+        },
+        {
+          "label": "D",
+          "text": "Approximately 90 percent"
+        },
+        {
+          "label": "E",
+          "text": "Less than 1 percent"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mortality of Strongyloides hyperinfection syndrome with dissemination approaches 90 percent even when treated.",
+        "whyCorrect": "Although most Strongyloides infections are mild or asymptomatic, hyperinfection with dissemination is a catastrophic illness. Larvae spread throughout the body causing GI hemorrhage and obstruction, pneumonitis, meningitis, and sepsis. Mortality is near 90 percent even with treatment, which is why identifying and treating chronic infection before immunosuppression matters so much.",
+        "whyWrongByChoice": {
+          "A": "A 10 percent figure would describe a serious but usually survivable illness, which this is not.",
+          "B": "A one-in-four mortality is far lower than what disseminated strongyloidiasis carries.",
+          "C": "This substantially understates the lethality of disseminated hyperinfection.",
+          "E": "Under 1 percent describes uncomplicated chronic strongyloidiasis, not hyperinfection with dissemination."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "hyperinfection",
+        "prognosis"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-009",
+      "stem": "A 45-year-old asymptomatic woman from a strongyloidiasis-endemic region is evaluated before starting immunosuppressive therapy. Which of the following laboratory findings is present in roughly three-quarters of patients with chronic strongyloidiasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated IgE or a mild eosinophilia"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum IgA with thrombocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Elevated serum IgM with lymphopenia"
+        },
+        {
+          "label": "D",
+          "text": "Microcytic anemia with a low ferritin"
+        },
+        {
+          "label": "E",
+          "text": "Neutrophilia with a marked left shift"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Roughly 75 percent of patients with chronic strongyloidiasis have an elevated IgE or a mild eosinophilia.",
+        "whyCorrect": "Chronic strongyloidiasis is usually asymptomatic, so laboratory clues carry weight. About 75 percent of chronically infected patients show either an elevated IgE or mild eosinophilia, the expected type 2 immune signature of a persistent tissue-migrating helminth. These findings should prompt evaluation before starting corticosteroids or other immunosuppression.",
+        "whyWrongByChoice": {
+          "B": "Elevated IgA with thrombocytosis is not associated with this infection.",
+          "C": "Elevated IgM with lymphopenia is not a described feature of chronic strongyloidiasis.",
+          "D": "Microcytic anemia with low ferritin points to blood-feeding hookworms, not to Strongyloides.",
+          "E": "Neutrophilia with a left shift suggests acute bacterial infection rather than a chronic helminth infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "laboratory findings",
+        "eosinophilia"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-010",
+      "stem": "A clinician suspects chronic strongyloidiasis in a patient with years of intermittent diarrhea and a recurring migratory pruritic rash. Which of the following findings on specialized stool examination is the most common way this diagnosis is established?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mammillated eggs with rounded bumps over the outer shell"
+        },
+        {
+          "label": "B",
+          "text": "Motile rhabditiform larvae, or occasionally a passed adult"
+        },
+        {
+          "label": "C",
+          "text": "Proglottid segments containing branched uterine structures"
+        },
+        {
+          "label": "D",
+          "text": "Smooth-shelled eggs whose interior contains multiple nodules"
+        },
+        {
+          "label": "E",
+          "text": "Transparent elongated eggs that are flat along one side"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Strongyloidiasis is diagnosed by seeing rhabditiform larvae in stool, because the eggs hatch before they are passed.",
+        "whyCorrect": "Specialized stool examination is the gold standard for strongyloidiasis. Because eggs hatch within the intestinal mucosa, what appears in stool is the rhabditiform larva, not an egg. Visualizing those larvae, or occasionally a passed adult, is the most common way the diagnosis is made. Parasite burden is low in chronic infection, so repeated samples are needed to approach full sensitivity.",
+        "whyWrongByChoice": {
+          "A": "Mammillated bumpy eggs are the unfertilized eggs of Ascaris spp.",
+          "C": "Proglottid segments come from tapeworms, which are cestodes rather than nematodes.",
+          "D": "Smooth-shelled eggs with internal nodules are the eggs of Ancylostoma/Necator spp.",
+          "E": "Transparent elongated eggs flattened on one side are those of Enterobius vermicularis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "lab identification",
+        "stool examination"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-011",
+      "stem": "A patient with a high clinical suspicion for strongyloidiasis has had three separate specialized stool examinations, all negative for larvae. Which of the following is the best next step to increase diagnostic sensitivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchoalveolar lavage, the preferred test in uncomplicated disease"
+        },
+        {
+          "label": "B",
+          "text": "Colonoscopy, which reliably visualizes the adult worms in the gut"
+        },
+        {
+          "label": "C",
+          "text": "Duodenal aspiration, which samples the site where the adult worms reside"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral blood smear, which shows circulating filariform larvae"
+        },
+        {
+          "label": "E",
+          "text": "Serologic testing, which is highly specific for Strongyloides spp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When stool studies are repeatedly negative, duodenal aspiration is the more sensitive, though more invasive, option.",
+        "whyCorrect": "Parasite burden in chronic strongyloidiasis is low, so stool examinations are often falsely negative and must be repeated. Duodenal aspirates are more invasive than stool collection but have a higher sensitivity, sampling the site where the adult females are embedded and the larvae hatch. It is therefore the appropriate escalation after repeatedly negative stools.",
+        "whyWrongByChoice": {
+          "A": "Bronchoalveolar lavage is invasive and reserved for hyperinfection when sputum is inadequate, not for uncomplicated disease.",
+          "B": "Strongyloides adults are only 1 to 6 mm long and are not sought by colonoscopy.",
+          "D": "Strongyloides larvae are not identified by examining a peripheral blood smear.",
+          "E": "Serology is available but cross-reacts with other parasitic species, so its usefulness is limited."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "lab identification",
+        "duodenal aspirate"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi52-012",
+      "stem": "A critically ill patient with Strongyloides hyperinfection syndrome has diffuse pulmonary infiltrates, but repeated sputum samples are inadequate for analysis. Which of the following procedures is most appropriate to recover the parasite from the lungs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchoalveolar lavage with instilled and aspirated saline"
+        },
+        {
+          "label": "B",
+          "text": "Open surgical lung biopsy with frozen-section examination"
+        },
+        {
+          "label": "C",
+          "text": "Percutaneous transthoracic needle aspiration of an infiltrate"
+        },
+        {
+          "label": "D",
+          "text": "Repeat induced sputum after nebulized hypertonic saline"
+        },
+        {
+          "label": "E",
+          "text": "Thoracentesis with microscopic examination of pleural fluid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In hyperinfection, bronchoalveolar lavage can recover larvae from the lungs when sputum is inadequate.",
+        "whyCorrect": "Bronchoalveolar lavage is a minimally invasive procedure in which sterile saline is instilled into the lungs and aspirated back. Because hyperinfection sends larvae into the pulmonary tissue, sampling lung fluid this way can reveal the parasite. It is specifically useful when sputum does not provide a good sample, and because it is invasive it is reserved for exactly this situation.",
+        "whyWrongByChoice": {
+          "B": "Open lung biopsy is far more invasive than needed when lavage can sample the same compartment.",
+          "C": "Needle aspiration of an infiltrate carries added risk and is not the described approach for recovering larvae.",
+          "D": "Sputum sampling has already failed in this patient, which is the stated indication to move to lavage.",
+          "E": "The larvae disperse into lung tissue and airways, so pleural fluid is not the appropriate specimen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Strongyloides stercoralis",
+        "hyperinfection",
+        "bronchoalveolar lavage"
+      ],
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "tier": "core"
+    }
+  ]
+}

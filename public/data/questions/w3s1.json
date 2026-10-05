@@ -1,0 +1,2247 @@
+{
+  "categoryId": "w3s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "mi31-001",
+      "stem": "A student asks why viruses are excluded from the traditional definition of living organisms, given that they carry genetic material and evolve over time. Which of the following best explains why viruses are not considered truly alive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are destroyed by ordinary environmental exposure"
+        },
+        {
+          "label": "B",
+          "text": "They are made only of lipid, with no protein at all"
+        },
+        {
+          "label": "C",
+          "text": "They are too small to be seen by any microscope"
+        },
+        {
+          "label": "D",
+          "text": "They cannot reproduce without taking over a host cell"
+        },
+        {
+          "label": "E",
+          "text": "They contain no genetic code of their own"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Viruses straddle the line between living and nonliving because they cannot replicate outside a host cell.",
+        "whyCorrect": "Viruses are small particles of genetic code, lipids, and proteins that must commandeer a living cell's machinery to reproduce. Because they cannot reproduce on their own, they are not considered truly alive. Being nonliving does not keep them from being one of the greatest problems in modern medicine.",
+        "whyWrongByChoice": {
+          "A": "Non-enveloped viruses are in fact quite stable in the environment, so fragility is not the criterion.",
+          "B": "All viruses have a protein coat called a capsid; the lipid envelope is the optional component.",
+          "C": "Viruses are too small for light microscopes, but small size is not what excludes them from being alive.",
+          "E": "Every virus carries a genome of either DNA or RNA; having no genetic code is not the issue."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "virus structure",
+        "definition of life"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-002",
+      "stem": "A virus recovered from a contaminated countertop several days after it was deposited is found to have no lipid bilayer surrounding its capsid. Which of the following is most likely true of this virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is readily inactivated by ethanol-based hand sanitizer"
+        },
+        {
+          "label": "B",
+          "text": "It must carry reverse transcriptase inside the virion"
+        },
+        {
+          "label": "C",
+          "text": "Its capsid is helical rather than icosahedral in shape"
+        },
+        {
+          "label": "D",
+          "text": "Its capsid is icosahedral and it is environmentally stable"
+        },
+        {
+          "label": "E",
+          "text": "Its genome must consist of double-stranded DNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "All non-enveloped viruses are icosahedral and are stable in the environment.",
+        "whyCorrect": "Capsids are either icosahedral or helical, and viruses lacking an envelope are always icosahedral. Without a lipid envelope to dry out or dissolve, these virions persist on surfaces, which is exactly why one was still recoverable days later.",
+        "whyWrongByChoice": {
+          "A": "Ethanol works by dissolving a lipid envelope, so naked viruses resist it rather than succumb to it.",
+          "B": "Reverse transcriptase is the hallmark of retroviruses, not of non-enveloped viruses.",
+          "C": "Helical capsids are found in enveloped viruses; a naked virus is icosahedral.",
+          "E": "Envelope status says nothing about the genome; naked viruses may carry DNA or RNA."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "capsid",
+        "non-enveloped virus"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-003",
+      "stem": "Electron microscopy of a newly released virion shows a lipid bilayer studded with surface proteins surrounding the capsid. This lipid bilayer is most directly derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipid synthesized de novo by virally encoded enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Membrane of the host cell from which it budded"
+        },
+        {
+          "label": "C",
+          "text": "Serum lipoproteins that adsorb onto the capsid surface"
+        },
+        {
+          "label": "D",
+          "text": "The peptidoglycan wall of a co-infecting bacterium"
+        },
+        {
+          "label": "E",
+          "text": "The protein capsid itself, which flattens into a sheet"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A viral envelope is a lipid bilayer taken from the host cell membrane.",
+        "whyCorrect": "Some viruses are covered by an envelope, which is usually a remnant of cell membrane from the host cell. Newly assembled virions move to the cell membrane and form an envelope from it as they bud outward, which is how influenza and RSV acquire their envelopes.",
+        "whyWrongByChoice": {
+          "A": "Viruses take a membrane from the host rather than synthesizing bilayer lipid themselves.",
+          "C": "The envelope is an organized bilayer acquired during budding, not adsorbed serum lipid.",
+          "D": "Peptidoglycan is a bacterial cell wall polymer and is not part of any viral particle.",
+          "E": "The capsid is a protein coat that sits inside the envelope; it is not a lipid structure."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "viral envelope",
+        "budding"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-004",
+      "stem": "A virology text groups the clinically important viruses into DNA viruses, RNA viruses, and retroviruses. Which of the following best describes the genome of the DNA virus group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All DNA viruses carry their own RNA replicase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "All DNA viruses package a segmented RNA genome"
+        },
+        {
+          "label": "C",
+          "text": "All DNA viruses use a single-stranded DNA genome"
+        },
+        {
+          "label": "D",
+          "text": "All use double-stranded DNA except parvovirus"
+        },
+        {
+          "label": "E",
+          "text": "Half use double-stranded and half single-stranded DNA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "DNA viruses use double-stranded DNA, with parvovirus the single-stranded exception.",
+        "whyCorrect": "All DNA viruses use dsDNA except parvovirus, which is single stranded. Whatever the strandedness, the genome must first be transcribed into messenger RNA before viral replication can proceed.",
+        "whyWrongByChoice": {
+          "A": "RNA replicase is introduced by (−)ssRNA viruses, not by DNA viruses.",
+          "B": "By definition DNA viruses use DNA, not RNA, as their genome.",
+          "C": "Single-stranded DNA is the exception, seen with parvovirus, not the rule.",
+          "E": "The split is far from even; dsDNA is the near-universal pattern among DNA viruses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DNA viruses",
+        "genome classification"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-005",
+      "stem": "Almost all RNA viruses package a single-stranded RNA genome. Which of the following groups is the exception that uses double-stranded RNA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpesviruses"
+        },
+        {
+          "label": "B",
+          "text": "Parvoviruses"
+        },
+        {
+          "label": "C",
+          "text": "Poxviruses"
+        },
+        {
+          "label": "D",
+          "text": "Reoviruses"
+        },
+        {
+          "label": "E",
+          "text": "Retroviruses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reoviruses are the double-stranded RNA exception among RNA viruses.",
+        "whyCorrect": "Almost all RNA viruses use ssRNA, but reoviruses use dsRNA. These viruses introduce multiple RNA molecules that code for multiple proteins once inside the host cell.",
+        "whyWrongByChoice": {
+          "A": "Herpesviruses are dsDNA viruses known for establishing latent infections.",
+          "B": "Parvovirus is the single-stranded DNA virus, not an RNA virus at all.",
+          "C": "Poxviruses are dsDNA viruses, notable instead for replicating in the cytoplasm.",
+          "E": "Retroviruses are (+)ssRNA viruses that carry reverse transcriptase, not dsRNA viruses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "RNA viruses",
+        "dsRNA"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-006",
+      "stem": "The purified genome of a (+)ssRNA virus is added to a cell-free system containing ribosomes, transfer RNAs, and amino acids. Viral protein is produced with no intervening nucleic acid step. Which property of (+)ssRNA best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It carries a polymerase covalently attached to each end"
+        },
+        {
+          "label": "B",
+          "text": "It is a template that must first be copied into (−)ssRNA"
+        },
+        {
+          "label": "C",
+          "text": "It is double stranded and unwinds inside the ribosome"
+        },
+        {
+          "label": "D",
+          "text": "It is equivalent to mRNA and can be translated directly"
+        },
+        {
+          "label": "E",
+          "text": "It must be reverse transcribed into DNA before any use"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sense, or (+)ssRNA, is equivalent to mRNA and is translated straight to protein.",
+        "whyCorrect": "Single-stranded sense RNA has the same polarity as messenger RNA, so host ribosomes read it directly without forming an intermediate molecule. This is why only ribosomes and building blocks are needed for protein to appear in the system.",
+        "whyWrongByChoice": {
+          "A": "No attached polymerase is needed, since the host ribosome does the translating.",
+          "B": "It is antisense (−)ssRNA that must first be copied into (+)ssRNA, not the reverse.",
+          "C": "(+)ssRNA is single stranded by definition; dsRNA is the reovirus pattern.",
+          "E": "Reverse transcription into DNA is the retroviral strategy and is not required here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "+ssRNA",
+        "translation"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-007",
+      "stem": "A (−)ssRNA virus uncoats inside a host cell. Before any viral protein can be produced, which of the following must occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Host DNA polymerase must copy the genome into cDNA"
+        },
+        {
+          "label": "B",
+          "text": "RNA replicase must copy the genome into (+)ssRNA"
+        },
+        {
+          "label": "C",
+          "text": "The genome must be carried into the nucleolus by importins"
+        },
+        {
+          "label": "D",
+          "text": "The genome must be cleaved into several smaller ssRNA segments"
+        },
+        {
+          "label": "E",
+          "text": "The genome must be integrated into host chromosomal DNA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antisense (−)ssRNA must be transcribed to (+)ssRNA by RNA replicase before translation.",
+        "whyCorrect": "Most (−)ssRNA viruses introduce RNA replicase, also called RNA-dependent RNA polymerase, which forms (+)ssRNA from the antisense genome. That (+)ssRNA then behaves like mRNA and is translated into protein by host ribosomes.",
+        "whyWrongByChoice": {
+          "A": "Copying RNA into cDNA requires reverse transcriptase, which these viruses do not carry.",
+          "C": "Most RNA viruses replicate in the cytoplasm; nuclear import is not the prerequisite.",
+          "D": "Segmenting the genome is not a required step for protein production here.",
+          "E": "Integration into the host genome is a retroviral step carried out by integrase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "-ssRNA",
+        "RNA replicase"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-008",
+      "stem": "A 57-year-old woman with metastatic pulmonary adenocarcinoma is enrolled in a trial of an antiviral agent that inhibits viral RNA replicase within infected cells. This drug would be expected to work best against which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A double-stranded DNA virus"
+        },
+        {
+          "label": "B",
+          "text": "A double-stranded DNA-RT virus"
+        },
+        {
+          "label": "C",
+          "text": "A retrovirus that carries reverse transcriptase"
+        },
+        {
+          "label": "D",
+          "text": "A single-stranded DNA virus"
+        },
+        {
+          "label": "E",
+          "text": "An antisense single-stranded RNA virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "RNA replicase is the enzyme (−)ssRNA viruses must introduce to make (+)ssRNA.",
+        "whyCorrect": "A drug aimed at RNA replicase blocks the step in which antisense RNA is copied into (+)ssRNA. Without that copy the virus cannot produce the mRNA-equivalent it needs to code for viral components, so replication of a (−)ssRNA virus halts.",
+        "whyWrongByChoice": {
+          "A": "dsDNA viruses use host transcription machinery to make mRNA and need no RNA replicase.",
+          "B": "dsDNA-RT viruses carry their own polymerase for RNA intermediates rather than RNA replicase.",
+          "C": "Retroviruses depend on reverse transcriptase to make DNA from RNA, a different enzyme target.",
+          "D": "ssDNA viruses replicate much as dsDNA viruses do, again without RNA replicase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antiviral target",
+        "RNA replicase"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-009",
+      "stem": "A 31-year-old man is newly diagnosed with HIV infection. Which enzyme carried within the HIV virion converts the viral RNA genome into a DNA copy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Host RNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Integrase"
+        },
+        {
+          "label": "C",
+          "text": "Neuraminidase"
+        },
+        {
+          "label": "D",
+          "text": "Reverse transcriptase"
+        },
+        {
+          "label": "E",
+          "text": "RNA replicase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Retroviruses carry reverse transcriptase, which produces DNA from their RNA genome.",
+        "whyCorrect": "HIV is a (+)ssRNA retrovirus. Reverse transcriptase transcribes its RNA into DNA, the reverse of the usual flow of genetic information, and the resulting DNA transcript is then read by the infected cell as if it were host DNA.",
+        "whyWrongByChoice": {
+          "A": "Host RNA polymerase transcribes DNA into RNA, the opposite of what is needed here.",
+          "B": "Integrase inserts the DNA copy into the host genome after reverse transcription has occurred.",
+          "C": "Neuraminidase is not the enzyme responsible for copying a retroviral genome.",
+          "E": "RNA replicase makes (+)ssRNA from antisense RNA and is used by (−)ssRNA viruses."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "retrovirus",
+        "reverse transcriptase"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-010",
+      "stem": "After reverse transcriptase produces a DNA copy of the HIV genome, that DNA is inserted into the chromosome of the infected cell. Which viral enzyme performs this insertion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Integrase"
+        },
+        {
+          "label": "B",
+          "text": "Neuraminidase"
+        },
+        {
+          "label": "C",
+          "text": "Peptidyl transferase"
+        },
+        {
+          "label": "D",
+          "text": "Reverse transcriptase"
+        },
+        {
+          "label": "E",
+          "text": "RNA replicase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Integrase splices the reverse-transcribed viral DNA into the host genome.",
+        "whyCorrect": "Retroviruses use reverse transcriptase to make DNA and then integrate that DNA into the host genome using integrase. Host machinery subsequently replicates the virus from the integrated DNA, which is why HIV becomes a permanent part of the infected cell.",
+        "whyWrongByChoice": {
+          "B": "Neuraminidase is not involved in inserting viral DNA into host chromosomes.",
+          "C": "Peptidyl transferase is a ribosomal activity of protein synthesis, not of integration.",
+          "D": "Reverse transcriptase performs the preceding step, producing the DNA copy from RNA.",
+          "E": "RNA replicase forms (+)ssRNA from (−)ssRNA and plays no role in integration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retrovirus",
+        "integrase"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-011",
+      "stem": "A virion has attached to a respiratory epithelial cell, has been taken into the cell, and has just shed its protein coat, releasing its nucleic acid and enzymes. Which step of the viral life cycle occurs next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Assembly"
+        },
+        {
+          "label": "B",
+          "text": "Attachment"
+        },
+        {
+          "label": "C",
+          "text": "Penetration"
+        },
+        {
+          "label": "D",
+          "text": "Release"
+        },
+        {
+          "label": "E",
+          "text": "Replication"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The six steps proceed attachment, penetration, uncoating, replication, assembly, release.",
+        "whyCorrect": "Shedding the protein coat is uncoating, the third step. Replication follows, in which viral nucleic acids, enzymes, and proteins are copied using host machinery, before the new components are assembled into virions.",
+        "whyWrongByChoice": {
+          "A": "Assembly of new virions comes after the components have been replicated.",
+          "B": "Attachment to a surface receptor is the first step and has already occurred.",
+          "C": "Penetration, entry into the cell, has already happened before uncoating.",
+          "D": "Release of mature virions is the final step of the cycle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "viral life cycle",
+        "uncoating"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi31-012",
+      "stem": "An influenza virion bound to receptors on an airway epithelial cell is drawn inside the cell. In the general scheme of viral infection, penetration occurs by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endocytosis or fusion of the viral envelope with the membrane"
+        },
+        {
+          "label": "B",
+          "text": "Injection of the genome through a rigid tail structure"
+        },
+        {
+          "label": "C",
+          "text": "Passive diffusion of the intact virion across the membrane"
+        },
+        {
+          "label": "D",
+          "text": "Phagocytosis carried out only by tissue macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Transport through nuclear pores set in the plasma membrane"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Viruses penetrate cells either by endocytosis or by fusing their envelope with the cell membrane.",
+        "whyCorrect": "Viral attachment to the cell surface allows entry through two general mechanisms: receptor-mediated endocytosis, in which the virus signals the cell to engulf it, and fusion of the viral envelope with the cell membrane, which releases the capsid into the cytoplasm.",
+        "whyWrongByChoice": {
+          "B": "Genome injection through a tail is a bacteriophage device, not the general mechanism described.",
+          "C": "Virions are far too large and polar-coated to diffuse passively across a bilayer.",
+          "D": "Entry is not restricted to macrophages; any cell bearing the right receptor can be penetrated.",
+          "E": "Nuclear pores sit in the nuclear envelope, not in the plasma membrane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "penetration",
+        "endocytosis"
+      ],
+      "topicId": "introduction-to-virology",
+      "topicName": "Introduction to Virology",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-001",
+      "stem": "A 4-year-old boy is brought to the clinic with 3 days of fever, irritability, and refusal to eat. Examination shows swollen, erythematous gums and multiple painful vesicles and shallow ulcers on the lips, tongue, and buccal mucosa. After this illness resolves, the responsible virus will persist for life at which of the following sites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes and some epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "CD4 T lymphocytes of the peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes, macrophages, and marrow progenitors"
+        },
+        {
+          "label": "D",
+          "text": "Neurons of the sacral dorsal root ganglia"
+        },
+        {
+          "label": "E",
+          "text": "Neurons of the trigeminal sensory ganglia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Herpetic gingivostomatitis is a primary HSV-1 infection, and HSV-1 becomes latent in sensory ganglia, most commonly the trigeminal ganglia.",
+        "whyCorrect": "Painful swollen gums with vesicular and ulcerative lesions in and around the mouth of a child is the classic picture of herpetic gingivostomatitis, which the brick attributes to initial infection with HSV-1. HSV-1 travels from the mucocutaneous site of inoculation up peripheral sensory nerves and establishes latency in sensory ganglia, most commonly the trigeminal ganglia. The illness itself resolves in 2-3 weeks, but the latent virus remains and can reactivate as herpes labialis.",
+        "whyWrongByChoice": {
+          "A": "B lymphocytes (and some epithelial cells) are where Epstein-Barr virus, HHV-4, establishes latency.",
+          "B": "CD4 T lymphocytes are the latency site of HHV-6 and HHV-7, the agents of roseola infantum.",
+          "C": "Monocytes, macrophages, and bone marrow progenitor cells harbor latent cytomegalovirus, HHV-5.",
+          "D": "The sacral ganglia are the usual latency site of HSV-2, which causes genital rather than oral disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HSV-1",
+        "latency",
+        "gingivostomatitis"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-002",
+      "stem": "A 26-year-old woman has had three episodes in 2 years of painful genital ulcers, each preceded by a day of tingling. PCR of a lesion swab is positive for herpes simplex virus type 2. Between these episodes, where does the virus reside?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes of the regional lymph nodes"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow hematopoietic progenitor cells"
+        },
+        {
+          "label": "C",
+          "text": "Neurons of the cranial nerve ganglia"
+        },
+        {
+          "label": "D",
+          "text": "Neurons of the sacral dorsal root ganglia"
+        },
+        {
+          "label": "E",
+          "text": "Neurons of the trigeminal sensory ganglia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "HSV-2 establishes latency in sensory ganglia, most commonly the sacral ganglia.",
+        "whyCorrect": "HSV-2 is inoculated at genital mucosa and is carried by retrograde transport up the peripheral sensory nerves that serve that territory, which drain to the sacral dorsal root ganglia. The virus remains latent there and, on reactivation, travels back down the same nerves to produce recurrent genital lesions. This is the mirror image of HSV-1, which uses the trigeminal ganglia.",
+        "whyWrongByChoice": {
+          "A": "B lymphocytes are the latency reservoir for Epstein-Barr virus.",
+          "B": "Bone marrow progenitor cells harbor cytomegalovirus, not herpes simplex virus.",
+          "C": "Cranial nerve ganglia, along with dorsal root ganglia, are latency sites for varicella zoster virus.",
+          "E": "The trigeminal ganglia serve the face and are the usual latency site for HSV-1, not genital HSV-2."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HSV-2",
+        "latency",
+        "genital herpes"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-003",
+      "stem": "Epstein-Barr virus (HHV-4) persists for the life of the host after primary infection. Which of the following is its primary site of latency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes and some epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "CD4 T lymphocytes of the peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Circulating monocytes and tissue macrophages"
+        },
+        {
+          "label": "D",
+          "text": "Neurons of the sacral dorsal root ganglia"
+        },
+        {
+          "label": "E",
+          "text": "Neurons of the trigeminal sensory ganglia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EBV (HHV-4) is the herpesvirus that establishes latency primarily in B lymphocytes.",
+        "whyCorrect": "The brick groups the human herpesviruses by where each establishes latency. EBV is unusual among them in choosing a lymphoid reservoir: it primarily becomes latent in B lymphocytes, although it can also be found in epithelial cells and other cell types. This lymphotropism is why EBV disease is dominated by lymphoid rather than neurologic findings.",
+        "whyWrongByChoice": {
+          "B": "CD4 T lymphocytes are the latency site of HHV-6 and HHV-7.",
+          "C": "Monocytes and macrophages, together with bone marrow progenitors, harbor latent cytomegalovirus.",
+          "D": "Sacral dorsal root ganglia are the usual latency site of HSV-2.",
+          "E": "Trigeminal sensory ganglia harbor latent HSV-1."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "latency",
+        "taxonomy"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-004",
+      "stem": "Cytomegalovirus reactivates in a kidney transplant recipient who is receiving immunosuppressive therapy. Before reactivation, the latent viral genomes in this patient were most likely carried in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes and mucosal epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "CD4 T lymphocytes of the peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes, macrophages, and marrow progenitors"
+        },
+        {
+          "label": "D",
+          "text": "Neurons of the sacral dorsal root ganglia"
+        },
+        {
+          "label": "E",
+          "text": "Neurons of the trigeminal sensory ganglia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cytomegalovirus (HHV-5) establishes latency in monocytes, macrophages, and bone marrow progenitor cells.",
+        "whyCorrect": "The brick lists CMV as establishing latency in various cells including monocytes, macrophages, and bone marrow progenitor cells. Because the reservoir is myeloid rather than neuronal, reactivating CMV can seed many organs through the circulation rather than reappearing in one dermatome or at one mucocutaneous site. Immunosuppression, as in transplantation, is the classic trigger for reactivation of any herpesvirus.",
+        "whyWrongByChoice": {
+          "A": "B lymphocytes and epithelial cells are the reservoir for Epstein-Barr virus.",
+          "B": "CD4 T lymphocytes harbor latent HHV-6 and HHV-7.",
+          "D": "Sacral dorsal root ganglia harbor latent HSV-2, the usual cause of genital herpes.",
+          "E": "Trigeminal ganglia are the latency site of HSV-1, which reactivates as cold sores."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CMV",
+        "latency",
+        "immunocompromised"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-005",
+      "stem": "A 10-month-old infant has 3 days of high fever followed by a rose-colored rash that appears as the fever breaks. The illness is attributed to human herpesvirus 6. This virus establishes latency in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes and mucosal epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "CD4 T lymphocytes of the peripheral blood"
+        },
+        {
+          "label": "C",
+          "text": "Monocytes and bone marrow progenitor cells"
+        },
+        {
+          "label": "D",
+          "text": "Neurons of the dorsal root and cranial nerve ganglia"
+        },
+        {
+          "label": "E",
+          "text": "Neurons of the trigeminal sensory ganglia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HHV-6 and HHV-7 cause roseola infantum and establish latency in CD4 T cells.",
+        "whyCorrect": "The brick identifies HHV-6 and HHV-7 as the agents of roseola infantum, a childhood illness of high fever followed by rash, and states that these viruses establish latency in CD4 T cells. This places them apart from the neurotropic alpha herpesviruses and from the myeloid reservoir used by CMV.",
+        "whyWrongByChoice": {
+          "A": "B lymphocytes and epithelial cells are the reservoir for Epstein-Barr virus.",
+          "C": "Monocytes and bone marrow progenitors are the reservoir for cytomegalovirus.",
+          "D": "Dorsal root and cranial nerve ganglia are the latency sites of varicella zoster virus.",
+          "E": "HSV-1 uses the trigeminal ganglia; it causes oral lesions, not a febrile exanthem of infancy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HHV-6",
+        "roseola infantum",
+        "latency"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-006",
+      "stem": "A newly isolated virus is assigned to the family Herpesviridae. Which of the following genome and particle descriptions should be expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circular double-stranded DNA, naked, icosahedral capsid"
+        },
+        {
+          "label": "B",
+          "text": "Linear double-stranded DNA, enveloped, icosahedral capsid"
+        },
+        {
+          "label": "C",
+          "text": "Linear positive-sense RNA, enveloped, helical capsid"
+        },
+        {
+          "label": "D",
+          "text": "Linear single-stranded DNA, naked, icosahedral capsid"
+        },
+        {
+          "label": "E",
+          "text": "Segmented single-stranded RNA, enveloped, helical capsid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "All herpesviruses are enveloped, icosahedral virions carrying a linear double-stranded DNA genome.",
+        "whyCorrect": "The brick states that all herpesviruses store their genetic information as linear double-stranded DNA and have an enveloped, icosahedral capsid, with replication occurring in the host nucleus. These shared structural features are what unify an otherwise clinically diverse family.",
+        "whyWrongByChoice": {
+          "A": "Herpesvirus DNA is linear, not circular, and the virion is enveloped rather than naked.",
+          "C": "Herpesviruses do not have an RNA genome, and their capsid symmetry is icosahedral rather than helical.",
+          "D": "The herpesvirus genome is double-stranded, and herpesvirus particles carry an envelope.",
+          "E": "Herpesviruses are DNA viruses; a segmented RNA genome with helical symmetry describes a different family entirely."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "herpesviridae",
+        "virology",
+        "structure"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-007",
+      "stem": "Electron microscopy of a cell infected with a herpesvirus shows budding nucleocapsids acquiring an envelope at a site unusual for enveloped viruses. From which membrane is the herpesvirus envelope derived?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cisternal membrane of the Golgi apparatus"
+        },
+        {
+          "label": "B",
+          "text": "The limiting membrane of host cell lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "The nuclear membrane of the infected host cell"
+        },
+        {
+          "label": "D",
+          "text": "The outer mitochondrial membrane of the host cell"
+        },
+        {
+          "label": "E",
+          "text": "The plasma membrane of the infected host cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Herpesvirus nucleocapsids become enveloped by pinching off a segment of the nuclear membrane.",
+        "whyCorrect": "The brick highlights this as the odd feature of herpesviruses: budding nucleocapsids of new virions become enveloped by pinching off a segment of the nuclear membrane, whereas most enveloped viruses take their envelope from the host cell membrane. The enveloped virions then accumulate in the endoplasmic reticulum and are transported out of the cell to infect surrounding cells.",
+        "whyWrongByChoice": {
+          "A": "The Golgi is part of the export route for many viral glycoproteins but is not where the herpesvirus envelope is acquired.",
+          "B": "Lysosomal membranes are degradative compartments and are not a source of viral envelope.",
+          "D": "Mitochondrial membranes are not used by any human virus as an envelope source.",
+          "E": "The plasma membrane is the source of the envelope for most other enveloped viruses, which is precisely the contrast the brick draws."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "herpesviridae",
+        "envelope",
+        "replication"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-008",
+      "stem": "An antiviral compound is designed to inhibit replication of the herpes simplex virus genome. To reach its target, the drug must be active in which of the following compartments?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytoplasmic membranous replication factories"
+        },
+        {
+          "label": "B",
+          "text": "Endosomal vesicles near the cell surface"
+        },
+        {
+          "label": "C",
+          "text": "The lumen of the rough endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "The matrix of host cell mitochondria"
+        },
+        {
+          "label": "E",
+          "text": "The nucleus of the infected host cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Herpesvirus replication occurs in the host cell nucleus.",
+        "whyCorrect": "After the virus is transported to a nuclear pore, its DNA is released into the nucleus, and the brick states that replication of all herpesviruses occurs in the host nucleus. A drug targeting genome replication must therefore act on nuclear events. The endoplasmic reticulum is involved later, when assembled virions accumulate there before export.",
+        "whyWrongByChoice": {
+          "A": "Cytoplasmic replication complexes are used by many RNA viruses, not by herpesviruses.",
+          "B": "Endosomes participate in entry for some viruses but are not where herpesvirus DNA is copied.",
+          "C": "Virions accumulate in the endoplasmic reticulum after assembly, but the genome is not replicated there.",
+          "D": "The mitochondrial matrix has no role in herpesvirus genome replication."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "herpesviridae",
+        "replication",
+        "nucleus"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-009",
+      "stem": "After replicating in oral epithelium, herpes simplex virus enters sensory nerve endings and travels to the neuronal cell body, where it becomes latent. Which receptor interaction and which direction of axonal transport best describe this step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neurokinin-1 receptor with anterograde transport"
+        },
+        {
+          "label": "B",
+          "text": "Neurokinin-1 receptor with retrograde transport"
+        },
+        {
+          "label": "C",
+          "text": "Nicotinic acetylcholine receptor with anterograde transport"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinic acetylcholine receptor with retrograde transport"
+        },
+        {
+          "label": "E",
+          "text": "Transferrin receptor with retrograde transport"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HSV binds the neurokinin-1 receptor and moves up peripheral sensory nerves by retrograde transport to establish latency.",
+        "whyCorrect": "The brick states that herpes simplex virus establishes latent infection in neurons by binding the neurokinin-1 receptor and migrating up the peripheral sensory nerves from the site of initial exposure, which is retrograde transport. Once in the cell body, the virus is carried to a nuclear pore and its DNA is released into the nucleus, where it can remain latent for years.",
+        "whyWrongByChoice": {
+          "A": "The receptor is correct, but anterograde transport moves virus away from the ganglion toward the skin, which is what happens later during reactivation.",
+          "C": "The nicotinic acetylcholine receptor is not the entry receptor described for HSV, and anterograde transport is the direction used on reactivation.",
+          "D": "Retrograde transport is correct, but the nicotinic acetylcholine receptor is not the receptor the brick attributes to HSV neuronal entry.",
+          "E": "The transferrin receptor mediates iron uptake and is not the receptor used by HSV to enter neurons."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HSV",
+        "latency",
+        "retrograde transport"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-010",
+      "stem": "A 30-year-old man develops a cold sore on his lower lip several days after a ski trip. Which of the following best describes how virus latent in his trigeminal ganglion produced this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It enters the blood and seeds the lip through dermal capillaries"
+        },
+        {
+          "label": "B",
+          "text": "It is carried to the lip within infected circulating monocytes"
+        },
+        {
+          "label": "C",
+          "text": "It is shed into saliva and reinfects the lip from outside"
+        },
+        {
+          "label": "D",
+          "text": "It moves down sensory nerves and infects flanking epithelial cells"
+        },
+        {
+          "label": "E",
+          "text": "It passes from neuron to neuron across the facial dermis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reactivated HSV travels back down peripheral sensory nerves and destroys the epithelial cells flanking the nerve endings.",
+        "whyCorrect": "The brick describes reactivation as the reverse of latency establishment: once reactivated, HSV travels back down the peripheral sensory nerves by anterograde transport and infects flanking epithelial cells, leading to their destruction. Because HSV-1 and HSV-2 replicate rapidly and are cytolytic, this epithelial destruction produces the visible vesicle and subsequent ulcer.",
+        "whyWrongByChoice": {
+          "A": "Viremic seeding of the lip is not the mechanism of recurrent herpes labialis; the virus travels within nerves.",
+          "B": "Transport inside mononuclear cells is how varicella zoster virus reaches the skin during chicken pox, not how HSV recurs.",
+          "C": "Recurrences arise from latent virus already in the ganglion, not from external reinoculation of the lip.",
+          "E": "Spread from neuron to neuron through the dermis is not described; the virus moves within the axons of sensory nerves."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HSV-1",
+        "reactivation",
+        "herpes labialis"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-011",
+      "stem": "A 21-year-old medical student develops a cold sore during final examinations; a previous outbreak followed a severe sunburn. Which of the following best explains why her latent virus began replicating on both occasions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic therapy eliminated the protective normal oral flora"
+        },
+        {
+          "label": "B",
+          "text": "Complete loss of antibody allowed the virus to return to the lip"
+        },
+        {
+          "label": "C",
+          "text": "Mutation of the viral genome during latency restored replication"
+        },
+        {
+          "label": "D",
+          "text": "Reinfection from a new contact introduced a second viral strain"
+        },
+        {
+          "label": "E",
+          "text": "Stress, immunosuppression, and tissue damage trigger reactivation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Herpesviruses reactivate when the host is stressed, immunocompromised, has another infection, or sustains tissue damage such as sunburn or trauma.",
+        "whyCorrect": "The brick states directly that the virus can rapidly replicate when the host is stressed, immunocompromised, has other infections, or receives tissue damage from infections, sunburns, or trauma. Both of this student's triggers, examination stress and a sunburn, appear on that list. Nothing about the latent genome itself changes; what changes is the host state that had been containing it.",
+        "whyWrongByChoice": {
+          "A": "Loss of normal bacterial flora is not one of the reactivation triggers described for herpesviruses.",
+          "B": "Antibody does not disappear between outbreaks, and its presence does not prevent recurrences.",
+          "C": "Reactivation is not attributed to mutation of the latent viral genome.",
+          "D": "Recurrences come from latent virus already established in the ganglion, not from acquiring a new strain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HSV",
+        "reactivation",
+        "triggers"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi32-012",
+      "stem": "A 34-year-old man with established genital HSV-2 infection asks how often he might be contagious when he has no symptoms at all. Approximately what proportion of the time do patients with HSV-2 shed virus asymptomatically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 5-10% of the time"
+        },
+        {
+          "label": "B",
+          "text": "About 10-20% of the time"
+        },
+        {
+          "label": "C",
+          "text": "About 30-40% of the time"
+        },
+        {
+          "label": "D",
+          "text": "About 50-60% of the time"
+        },
+        {
+          "label": "E",
+          "text": "About 70-80% of the time"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Patients with HSV-2 shed virus asymptomatically roughly 10-20% of the time; for HSV-1 the figure is about 5-10%.",
+        "whyCorrect": "The brick gives these two numbers side by side: HSV-1 is shed without symptoms approximately 5-10% of the time and HSV-2 roughly 10-20% of the time. This is why avoiding contact only with visible lesions does not prevent transmission, and why a patient who feels entirely well can still infect a partner.",
+        "whyWrongByChoice": {
+          "A": "About 5-10% is the asymptomatic shedding rate quoted for HSV-1, not HSV-2.",
+          "C": "No herpes simplex virus type is described as shedding asymptomatically a third of the time.",
+          "D": "This figure far exceeds the shedding rate reported for either HSV type.",
+          "E": "About 70% is the proportion of genital herpes transmissions attributed to asymptomatic shedding, not the fraction of time virus is shed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HSV-2",
+        "asymptomatic shedding",
+        "epidemiology"
+      ],
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-001",
+      "stem": "A 19-year-old college student recovers from an illness with fever, sore throat, and cervical adenopathy. Six years later, while receiving immunosuppressive therapy after a kidney transplant, the same virus reactivates. This virus establishes latency primarily in which of the following cell types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow progenitor cells"
+        },
+        {
+          "label": "C",
+          "text": "CD4+ T lymphocytes of the peripheral blood"
+        },
+        {
+          "label": "D",
+          "text": "Monocytes and tissue macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Renal tubular epithelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epstein-Barr virus establishes latency primarily in B lymphocytes.",
+        "whyCorrect": "EBV, like other herpesviruses, causes latent infections that can reactivate when the host becomes immunosuppressed. Latency is established primarily in B lymphocytes, although the virus can also be found in epithelial cells and other cell types. This is why immunosuppression after transplantation can allow the virus to re-emerge.",
+        "whyWrongByChoice": {
+          "B": "Bone marrow progenitor cells are among the cells in which CMV establishes latency.",
+          "C": "CD4+ T cells harbor latent human herpesvirus 6 and 7, not EBV.",
+          "D": "Monocytes and macrophages are sites of cytomegalovirus latency, not EBV latency.",
+          "E": "CMV latent infections are commonly established in the kidneys; EBV does not use renal tubular cells as its principal reservoir."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "latency"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-002",
+      "stem": "A laboratory studies how Epstein-Barr virus enters its principal host cell. A viral glycoprotein is shown to attach to a surface molecule that is also known as CR2. Binding to which of the following surface molecules allows the virus to enter the cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD3"
+        },
+        {
+          "label": "B",
+          "text": "CD4"
+        },
+        {
+          "label": "C",
+          "text": "CD8"
+        },
+        {
+          "label": "D",
+          "text": "CD19"
+        },
+        {
+          "label": "E",
+          "text": "CD21"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "EBV uses a viral glycoprotein to bind CD21 (CR2) on B cells.",
+        "whyCorrect": "EBV attaches to its target cell through a viral glycoprotein that binds CD21, also known as CR2. CD21 is a surface marker commonly found on B cells, which explains why B lymphocytes are the principal site of EBV infection and latency.",
+        "whyWrongByChoice": {
+          "A": "CD3 is part of the T cell receptor complex and is not used by EBV for entry.",
+          "B": "CD4 is not the EBV receptor; CD4+ T cells are the latency site for HHV-6 and HHV-7.",
+          "C": "CD8 is a T cell molecule and plays no role in EBV attachment.",
+          "D": "CD19 is a B cell marker, but the brick identifies CD21/CR2 as the molecule EBV binds."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "viral entry",
+        "CD21"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-003",
+      "stem": "A healthy 30-year-old man with no history of infectious mononucleosis asks whether he has ever been infected with Epstein-Barr virus. Approximately what proportion of adults have been infected with EBV and carry antibodies to the virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fewer than 10%"
+        },
+        {
+          "label": "B",
+          "text": "About 25%"
+        },
+        {
+          "label": "C",
+          "text": "About 50%"
+        },
+        {
+          "label": "D",
+          "text": "About 75%"
+        },
+        {
+          "label": "E",
+          "text": "More than 90%"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "By adulthood, more than 90% of individuals have been infected with EBV.",
+        "whyCorrect": "Most people acquire several herpesviruses before adulthood, and latency is established early. By adulthood, more than 90% of individuals have been infected with EBV and have antibodies to the virus, and many were completely asymptomatic at the time of primary infection.",
+        "whyWrongByChoice": {
+          "A": "This drastically understates EBV seroprevalence, which is near-universal in adults.",
+          "B": "A quarter of adults is far below the observed seroprevalence of EBV.",
+          "C": "About half is closer to the seroprevalence of CMV by age 40, not EBV in adults.",
+          "D": "Three-quarters still understates the greater than 90% figure for adults."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "epidemiology"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-004",
+      "stem": "A 17-year-old girl feels entirely well and has no symptoms, but she is known to be EBV seropositive. Her boyfriend develops infectious mononucleosis three weeks after they begin dating. Which of the following best explains how she transmitted the virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aerosol spread of virus from the lower respiratory tract"
+        },
+        {
+          "label": "B",
+          "text": "Bloodborne spread of virus from latently infected B lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Sexual transmission of virus present in semen and cervical fluid"
+        },
+        {
+          "label": "D",
+          "text": "Shedding of virus in oral secretions"
+        },
+        {
+          "label": "E",
+          "text": "Shedding of virus in urine from chronically infected renal tubules"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "EBV is spread predominantly by oral secretions, and asymptomatic carriers still shed virus.",
+        "whyCorrect": "EBV infects the epithelium of the oropharynx and the salivary glands and is shed from these cells, which is why mononucleosis is called the kissing disease. Even asymptomatic patients shed virus to some degree in oral secretions, so they remain infectious and can readily spread the disease to others.",
+        "whyWrongByChoice": {
+          "A": "The brick describes spread by oral secretions, not by aerosols from the lower airway.",
+          "B": "Latently infected B cells are the viral reservoir, but person-to-person spread is by oral secretions rather than blood.",
+          "C": "Semen is listed as a body fluid that transmits cytomegalovirus, not EBV.",
+          "E": "Urine is a recognized vehicle for cytomegalovirus transmission, not for EBV."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "transmission"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-005",
+      "stem": "A 5-year-old boy and his 22-year-old aunt are both infected with Epstein-Barr virus during the same household outbreak. Compared with his aunt, the boy is most likely to have which of the following presentations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blueberry muffin rash with hepatosplenomegaly"
+        },
+        {
+          "label": "B",
+          "text": "Classic mononucleosis with weeks of disabling fatigue"
+        },
+        {
+          "label": "C",
+          "text": "High fever followed by a rash that begins on the trunk"
+        },
+        {
+          "label": "D",
+          "text": "Mild pharyngitis with or without tonsillitis"
+        },
+        {
+          "label": "E",
+          "text": "Oral hairy leukoplakia on the lateral borders of the tongue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "EBV in children usually causes mild pharyngitis, while adults get classic mononucleosis.",
+        "whyCorrect": "The clinical manifestations of EBV depend on the patient's age. In children, most cases present as a mild pharyngitis with or without tonsillitis, whereas in adults the presentation is most commonly the classic symptoms of mononucleosis.",
+        "whyWrongByChoice": {
+          "A": "A blueberry muffin rash with hepatosplenomegaly describes congenital cytomegalovirus infection in a neonate.",
+          "B": "Classic mononucleosis is the adult presentation, which is what his aunt would be expected to develop.",
+          "C": "High fever followed by a truncal rash as the fever breaks is roseola infantum caused by HHV-6/7.",
+          "E": "Oral hairy leukoplakia occurs in patients with AIDS and the severely immunosuppressed, not in healthy children."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "mononucleosis",
+        "age differences"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-006",
+      "stem": "A 20-year-old woman with serologically confirmed infectious mononucleosis is otherwise healthy and asks how long she will feel ill. Which of the following is the most accurate counseling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Most symptoms resolve in 2 to 4 weeks, but fatigue may last for months"
+        },
+        {
+          "label": "B",
+          "text": "Most symptoms resolve within 48 hours of starting antiviral therapy"
+        },
+        {
+          "label": "C",
+          "text": "Symptoms last 3 to 5 days and end abruptly as a rash appears"
+        },
+        {
+          "label": "D",
+          "text": "Symptoms recur predictably every few weeks for the rest of her life"
+        },
+        {
+          "label": "E",
+          "text": "Symptoms usually persist for 6 to 12 months in healthy patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mononucleosis symptoms usually persist 2 to 4 weeks, though fatigue can linger for months.",
+        "whyCorrect": "In the majority of patients with mononucleosis, symptoms persist for 2 to 4 weeks. Some symptoms, especially fatigue, may persist for months. Complications of EBV are rare in otherwise healthy patients.",
+        "whyWrongByChoice": {
+          "B": "The brick describes no antiviral therapy that truncates mononucleosis to two days.",
+          "C": "A 3 to 5 day fever ending as a rash appears describes roseola infantum, not mononucleosis.",
+          "D": "Predictable lifelong recurrences are not a feature of EBV infection in a healthy host.",
+          "E": "Six to twelve months overstates the usual course; only fatigue tends to linger."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "mononucleosis",
+        "clinical course"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-007",
+      "stem": "A 41-year-old man with untreated HIV infection and a CD4 count of 90/uL has raised, white, corrugated lesions along the lateral borders of his tongue. Biopsy of the lesions contains herpesvirus DNA. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus esophagitis"
+        },
+        {
+          "label": "B",
+          "text": "Nasopharyngeal carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Oral hairy leukoplakia"
+        },
+        {
+          "label": "D",
+          "text": "Roseola infantum"
+        },
+        {
+          "label": "E",
+          "text": "Thrush"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oral hairy leukoplakia is an EBV lesion of the lateral tongue seen in AIDS and severe immunosuppression.",
+        "whyCorrect": "In patients with AIDS and the severely immunosuppressed, oral hairy leukoplakia is a common clinical presentation caused by EBV. Patients present with raised, white, corrugated lesions on the lateral sides of the tongue, and occasionally the buccal mucosa, and these lesions contain EBV DNA.",
+        "whyWrongByChoice": {
+          "A": "CMV esophagitis presents with esophageal symptoms rather than corrugated tongue plaques.",
+          "B": "Nasopharyngeal carcinoma is an EBV-associated malignancy of the nasopharynx, not a tongue plaque.",
+          "D": "Roseola infantum is a febrile exanthem of young children caused by HHV-6/7.",
+          "E": "Thrush is a fungal infection caused by Candida species and would not contain herpesvirus DNA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "oral hairy leukoplakia",
+        "HIV"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-008",
+      "stem": "A physician examines a severely immunosuppressed patient with white plaques on the tongue and wants to distinguish oral hairy leukoplakia from thrush at the bedside. Which of the following findings would most strongly favor thrush?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lesions confined strictly to the lateral borders of the tongue"
+        },
+        {
+          "label": "B",
+          "text": "Lesions shown to contain viral DNA when a biopsy is taken"
+        },
+        {
+          "label": "C",
+          "text": "Lesions that appeared only as the patient's immunity declined"
+        },
+        {
+          "label": "D",
+          "text": "Lesions that are easily removed from the tongue by light scraping"
+        },
+        {
+          "label": "E",
+          "text": "Lesions with a raised, white, corrugated plaque-like surface"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thrush scrapes off the tongue easily, whereas oral hairy leukoplakia does not.",
+        "whyCorrect": "Thrush and oral hairy leukoplakia have a very similar clinical appearance, so a quick scrape test is used to distinguish them before laboratory testing. Thrush can easily be removed from the tongue with light scraping, while the plaque-like lesion of oral hairy leukoplakia is much more difficult to scrape off.",
+        "whyWrongByChoice": {
+          "A": "The lateral borders of the tongue are the classic site of oral hairy leukoplakia.",
+          "B": "Lesions containing viral DNA point to oral hairy leukoplakia, since thrush is fungal.",
+          "C": "Both lesions can be caused by a weakening immune system, so this does not separate them.",
+          "E": "A raised, white, corrugated surface describes the appearance of oral hairy leukoplakia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "oral hairy leukoplakia",
+        "thrush"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-009",
+      "stem": "Two immunosuppressed patients present with white oral lesions, and one of them has just finished a 10-day course of broad-spectrum antibiotics. Which of the following statements about antibiotic use and these two lesions is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic therapy reliably clears both lesions within several days"
+        },
+        {
+          "label": "B",
+          "text": "Both thrush and oral hairy leukoplakia frequently follow antibiotic use"
+        },
+        {
+          "label": "C",
+          "text": "Neither lesion is related to antibiotic use or to the patient's immune status"
+        },
+        {
+          "label": "D",
+          "text": "Oral hairy leukoplakia frequently follows antibiotic use, but thrush does not"
+        },
+        {
+          "label": "E",
+          "text": "Thrush frequently follows antibiotic use, but oral hairy leukoplakia does not"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thrush often follows antibiotic use; oral hairy leukoplakia has no such correlation.",
+        "whyCorrect": "Both thrush and oral hairy leukoplakia can be caused by a weakening immune system, but thrush also frequently occurs after antibiotic use because antibiotics disturb the normal flora that hold Candida in check. There is no correlation between oral hairy leukoplakia and antibiotic use.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics predispose to thrush rather than curing it, and they have no effect on an EBV lesion.",
+          "B": "Only thrush shows the antibiotic association; oral hairy leukoplakia does not.",
+          "C": "Both lesions are linked to a weakening immune system, and thrush is additionally linked to antibiotics.",
+          "D": "This reverses the relationship described in the brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "thrush",
+        "normal flora"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-010",
+      "stem": "A 9-year-old boy in the United States is diagnosed with Burkitt's lymphoma, a B cell cancer, and the tumor cells are tested for Epstein-Barr virus. In the United States, approximately what percentage of Burkitt's lymphoma cases are associated with EBV?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 1%"
+        },
+        {
+          "label": "B",
+          "text": "About 5%"
+        },
+        {
+          "label": "C",
+          "text": "About 9%"
+        },
+        {
+          "label": "D",
+          "text": "About 15%"
+        },
+        {
+          "label": "E",
+          "text": "About 40%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the U.S., about 15% of Burkitt's lymphoma cases are EBV-associated.",
+        "whyCorrect": "Burkitt's lymphoma is a B cell cancer that is one of the malignancies linked to EBV. In the United States, 15% of Burkitt's lymphoma cases are associated with EBV, a much smaller fraction than is seen in Africa.",
+        "whyWrongByChoice": {
+          "A": "Less than 1% would make the association negligible, which is not the case.",
+          "B": "About 5% understates the U.S. association with Burkitt's lymphoma.",
+          "C": "About 9% is the figure for EBV-associated gastric carcinoma worldwide.",
+          "E": "About 40% approaches the upper end of the figure for EBV-positive Hodgkin's lymphomas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "Burkitt's lymphoma",
+        "oncogenesis"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-011",
+      "stem": "In equatorial Africa, roughly 90% of Burkitt's lymphoma cases are associated with Epstein-Barr virus, a far higher proportion than in the United States. Coinfection with which of the following is thought to contribute to this difference by causing EBV-infected B cells to proliferate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida species"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 6"
+        },
+        {
+          "label": "D",
+          "text": "Mycobacterium tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Plasmodium species"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Malaria coinfection drives proliferation of EBV-infected B cells and promotes Burkitt's lymphoma in Africa.",
+        "whyCorrect": "In Africa, 90% of Burkitt's lymphoma cases are associated with EBV. Coinfection with malaria may cause EBV-infected B cells to proliferate, enhancing viral spread and promoting tumorigenesis. HIV infection likewise increases the risk of EBV-associated Burkitt's lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Candida causes thrush and has no described role in driving B cell proliferation.",
+          "B": "Helicobacter pylori is a gastric pathogen and is not the cofactor described for Burkitt's lymphoma.",
+          "C": "HHV-6 causes roseola infantum and is not implicated in Burkitt's lymphoma.",
+          "D": "Tuberculosis is not described as a cofactor for EBV-associated lymphomagenesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "Burkitt's lymphoma",
+        "malaria"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi33-012",
+      "stem": "A pathologist surveys gastric carcinoma specimens collected worldwide and tests each tumor for Epstein-Barr virus. Approximately what proportion of gastric carcinomas worldwide are associated with EBV?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "About 1%"
+        },
+        {
+          "label": "B",
+          "text": "About 5%"
+        },
+        {
+          "label": "C",
+          "text": "About 9%"
+        },
+        {
+          "label": "D",
+          "text": "About 20%"
+        },
+        {
+          "label": "E",
+          "text": "About 35%"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "About 9% of gastric carcinomas worldwide are EBV-associated.",
+        "whyCorrect": "Gastric carcinoma is one of several malignancies linked to EBV infection. Worldwide, about 9% of gastric carcinoma cases are associated with EBV, making it a substantial but minority share of this common cancer.",
+        "whyWrongByChoice": {
+          "A": "About 1% would make the link trivial, which understates the association.",
+          "B": "About 5% is below the reported worldwide figure for gastric carcinoma.",
+          "D": "About 20% is the lower end of the range for EBV-positive Hodgkin's lymphomas.",
+          "E": "About 35% substantially overstates the association with gastric carcinoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "EBV",
+        "gastric carcinoma",
+        "oncogenesis"
+      ],
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-001",
+      "stem": "A 68-year-old kidney transplant recipient hospitalized for pneumonia develops a painful vesicular rash confined to one band across the left trunk that does not cross the midline. Intravenous acyclovir is started. Which of the following best describes how this drug interferes with viral replication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks viral attachment by occupying the host cell surface receptor"
+        },
+        {
+          "label": "B",
+          "text": "It competes with deoxyguanosine triphosphate for incorporation into viral DNA"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits viral neuraminidase and blocks release of newly formed virions"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits viral RNA-dependent RNA polymerase and terminates the RNA chain"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits viral thymidine kinase and prevents nucleoside phosphorylation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acyclovir is a guanosine analog that is incorporated into growing viral DNA and prevents strand lengthening.",
+        "whyCorrect": "Guanosine analogs are guanosine (a purine) attached to a sugar, so their chemical structure mimics nucleosides. The activated triphosphate competes with deoxyguanosine triphosphate for incorporation into the growing viral DNA strand, and once added it prevents further lengthening of that strand. The result is reduced viral DNA synthesis and reduced viral proliferation, which shortens the duration and severity of a reactivation such as this dermatomal zoster.",
+        "whyWrongByChoice": {
+          "A": "No antiherpetic drug in this class acts at receptor binding or viral entry; they all act at nucleic acid synthesis.",
+          "C": "Neuraminidase inhibition is the mechanism of oseltamivir, an influenza drug, and is not how any antiherpetic agent works.",
+          "D": "Inhibiting RNA-dependent RNA polymerase with chain termination describes sofosbuvir, used for hepatitis C, not acyclovir.",
+          "E": "Viral thymidine kinase is the enzyme that activates acyclovir, not the enzyme acyclovir inhibits."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "guanosine analogs",
+        "acyclovir",
+        "mechanism of action"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-002",
+      "stem": "Acyclovir and the other guanosine analogs have very little activity in uninfected human cells. Which of the following best explains this specificity for herpesviruses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human cells do not use the guanosine nucleotides that these drugs resemble"
+        },
+        {
+          "label": "B",
+          "text": "They are actively transported only into cells displaying viral surface antigens"
+        },
+        {
+          "label": "C",
+          "text": "They are destroyed by human enzymes before they can reach the cell nucleus"
+        },
+        {
+          "label": "D",
+          "text": "They bind irreversibly to the viral capsid before the particle enters a cell"
+        },
+        {
+          "label": "E",
+          "text": "They must be phosphorylated by virus-specific kinases present in infected cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Guanosine analogs are specific for herpesviruses because viral kinases are required to activate them.",
+        "whyCorrect": "Acyclovir, valacyclovir, famciclovir, and ganciclovir are prodrug-like nucleoside analogs that must be phosphorylated before they can be incorporated into DNA. That first phosphorylation is carried out by virus-specific enzymes such as thymidine kinase and UL97, which are present only where the virus is replicating. Drug is therefore activated preferentially inside infected cells.",
+        "whyWrongByChoice": {
+          "A": "Human cells use guanosine nucleotides constantly; that is precisely why these drugs are not perfectly selective.",
+          "B": "Selectivity comes from intracellular activation, not from a transport system that recognizes viral antigens.",
+          "C": "The drugs are active in infected human cells, so host degradation cannot be the basis of their selectivity.",
+          "D": "These agents act on DNA synthesis inside the cell and have no effect on the capsid of an extracellular virion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "guanosine analogs",
+        "selective toxicity",
+        "viral kinases"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-003",
+      "stem": "A 41-year-old man with AIDS has perianal herpes simplex ulcers that continue to enlarge despite several weeks of oral acyclovir followed by valacyclovir. A viral isolate is confirmed to be drug resistant. Which of the following changes in the virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mutation in the host DNA polymerase gene that reduces drug binding"
+        },
+        {
+          "label": "B",
+          "text": "A mutation in the UL97 phosphotransferase gene carried by the virus"
+        },
+        {
+          "label": "C",
+          "text": "A mutation that results in decreased viral thymidine kinase activity"
+        },
+        {
+          "label": "D",
+          "text": "Overproduction of viral DNA polymerase that outcompetes the drug"
+        },
+        {
+          "label": "E",
+          "text": "Upregulation of an efflux pump that exports drug from the infected cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acyclovir resistance in herpes simplex is caused by mutations that lower viral thymidine kinase activity.",
+        "whyCorrect": "Thymidine kinase phosphorylation is the first step in activating acyclovir and its relatives. A mutation that decreases thymidine kinase activity decreases the amount of active drug generated inside the infected cell, so the drug fails despite adequate dosing. Resistant herpesvirus strains are found primarily in immunosuppressed patients such as this one, where a persistently high viral load and chronic antiviral exposure give resistant strains the chance to emerge.",
+        "whyWrongByChoice": {
+          "A": "Resistance is a property of the virus; a host polymerase mutation is not a described mechanism of antiherpetic failure.",
+          "B": "UL97 mutation is the resistance mechanism for ganciclovir in cytomegalovirus, not for acyclovir in herpes simplex.",
+          "D": "Resistance arises from failure to activate the drug, not from making more of the polymerase target.",
+          "E": "Efflux pump upregulation is not a described mechanism of herpesvirus resistance to these agents."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "drug resistance",
+        "thymidine kinase",
+        "HSV"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-004",
+      "stem": "The patient described above has herpes simplex ulcers caused by a strain with markedly reduced thymidine kinase activity. Which of the following drugs is the most appropriate choice for his infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "B",
+          "text": "Famciclovir"
+        },
+        {
+          "label": "C",
+          "text": "Foscarnet"
+        },
+        {
+          "label": "D",
+          "text": "Penciclovir"
+        },
+        {
+          "label": "E",
+          "text": "Valacyclovir"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Foscarnet is the drug of choice for thymidine kinase-deficient, acyclovir-resistant herpes simplex.",
+        "whyCorrect": "Foscarnet inhibits the viral DNA polymerase directly and does not need to be activated by a viral enzyme first. Because the resistance mechanism here is loss of the activating kinase, foscarnet bypasses the problem entirely and remains effective.",
+        "whyWrongByChoice": {
+          "A": "Acyclovir is the drug that already failed; the thymidine kinase mutation is specifically resistance to it.",
+          "B": "Famciclovir is in the same family and shares the same activation step, so the mutation confers resistance to it as well.",
+          "D": "Penciclovir also requires viral kinase activation and is only a topical agent for orolabial herpes.",
+          "E": "Valacyclovir is a prodrug of acyclovir and still depends on viral thymidine kinase for activation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "foscarnet",
+        "drug resistance",
+        "HSV"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-005",
+      "stem": "A 39-year-old man with AIDS is treated with foscarnet for a herpesvirus infection. Which of the following best characterizes this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A guanosine analog that terminates the chain after viral kinase activation"
+        },
+        {
+          "label": "B",
+          "text": "A neuraminidase inhibitor that prevents budding of virions from the cell"
+        },
+        {
+          "label": "C",
+          "text": "A nucleoside analog phosphorylated by host kinases to an active triphosphate"
+        },
+        {
+          "label": "D",
+          "text": "A protease inhibitor that blocks cleavage of viral polyprotein precursors"
+        },
+        {
+          "label": "E",
+          "text": "A pyrophosphate analog that noncompetitively inhibits viral polymerases"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Foscarnet is a pyrophosphate analog and a noncompetitive inhibitor of viral RNA and DNA polymerases.",
+        "whyCorrect": "Foscarnet belongs to the viral DNA polymerase inhibitor class along with cidofovir. It is a pyrophosphate analog rather than a nucleoside analog, and it acts as a noncompetitive inhibitor of many viral RNA and DNA polymerases. Because it does not need phosphorylation by a viral enzyme, it works against strains that have lost their activating kinase.",
+        "whyWrongByChoice": {
+          "A": "That describes acyclovir and its relatives, which are nucleoside analogs activated by viral kinases.",
+          "B": "Neuraminidase inhibition is an influenza drug mechanism and has no role against herpesviruses.",
+          "C": "Host kinase activation describes cidofovir; foscarnet is not a nucleoside analog and is not phosphorylated.",
+          "D": "No antiherpetic agent covered here acts as a protease inhibitor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "foscarnet",
+        "viral DNA polymerase inhibitors",
+        "mechanism of action"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-006",
+      "stem": "A 55-year-old transplant recipient receiving intravenous ganciclovir for cytomegalovirus disease has a leukocyte count of 1,800/mm3, platelet count of 62,000/mm3, and hemoglobin of 8.4 g/dL. Which of the following adverse effects of this drug best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune hemolysis"
+        },
+        {
+          "label": "B",
+          "text": "Bone marrow suppression"
+        },
+        {
+          "label": "C",
+          "text": "Folate antagonism"
+        },
+        {
+          "label": "D",
+          "text": "Iron malabsorption"
+        },
+        {
+          "label": "E",
+          "text": "Splenic sequestration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ganciclovir characteristically causes leukopenia, thrombocytopenia, and anemia.",
+        "whyCorrect": "Among the antiherpetic drugs, ganciclovir is the one associated with myelosuppression. The expected pattern is exactly what this patient shows: a low white cell count, a low platelet count, and anemia. Blood counts must therefore be followed during ganciclovir therapy.",
+        "whyWrongByChoice": {
+          "A": "Ganciclovir is not described as a cause of immune-mediated red cell destruction.",
+          "C": "Antiherpetic drugs are nucleoside and pyrophosphate analogs, not folate antagonists.",
+          "D": "Impaired iron absorption would not explain the simultaneous drop in white cells and platelets.",
+          "E": "Splenic sequestration is not a listed adverse effect of any antiherpetic agent."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ganciclovir",
+        "adverse effects",
+        "myelosuppression"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-007",
+      "stem": "A 44-year-old man with AIDS begins foscarnet therapy. Two days later he reports perioral tingling and develops carpopedal spasm during blood pressure measurement. Which of the following laboratory abnormalities is most likely present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypercalcemia"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "C",
+          "text": "Hypernatremia"
+        },
+        {
+          "label": "D",
+          "text": "Hyperphosphatemia"
+        },
+        {
+          "label": "E",
+          "text": "Hypocalcemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Foscarnet causes renal impairment together with electrolyte disturbances, notably hypocalcemia.",
+        "whyCorrect": "Beyond renal impairment, foscarnet is specifically associated with electrolyte derangements including hypokalemia, hypocalcemia, and hypomagnesemia. Perioral paresthesias and carpopedal spasm are the classic bedside signs of a low ionized calcium, so electrolytes should be checked and repleted during therapy.",
+        "whyWrongByChoice": {
+          "A": "A high calcium level would not cause tetany; foscarnet lowers calcium rather than raising it.",
+          "B": "Foscarnet drives potassium down rather than up, so hypokalemia is the expected direction.",
+          "C": "Sodium excess is not among the electrolyte disturbances attributed to foscarnet.",
+          "D": "Phosphate elevation is not a described foscarnet effect and would not produce these symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "foscarnet",
+        "adverse effects",
+        "electrolytes"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-008",
+      "stem": "A 33-year-old woman with severe disseminated herpes simplex infection is given high-dose intravenous acyclovir. Over the next 48 hours her serum creatinine rises from 0.8 mg/dL to 2.3 mg/dL. Which of the following best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct toxic injury to the renal artery endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Drug-induced diuresis producing severe volume depletion"
+        },
+        {
+          "label": "C",
+          "text": "Immune complex glomerulonephritis triggered by the drug"
+        },
+        {
+          "label": "D",
+          "text": "Obstruction of both ureters by retroperitoneal fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Precipitation of crystallized drug within the renal tubules"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Renal impairment from intravenous acyclovir and ganciclovir results from crystal nephropathy.",
+        "whyCorrect": "Intravenous acyclovir and ganciclovir can crystallize and precipitate within the renal tubules, a process called crystal nephropathy, which produces an acute rise in creatinine. This is why proper hydration is maintained whenever these agents are given intravenously.",
+        "whyWrongByChoice": {
+          "A": "Renal arterial endothelial toxicity is not a described mechanism for these agents.",
+          "B": "The injury comes from drug precipitating in the tubules, not from excessive urine output.",
+          "C": "An immune complex mechanism is not how antiherpetic drugs injure the kidney.",
+          "D": "These drugs do not cause retroperitoneal fibrosis or mechanical ureteral obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acyclovir",
+        "adverse effects",
+        "crystal nephropathy"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-009",
+      "stem": "A 70-year-old woman admitted for intravenous acyclovir has a generalized tonic-clonic seizure on hospital day 2, and there is erythema and tenderness along the vein used for infusion. Apart from renal impairment, which of the following additional findings fits this drug's adverse effect profile?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum aminotransferase levels"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible sensorineural hearing loss"
+        },
+        {
+          "label": "C",
+          "text": "Optic neuritis with loss of color vision"
+        },
+        {
+          "label": "D",
+          "text": "Severe neutropenia with thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "Symptomatic hypocalcemia and hypomagnesemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acyclovir is associated with increased liver enzymes, increased seizure risk, and phlebitis when given intravenously.",
+        "whyCorrect": "The adverse effect list specific to acyclovir includes rising liver enzymes and an increased risk of seizures, plus vein irritation when the drug is infused. This patient shows the neurologic and local vascular effects, so an increase in aminotransferases is the expected accompanying laboratory abnormality.",
+        "whyWrongByChoice": {
+          "B": "Hearing loss is not a described toxicity of acyclovir or any other agent in this group.",
+          "C": "Optic neuritis is not among the adverse effects attributed to antiherpetic drugs.",
+          "D": "Leukopenia and thrombocytopenia belong to ganciclovir, not acyclovir.",
+          "E": "Electrolyte disturbances of this kind are characteristic of foscarnet."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acyclovir",
+        "adverse effects",
+        "phlebitis"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-010",
+      "stem": "A 27-year-old woman with frequent recurrences of genital herpes is prescribed valacyclovir instead of acyclovir and asks why. Which of the following is the best explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It acts on a different viral enzyme than acyclovir does"
+        },
+        {
+          "label": "B",
+          "text": "It can be applied topically as well as taken by mouth"
+        },
+        {
+          "label": "C",
+          "text": "It does not require activation by any viral kinase enzyme"
+        },
+        {
+          "label": "D",
+          "text": "It eliminates virus that lies dormant in the sensory neurons"
+        },
+        {
+          "label": "E",
+          "text": "It is a prodrug of acyclovir with greater oral bioavailability"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Valacyclovir is a prodrug of acyclovir with better gastrointestinal absorption and bioavailability.",
+        "whyCorrect": "A prodrug is metabolized into its active form within the host. Valacyclovir is converted to acyclovir after absorption, and it is absorbed from the gut better than acyclovir itself, so more active drug reaches the circulation from an oral dose. That pharmacokinetic advantage is the reason it is often chosen for oral therapy of recurrent outbreaks.",
+        "whyWrongByChoice": {
+          "A": "Once converted, valacyclovir is acyclovir and acts by exactly the same mechanism.",
+          "B": "Valacyclovir is an oral agent; penciclovir is the topical drug in this group.",
+          "C": "As an acyclovir prodrug it still depends on viral kinase activation after conversion.",
+          "D": "No antiherpetic drug clears latent virus from neurons; these agents manage outbreaks but do not cure the infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "valacyclovir",
+        "prodrug",
+        "pharmacokinetics"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-011",
+      "stem": "A clinician is choosing among oral agents for an outbreak of orolabial herpes. Famciclovir differs from acyclovir chiefly in which of the following ways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits viral DNA polymerase without needing activation"
+        },
+        {
+          "label": "B",
+          "text": "It is a prodrug with better gastrointestinal absorption"
+        },
+        {
+          "label": "C",
+          "text": "It is a pyrophosphate analog rather than a nucleoside analog"
+        },
+        {
+          "label": "D",
+          "text": "It is available only as an intravenous preparation"
+        },
+        {
+          "label": "E",
+          "text": "It is effective against cytomegalovirus but not against HSV-2"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Famciclovir is a prodrug whose advantage over acyclovir is better gastrointestinal absorption.",
+        "whyCorrect": "Famciclovir and valacyclovir are the two prodrugs among the antiherpetic guanosine analogs, meaning they are metabolized into their active form within the host. Famciclovir's stated advantage is improved gastrointestinal absorption, which makes oral dosing more reliable than with acyclovir.",
+        "whyWrongByChoice": {
+          "A": "Activation-independent polymerase inhibition describes foscarnet, not famciclovir.",
+          "C": "Famciclovir is a guanosine analog; foscarnet is the pyrophosphate analog.",
+          "D": "Famciclovir is an oral drug; acyclovir is the only agent in this class given both orally and intravenously.",
+          "E": "Famciclovir is used for HSV-1, HSV-2, and varicella-zoster virus, not for cytomegalovirus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "famciclovir",
+        "prodrug",
+        "guanosine analogs"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi34-012",
+      "stem": "A 22-year-old man has recurrent mild cold sores on the vermilion border of the lip and prefers a cream to pills. Which of the following agents is used topically for this indication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cidofovir"
+        },
+        {
+          "label": "B",
+          "text": "Foscarnet"
+        },
+        {
+          "label": "C",
+          "text": "Ganciclovir"
+        },
+        {
+          "label": "D",
+          "text": "Penciclovir"
+        },
+        {
+          "label": "E",
+          "text": "Valganciclovir"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Penciclovir is the topical antiherpetic agent, and its use is limited to orolabial herpes.",
+        "whyCorrect": "Localized herpes infection can be treated topically or orally, with topical therapy reserved for mild cases because it is less effective than oral therapy. Penciclovir is specifically the topical treatment for orolabial herpes only, which matches this patient's mild recurrent cold sores.",
+        "whyWrongByChoice": {
+          "A": "Cidofovir is a parenteral drug used mainly for cytomegalovirus retinitis in patients with AIDS.",
+          "B": "Foscarnet is given intravenously for herpesvirus infection in immunocompromised patients.",
+          "C": "Ganciclovir is an intravenous agent used for cytomegalovirus, not a topical cold sore treatment.",
+          "E": "Valganciclovir is the oral prodrug of ganciclovir and is used for cytomegalovirus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "penciclovir",
+        "topical therapy",
+        "orolabial herpes"
+      ],
+      "topicId": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
+      "topicName": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections",
+      "tier": "core"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "categoryId": "foundations",
-  "categoryName": "Bacterial Foundations & Lab Identification",
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
   "questions": [
     {
       "id": "mi01-001",
@@ -1680,555 +1680,556 @@
       "tier": "core"
     },
     {
-      "id": "mi05-001",
-      "stem": "A laboratory technician performs a Gram stain on a wound swab. After crystal violet is applied and fixed with iodine, the slide is decolorized with acetone and then counterstained. One population of organisms remains deep purple under the microscope. Which feature of these organisms best explains the retained purple color?",
+      "id": "mi04-001",
+      "stem": "A hospital microbiology laboratory tests a blood isolate of Staphylococcus aureus against doubling dilutions of an antibiotic. After 24 hours of incubation, the tubes containing 0.25, 0.5, and 1 microgram/mL are visibly cloudy, while the tubes containing 2, 4, and 8 micrograms/mL remain clear. Which of the following values should be reported as the minimum inhibitory concentration?",
       "choices": [
         {
           "label": "A",
-          "text": "A polysaccharide capsule that preferentially binds safranin"
+          "text": "0.25 micrograms/mL"
         },
         {
           "label": "B",
-          "text": "A thick cell wall that holds the crystal violet dye"
+          "text": "1 microgram/mL"
         },
         {
           "label": "C",
-          "text": "A thin cell wall that releases dye during decolorization"
+          "text": "1.5 micrograms/mL"
         },
         {
           "label": "D",
-          "text": "A waxy surface coat that repels all aqueous dyes"
+          "text": "2 micrograms/mL"
         },
         {
           "label": "E",
-          "text": "An outer membrane that excludes the crystal violet dye"
+          "text": "8 micrograms/mL"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Gram-positive bacteria keep crystal violet because their cell walls are thick.",
-        "whyCorrect": "In the Gram stain, bacteria are stained with crystal violet, fixed with iodine, and then decolorized with alcohol or acetone. Gram-positive bacteria retain the purple dye because of their thick cell walls, so they appear purple at the end of the procedure. Gram-negative organisms, whose cell walls are thinner, lose the dye during decolorization.",
+        "summary": "The MIC is the lowest antibiotic concentration at which there is no visible growth in the dilution series.",
+        "whyCorrect": "In broth or tube dilution testing, a standard concentration of the organism is mixed with increasing concentrations of antibiotic and incubated for about 24 hours. Turbidity means the organism grew; a clear tube means growth was inhibited. The lowest concentration with no visible growth, 2 micrograms/mL here, is reported as the MIC.",
         "whyWrongByChoice": {
-          "A": "Safranin is the counterstain that colors decolorized organisms red; it does not account for a purple result.",
-          "C": "A thin cell wall is exactly what allows the dye to wash out, producing a gram-negative result.",
-          "D": "Organisms with a waxy surface are the ones that cannot be stained reliably by Gram stain at all, which is why other stains are needed for them.",
-          "E": "An outer membrane is a gram-negative feature, and those organisms lose the crystal violet rather than retaining it."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "gram stain",
-        "cell wall"
-      ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
-    },
-    {
-      "id": "mi05-002",
-      "stem": "During the same Gram stain, a second organism on the slide loses the crystal violet after the alcohol wash and appears red when the procedure is complete. Which dye accounts for the red color of this organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Crystal violet"
-        },
-        {
-          "label": "B",
-          "text": "Eosin Y"
-        },
-        {
-          "label": "C",
-          "text": "Methylene blue"
-        },
-        {
-          "label": "D",
-          "text": "Neutral red"
-        },
-        {
-          "label": "E",
-          "text": "Safranin"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Safranin is the counterstain that makes gram-negative bacteria red.",
-        "whyCorrect": "Gram-negative bacteria have thinner cell walls and lose crystal violet during decolorization. They are then counterstained red with safranin, which is what allows them to be seen and classified as gram negative.",
-        "whyWrongByChoice": {
-          "A": "Crystal violet is the primary purple dye, and it has already been washed out of this organism.",
-          "B": "Eosin Y is also an EMB agar ingredient used to inhibit gram-positive growth and color colonies on a plate.",
-          "C": "Methylene blue is an ingredient of eosin methylene blue agar, not the Gram stain counterstain.",
-          "D": "Neutral red is the pH indicator in MacConkey agar, where it colors lactose-fermenting colonies."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "gram stain",
-        "counterstain"
-      ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
-    },
-    {
-      "id": "mi05-003",
-      "stem": "A 6-year-old unimmunized child has a sore throat and a gray membrane over the tonsils. Gram stain of a throat swab shows gram-positive rods that are wider at one end, giving them a club shape. Which organism shows this characteristic morphology?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bacillus spp."
-        },
-        {
-          "label": "B",
-          "text": "Corynebacterium spp."
-        },
-        {
-          "label": "C",
-          "text": "Fusobacterium spp."
-        },
-        {
-          "label": "D",
-          "text": "Salmonella spp."
-        },
-        {
-          "label": "E",
-          "text": "Vibrio spp."
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Club-shaped rods are the classic morphology of Corynebacterium diphtheriae.",
-        "whyCorrect": "Shape and arrangement are recorded during the Gram stain because they narrow the differential immediately. Among the common morphologies, the club-shaped rod is the pattern assigned to Corynebacterium diphtheriae.",
-        "whyWrongByChoice": {
-          "A": "Bacillus spp. are rods with square ends, not rods that flare at one end.",
-          "C": "Fusobacterium spp. are fusiform, tapering at both ends rather than clubbing at one.",
-          "D": "Salmonella spp. are rods with rounded ends and are gram negative besides.",
-          "E": "Vibrio spp. are curved, comma-shaped gram-negative organisms."
+          "A": "This tube is cloudy, so the organism grew freely at this concentration.",
+          "B": "This is the highest concentration that still permitted growth, not the lowest that inhibited it.",
+          "C": "Dilution panels use doubling concentrations, and this concentration was not tested.",
+          "E": "Growth was inhibited here, but this is not the lowest inhibitory concentration."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "morphology",
-        "gram-positive bacilli"
+        "MIC",
+        "susceptibility testing"
       ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
       "tier": "core"
     },
     {
-      "id": "mi05-004",
-      "stem": "A 19-year-old college student has fever, headache, and neck stiffness. Gram stain of cerebrospinal fluid shows gram-negative cocci in pairs, each cell flattened along the side it shares with its partner, giving a kidney-bean appearance. Which genus shows this pattern?",
+      "id": "mi04-002",
+      "stem": "An attending asks a student on rounds to define the measurement that the microbiology laboratory uses to determine antibiotic susceptibility. Which of the following is the best definition of the minimum inhibitory concentration?",
       "choices": [
         {
           "label": "A",
-          "text": "Bacillus"
+          "text": "The average drug concentration held across a dosing interval"
         },
         {
           "label": "B",
-          "text": "Borrelia"
+          "text": "The concentration at which the isolate is reported as resistant"
         },
         {
           "label": "C",
-          "text": "Neisseria"
+          "text": "The lowest antibiotic concentration that inhibits growth of the organism"
         },
         {
           "label": "D",
-          "text": "Staphylococcus"
+          "text": "The lowest concentration producing a 99.9% fall in colony count"
         },
         {
           "label": "E",
-          "text": "Streptococcus"
+          "text": "The peak serum concentration reached after a standard dose"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Kidney-bean-shaped cocci in pairs are Neisseria spp.",
-        "whyCorrect": "Bacteria that form pairs are described as diplococci, and Neisseria spp. are the classic example. Their paired cells have a kidney bean shape, which together with the gram-negative staining identifies the genus.",
+        "summary": "MIC is the minimal antibiotic concentration required to inhibit growth of the organism in question.",
+        "whyCorrect": "MIC is the measurement used in clinical and hospital practice to determine antibiotic susceptibility. It is the minimal concentration that inhibits growth of the bacterium, determined by incubating a standard inoculum with increasing drug concentrations and reading the lowest concentration without visible growth.",
         "whyWrongByChoice": {
-          "A": "Bacillus spp. are gram-positive rods with square ends, not cocci.",
-          "B": "Borrelia spp. are spirochetes with a relaxed coil, not cocci.",
-          "D": "Staphylococcus spp. form grape-like clusters and are gram positive.",
-          "E": "Streptococcus spp. form chains of cocci and are gram positive."
+          "A": "Average exposure over an interval relates to the area under the concentration-time curve, not the MIC.",
+          "B": "Resistance is assigned by comparing the MIC with a published breakpoint; it is not the definition of MIC.",
+          "D": "That describes the minimum bactericidal concentration, which reflects killing rather than inhibition.",
+          "E": "Peak concentration is a pharmacokinetic property of the drug and dose, not a measure of the organism."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "morphology",
-        "diplococci"
+        "MIC",
+        "definitions"
       ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
       "tier": "core"
     },
     {
-      "id": "mi05-005",
-      "stem": "A 68-year-old man with lobar pneumonia has a sputum Gram stain showing gram-positive cocci in pairs, with the outer end of each cell tapered to a point. Which organism is most consistent with this morphology?",
+      "id": "mi04-003",
+      "stem": "A research laboratory wants to know whether a new agent kills bacteria or only halts their replication. Dilution tubes are incubated and then subcultured onto agar. Which of the following findings defines the minimum bactericidal concentration for this organism?",
       "choices": [
         {
           "label": "A",
-          "text": "Enterococcus faecalis"
+          "text": "The concentration that equals one half of the peak serum level"
         },
         {
           "label": "B",
-          "text": "Neisseria meningitidis"
+          "text": "The concentration that keeps drug above the MIC for the whole interval"
         },
         {
           "label": "C",
-          "text": "Staphylococcus aureus"
+          "text": "The lowest concentration at which the isolate is reported susceptible"
         },
         {
           "label": "D",
-          "text": "Streptococcus pneumoniae"
+          "text": "The lowest concentration causing a 99.9% fall in the original colony count"
         },
         {
           "label": "E",
-          "text": "Streptococcus pyogenes"
+          "text": "The lowest concentration that prevents visible turbidity in the broth"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Cocci in pairs with pointed ends are Streptococcus pneumoniae.",
-        "whyCorrect": "Most streptococci grow in chains, but Streptococcus pneumoniae is distinguished by growing in pairs whose outer ends are pointed. That morphology, in a gram-positive organism from sputum, points directly to S. pneumoniae.",
+        "summary": "MBC is the concentration that produces a 99.9% reduction in the original bacterial colony count, defined practically as inability to re-culture the bacteria.",
+        "whyCorrect": "MBC is determined in the same type of dilution testing used for MIC. Rather than reading turbidity, the tubes are subcultured, and the concentration corresponding to a 99.9% reduction in the starting colony count, so that the organism can no longer be re-cultured, is the MBC.",
         "whyWrongByChoice": {
-          "A": "Enterococcus faecalis is a gram-positive coccus that grows in chains rather than pointed pairs.",
-          "B": "Neisseria meningitidis is a gram-negative diplococcus with kidney-bean-shaped cells.",
-          "C": "Staphylococcus aureus grows in grape-like clusters, not in pairs with tapered ends.",
-          "E": "Streptococcus pyogenes grows in chains, the general streptococcal pattern."
+          "A": "MBC is a property of the organism-drug pair and is unrelated to half the peak serum level.",
+          "B": "That describes the time-above-MIC pharmacodynamic parameter, not a laboratory endpoint.",
+          "C": "Susceptible is an interpretation made by comparing the MIC with a breakpoint.",
+          "E": "Absence of turbidity defines the MIC, which reflects inhibition of growth rather than cell death."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "morphology",
-        "Streptococcus pneumoniae"
+        "MBC",
+        "susceptibility testing"
       ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
       "tier": "core"
     },
     {
-      "id": "mi05-006",
-      "stem": "A preparation from a genital ulcer shows slender spiral organisms whose coils are wound tightly and regularly, like the threads on a screw. Based on the coiling pattern, which genus is favored?",
+      "id": "mi04-004",
+      "stem": "A student watches a technologist read a microdilution panel inoculated with a patient's isolate. Several wells are cloudy and several are clear. Cloudiness in a well indicates which of the following?",
       "choices": [
         {
           "label": "A",
-          "text": "Borrelia"
+          "text": "That well was inoculated with no organism"
         },
         {
           "label": "B",
-          "text": "Fusobacterium"
+          "text": "The antibiotic has precipitated out of the broth"
         },
         {
           "label": "C",
-          "text": "Spirillum"
+          "text": "The concentration in that well exceeds the breakpoint"
         },
         {
           "label": "D",
-          "text": "Treponema"
+          "text": "The organism grew at that drug concentration"
         },
         {
           "label": "E",
-          "text": "Vibrio"
+          "text": "The organism has been killed by the antibiotic"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Tightly coiled spirochetes are Treponema; relaxed coils are Borrelia.",
-        "whyCorrect": "Spirochetes have a twisted shape like the threads on a screw, and the tightness of the coil separates the genera. Tightly coiled spirochetes correspond to Treponema spp., which is what this preparation shows.",
+        "summary": "Turbidity in a dilution well means bacterial growth; clearing means growth was inhibited.",
+        "whyCorrect": "After roughly 24 hours of incubation, the mixtures are examined by eye and with computer assistance for cloudiness. Turbidity indicates that the bacterial organism grew at that concentration, so the MIC must lie at a higher concentration in the series.",
         "whyWrongByChoice": {
-          "A": "Borrelia spp. are the spirochetes described as having a relaxed coil, not a tight one.",
-          "B": "Fusobacterium spp. are fusiform rods that taper at each end and are not spiral.",
-          "C": "Spirillum organisms have a wavy shape, which is not the tight screw-thread coil described.",
-          "E": "Vibrio spp. are curved, comma-shaped organisms rather than spirals."
+          "A": "Every well in the panel receives a standard concentration of the patient's organism.",
+          "B": "Precipitation is not what the reader is assessing; the panel is read for bacterial growth.",
+          "C": "Wells above the breakpoint would be expected to be clear if the isolate is susceptible.",
+          "E": "Killing would leave the well clear, and re-culture would be required to demonstrate it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "MIC",
+        "laboratory identification"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "mi04-005",
+      "stem": "A clinician notices that an MIC of 2 micrograms/mL is reported as susceptible for one organism-drug pair but not for another. The cutoff MIC that separates these interpretations is closely monitored and published by a national organization. This cutoff is best termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The area under the concentration-time curve"
+        },
+        {
+          "label": "B",
+          "text": "The breakpoint for that organism-drug pair"
+        },
+        {
+          "label": "C",
+          "text": "The local resistance rate for that drug"
+        },
+        {
+          "label": "D",
+          "text": "The minimum bactericidal concentration"
+        },
+        {
+          "label": "E",
+          "text": "The peak-to-MIC ratio of the drug"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The breakpoint is the particular cutoff MIC, specific to each organism-antibiotic pair, at or below which the isolate is called susceptible.",
+        "whyCorrect": "For each organism-antibiotic pair there is a particular cutoff MIC that is considered susceptible. That MIC is called the breakpoint, and it is closely monitored and published by a national organization so that laboratories interpret MIC values consistently.",
+        "whyWrongByChoice": {
+          "A": "AUC is a pharmacokinetic exposure measure, not an interpretive threshold.",
+          "C": "Local resistance rates are aggregated in antibiograms and do not define susceptibility for one isolate.",
+          "D": "The MBC is a killing endpoint determined by subculture, not an interpretive cutoff.",
+          "E": "Cmax/MIC is a pharmacodynamic ratio that predicts efficacy of certain drugs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "breakpoint",
+        "susceptibility testing"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "mi04-006",
+      "stem": "A student notices that culture and sensitivity reports list MIC values but essentially never list MBC values. Which of the following best explains this practice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MBC can be determined only after the patient completes therapy"
+        },
+        {
+          "label": "B",
+          "text": "MBC cannot be measured for organisms that will grow in broth culture"
+        },
+        {
+          "label": "C",
+          "text": "MBC is hard to obtain and adds little value outside of research"
+        },
+        {
+          "label": "D",
+          "text": "MBC is identical to the MIC for nearly every antibacterial agent"
+        },
+        {
+          "label": "E",
+          "text": "MBC shifts too quickly during therapy to be reported reliably"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "MBC is rarely obtained outside research because it is difficult to measure and has little clinical value.",
+        "whyCorrect": "MICs can be calculated with commercially available assays that return results in about 24 hours. MBC is much more difficult to obtain and has little clinical value given the efficacy of bacteriostatic action, so MBC data are rarely acquired for patients outside of research purposes.",
+        "whyWrongByChoice": {
+          "A": "Nothing about the assay requires waiting until therapy is complete.",
+          "B": "MBC is determined from the same broth dilution testing used to determine the MIC.",
+          "D": "MBC usually exceeds the MIC, and the size of that gap is what separates cidal from static agents.",
+          "E": "MBC is a property of the organism-drug pair measured in vitro, not a value that fluctuates hourly in the patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MBC",
+        "clinical practice"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "mi04-007",
+      "stem": "Testing of a patient's isolate yields an MIC of 2 micrograms/mL and an MBC of 4 micrograms/mL for drug X. Based on this relationship, drug X is best classified against this organism as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bactericidal, because the MBC/MIC ratio is 4 or less"
+        },
+        {
+          "label": "B",
+          "text": "Bacteriostatic, because the MBC is higher than the MIC"
+        },
+        {
+          "label": "C",
+          "text": "Bacteriostatic, because the MBC/MIC ratio is above 4"
+        },
+        {
+          "label": "D",
+          "text": "Concentration dependent, because the MBC is measurable"
+        },
+        {
+          "label": "E",
+          "text": "Time dependent, because the two values are close together"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An MBC/MIC ratio of 4 or less defines a bactericidal agent.",
+        "whyCorrect": "Whether a drug is considered bacteriostatic or bactericidal depends on the comparison of MIC to MBC. A ratio of MBC to MIC of 4 or less is classified as bactericidal; here the ratio is 4/2, or 2, so drug X is bactericidal against this isolate.",
+        "whyWrongByChoice": {
+          "B": "The MBC almost always exceeds the MIC; the size of the ratio, not its direction, is what matters.",
+          "C": "The ratio here is 2, which is not above 4.",
+          "D": "Concentration dependence is a pharmacodynamic property predicted by Cmax/MIC, not by the MBC/MIC ratio.",
+          "E": "Time dependence refers to how long drug levels stay above the MIC and is not derived from the MBC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MBC/MIC ratio",
+        "bactericidal"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "mi04-008",
+      "stem": "A second agent is tested against the same isolate and yields an MIC of 0.5 micrograms/mL and an MBC of 8 micrograms/mL. Which of the following is the most accurate conclusion about this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is bactericidal, because its MBC/MIC ratio is 4 or less"
+        },
+        {
+          "label": "B",
+          "text": "It is bactericidal, because its MIC is lower than that of the first agent"
+        },
+        {
+          "label": "C",
+          "text": "It is bacteriostatic, because its MBC/MIC ratio is above 4"
+        },
+        {
+          "label": "D",
+          "text": "It is the better therapeutic option, because its MIC is lower"
+        },
+        {
+          "label": "E",
+          "text": "It is time dependent, because its MBC is far above its MIC"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An MBC/MIC ratio greater than 4 defines a bacteriostatic agent.",
+        "whyCorrect": "Here the ratio is 8 divided by 0.5, or 16, which is well above 4, so this agent is classified as bacteriostatic against this isolate. Bacteriostatic agents halt bacterial growth and replication, which lets an immunocompetent host clear the organism.",
+        "whyWrongByChoice": {
+          "A": "The ratio is 16, not 4 or less.",
+          "B": "A low MIC says nothing about whether the drug kills; the MBC/MIC relationship does.",
+          "D": "A lower MIC does not make an antibiotic the better choice, and MICs should not be compared across drugs.",
+          "E": "Time dependence describes how drug concentration relates to the MIC over time, not the MBC/MIC gap."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "morphology",
-        "spirochetes"
+        "MBC/MIC ratio",
+        "bacteriostatic"
       ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
       "tier": "core"
     },
     {
-      "id": "mi05-007",
-      "stem": "A Gram stain of pus from a skin abscess shows gram-positive cocci bunched together in irregular, grape-like groups. Which genus has this arrangement?",
+      "id": "mi04-009",
+      "stem": "An otherwise healthy 22-year-old woman is treated with a bacteriostatic antibiotic for a skin infection and recovers completely. Which of the following best explains how a drug that does not kill bacteria cured her infection?",
       "choices": [
         {
           "label": "A",
-          "text": "Clostridium"
+          "text": "Halting bacterial growth let her immune system clear the organism"
         },
         {
           "label": "B",
-          "text": "Corynebacterium"
+          "text": "The drug lowered the organism's MIC below the published breakpoint"
         },
         {
           "label": "C",
-          "text": "Neisseria"
+          "text": "The drug raised the organism's MBC and cut the colony count by 99.9%"
         },
         {
           "label": "D",
-          "text": "Staphylococcus"
+          "text": "The drug reached a peak many times above the organism's MBC"
         },
         {
           "label": "E",
-          "text": "Streptococcus"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Gram-positive cocci in grape-like clusters are staphylococci.",
-        "whyCorrect": "Grouping patterns are recorded alongside shape. Clusters, in which the bacteria bunch together like grapes, are the arrangement of Staphylococcus spp., and all Staphylococcus spp. are gram-positive cocci in clusters.",
-        "whyWrongByChoice": {
-          "A": "Clostridium organisms are gram-positive rods that grow only without oxygen.",
-          "B": "Corynebacterium organisms are club-shaped rods, not cocci.",
-          "C": "Neisseria spp. are gram-negative organisms that form pairs, not clusters.",
-          "E": "Streptococcus spp. form short single-file chains rather than clusters."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "morphology",
-        "Staphylococcus"
-      ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
-    },
-    {
-      "id": "mi05-008",
-      "stem": "A woman with vulvovaginal itching and thick white discharge has a swab sent for culture, and the laboratory needs to recover the suspected yeast from a site that carries heavy normal bacterial flora. Which medium is designed for this purpose?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Eosin methylene blue agar"
-        },
-        {
-          "label": "B",
-          "text": "MacConkey agar"
-        },
-        {
-          "label": "C",
-          "text": "Mannitol salt agar"
-        },
-        {
-          "label": "D",
-          "text": "Sabouraud dextrose agar"
-        },
-        {
-          "label": "E",
-          "text": "Thayer-Martin agar"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Sabouraud dextrose agar is the selective medium for fungi.",
-        "whyCorrect": "Sabouraud dextrose agar has an acidic pH and contains antibiotics that inhibit bacterial growth, so it is selective for fungi such as Candida spp. and Aspergillus spp. Candidiasis occurs at sites loaded with normal flora, which is exactly when a selective fungal medium is needed.",
-        "whyWrongByChoice": {
-          "A": "Eosin methylene blue agar is used for gram-negative bacteria and their lactose fermentation.",
-          "B": "MacConkey agar is aimed at gram-negative bacteria through bile salts and crystal violet.",
-          "C": "Mannitol salt agar uses high salt to select staphylococci, not yeast.",
-          "E": "Thayer-Martin agar contains nystatin to inhibit fungi, so it would suppress the organism being sought."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "selective agar",
-        "fungi"
-      ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
-    },
-    {
-      "id": "mi05-009",
-      "stem": "Thayer-Martin medium is inoculated with a specimen to recover Neisseria gonorrhoeae. Which component of this medium suppresses the gram-positive bacteria present in the specimen?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bile salts"
-        },
-        {
-          "label": "B",
-          "text": "Colistin"
-        },
-        {
-          "label": "C",
-          "text": "Nystatin"
-        },
-        {
-          "label": "D",
-          "text": "Trimethoprim"
-        },
-        {
-          "label": "E",
-          "text": "Vancomycin"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Vancomycin is the Thayer-Martin ingredient that inhibits gram-positive bacteria.",
-        "whyCorrect": "Thayer-Martin agar contains antibiotics that inhibit most bacteria and fungi so that Neisseria can be isolated. Within that mixture, vancomycin is the agent directed at gram-positive bacteria.",
-        "whyWrongByChoice": {
-          "A": "Bile salts are a MacConkey agar ingredient and are not part of Thayer-Martin medium.",
-          "B": "Colistin inhibits most gram-negative bacteria other than the Neisseria being selected.",
-          "C": "Nystatin is included in Thayer-Martin agar to inhibit fungi, not gram-positive bacteria.",
-          "D": "Trimethoprim likewise acts against most gram-negative bacteria in the specimen."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "selective agar",
-        "Neisseria"
-      ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
-    },
-    {
-      "id": "mi05-010",
-      "stem": "A rectal swab from a man being screened for gonorrhea is plated on both chocolate agar and Thayer-Martin agar. The chocolate plate is overgrown with mixed colonies, while the Thayer-Martin plate yields only a few distinct colonies. Which statement best explains this difference?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Chocolate agar changes color when the normal flora ferment lactose."
-        },
-        {
-          "label": "B",
-          "text": "Chocolate agar lacks the nutrients that Neisseria requires for growth."
-        },
-        {
-          "label": "C",
-          "text": "Thayer-Martin agar contains antibiotics that suppress the normal flora."
-        },
-        {
-          "label": "D",
-          "text": "Thayer-Martin agar forms a black precipitate with the normal flora."
-        },
-        {
-          "label": "E",
-          "text": "Thayer-Martin agar lyses the organisms that are soluble in bile salts."
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Selective media are used at sites rich in normal flora so the pathogen is not overgrown.",
-        "whyCorrect": "The rectum carries heavy normal flora. On a non-selective agar such as chocolate agar, that flora overwhelms the plate and makes N. gonorrhoeae very difficult to isolate. Thayer-Martin agar contains antibiotics that suppress the competing organisms, leaving Neisseria to grow.",
-        "whyWrongByChoice": {
-          "A": "Chocolate agar is not a lactose-based differential medium, so no fermentation color change occurs.",
-          "B": "Chocolate agar supports Neisseria growth well; the problem is overgrowth by other organisms, not a lack of nutrients.",
-          "D": "A black precipitate signals hydrogen sulfide production on triple sugar iron agar, not growth on Thayer-Martin agar.",
-          "E": "Bile solubility is a separate assay used with the alpha-hemolytic streptococci, not a property of Thayer-Martin agar."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "selective agar",
-        "normal flora"
-      ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
-    },
-    {
-      "id": "mi05-011",
-      "stem": "Colonies growing on blood agar are surrounded by a greenish-brown zone of discoloration, but the agar around them is not cleared. Which description of this result is correct?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Alpha hemolysis, from partial oxidation of hemoglobin"
-        },
-        {
-          "label": "B",
-          "text": "Beta hemolysis, from complete lysis of red blood cells"
-        },
-        {
-          "label": "C",
-          "text": "Beta hemolysis, from partial oxidation of hemoglobin"
-        },
-        {
-          "label": "D",
-          "text": "Gamma hemolysis, from an absence of red cell lysis"
-        },
-        {
-          "label": "E",
-          "text": "Gamma hemolysis, from complete lysis of red blood cells"
+          "text": "The drug was converted to a bactericidal metabolite in the tissue"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Greenish discoloration without clearing is alpha hemolysis.",
-        "whyCorrect": "Blood agar contains sheep's blood and is used to read hemolytic patterns. Alpha hemolysis is partial oxidation of hemoglobin, which produces a greenish or brown discoloration around the colonies without clearing the agar.",
+        "summary": "Bacteriostatic agents stop bacterial growth and replication so that an immunocompetent host can clear the infection.",
+        "whyCorrect": "Bacteriostatic antibacterials halt the growth of bacteria. When bacterial growth and replication are halted, the immunocompetent host is able to clear the organism more easily, which makes these agents as effective as bactericidal agents for most infections.",
         "whyWrongByChoice": {
-          "B": "Beta hemolysis is complete hemolysis and produces a clear zone, which is not present here.",
-          "C": "Beta hemolysis is complete lysis, not partial oxidation of hemoglobin.",
-          "D": "Gamma hemolysis means no hemolysis and no change in the agar, but this plate shows discoloration.",
-          "E": "Gamma hemolysis specifically involves no lysis of red blood cells at all."
+          "B": "Antibiotics do not lower an organism's MIC; the MIC is an inherent property of the organism-drug pair.",
+          "C": "A 99.9% reduction in colony count defines the MBC and describes bactericidal, not bacteriostatic, action.",
+          "D": "Exceeding the MBC would mean the drug is acting as a bactericidal agent.",
+          "E": "Conversion to a killing metabolite is not how bacteriostatic activity produces cure."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "blood agar",
-        "hemolysis"
+        "bacteriostatic",
+        "host immunity"
       ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
       "tier": "core"
     },
     {
-      "id": "mi05-012",
-      "stem": "A throat culture from a child with pharyngitis grows colonies on blood agar that are surrounded by a completely clear, transparent zone. Which organism is most consistent with this finding?",
+      "id": "mi04-010",
+      "stem": "Two agents are tested against the same isolate. For agent Y the MBC is only slightly higher than the MIC, whereas for agent Z the MBC is many times the MIC. Which of the following statements about agent Y is most accurate?",
       "choices": [
         {
           "label": "A",
-          "text": "Enterococcus faecalis"
+          "text": "It behaves more bactericidally than agent Z"
         },
         {
           "label": "B",
-          "text": "Streptococcus mitis"
+          "text": "It has a broader spectrum of activity than agent Z"
         },
         {
           "label": "C",
-          "text": "Streptococcus mutans"
+          "text": "It reaches higher tissue concentrations than agent Z"
         },
         {
           "label": "D",
-          "text": "Streptococcus pneumoniae"
+          "text": "It requires less frequent dosing than agent Z"
         },
         {
           "label": "E",
-          "text": "Streptococcus pyogenes"
+          "text": "It selects for resistance more readily than agent Z"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "As the MIC approaches the MBC, an agent is considered more bactericidal.",
+        "whyCorrect": "Classification as bacteriostatic or bactericidal rests on the comparison of MIC to MBC. When the two values converge, only a little more drug is needed to kill than to inhibit, so the agent is considered more bactericidal; a wide gap indicates bacteriostatic behavior.",
+        "whyWrongByChoice": {
+          "B": "Spectrum reflects which organisms an agent covers, which these two values do not describe.",
+          "C": "Tissue penetration is a pharmacokinetic property and cannot be inferred from MIC and MBC values.",
+          "D": "Dosing frequency follows the pharmacodynamic parameter, such as time above MIC, not the MBC/MIC ratio.",
+          "E": "Nothing about a narrow MBC/MIC gap implies greater selection for resistance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "MBC/MIC ratio",
+        "bactericidal"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "mi04-011",
+      "stem": "A 40-year-old man is admitted with a streptococcal infection of a native heart valve, and the team deliberately selects a bactericidal rather than a bacteriostatic regimen. Bactericidal therapy is generally preferred in which of the following pairs of infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis and otitis media"
+        },
+        {
+          "label": "B",
+          "text": "Cystitis and pharyngitis"
+        },
+        {
+          "label": "C",
+          "text": "Endocarditis and meningitis"
+        },
+        {
+          "label": "D",
+          "text": "Gastroenteritis and conjunctivitis"
+        },
+        {
+          "label": "E",
+          "text": "Sinusitis and bronchitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For most infections static and cidal agents perform similarly, but bactericidal drugs are preferred for endocarditis and meningitis.",
+        "whyCorrect": "Outcomes with appropriate bacteriostatic and bactericidal therapy are similar for most infections. Certain infections are the exception, because the immune system cannot act effectively at that anatomic location; endocarditis and meningitis are the classic settings in which bactericidal drugs are preferred.",
+        "whyWrongByChoice": {
+          "A": "Skin and middle ear infections in an immunocompetent host do not require cidal therapy.",
+          "B": "These are ordinary infections in which appropriately chosen static or cidal therapy performs similarly.",
+          "D": "These infections are not the settings in which killing rather than inhibition is required.",
+          "E": "Neither site poses the immune access problem that drives a cidal requirement."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bactericidal",
+        "endocarditis",
+        "meningitis"
+      ],
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
+      "tier": "core"
+    },
+    {
+      "id": "mi04-012",
+      "stem": "A 55-year-old woman admitted with a severe bloodstream infection has been on chronic immunosuppressive therapy for rheumatoid arthritis. Her condition improved initially but the infection is not resolving completely. Which of the following considerations most strongly favors choosing a bactericidal agent for her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bactericidal agents are dosed once daily and improve adherence"
+        },
+        {
+          "label": "B",
+          "text": "Bactericidal agents are less often reported as intermediate"
+        },
+        {
+          "label": "C",
+          "text": "Bactericidal agents have lower MICs than bacteriostatic agents"
+        },
+        {
+          "label": "D",
+          "text": "Bactericidal agents reach higher concentrations in every tissue"
+        },
+        {
+          "label": "E",
+          "text": "Her suppressed immune system cannot clear merely inhibited organisms"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "A clear zone on blood agar is beta hemolysis, seen with Streptococcus pyogenes.",
-        "whyCorrect": "Beta hemolysis is complete hemolysis, producing a clear zone around the colonies. Streptococcus pyogenes is the beta-hemolytic streptococcus typically recovered from pharyngitis.",
+        "summary": "Bacteriostatic therapy depends on a functioning immune system, so bactericidal agents are preferred in immunosuppressed patients.",
+        "whyCorrect": "Bacteriostatic agents work by halting growth so the host can clear the pathogen. In an immunosuppressed patient the immune system cannot take care of the pathogen once growth has been halted, so bactericidal agents are often preferred in these patients.",
         "whyWrongByChoice": {
-          "A": "Enterococcus faecalis shows gamma hemolysis with no change in the agar.",
-          "B": "Streptococcus mitis is also a viridans group organism with an alpha-hemolytic pattern.",
-          "C": "Streptococcus mutans belongs to the viridans group and is alpha hemolytic.",
-          "D": "Streptococcus pneumoniae is alpha hemolytic, giving greenish discoloration rather than clearing."
+          "A": "Dosing frequency follows the pharmacodynamic parameter, and many cidal drugs are dosed several times daily.",
+          "B": "Intermediate is an interpretive category based on MIC and is unrelated to cidal or static class.",
+          "C": "MIC values depend on the organism-drug pair and do not track with cidal versus static classification.",
+          "D": "Tissue penetration varies by drug and site and is not a property of bactericidal agents as a group."
         }
       },
-      "difficulty": "easy",
+      "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "blood agar",
-        "beta hemolysis"
+        "bactericidal",
+        "immunosuppression"
       ],
-      "topicId": "gram-positive-and-negative-algorithms",
-      "topicName": "Gram-Positive and Negative Algorithms",
+      "topicId": "principles-of-antibacterial-drugs",
+      "topicName": "Principles of Antibacterial Drugs",
       "tier": "core"
     }
   ]

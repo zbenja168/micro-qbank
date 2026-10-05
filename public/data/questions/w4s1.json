@@ -1,6 +1,6 @@
 {
-  "categoryId": "mycology",
-  "categoryName": "Mycology",
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
   "questions": [
     {
       "id": "mi43-001",
@@ -1683,557 +1683,567 @@
       "tier": "core"
     },
     {
-      "id": "mi47-001",
-      "stem": "A 30-year-old man has an intensely itchy, scaly, ring-shaped patch on his forearm. A scraping grows a filamentous fungus that grows readily on dead, keratinized tissue. Which nutrient does this group of fungi prefer, and which secreted enzyme do they use to obtain it?",
+      "id": "mi46-001",
+      "stem": "A pharmacology instructor asks why antifungal drugs can be given to patients at all, given that fungi and humans are both eukaryotes that require an aerobic environment. Which of the following components of the fungal cell provides the clearest opportunity for selective toxicity?",
       "choices": [
         {
           "label": "A",
-          "text": "Chitin, broken down by secreted chitinase"
+          "text": "Cholesterol within the plasma membrane"
         },
         {
           "label": "B",
-          "text": "Collagen, broken down by secreted collagenase"
+          "text": "Ergosterol within the plasma membrane"
         },
         {
           "label": "C",
-          "text": "Glycogen, broken down by secreted amylase"
+          "text": "Lipopolysaccharide within the outer leaflet"
         },
         {
           "label": "D",
-          "text": "Keratin, broken down by secreted keratinase"
+          "text": "Peptidoglycan within the cell envelope"
         },
         {
           "label": "E",
-          "text": "Sebum lipids, broken down by secreted lipase"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Dermatophytes feed on keratin using secreted keratinase.",
-        "whyCorrect": "Dermatophytes colonize keratinized tissues (skin, hair, and nails). Keratin is a structural protein of those tissues, and dermatophytes secrete keratinase to degrade keratin and use it as an energy source. This is why they stay confined to keratinized structures rather than invading deeper.",
-        "whyWrongByChoice": {
-          "A": "Chitin is a component of the fungal cell wall itself, the target of calcofluor white stain, not a host nutrient.",
-          "B": "Collagen is a dermal protein; dermatophytes do not penetrate into the dermis and do not feed on collagen.",
-          "C": "Glycogen is the fungal cell-wall carbohydrate that PAS stain binds; it is not the nutrient dermatophytes harvest from the host.",
-          "E": "Lipids are the preferred energy source of Malassezia spp., which is precisely why Malassezia is not classified as a dermatophyte."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "dermatophytes",
-        "keratinase"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-002",
-      "stem": "A 26-year-old woman has an itchy, scaly annular rash on her trunk. There is no pus, no fluctuance, and no deep swelling. The infection is confined to the layer of dead, keratinized cells that shields the living epidermis from the environment. Which layer is involved?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Papillary dermis"
-        },
-        {
-          "label": "B",
-          "text": "Reticular dermis"
-        },
-        {
-          "label": "C",
-          "text": "Stratum basale"
-        },
-        {
-          "label": "D",
-          "text": "Stratum corneum"
-        },
-        {
-          "label": "E",
-          "text": "Stratum spinosum"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Dermatophyte infections are limited to the stratum corneum, the outermost keratinized layer.",
-        "whyCorrect": "The stratum corneum is made of dead, keratinized cells and protects healthy cells from the external environment. Dermatophytes impact only this outermost layer, which is why their infections are itchy and scaly rather than purulent or swollen the way deeper bacterial infections are.",
-        "whyWrongByChoice": {
-          "A": "Dermatophytes do not penetrate into the dermis; dermal involvement would suggest a different organism such as S. schenckii.",
-          "B": "The reticular dermis is deeper still and is unaffected in superficial dermatophyte infection.",
-          "C": "The stratum basale is the deepest, actively dividing epidermal layer and is not colonized by dermatophytes.",
-          "E": "The stratum spinosum lies deep to the granulosum and lucidum and contains living, non-keratinized cells."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "dermatophytes",
-        "skin anatomy"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-003",
-      "stem": "A dermatologist wants to name the one dermatophyte genus that routinely causes disease in all three keratinized sites: skin, hair, and nails. Which genus fits that description?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epidermophyton spp."
-        },
-        {
-          "label": "B",
-          "text": "Malassezia spp."
-        },
-        {
-          "label": "C",
-          "text": "Microsporum spp."
-        },
-        {
-          "label": "D",
-          "text": "Sporothrix schenckii"
-        },
-        {
-          "label": "E",
-          "text": "Trichophyton spp."
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Trichophyton spp. cause skin, hair, and nail infections.",
-        "whyCorrect": "Of the three dermatophyte genera, Trichophyton spp. are the ones described as causing skin, hair, and nail infections. This broad tissue range is why Trichophyton species appear as common causes of tinea corporis, cruris, pedis, barbae, capitis, and unguium.",
-        "whyWrongByChoice": {
-          "A": "Epidermophyton spp. cause skin and nail infections but not hair infections.",
-          "B": "Malassezia spp. are not dermatophytes at all; they use lipids and cause pityriasis versicolor.",
-          "C": "Microsporum spp. cause skin and hair infections and only rarely cause nail infections.",
-          "D": "Sporothrix schenckii is a dimorphic fungus causing subcutaneous, lymphocutaneous disease, not a dermatophyte."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "dermatophytes",
-        "taxonomy"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-004",
-      "stem": "A 42-year-old man has had recurrent tinea cruris and thickened, discolored toenails for years, but has never had scalp or beard involvement. Which dermatophyte genus characteristically infects skin and nails while sparing hair?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epidermophyton spp."
-        },
-        {
-          "label": "B",
-          "text": "Malassezia spp."
-        },
-        {
-          "label": "C",
-          "text": "Microsporum spp."
-        },
-        {
-          "label": "D",
-          "text": "Sporothrix schenckii"
-        },
-        {
-          "label": "E",
-          "text": "Trichophyton spp."
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Epidermophyton spp. infect skin and nails, not hair.",
-        "whyCorrect": "Epidermophyton spp. are listed as causing skin and nail infections only. Epidermophyton floccosum is among the most common causes of tinea cruris, tinea pedis, tinea corporis, and tinea unguium, but it does not figure among causes of the hair-bearing tineas.",
-        "whyWrongByChoice": {
-          "B": "Malassezia spp. are lipid-dependent yeasts causing pityriasis versicolor, not nail disease.",
-          "C": "Microsporum spp. infect skin and hair and only rarely nails, the opposite of this pattern.",
-          "D": "Sporothrix schenckii causes ulcerating nodules along lymphatics after skin puncture, not tinea.",
-          "E": "Trichophyton spp. infect skin, hair, and nails, so hair-bearing sites would not be spared."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Epidermophyton",
-        "taxonomy"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-005",
-      "stem": "A microbiology instructor asks which dermatophyte genus is described as causing skin and hair infections while only rarely infecting nails. Which of the following is correct?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epidermophyton spp., which infect skin and nails"
-        },
-        {
-          "label": "B",
-          "text": "Malassezia spp., which infect sebum-rich skin"
-        },
-        {
-          "label": "C",
-          "text": "Microsporum spp., which infect skin and hair"
-        },
-        {
-          "label": "D",
-          "text": "Sporothrix schenckii, which infects lymphatics"
-        },
-        {
-          "label": "E",
-          "text": "Trichophyton spp., which infect skin, hair, nails"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Microsporum spp. cause skin and hair infections and rarely nail infections.",
-        "whyCorrect": "Microsporum spp. are described as causing skin and hair infections, rarely causing nail infections. This matches their clinical profile: Microsporum canis is a frequent cause of tinea capitis and of tinea corporis among pet owners, but it is not on the list of common onychomycosis pathogens.",
-        "whyWrongByChoice": {
-          "A": "Epidermophyton spp. spare hair entirely, so they do not match a skin-and-hair pattern.",
-          "B": "Malassezia spp. are not dermatophytes and cause pityriasis versicolor on sebum-rich skin.",
-          "D": "Sporothrix schenckii is not a dermatophyte and spreads along lymphatic channels after inoculation.",
-          "E": "Trichophyton spp. routinely infect nails as well, so nail infection is not rare for them."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Microsporum",
-        "taxonomy"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-006",
-      "stem": "A 19-year-old has an expanding lesion on the shoulder with an inflamed, red, scaly advancing border and skin in the center that looks nearly normal. Which mechanism best explains this ring-shaped appearance?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Keratinase is secreted only at the leading edge and never within the older central skin"
-        },
-        {
-          "label": "B",
-          "text": "Neutrophilic pus accumulates centrally and lifts the infected scale off the skin surface"
-        },
-        {
-          "label": "C",
-          "text": "Scratching mechanically strips the infected stratum corneum away from the lesion center"
-        },
-        {
-          "label": "D",
-          "text": "The fungus exhausts available keratin centrally and then migrates outward to fresh tissue"
-        },
-        {
-          "label": "E",
-          "text": "The immune response partially clears the center while the fungus keeps spreading outward"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Central clearing results from the immune system clearing the center while the infection spreads peripherally.",
-        "whyCorrect": "As a tinea lesion spreads, the immune system fights the infection and partially clears it in the center while the infection continues to spread outward. The result is centralized clearing with an inflamed, red, scaly advancing border, which is what gives tinea lesions their ring appearance.",
-        "whyWrongByChoice": {
-          "A": "Keratinase secretion is how dermatophytes feed throughout the lesion; it is not restricted to the border.",
-          "B": "Dermatophyte infections are characteristically non-purulent; pus suggests bacterial co-infection instead.",
-          "C": "Scratching causes breaks in the skin that admit bacteria; it does not create the ring morphology.",
-          "D": "Keratin is not depleted; the stratum corneum is continuously renewed and there is no described nutrient-exhaustion mechanism."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "tinea corporis",
-        "central clearing"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-007",
-      "stem": "A 21-year-old collegiate wrestler has an itchy, red, scaly eruption with an advancing border involving the groin, inner thighs, and scrotum. Which tinea infection does this describe?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Tinea barbae"
-        },
-        {
-          "label": "B",
-          "text": "Tinea corporis"
-        },
-        {
-          "label": "C",
-          "text": "Tinea cruris"
-        },
-        {
-          "label": "D",
-          "text": "Tinea manuum"
-        },
-        {
-          "label": "E",
-          "text": "Tinea pedis"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Tinea cruris is jock itch, the dermatophyte infection of the groin.",
-        "whyCorrect": "Tinea cruris (jock itch) affects the groin and surrounding regions and can involve the thighs, buttocks, and scrotum. It is common in athletes because the thighs rub together during exercise and cause skin damage, increasing the likelihood of infection; tight-fitting clothing contributes for the same reason.",
-        "whyWrongByChoice": {
-          "A": "Tinea barbae affects the beard area of the face.",
-          "B": "Tinea corporis is ringworm of the body; it can occur near folds but is not the groin-specific name.",
-          "D": "Tinea manuum is infection of the hands.",
-          "E": "Tinea pedis is athlete's foot, affecting the feet, typically starting between the toes."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "tinea cruris",
-        "nomenclature"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-008",
-      "stem": "A 60-year-old woman has thick, discolored, brittle toenails, and the junction between the nail and the surrounding skin has become disconnected. This infection is also known as onychomycosis. What is the corresponding tinea name?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Tinea barbae"
-        },
-        {
-          "label": "B",
-          "text": "Tinea capitis"
-        },
-        {
-          "label": "C",
-          "text": "Tinea corporis"
-        },
-        {
-          "label": "D",
-          "text": "Tinea manuum"
-        },
-        {
-          "label": "E",
-          "text": "Tinea unguium"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Tinea unguium is nail infection, also called onychomycosis.",
-        "whyCorrect": "Tinea unguium is the dermatophyte infection of the nails, also called onychomycosis. It is characterized by thick, discolored nails that may become brittle and break off, and the intersection between the nail and surrounding skin may become disconnected.",
-        "whyWrongByChoice": {
-          "A": "Tinea barbae affects the beard area.",
-          "B": "Tinea capitis is scalp infection, most common in children.",
-          "C": "Tinea corporis is ringworm of the body.",
-          "D": "Tinea manuum is infection of the hands, not of the nail plate itself."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "tinea unguium",
-        "onychomycosis"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-009",
-      "stem": "A 6-year-old boy has an inflamed, scaly scalp patch with irregular, patchy hair loss. On close inspection the hairs in the affected area are short and stubby and appear as black dots at the scalp surface. Which mechanism explains this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Comedones form as excess sebum plugs the openings of the hair follicles"
-        },
-        {
-          "label": "B",
-          "text": "Hemorrhage into the hair follicles is caused by vigorous, repeated scratching"
-        },
-        {
-          "label": "C",
-          "text": "Melanin granules are deposited into the follicular openings by the fungus"
-        },
-        {
-          "label": "D",
-          "text": "Pigmented fungal colonies grow outward on the surface of the scalp skin"
-        },
-        {
-          "label": "E",
-          "text": "The fungus infects the hair, making it brittle so it breaks before growing out"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Black dots in tinea capitis are hairs made brittle by fungal invasion that break off at the scalp.",
-        "whyCorrect": "In tinea capitis, the fungus infects the hair itself, making it brittle so that it breaks off before it can grow out. The residual short, stubby hairs appear as black dots. The associated hair loss is irregular and patchy and is temporary with prompt treatment.",
-        "whyWrongByChoice": {
-          "A": "Sebum plugging produces comedones, which is a feature of acne rather than dermatophyte infection.",
-          "B": "Scratching can break the skin and admit bacteria but does not produce the black-dot hair pattern.",
-          "C": "There is no described fungal deposition of melanin into follicles in tinea capitis.",
-          "D": "The appearance comes from broken hair shafts, not surface colonies of pigmented fungus."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "tinea capitis",
-        "black dots"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-010",
-      "stem": "A 4-year-old boy has scaly scalp patches with central clearing, an advancing red border, and broken-off hairs. He sleeps with the family dog. A Wood's lamp examination is positive, and a KOH preparation with stain shows microconidia and rough-walled, spindle-shaped macroconidia. Which organism is most likely responsible?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epidermophyton floccosum"
-        },
-        {
-          "label": "B",
-          "text": "Malassezia globosa"
-        },
-        {
-          "label": "C",
-          "text": "Microsporum canis"
-        },
-        {
-          "label": "D",
-          "text": "Trichophyton rubrum"
-        },
-        {
-          "label": "E",
-          "text": "Trichophyton verrucosum"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "A pet-associated, Wood's-lamp-positive tinea capitis with spindle-shaped macroconidia is Microsporum canis.",
-        "whyCorrect": "Microsporum canis is the dermatophyte that commonly comes from pets, it fluoresces under a Wood's lamp, and Microsporum spp. show rough-walled, spindle-shaped macroconidia with microconidia present. Scalp infections are most frequently caused by Trichophyton and Microsporum species, and tinea capitis is most common in children.",
-        "whyWrongByChoice": {
-          "A": "Epidermophyton produces smooth, club-shaped macroconidia with no microconidia, and it does not infect hair.",
-          "B": "Malassezia globosa causes pityriasis versicolor and shows yeast with short hyphae, not macroconidia.",
-          "D": "Trichophyton spp. show cigar-shaped macroconidia with spiraled hyphae, not spindle-shaped macroconidia.",
-          "E": "Trichophyton verrucosum is acquired from livestock and is the usual cause of tinea barbae in farmers."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Microsporum canis",
-        "Wood's lamp",
-        "tinea capitis"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-011",
-      "stem": "A 45-year-old dairy farmer has itchy, red, crusted lesions in his beard area with patchy loss of beard hair. He handles cattle daily and has no rodent exposure. Which organism is the most likely cause?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Epidermophyton floccosum"
-        },
-        {
-          "label": "B",
-          "text": "Malassezia furfur"
-        },
-        {
-          "label": "C",
-          "text": "Microsporum canis"
-        },
-        {
-          "label": "D",
-          "text": "Trichophyton mentagrophytes"
-        },
-        {
-          "label": "E",
-          "text": "Trichophyton verrucosum"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Trichophyton verrucosum causes livestock-associated tinea barbae.",
-        "whyCorrect": "Trichophyton verrucosum causes infections in livestock, and in farmers and others who work with livestock it is the most common cause of tinea barbae. Tinea barbae presents with itchy, red, crusted lesions of the beard area and, like tinea capitis, can cause hair loss in the affected area.",
-        "whyWrongByChoice": {
-          "A": "Epidermophyton floccosum does not infect hair and so is not a cause of tinea barbae.",
-          "B": "Malassezia furfur is a lipid-dependent yeast causing pityriasis versicolor, not beard infection.",
-          "C": "Microsporum canis is the pet-associated dermatophyte, typically from dogs and cats rather than cattle.",
-          "D": "Trichophyton mentagrophytes is shed by rodents and is more common in urban environments."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "tinea barbae",
-        "Trichophyton verrucosum",
-        "zoonotic"
-      ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
-      "tier": "core"
-    },
-    {
-      "id": "mi47-012",
-      "stem": "A 25-year-old man has itchy, macerated, scaly skin between his fourth and fifth toes. Which clinical form of tinea pedis is this, and how common is it relative to the others?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Interdigital (toe web) form, the least common form"
-        },
-        {
-          "label": "B",
-          "text": "Interdigital (toe web) form, the most common form"
-        },
-        {
-          "label": "C",
-          "text": "Moccasin (chronic hyperkeratotic) form, the most common form"
-        },
-        {
-          "label": "D",
-          "text": "Ulcerative form, the most common form"
-        },
-        {
-          "label": "E",
-          "text": "Vesiculobullous form, the most common form"
+          "text": "Phosphatidylcholine within the lipid bilayer"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The interdigital (toe web) form is the most common presentation of tinea pedis.",
-        "whyCorrect": "Tinea pedis typically starts between the toes and extends outward. The interdigital, or toe web, form is listed as the most common presentation, predominantly involving the skin between the toes.",
+        "summary": "Ergosterol is the sterol unique to fungal cell membranes and is a principal antifungal target.",
+        "whyCorrect": "Fungi are eukaryotic and share most cellular machinery with human cells, which is exactly why antifungal therapy risks host toxicity. Their membranes are unique in containing ergosterol rather than cholesterol. Polyenes bind ergosterol directly, and azoles and terbinafine block its synthesis, so ergosterol is the basis for selective toxicity.",
         "whyWrongByChoice": {
-          "A": "The site is correctly identified but the frequency is wrong; the interdigital form is the most common.",
-          "C": "The moccasin form is a recognized presentation but is not the most common one.",
-          "D": "Ulceration is a rare complication of tinea pedis, mostly in immunocompromised and diabetic patients.",
-          "E": "The vesiculobullous form produces painful, itchy blisters and is not the most common form."
+          "A": "Cholesterol is the sterol of human membranes; it is the reason polyenes still cause host toxicity, not a selective target.",
+          "C": "Lipopolysaccharide is found in the outer membrane of gram-negative bacteria and is absent from fungi.",
+          "D": "Peptidoglycan is a bacterial cell wall polymer; the fungal wall is built of chitin and beta-glucans instead.",
+          "E": "Phosphatidylcholine is a standard phospholipid of human membranes as well, so targeting it would injure host cells."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "tinea pedis",
-        "interdigital"
+        "fungal biology",
+        "ergosterol",
+        "selective toxicity"
       ],
-      "topicId": "fungal-skin-infections",
-      "topicName": "Fungal Skin Infections",
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-002",
+      "stem": "A 57-year-old man with disseminated fungal infection is started on intravenous amphotericin B. Laboratory study of the drug shows that treated fungal cells leak intracellular potassium and small molecules before dying. Which of the following best describes the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds ergosterol and forms pores that allow cell contents to leak"
+        },
+        {
+          "label": "B",
+          "text": "Disrupts microtubule function and arrests fungal cell division"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits 14-alpha-sterol demethylase and blocks ergosterol formation"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits beta-glucan synthesis and weakens the fungal cell wall"
+        },
+        {
+          "label": "E",
+          "text": "Is converted to fluorouracil and blocks fungal nucleic acid synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyenes such as amphotericin B bind ergosterol and punch pores in the fungal membrane, acting as fungicidal agents.",
+        "whyCorrect": "Amphotericin B is a polyene that binds directly to ergosterol in the fungal cell membrane. The resulting pores alter membrane permeability so that cell contents leak out, and the fungal cell dies. Because the organism is killed rather than merely inhibited, polyenes are fungicidal.",
+        "whyWrongByChoice": {
+          "B": "Interference with microtubule function in keratin-rich tissue describes griseofulvin.",
+          "C": "Blockade of 14-alpha-sterol demethylase is the azole mechanism; azoles prevent ergosterol formation instead of binding it.",
+          "D": "Inhibition of beta-glucan synthesis is the mechanism of the echinocandins, which act on the cell wall rather than the membrane.",
+          "E": "Conversion to fluorouracil with interference in DNA and RNA synthesis describes flucytosine."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "polyenes",
+        "amphotericin B",
+        "mechanism of action"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-003",
+      "stem": "A Candida isolate recovered from a patient whose infection is progressing despite amphotericin B therapy is studied in the laboratory. Binding assays show that the drug now has markedly reduced affinity for the organism's membrane. Which of the following is the most likely basis for this resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased membrane ergosterol with an altered sterol target"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic cleavage of the drug by a secreted fungal esterase"
+        },
+        {
+          "label": "C",
+          "text": "Increased efflux of the drug by a membrane transport pump"
+        },
+        {
+          "label": "D",
+          "text": "Loss of cytosine deaminase activity within the fungal cell"
+        },
+        {
+          "label": "E",
+          "text": "Mutation of beta-glucan synthase that lowers drug binding"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Polyene resistance arises from less ergosterol in the membrane or an altered sterol that the drug binds poorly.",
+        "whyCorrect": "Because amphotericin B works by binding ergosterol, resistance follows from changes to that target. Fungi can lower the concentration of ergosterol in the membrane or modify the sterol itself, and either change reduces the affinity of the drug for the membrane. Without adequate binding, pores do not form and the organism survives.",
+        "whyWrongByChoice": {
+          "B": "Enzymatic destruction of the drug is not among the polyene resistance mechanisms described for this class.",
+          "C": "An efflux pump is not the resistance mechanism described for polyenes, whose target lies in the membrane itself.",
+          "D": "Loss of the enzyme that converts flucytosine to fluorouracil would cause flucytosine resistance, not polyene resistance.",
+          "E": "Beta-glucan synthase is the echinocandin target in the cell wall and has nothing to do with polyene binding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polyenes",
+        "resistance",
+        "ergosterol"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-004",
+      "stem": "A 52-year-old man has received intravenous amphotericin B for 2 weeks. Serum studies show potassium 2.8 mEq/L, magnesium 1.2 mg/dL, bicarbonate 16 mEq/L, and a normal anion gap; the urine pH is inappropriately alkaline. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune complex glomerulonephritis provoked by the drug"
+        },
+        {
+          "label": "B",
+          "text": "Interstitial nephritis from a hypersensitivity reaction"
+        },
+        {
+          "label": "C",
+          "text": "Obstructive uropathy from drug crystal deposition"
+        },
+        {
+          "label": "D",
+          "text": "Prerenal azotemia from drug-related volume depletion"
+        },
+        {
+          "label": "E",
+          "text": "Renal tubular injury producing renal tubular acidosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amphotericin B injures the renal tubule, producing renal tubular acidosis with potassium and magnesium wasting.",
+        "whyCorrect": "Amphotericin B is nephrotoxic, and renal impairment occurs very frequently during therapy. Prolonged use causes renal tubular injury and subsequent tubular dysfunction. The classic consequences are renal tubular acidosis, which gives a normal anion gap acidosis with alkaline urine, and severe wasting of potassium and magnesium.",
+        "whyWrongByChoice": {
+          "A": "Glomerulonephritis would be expected to produce hematuria, proteinuria, and casts rather than isolated tubular electrolyte wasting.",
+          "B": "Hypersensitivity interstitial nephritis typically presents with rash, fever, and eosinophilia rather than this tubular acidosis picture.",
+          "C": "Crystal-induced obstruction is not an described toxicity of amphotericin B and would not create this electrolyte pattern.",
+          "D": "Prerenal azotemia raises the BUN-to-creatinine ratio and causes avid sodium and water retention, not potassium and magnesium loss with acidosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "nephrotoxicity",
+        "adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-005",
+      "stem": "A 44-year-old woman receiving amphotericin B for an invasive mold infection develops urine output of 5 L/day. Serum osmolality is elevated, urine osmolality is low, and the urine remains dilute after administration of desmopressin. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central diabetes insipidus from drug entry into the pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Nephrogenic diabetes insipidus from renal tubular toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic diuresis caused by drug-induced hyperglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Primary polydipsia related to drug-induced xerostomia"
+        },
+        {
+          "label": "E",
+          "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amphotericin B damages the renal tubule and can cause nephrogenic diabetes insipidus.",
+        "whyCorrect": "Among its renal toxicities, amphotericin B can produce nephrogenic diabetes insipidus. The injured tubule cannot respond to antidiuretic hormone, so large volumes of dilute urine are lost and the serum becomes concentrated. Failure of the urine to concentrate after desmopressin confirms that the defect is renal rather than central.",
+        "whyWrongByChoice": {
+          "A": "In central diabetes insipidus the kidney still responds to hormone, so desmopressin would concentrate the urine.",
+          "C": "An osmotic diuresis from glucose would raise, not lower, the urine osmolality, and hyperglycemia is not a described effect of this drug.",
+          "D": "Primary polydipsia produces a low rather than an elevated serum osmolality because the water load comes from excess intake.",
+          "E": "Inappropriate antidiuretic hormone secretion causes concentrated urine with hyponatremia, the opposite of this picture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "nephrotoxicity",
+        "diabetes insipidus"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-006",
+      "stem": "A 60-year-old woman has received amphotericin B for 6 weeks. Her hemoglobin has fallen from 12.6 to 8.9 g/dL. The anemia is normocytic with a low reticulocyte count, and iron, vitamin B12, and folate levels are normal. Which of the following best explains the anemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated destruction of marrow erythroid precursors"
+        },
+        {
+          "label": "B",
+          "text": "Direct hemolysis from drug binding to red blood cell membranes"
+        },
+        {
+          "label": "C",
+          "text": "Iron sequestration within macrophages during chronic illness"
+        },
+        {
+          "label": "D",
+          "text": "Marrow suppression from drug toxicity to dividing precursors"
+        },
+        {
+          "label": "E",
+          "text": "Reduced erythropoietin production by the drug-damaged kidney"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amphotericin B causes anemia indirectly, by injuring the kidney that makes erythropoietin.",
+        "whyCorrect": "Erythropoietin is produced in the kidney and drives red blood cell production. Amphotericin B is markedly nephrotoxic, so as the kidney is damaged less erythropoietin is available and fewer red blood cells are made. The result is a hypoproliferative anemia with a low reticulocyte count.",
+        "whyWrongByChoice": {
+          "A": "Immune destruction of erythroid precursors is not a described adverse reaction of amphotericin B.",
+          "B": "Hemolysis would raise the reticulocyte count and the indirect bilirubin rather than leave production suppressed.",
+          "C": "Anemia of chronic disease is not the mechanism attributed to this drug, and it does not explain the tight link to renal injury.",
+          "D": "Dose-dependent marrow suppression from nucleic acid damage is the mechanism of flucytosine, not amphotericin B."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "anemia",
+        "erythropoietin"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-007",
+      "stem": "A 66-year-old man with baseline chronic kidney disease requires amphotericin B for an invasive fungal infection. The pharmacy recommends a liposomal preparation rather than the conventional colloidal suspension. Which of the following is the principal advantage of the lipid-based product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete renal clearance of the unchanged drug"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of the agent from fungicidal to fungistatic"
+        },
+        {
+          "label": "C",
+          "text": "Greater penetration of the drug into the CNS"
+        },
+        {
+          "label": "D",
+          "text": "Lower incidence of drug-induced renal impairment"
+        },
+        {
+          "label": "E",
+          "text": "Reliable absorption after oral administration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adding lipid to amphotericin B formulations decreases its nephrotoxicity.",
+        "whyCorrect": "Amphotericin B is given intravenously as a nonlipid colloidal suspension, a lipid complex, or a liposomal formulation. The addition of lipid decreases the drug's nephrotoxicity, which matters most in a patient whose kidneys are already impaired. The antifungal mechanism itself is unchanged.",
+        "whyWrongByChoice": {
+          "A": "Amphotericin B is eliminated mainly by slow hepatic metabolism, with only a small fraction excreted in the urine.",
+          "B": "Amphotericin B remains fungicidal because it still forms pores in the membrane after binding ergosterol.",
+          "C": "The drug is distributed to all tissues except the central nervous system, and lipid formulation does not overcome that.",
+          "E": "Amphotericin B is poorly absorbed from the gastrointestinal tract regardless of formulation, which is why it is given intravenously."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "pharmacokinetics",
+        "formulations"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-008",
+      "stem": "A 49-year-old man with fungal meningitis is failing intravenous therapy because amphotericin B penetrates the central nervous system poorly. The team considers administering the drug by the intrathecal route. Which of the following adverse effects is most characteristic of this route of administration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute renal tubular injury with potassium wasting"
+        },
+        {
+          "label": "B",
+          "text": "Dose-dependent suppression of the bone marrow"
+        },
+        {
+          "label": "C",
+          "text": "Photosensitivity with cutaneous malignancy"
+        },
+        {
+          "label": "D",
+          "text": "Prolongation of the QTc interval on the ECG"
+        },
+        {
+          "label": "E",
+          "text": "Seizure activity with neurologic damage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intrathecal amphotericin B can cause seizures and neurologic damage.",
+        "whyCorrect": "Amphotericin B distributes to all tissues except the central nervous system, so intrathecal administration is sometimes used to reach the meninges. Delivering the drug directly into the cerebrospinal fluid exposes neural tissue to a compound that damages membranes. The described consequences are seizures and neurologic injury.",
+        "whyWrongByChoice": {
+          "A": "Tubular injury with potassium wasting follows systemic exposure to the drug and is not specific to intrathecal dosing.",
+          "B": "Dose-dependent myelosuppression is the hallmark toxicity of flucytosine rather than of amphotericin B.",
+          "C": "Photosensitivity and concern for cutaneous malignancy are linked to voriconazole among the antifungals.",
+          "D": "QTc prolongation is a class effect of the azoles, not of the polyenes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "intrathecal",
+        "adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-009",
+      "stem": "A 35-year-old man with fungal meningitis is to receive combination antifungal therapy. The team reviews how amphotericin B and flucytosine each reach the central nervous system. Which of the following statements most accurately contrasts the two drugs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amphotericin B enters the central nervous system but flucytosine does not"
+        },
+        {
+          "label": "B",
+          "text": "Both drugs achieve high concentrations in the central nervous system"
+        },
+        {
+          "label": "C",
+          "text": "Both drugs are kept out of the central nervous system by hepatic clearance"
+        },
+        {
+          "label": "D",
+          "text": "Flucytosine enters the central nervous system but amphotericin B does not"
+        },
+        {
+          "label": "E",
+          "text": "Neither drug reaches useful concentrations in the central nervous system"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Flucytosine distributes widely including the CNS, whereas amphotericin B reaches all tissues except the CNS.",
+        "whyCorrect": "Amphotericin B is distributed to all tissues except the central nervous system, which is why intrathecal dosing is ever considered. Flucytosine is effective orally and is distributed to most body tissues, explicitly including the central nervous system. This difference is one reason the two are paired in central nervous system fungal disease.",
+        "whyWrongByChoice": {
+          "A": "This reverses the two drugs; it is flucytosine, not amphotericin B, that enters the central nervous system.",
+          "B": "Amphotericin B does not achieve useful central nervous system concentrations after intravenous administration.",
+          "C": "Flucytosine is eliminated intact in the urine rather than cleared hepatically, and hepatic clearance is not what excludes a drug from the brain.",
+          "E": "Flucytosine does penetrate the central nervous system, so this understates its distribution."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "amphotericin B",
+        "flucytosine",
+        "CNS distribution"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-010",
+      "stem": "A 63-year-old woman with candidemia is started on fluconazole. The drug acts on an enzyme that converts lanosterol to ergosterol. Inhibition of which of the following enzymes accounts for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "14-alpha-sterol demethylase"
+        },
+        {
+          "label": "B",
+          "text": "Beta-glucan synthase"
+        },
+        {
+          "label": "C",
+          "text": "Chitin synthase of the cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Cytosine deaminase"
+        },
+        {
+          "label": "E",
+          "text": "Squalene epoxidase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Azoles inhibit 14-alpha-sterol demethylase, the fungal CYP450 enzyme that converts lanosterol to ergosterol.",
+        "whyCorrect": "Azoles block the formation of ergosterol by inhibiting 14-alpha-sterol demethylase, a cytochrome P450 enzyme that converts lanosterol to ergosterol. They have greater affinity for fungal than for human CYP enzymes, which provides their selectivity. Because growth is inhibited rather than the cell killed, azoles are fungistatic.",
+        "whyWrongByChoice": {
+          "B": "Beta-glucan synthase builds a cell wall polysaccharide and is the target of the echinocandins.",
+          "C": "Chitin synthase contributes to cell wall construction and is not the enzyme inhibited by azoles.",
+          "D": "Cytosine deaminase converts flucytosine to fluorouracil inside the fungal cell and is not inhibited by azoles.",
+          "E": "Squalene epoxidase is the step blocked by terbinafine, which acts earlier in the same pathway."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "mechanism of action",
+        "ergosterol synthesis"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-011",
+      "stem": "A neutropenic 58-year-old man with candidemia is discussed on rounds, and the team compares giving fluconazole with giving amphotericin B. Which of the following correctly contrasts these two drug classes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azoles are fungicidal whereas polyenes are fungistatic"
+        },
+        {
+          "label": "B",
+          "text": "Azoles are fungistatic whereas polyenes are fungicidal"
+        },
+        {
+          "label": "C",
+          "text": "Azoles form membrane pores and polyenes block sterol synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Both classes act on polysaccharides of the fungal cell wall"
+        },
+        {
+          "label": "E",
+          "text": "Both classes inhibit fungal DNA and RNA biosynthesis directly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Azoles inhibit fungal growth and are fungistatic; polyenes kill the organism and are fungicidal.",
+        "whyCorrect": "Azoles prevent new ergosterol from being made, which inhibits the growth of the fungal species and therefore makes them fungistatic. Polyenes bind the ergosterol already present and open pores, so cell contents leak and the organism dies, making them fungicidal. The distinction matters most in a profoundly neutropenic host who cannot help clear the organism.",
+        "whyWrongByChoice": {
+          "A": "This reverses the two classes; polyenes kill the organism while azoles only inhibit its growth.",
+          "C": "This swaps the mechanisms; polyenes form pores and azoles block ergosterol synthesis.",
+          "D": "Neither class targets cell wall polysaccharides; that is the mechanism of the echinocandins.",
+          "E": "Interference with DNA and RNA synthesis describes flucytosine, not azoles or polyenes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "polyenes",
+        "fungistatic vs fungicidal"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
+      "tier": "core"
+    },
+    {
+      "id": "mi46-012",
+      "stem": "A 34-year-old man treated with high-dose ketoconazole for several months develops bilateral gynecomastia and decreased libido. His female partner, treated with the same drug, reports menstrual irregularities. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct antagonism of androgen receptors in breast tissue"
+        },
+        {
+          "label": "B",
+          "text": "Increased peripheral conversion of testosterone to estradiol"
+        },
+        {
+          "label": "C",
+          "text": "Induction of hepatic enzymes that clear androgens more rapidly"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of mammalian CYP450 enzymes of steroid synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of prolactin release from the anterior pituitary"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ketoconazole inhibits mammalian CYP450 enzymes and thereby disrupts gonadal and adrenal steroid synthesis.",
+        "whyCorrect": "Azoles work by inhibiting a fungal CYP450 enzyme, and ketoconazole is unusually poor at sparing the human enzymes. It inhibits mammalian CYP450 enzymes, which disrupts gonadal and adrenal steroid synthesis. The clinical result is gynecomastia and decreased libido in men and menstrual irregularities in women.",
+        "whyWrongByChoice": {
+          "A": "Receptor blockade is not the described mechanism; the defect is in hormone synthesis rather than hormone action.",
+          "B": "Increased aromatization is not attributed to ketoconazole in this context.",
+          "C": "Ketoconazole inhibits rather than induces CYP450 enzymes; griseofulvin is the antifungal that acts as an inducer.",
+          "E": "Prolactin release is not a described effect of azole antifungals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "azoles",
+        "ketoconazole",
+        "endocrine adverse effects"
+      ],
+      "topicId": "antifungals-drugs-to-treat-fungal-infections",
+      "topicName": "Antifungals—Drugs to Treat Fungal Infections",
       "tier": "core"
     }
   ]

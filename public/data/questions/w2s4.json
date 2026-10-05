@@ -1,6 +1,6 @@
 {
-  "categoryId": "mycobacteria-atypicals",
-  "categoryName": "Mycobacteria, Atypicals & Tick-Borne Disease",
+  "categoryId": "w2s4",
+  "categoryName": "Session 4",
   "questions": [
     {
       "id": "mi26-001",
@@ -1692,6 +1692,1116 @@
       ],
       "topicId": "bacterial-tick-borne-diseases",
       "topicName": "Bacterial Tick-borne Diseases",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-001",
+      "stem": "A medical student is reviewing a group of antibiotics that bind the 50S ribosomal subunit, including azithromycin, linezolid, and the streptogramins. Which of the following best describes how these agents usually affect susceptible bacteria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bactericidal, by cleaving bacterial chromosomal DNA"
+        },
+        {
+          "label": "B",
+          "text": "Bactericidal, by collapsing the bacterial membrane potential"
+        },
+        {
+          "label": "C",
+          "text": "Bactericidal, by lysing the bacterial cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Bacteriostatic, by blocking bacterial folate synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Bacteriostatic, by disrupting bacterial protein translation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The 50S protein synthesis inhibitors disrupt bacterial translation and are typically bacteriostatic.",
+        "whyCorrect": "Agents that bind the 50S ribosomal subunit interfere with the assembly of peptide chains, halting bacterial protein production. Because the organism is stopped from growing rather than directly killed, these drugs are classed as bacteriostatic. The group includes the macrolides (azithromycin, clarithromycin), linezolid, and the streptogramins.",
+        "whyWrongByChoice": {
+          "A": "DNA-directed killing describes the fluoroquinolones, which are a separate class from the 50S inhibitors.",
+          "B": "Membrane disruption is not how 50S protein synthesis inhibitors work, and these agents are not typically bactericidal.",
+          "C": "Cell wall lysis is the mechanism of beta-lactams such as amoxicillin and the cephalosporins, not of ribosomal agents.",
+          "D": "Folate synthesis inhibition is not the mechanism of any drug that binds the 50S subunit."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "50S inhibitors",
+        "mechanism"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-002",
+      "stem": "A pharmacology handout groups antibacterial drugs by their molecular target. Which of the following agents exerts its effect at the 50S ribosomal subunit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "C",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "D",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "E",
+          "text": "Ciprofloxacin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Macrolides such as azithromycin are 50S protein synthesis inhibitors.",
+        "whyCorrect": "The 50S inhibitors discussed here are the macrolides (azithromycin, clarithromycin), linezolid, and the streptogramins. Azithromycin is a macrolide and therefore acts at the 50S subunit to block translation.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin is a beta-lactam that targets the cell wall.",
+          "C": "Aztreonam is a beta-lactam active against gram-negative organisms, not a ribosomal inhibitor.",
+          "D": "Cephalexin is a cephalosporin and works on the cell wall.",
+          "E": "Ciprofloxacin is a fluoroquinolone and does not act at the ribosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "macrolides",
+        "drug classes"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-003",
+      "stem": "A 19-year-old college student has 2 weeks of nonproductive cough, low-grade fever, and malaise. Testing supports infection with Mycoplasma pneumoniae. Which of the following oral agents provides the best coverage for this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "C",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "D",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "E",
+          "text": "Clindamycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Macrolides have excellent coverage of atypical organisms such as Mycoplasma.",
+        "whyCorrect": "Macrolides are the class with excellent activity against atypical bacteria, including Chlamydia, Mycoplasma, Mycobacterium, and Legionella. Azithromycin is therefore an appropriate oral choice for Mycoplasma pneumoniae, which is one of the atypical causes of community-acquired pneumonia.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin is a beta-lactam without meaningful atypical coverage.",
+          "C": "Aztreonam covers gram-negative organisms and has no atypical activity.",
+          "D": "Cephalosporins do not cover the atypical bacteria.",
+          "E": "Clindamycin is used for aerobic gram-positive cocci and anaerobes above the diaphragm, not atypicals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrolides",
+        "atypical pneumonia"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-004",
+      "stem": "A 62-year-old man develops pneumonia after staying at a hotel with a contaminated water system, and urinary antigen testing confirms Legionnaires' disease. Which of the following is an appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "C",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "D",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "E",
+          "text": "Clindamycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Legionnaires' disease is treated first-line with azithromycin or levofloxacin.",
+        "whyCorrect": "Unlike most of the other fastidious and vector-borne atypical infections, where doxycycline is first-line, Legionnaires' disease is treated with azithromycin or levofloxacin. Macrolides have excellent activity against Legionella, one of the classic atypical respiratory pathogens.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin is a beta-lactam and does not cover Legionella.",
+          "C": "Aztreonam is directed at gram-negative bacteria and does not treat atypicals.",
+          "D": "Cephalosporins do not cover any of the atypical bacteria.",
+          "E": "Clindamycin has no atypical coverage; it is aimed at aerobic gram-positive cocci and anaerobes above the diaphragm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Legionella",
+        "macrolides"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-005",
+      "stem": "An attending explains why macrolides are frequently chosen for upper and lower respiratory tract infections. In addition to atypical organisms, macrolides also have good activity against which of the following groups of respiratory pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus and gram-negative anaerobic bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas and other aerobic gram-negative bacilli"
+        },
+        {
+          "label": "C",
+          "text": "Rickettsia rickettsii and Ehrlichia chaffeensis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae, Haemophilus, and Moraxella"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin-resistant Enterococci and MRSA"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Macrolides cover S. pneumoniae, Haemophilus, and Moraxella in addition to atypicals, which is why they suit respiratory infections.",
+        "whyCorrect": "Beyond their excellent atypical coverage, macrolides have good activity against Streptococcus pneumoniae, Haemophilus, and Moraxella. Because these organisms are common causes of upper and lower respiratory tract infection, macrolides are a practical treatment option in that setting.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus and gram-negative anaerobes are organisms that clindamycin also fails to cover; they are not the macrolide target group.",
+          "B": "Pseudomonas and other aerobic gram-negative bacilli are covered by agents such as aztreonam, not macrolides.",
+          "C": "Tick-borne organisms such as Rickettsia and Ehrlichia are treated first-line with doxycycline.",
+          "E": "MRSA and VRE are the province of linezolid and the streptogramins, not the macrolides."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "macrolides",
+        "respiratory tract infection"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-006",
+      "stem": "A 44-year-old woman with no comorbidities is diagnosed with community-acquired pneumonia and is determined not to require hospitalization. Which of the following empiric oral regimens best covers the expected pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin/clavulanate plus azithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Aztreonam plus oral vancomycin"
+        },
+        {
+          "label": "C",
+          "text": "Ciprofloxacin plus oral clindamycin"
+        },
+        {
+          "label": "D",
+          "text": "Clindamycin plus oral cephalexin"
+        },
+        {
+          "label": "E",
+          "text": "Linezolid plus oral azithromycin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Outpatient CAP is treated empirically with a beta-lactam plus a macrolide.",
+        "whyCorrect": "Empiric outpatient CAP regimens are designed to cover Streptococcus pneumoniae, Haemophilus influenzae, and the atypicals (Mycoplasma pneumoniae, Legionella pneumophila, Chlamydia pneumoniae). The standard first-line option pairs a beta-lactam such as amoxicillin/clavulanate or a third-generation cephalosporin with a macrolide, most often azithromycin, for the atypical coverage.",
+        "whyWrongByChoice": {
+          "B": "Aztreonam and vancomycin cover gram-negatives and resistant gram-positives but miss the atypical pathogens entirely.",
+          "C": "Ciprofloxacin has poor Streptococcus pneumoniae activity, and clindamycin adds no atypical coverage.",
+          "D": "Clindamycin does not cover the atypicals or Haemophilus, and cephalexin does not cover atypicals either.",
+          "E": "Linezolid adds gram-positive coverage such as MRSA and VRE, which is not what empiric outpatient CAP requires."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "community-acquired pneumonia",
+        "empiric therapy"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-007",
+      "stem": "A 58-year-old man with community-acquired pneumonia is started on cefdinir, but a macrolide is contraindicated. Which of the following should be added to his regimen to cover atypical pathogens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "C",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "D",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "E",
+          "text": "Doxycycline"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Doxycycline substitutes for the macrolide in a CAP regimen when a macrolide is contraindicated.",
+        "whyCorrect": "In outpatient CAP the macrolide component supplies atypical coverage. When a macrolide cannot be used, doxycycline is the recommended substitute in that role, preserving coverage of Mycoplasma, Legionella, and Chlamydia alongside the beta-lactam.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin is another beta-lactam and would duplicate, not complement, the cefdinir.",
+          "B": "Aztreonam covers gram-negative organisms and contributes no atypical coverage.",
+          "C": "Cephalexin is a cephalosporin, and cephalosporins do not cover atypical bacteria.",
+          "D": "Clindamycin covers aerobic gram-positive cocci and anaerobes above the diaphragm, not atypicals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "doxycycline",
+        "community-acquired pneumonia"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-008",
+      "stem": "A 51-year-old woman with community-acquired pneumonia is to be managed as an outpatient but can take neither a beta-lactam nor a macrolide. Which of the following is an acceptable single-agent alternative?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam monotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Cephalexin monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Ciprofloxacin monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Clindamycin monotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Levofloxacin monotherapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A respiratory fluoroquinolone such as levofloxacin can be used as monotherapy for CAP.",
+        "whyCorrect": "In addition to the beta-lactam plus macrolide combination, a respiratory fluoroquinolone given as monotherapy is an accepted option for community-acquired pneumonia. Levofloxacin is a respiratory fluoroquinolone and covers both typical and atypical CAP pathogens on its own.",
+        "whyWrongByChoice": {
+          "A": "Aztreonam is a gram-negative agent and misses both S. pneumoniae and the atypicals.",
+          "B": "Cephalexin is a beta-lactam, which is excluded here, and it does not cover atypicals.",
+          "C": "Ciprofloxacin is not considered a respiratory fluoroquinolone because of its poor activity against Streptococcus pneumoniae.",
+          "D": "Clindamycin lacks coverage of Haemophilus and the atypicals and is not a CAP regimen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "respiratory fluoroquinolone",
+        "community-acquired pneumonia"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-009",
+      "stem": "A resident asks why ciprofloxacin is not grouped with the respiratory fluoroquinolones even though it is a fluoroquinolone. Which of the following best explains this distinction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has poor activity against Legionella pneumophila"
+        },
+        {
+          "label": "B",
+          "text": "It has poor activity against Moraxella catarrhalis"
+        },
+        {
+          "label": "C",
+          "text": "It has poor activity against Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "It has poor activity against Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "It has poor activity against Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ciprofloxacin is excluded from the respiratory fluoroquinolones because of poor Streptococcus pneumoniae activity.",
+        "whyCorrect": "Streptococcus pneumoniae is a leading cause of community-acquired pneumonia, so an agent used as CAP monotherapy must cover it reliably. Ciprofloxacin's activity against S. pneumoniae is poor, which is the primary reason it is not called a respiratory fluoroquinolone.",
+        "whyWrongByChoice": {
+          "A": "Legionella activity is not the deficiency that disqualifies ciprofloxacin from this label.",
+          "B": "Moraxella coverage is not the stated basis for the respiratory fluoroquinolone designation.",
+          "C": "Mycoplasma coverage is not the cited reason for excluding ciprofloxacin from this group.",
+          "D": "Ciprofloxacin's gram-negative activity, including Pseudomonas, is one of its strengths rather than a weakness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "Streptococcus pneumoniae"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-010",
+      "stem": "A 70-year-old man admitted for a hip fracture develops fever, cough, and a new pulmonary infiltrate on hospital day 5. Compared with pneumonia acquired outside a health care facility, this infection is best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atypical pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic pneumonitis"
+        },
+        {
+          "label": "C",
+          "text": "Community-acquired pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Hospital-acquired pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent pneumonia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pneumonia acquired in the hospital is HAP, as distinguished from community-acquired pneumonia.",
+        "whyCorrect": "Community-acquired pneumonia is by definition a respiratory infection acquired from the community, in contrast to hospital-acquired pneumonia. A new infiltrate arising several days into an admission fits the hospital-acquired category, which is not treated with the standard outpatient CAP regimens.",
+        "whyWrongByChoice": {
+          "A": "Atypical pneumonia refers to the causative organism group, not to where the infection was acquired.",
+          "B": "Chronic pneumonitis does not describe an acute new infiltrate developing during a hospitalization.",
+          "C": "CAP is acquired outside the hospital, which does not fit an infiltrate that appeared during the admission.",
+          "E": "Recurrence describes repeated episodes over time rather than the setting of acquisition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CAP versus HAP",
+        "definitions"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-011",
+      "stem": "A 35-year-old man has a dental abscess that has spread into the submandibular space, and an anaerobic infection above the diaphragm is suspected. Which of the following agents is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "C",
+          "text": "Cephalexin"
+        },
+        {
+          "label": "D",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "E",
+          "text": "Linezolid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Clindamycin is the agent used for anaerobic infections above the diaphragm.",
+        "whyCorrect": "Clindamycin's niche is anaerobic infection above the diaphragm, along with aerobic gram-positive cocci. An odontogenic anaerobic infection in the head and neck falls squarely within that spectrum.",
+        "whyWrongByChoice": {
+          "A": "Azithromycin is used for atypical and common respiratory pathogens, not anaerobic abscesses.",
+          "B": "Aztreonam covers gram-negative bacteria and is not an anaerobic agent.",
+          "C": "Cephalexin is a cephalosporin without the anaerobic spectrum needed here.",
+          "E": "Linezolid provides gram-positive coverage including MRSA and VRE rather than anaerobic coverage."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clindamycin",
+        "anaerobes"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi29-012",
+      "stem": "Which of the following types of bacteria are effectively treated with clindamycin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aerobic gram-negative bacilli"
+        },
+        {
+          "label": "B",
+          "text": "Aerobic gram-positive cocci"
+        },
+        {
+          "label": "C",
+          "text": "Anaerobic bacteria below the diaphragm"
+        },
+        {
+          "label": "D",
+          "text": "Gram-negative anaerobic bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin-resistant Enterococci"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clindamycin covers aerobic gram-positive cocci and anaerobes above the diaphragm.",
+        "whyCorrect": "Clindamycin is effective against aerobic gram-positive cocci and against anaerobic infections located above the diaphragm. It is not effective against enterococci or gram-negative pathogens, including gram-negative anaerobes.",
+        "whyWrongByChoice": {
+          "A": "Aerobic gram-negative bacilli are not covered by clindamycin.",
+          "C": "Clindamycin's anaerobic coverage is restricted to organisms above the diaphragm, not below it.",
+          "D": "Gram-negative anaerobic bacteria are specifically excluded from clindamycin's coverage.",
+          "E": "Clindamycin has minimal Enterococcus activity, so VRE is well outside its spectrum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clindamycin",
+        "spectrum"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
+      "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-001",
+      "stem": "A hospital quality committee is writing the charter for a new program and asks a resident to state in one sentence what antibiotic stewardship is meant to accomplish. Which of the following best describes the purpose of antibiotic stewardship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eliminating all antibiotic use outside of the intensive care unit"
+        },
+        {
+          "label": "B",
+          "text": "Ensuring that every admitted patient receives at least one antibiotic dose"
+        },
+        {
+          "label": "C",
+          "text": "Optimizing patient outcomes while minimizing resistance and adverse drug events"
+        },
+        {
+          "label": "D",
+          "text": "Replacing culture-based diagnosis with empiric treatment for all infections"
+        },
+        {
+          "label": "E",
+          "text": "Reserving every antibiotic on the formulary for infectious disease consultation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antibiotic stewardship is a coordinated effort to improve antibiotic use so that patient outcomes are optimized while resistance and adverse drug events are minimized.",
+        "whyCorrect": "Stewardship is defined as a coordinated effort to improve the use of antibiotics. Its three stated aims are to optimize patient outcomes, minimize the development of antibiotic resistance, and minimize adverse drug events. It works through strategies that ensure antibiotics are used appropriately, not through banning them.",
+        "whyWrongByChoice": {
+          "A": "Stewardship does not eliminate antibiotic use in any care setting; it makes that use appropriate.",
+          "B": "Giving every patient an antibiotic is the opposite of stewardship and drives unnecessary exposure.",
+          "D": "Stewardship depends on cultures and susceptibilities to narrow therapy, not on abandoning them.",
+          "E": "Restriction of select agents is only one stewardship intervention, not the definition of the program."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "antibiotic stewardship",
+        "definitions"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-002",
+      "stem": "A student asks why vancomycin is never used to treat an Escherichia coli urinary tract infection, even in strains recovered from patients who have never received the drug. Which of the following best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clavulanate is required before vancomycin can reach its cell wall target site"
+        },
+        {
+          "label": "B",
+          "text": "Prior antibiotic exposure has selected out a vancomycin-resistant subpopulation"
+        },
+        {
+          "label": "C",
+          "text": "The organism acquires a plasmid encoding vancomycin resistance from enterococci"
+        },
+        {
+          "label": "D",
+          "text": "The organism secretes an extended-spectrum beta-lactamase that degrades vancomycin"
+        },
+        {
+          "label": "E",
+          "text": "The vancomycin molecule is too large to penetrate the cell wall of E. coli"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "E. coli is intrinsically resistant to vancomycin because the drug is too large to penetrate its cell wall.",
+        "whyCorrect": "Intrinsic resistance is resistance that is natural to the organism and requires no previous drug exposure. E. coli is the classic example: vancomycin simply cannot get through the cell wall to reach its target, so the species is resistant from the outset. This is why glycopeptides are never an option for gram-negative infections.",
+        "whyWrongByChoice": {
+          "A": "Clavulanate is a beta-lactamase inhibitor and has no role in vancomycin delivery or activity.",
+          "B": "Selection pressure explains emergence of resistance after exposure, which these strains never had.",
+          "C": "Acquired resistance involves gene transfer, but E. coli is resistant without acquiring anything.",
+          "D": "Extended-spectrum beta-lactamases degrade penicillins and cephalosporins, not vancomycin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "intrinsic resistance",
+        "vancomycin",
+        "gram-negative"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-003",
+      "stem": "Resistance that is a natural property of an organism and is present without any prior antibiotic exposure is best termed which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired resistance"
+        },
+        {
+          "label": "B",
+          "text": "Empiric therapy"
+        },
+        {
+          "label": "C",
+          "text": "Enzyme inactivation"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic resistance"
+        },
+        {
+          "label": "E",
+          "text": "Selection pressure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Intrinsic resistance is resistance that is natural to the organism itself.",
+        "whyCorrect": "Of the mechanisms by which bacteria resist antibiotics, intrinsic resistance is the one that is built into the species and requires no exposure, gene transfer, or enzyme production. The example given is E. coli and vancomycin, where the drug cannot cross the cell wall.",
+        "whyWrongByChoice": {
+          "A": "Acquired resistance requires that resistance genes be taken up from another organism or the environment.",
+          "B": "Empiric therapy is a prescribing strategy, not a bacterial resistance mechanism.",
+          "C": "Enzyme inactivation requires the organism to produce an enzyme that destroys the drug.",
+          "E": "Selection pressure requires antibiotic exposure that kills susceptible bacteria and leaves resistant ones."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "intrinsic resistance",
+        "definitions"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-004",
+      "stem": "A 68-year-old hospitalized woman receives a prolonged course of oral vancomycin. Two weeks later, stool surveillance cultures grow vancomycin-resistant Enterococcus, which was not present on admission. Which mechanism best explains this change in her gut flora?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enzymatic destruction of vancomycin by an extended-spectrum beta-lactamase"
+        },
+        {
+          "label": "B",
+          "text": "Inadequate vancomycin dosing caused by a lack of pharmacokinetic monitoring"
+        },
+        {
+          "label": "C",
+          "text": "Intrinsic resistance of every Enterococcus species to glycopeptide antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Selection pressure that removed susceptible enterococci and let resistant ones predominate"
+        },
+        {
+          "label": "E",
+          "text": "Transfer of a carbapenemase gene from Enterobacteriaceae into the enterococci"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Antibiotic exposure kills susceptible organisms and leaves resistant strains to multiply; this is selection pressure.",
+        "whyCorrect": "Normal GI flora includes Enterococcus. When an antibiotic such as oral vancomycin eliminates the susceptible enterococci, the vancomycin-resistant enterococci that remain are free to multiply and become predominant. Emergence of VRE after vancomycin exposure is the example used for selection pressure.",
+        "whyWrongByChoice": {
+          "A": "Extended-spectrum beta-lactamases act on penicillins and cephalosporins, not on vancomycin.",
+          "B": "Underdosing is not the described mechanism; the resistant population was selected by drug exposure.",
+          "C": "Enterococci are not intrinsically vancomycin resistant; many were susceptible in this patient on admission.",
+          "E": "Carbapenemase genes confer beta-lactam resistance and would not produce vancomycin resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selection pressure",
+        "VRE",
+        "vancomycin"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-005",
+      "stem": "Which of the following best defines selection pressure as a mechanism of antibiotic resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotics kill susceptible bacteria, leaving behind resistant strains to multiply"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial enzymes chemically degrade the antibiotic before it can reach its target"
+        },
+        {
+          "label": "C",
+          "text": "Resistance genes are picked up from fragments of dead bacteria in the environment"
+        },
+        {
+          "label": "D",
+          "text": "Resistance is an inherent property of the species and requires no drug exposure"
+        },
+        {
+          "label": "E",
+          "text": "Serum drug levels are monitored to keep antibiotic exposure in a therapeutic range"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Selection pressure is the survival and outgrowth of resistant strains after susceptible bacteria are killed by an antibiotic.",
+        "whyCorrect": "Resistance occurs when antibiotics kill off the susceptible members of a bacterial population, leaving behind the more resistant strains to multiply. This is one of the four common mechanisms of resistance and is a major reason to limit unnecessary antibiotic exposure.",
+        "whyWrongByChoice": {
+          "B": "Chemical degradation of the drug describes enzyme inactivation, such as beta-lactamase production.",
+          "C": "Picking up resistance genes from the environment or another species describes acquired resistance.",
+          "D": "Inherent, exposure-independent resistance describes intrinsic resistance.",
+          "E": "Pharmacokinetic monitoring is a stewardship intervention, not a resistance mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selection pressure",
+        "definitions"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-006",
+      "stem": "Whole-genome sequencing shows that a resistance gene carried by a patient's Klebsiella isolate is identical to one carried by an unrelated Escherichia coli isolate on the same ward, indicating that the gene moved between the two species. This transfer of resistance DNA between different species is best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquired resistance"
+        },
+        {
+          "label": "B",
+          "text": "Empiric therapy"
+        },
+        {
+          "label": "C",
+          "text": "Intrinsic resistance"
+        },
+        {
+          "label": "D",
+          "text": "Pharmacokinetic failure"
+        },
+        {
+          "label": "E",
+          "text": "Selection pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acquired resistance is resistance DNA transferred between species or picked up from dead bacterial fragments in the environment.",
+        "whyCorrect": "Bacterial DNA containing resistance genes can be transferred between different species and can also be picked up from dead bacterial fragments in the environment. A resistance gene that is identical in two unrelated species is the signature of this acquired mechanism rather than of an inborn trait.",
+        "whyWrongByChoice": {
+          "B": "Empiric therapy is a treatment strategy used before an organism is identified.",
+          "C": "Intrinsic resistance is native to a species and would not appear as a shared, mobile gene.",
+          "D": "Inadequate drug exposure is a dosing problem, not a mechanism of genetic resistance.",
+          "E": "Selection pressure enriches resistant organisms already present; it does not move genes between species."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acquired resistance",
+        "gene transfer"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-007",
+      "stem": "A bacterial isolate is resistant to ampicillin alone, but susceptibility is restored when ampicillin is combined with sulbactam. Which resistance mechanism does this pattern indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Selection pressure has enriched a subpopulation with an altered drug target"
+        },
+        {
+          "label": "B",
+          "text": "Sulbactam itself has potent intrinsic activity against the isolated organism"
+        },
+        {
+          "label": "C",
+          "text": "The organism acquired resistance DNA from dead bacterial fragments nearby"
+        },
+        {
+          "label": "D",
+          "text": "The organism is intrinsically impermeable to all beta-lactam antibiotics"
+        },
+        {
+          "label": "E",
+          "text": "The organism produces a beta-lactamase that breaks the beta-lactam structure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Restoration of activity by adding a beta-lactamase inhibitor identifies beta-lactamase-mediated enzyme inactivation.",
+        "whyCorrect": "Beta-lactamase is produced by some bacteria and breaks down the beta-lactam structure of beta-lactam antibiotics, rendering them ineffective. That is exactly why many beta-lactams are paired with beta-lactamase inhibitors such as clavulanate, sulbactam, and tazobactam; protecting the beta-lactam ring restores activity.",
+        "whyWrongByChoice": {
+          "A": "A selected target mutation would not be reversed by adding an enzyme inhibitor to the regimen.",
+          "B": "Sulbactam is used to protect the partner beta-lactam from enzymatic destruction, not as the active drug.",
+          "C": "Acquired resistance describes how a gene arrives, not the inhibitor-reversible enzyme itself.",
+          "D": "True impermeability would leave the organism resistant whether or not sulbactam is added."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "enzyme inactivation",
+        "beta-lactamase",
+        "beta-lactamase inhibitor"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-008",
+      "stem": "A beta-lactam antibiotic is being paired with a second agent whose purpose is to protect it from enzymatic destruction. Which of the following is such a beta-lactamase inhibitor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ceftaroline"
+        },
+        {
+          "label": "B",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Meropenem"
+        },
+        {
+          "label": "D",
+          "text": "Tazobactam"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Clavulanate, sulbactam, and tazobactam are the beta-lactamase inhibitors paired with beta-lactam antibiotics.",
+        "whyCorrect": "Because beta-lactamase breaks down the beta-lactam structure, many beta-lactam antibiotics are combined with a beta-lactamase inhibitor. The three named inhibitors are clavulanate, sulbactam, and tazobactam; the inhibitor shields the partner drug so it can reach its target.",
+        "whyWrongByChoice": {
+          "A": "Ceftaroline is a fifth-generation cephalosporin, itself a beta-lactam antibiotic and not an inhibitor.",
+          "B": "Ciprofloxacin is a fluoroquinolone and has no effect on beta-lactamase enzymes.",
+          "C": "Meropenem is a carbapenem used to treat organisms that produce extended-spectrum beta-lactamases.",
+          "E": "Vancomycin is a large glycopeptide with no beta-lactam ring and no inhibitory role."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "beta-lactamase inhibitor",
+        "pharmacology"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-009",
+      "stem": "A urine isolate of Escherichia coli from a nursing home resident is reported by the laboratory as an extended-spectrum beta-lactamase producer. Which of the following best characterizes this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It became resistant only because susceptible organisms were killed by prior therapy"
+        },
+        {
+          "label": "B",
+          "text": "It breaks down all penicillins and some cephalosporins and is usually treated with a carbapenem"
+        },
+        {
+          "label": "C",
+          "text": "It breaks down penicillins, most cephalosporins, and carbapenems, leaving very few options"
+        },
+        {
+          "label": "D",
+          "text": "It is a gram-positive organism whose resistance comes from an altered cell wall target"
+        },
+        {
+          "label": "E",
+          "text": "It is intrinsically resistant to vancomycin because it acquired a plasmid-borne gene"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Extended-spectrum beta-lactamases are gram-negative enzymes that destroy all penicillins and some cephalosporins, so carbapenems are usually used.",
+        "whyCorrect": "Extended-spectrum beta-lactamases (ESBLs) are beta-lactamases produced by some gram-negative bacteria that break down all penicillins and some cephalosporins. These organisms can be difficult to kill, and carbapenems are the usual treatment.",
+        "whyWrongByChoice": {
+          "A": "Selection pressure may enrich such strains, but the defining feature is the enzyme it produces.",
+          "C": "Destruction of carbapenems as well defines carbapenem-resistant Enterobacteriaceae, not an ESBL producer.",
+          "D": "ESBL production is a property of gram-negative organisms, and the mechanism is enzymatic drug destruction.",
+          "E": "Intrinsic vancomycin resistance in gram-negatives reflects drug size, not an acquired plasmid gene."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ESBL",
+        "gram-negative",
+        "carbapenem"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-010",
+      "stem": "Extended-spectrum beta-lactamases are characteristically produced by which group of organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acid-fast bacilli"
+        },
+        {
+          "label": "B",
+          "text": "Gram-negative bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Gram-positive cocci in chains"
+        },
+        {
+          "label": "D",
+          "text": "Gram-positive cocci in clusters"
+        },
+        {
+          "label": "E",
+          "text": "Spore-forming anaerobic rods"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ESBLs are produced by gram-negative bacteria.",
+        "whyCorrect": "Extended-spectrum beta-lactamases are beta-lactamases produced by some gram-negative bacteria, and they break down all penicillins and some cephalosporins. Recognizing the gram-negative association is what points toward carbapenem therapy for these isolates.",
+        "whyWrongByChoice": {
+          "A": "Acid-fast organisms are not the group associated with extended-spectrum beta-lactamase production.",
+          "C": "Streptococci and enterococci are gram-positive; Enterococcus does not produce beta-lactamases.",
+          "D": "Staphylococci are gram-positive and are not the organisms described as ESBL producers.",
+          "E": "Anaerobic spore-forming rods are not described as the source of these enzymes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ESBL",
+        "gram-negative"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-011",
+      "stem": "Two gram-negative isolates are recovered in an intensive care unit. Isolate 1 is killed by meropenem but by no penicillin or cephalosporin tested. Isolate 2 is killed by neither meropenem nor any penicillin or cephalosporin tested. Which statement best describes these isolates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both isolates are carbapenem-resistant Enterobacteriaceae"
+        },
+        {
+          "label": "B",
+          "text": "Both isolates are ordinary beta-lactamase producers treatable with an inhibitor combination"
+        },
+        {
+          "label": "C",
+          "text": "Isolate 1 is a carbapenem-resistant Enterobacteriaceae and isolate 2 is an ESBL producer"
+        },
+        {
+          "label": "D",
+          "text": "Isolate 1 is an ESBL producer and isolate 2 is a carbapenem-resistant Enterobacteriaceae"
+        },
+        {
+          "label": "E",
+          "text": "Isolate 1 is intrinsically beta-lactam resistant and isolate 2 reflects selection pressure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ESBL producers are still killed by carbapenems, whereas carbapenem-resistant Enterobacteriaceae destroy carbapenems as well.",
+        "whyCorrect": "ESBLs break down all penicillins and some cephalosporins, and carbapenems are the usual treatment, which matches isolate 1. Carbapenem-resistant Enterobacteriaceae are multidrug-resistant gram-negative organisms whose enzymes break down penicillins, most cephalosporins, and carbapenems, which matches isolate 2.",
+        "whyWrongByChoice": {
+          "A": "Isolate 1 remains carbapenem susceptible, so it cannot be a carbapenem-resistant organism.",
+          "B": "Ordinary beta-lactamase producers regain susceptibility with an inhibitor; neither isolate fits that pattern.",
+          "C": "This reverses the two isolates; the carbapenem-susceptible one is the ESBL producer.",
+          "E": "Intrinsic resistance and selection pressure do not explain enzyme-defined beta-lactam susceptibility patterns."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ESBL",
+        "CRE",
+        "contrasts"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
+      "tier": "core"
+    },
+    {
+      "id": "mi30-012",
+      "stem": "An intensive care unit patient's blood culture grows a gram-negative rod reported as carbapenem-resistant Enterobacteriaceae. Which of the following best explains why this organism is called multidrug resistant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It becomes resistant to carbapenems only when a beta-lactamase inhibitor is given at the same time"
+        },
+        {
+          "label": "B",
+          "text": "It is a gram-positive organism that requires ceftaroline for any adequate coverage"
+        },
+        {
+          "label": "C",
+          "text": "It is intrinsically impermeable to antibiotics because of unusually large membrane pores"
+        },
+        {
+          "label": "D",
+          "text": "It produces enzymes that break down penicillins, most cephalosporins, and carbapenems"
+        },
+        {
+          "label": "E",
+          "text": "It replaced susceptible flora after selection pressure from prior oral vancomycin use"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carbapenem-resistant Enterobacteriaceae produce enzymes that destroy penicillins, most cephalosporins, and carbapenems.",
+        "whyCorrect": "CRE are multidrug-resistant gram-negative organisms that produce enzymes capable of breaking down penicillins, most cephalosporins, and carbapenems. Because carbapenems are the fallback for ESBL producers, losing them is what makes these isolates so difficult to treat.",
+        "whyWrongByChoice": {
+          "A": "Beta-lactamase inhibitors are given to protect beta-lactams, and they do not create resistance.",
+          "B": "CRE are gram-negative; ceftaroline is noted for activity against resistant gram-positive organisms.",
+          "C": "The described mechanism is enzymatic destruction of beta-lactams, not a permeability property.",
+          "E": "Selection pressure with vancomycin is the mechanism used to explain emergence of VRE in gut flora."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CRE",
+        "enzyme inactivation",
+        "gram-negative"
+      ],
+      "topicId": "antibiotic-stewardship",
+      "topicName": "Antibiotic Stewardship",
       "tier": "core"
     }
   ]

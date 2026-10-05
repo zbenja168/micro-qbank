@@ -1,0 +1,2251 @@
+{
+  "categoryId": "w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "mi22-001",
+      "stem": "A 32-year-old woman has 4 days of progressive weakness in both legs, preceded by numbness and tingling in her feet. The tingling has now started in her hands. Two weeks ago she had several days of abdominal cramping and diarrhea that was watery at first and later dark; it resolved without treatment. Cerebrospinal fluid shows elevated protein with a normal cell count. Which of the following organisms most likely preceded her current illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Enterohemorrhagic Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella enterica serotype Typhi"
+        },
+        {
+          "label": "D",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "E",
+          "text": "Yersinia enterocolitica"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Campylobacter spp. are the most common cause of Guillain-Barre syndrome in the United States.",
+        "whyCorrect": "An ascending sensory and motor neuropathy beginning 1-3 weeks after a diarrheal illness, with elevated CSF protein and a normal cell count, is Guillain-Barre syndrome. About 1 in every 1,000 people with a Campylobacter infection develops GBS, and Campylobacter spp. are the leading cause in the U.S. The mechanism is molecular mimicry: bacterial proteins resemble proteins in the nervous system, so the immune response against the bacteria also attacks nerves.",
+        "whyWrongByChoice": {
+          "B": "Enterohemorrhagic E. coli makes Shiga toxin and is associated with hemolytic uremic syndrome, not with a demyelinating neuropathy.",
+          "C": "Typhoid fever presents with prolonged fever, headache, hepatosplenomegaly, and a transient truncal rash, and is not the organism linked to Guillain-Barre syndrome.",
+          "D": "Shigella causes bacillary dysentery with small-volume bloody stools and tenesmus; its neurologic sequel is not Guillain-Barre syndrome.",
+          "E": "Yersinia enterocolitica is associated with day care outbreaks and pseudoappendicitis, not with Guillain-Barre syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Campylobacter",
+        "Guillain-Barre syndrome",
+        "molecular mimicry"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-002",
+      "stem": "A 40-year-old man has fever and bloody diarrhea that started 2 days after a barbecue. A stool isolate is a gram-negative straight rod that forms colorless colonies on MacConkey agar and is oxidase negative. On triple sugar iron agar the butt is yellow and a black precipitate is present. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "C",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "E",
+          "text": "Shigella flexneri"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A black precipitate on TSI agar means H2S production, which separates Salmonella from Shigella.",
+        "whyCorrect": "Salmonella spp. are gram-negative rods that do not ferment lactose and are oxidase negative. They ferment glucose, which acidifies and yellows the TSI butt, and they produce H2S, which forms the black precipitate. That combination identifies Salmonella in this isolate.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter spp. are oxidase positive and are comma- or S-shaped rather than straight rods.",
+          "B": "Entamoeba histolytica is a protozoan that causes amebic dysentery and liver abscess and is not grown on these bacterial agars.",
+          "C": "Escherichia coli ferments lactose, so it would form colored colonies on MacConkey agar rather than colorless ones.",
+          "E": "Shigella spp. are also non-lactose fermenting and oxidase negative, but they do not produce H2S, so there is no black precipitate on TSI agar."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Salmonella",
+        "laboratory identification",
+        "TSI agar"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-003",
+      "stem": "A 4-year-old girl develops fever and bloody diarrhea. Within a week, three of her four household members become ill with the same illness despite no shared meals, and the family reports only casual hand contact. Which of the following organisms is most consistent with illness after ingesting only 10 to 100 organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella enterica serotype Typhi"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella enterica serotype Typhimurium"
+        },
+        {
+          "label": "E",
+          "text": "Shigella sonnei"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Shigella spp. have an extremely low infectious dose, estimated at 10-100 organisms.",
+        "whyCorrect": "Shigella spp. have adapted to the acidic environment of the stomach, so very few organisms survive to reach the colon and cause disease. This very low infectious dose explains easy person-to-person spread by hands and contaminated surfaces, and it is why even flies can transfer the bacteria.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter spp. are usually acquired from contaminated poultry, raw milk, or water rather than from a 10-100 organism inoculum.",
+          "B": "Entamoeba histolytica is a protozoan cause of dysentery and liver abscess, not a low-dose bacterial pathogen.",
+          "C": "Typhoidal Salmonella is spread by contaminated food and water from human carriers and is not characterized by this very low dose.",
+          "D": "Nontyphoidal Salmonella generally requires a large ingested dose because it is not well adapted to stomach acid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Shigella",
+        "infectious dose",
+        "transmission"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-004",
+      "stem": "A 26-year-old man planning travel to South Asia receives an inactivated vaccine made from a purified capsular polysaccharide. He asks whether it will also protect him from the Salmonella gastroenteritis he read about in a recent poultry outbreak at home. Which of the following best explains why it will not?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nontyphoidal serotypes are not members of the family Enterobacteriaceae"
+        },
+        {
+          "label": "B",
+          "text": "Nontyphoidal serotypes are restricted to human and primate reservoirs"
+        },
+        {
+          "label": "C",
+          "text": "Nontyphoidal serotypes do not express the O antigen of lipopolysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "Nontyphoidal serotypes do not possess the Vi antigen"
+        },
+        {
+          "label": "E",
+          "text": "Nontyphoidal serotypes lack flagella and therefore lack the H antigen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Typhoid vaccines target the Vi capsular antigen, which nontyphoidal Salmonella do not have.",
+        "whyCorrect": "One distinction of the Salmonella subtypes that cause typhoid fever is a capsule composed of the polysaccharide Vi antigen. Inactivated typhoid vaccines use purified Vi antigen to protect travelers going to regions where typhoidal salmonellosis is prevalent. Because nontyphoidal Salmonella spp. do not have the Vi antigen, these vaccines are not effective against them.",
+        "whyWrongByChoice": {
+          "A": "Both typhoidal and nontyphoidal Salmonella are members of Enterobacteriaceae, so family membership does not explain the gap in coverage.",
+          "B": "It is the typhoid-causing serotypes that are restricted to humans; nontyphoidal serotypes have wide animal reservoirs.",
+          "C": "The O antigen of lipopolysaccharide is one of the three key antigens used to serotype Salmonella and is present across the genus.",
+          "E": "Nontyphoidal Salmonella are motile and use flagellar H antigen in serotyping, so they are not missing flagella."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Salmonella Typhi",
+        "Vi antigen",
+        "vaccine"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-005",
+      "stem": "A stool isolate from a patient with watery diarrhea after drinking raw milk is a gram-negative curved rod. The laboratory reports that the organism failed to grow well on the standard 37 degrees C plate but grew abundantly when incubated at 42 degrees C. Which of the following organisms is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Enteroinvasive Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella enterica serotype Enteritidis"
+        },
+        {
+          "label": "D",
+          "text": "Shigella dysenteriae"
+        },
+        {
+          "label": "E",
+          "text": "Yersinia enterocolitica"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Campylobacter spp. grow optimally at 42 degrees C, unlike most human pathogens.",
+        "whyCorrect": "Most bacteria that infect humans grow best at 37 degrees C, but Campylobacter spp. grow optimally at 42 degrees C. Selective incubation at that temperature is a standard way to recover the organism from stool, and it pairs with the comma or S shape seen on Gram stain.",
+        "whyWrongByChoice": {
+          "B": "Enteroinvasive Escherichia coli invades colonic mucosa but is a straight rod with no elevated growth temperature requirement.",
+          "C": "Salmonella enterica serotype Enteritidis is a straight rod that grows on MacConkey and EMB agar at standard incubation temperature.",
+          "D": "Shigella dysenteriae is a straight gram-negative rod recovered on routine enteric media incubated at 37 degrees C.",
+          "E": "Yersinia enterocolitica is linked to day care outbreaks and pseudoappendicitis and is not identified by growth at 42 degrees C."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Campylobacter",
+        "laboratory identification",
+        "growth temperature"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-006",
+      "stem": "Three gram-negative enteric isolates from patients with bloody diarrhea are tested. Two are oxidase negative; the third is oxidase positive. Which of the following conclusions about the oxidase-positive isolate is best supported?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a lactose fermenter rather than a non-lactose fermenter"
+        },
+        {
+          "label": "B",
+          "text": "It is a Shiga toxin producer rather than a non-producer"
+        },
+        {
+          "label": "C",
+          "text": "It is Campylobacter rather than Salmonella or Shigella"
+        },
+        {
+          "label": "D",
+          "text": "It is Salmonella rather than Shigella or Campylobacter"
+        },
+        {
+          "label": "E",
+          "text": "It is Shigella rather than Salmonella or Campylobacter"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oxidase production separates Campylobacter from Salmonella and Shigella.",
+        "whyCorrect": "Campylobacter spp. produce oxidase, while Salmonella spp. and Shigella spp. are oxidase negative. Oxidase therefore sorts the bloody-diarrhea isolates into Campylobacter versus the two enteric genera, and it complements the morphologic clue that Campylobacter is comma- or S-shaped while the others are straight rods.",
+        "whyWrongByChoice": {
+          "A": "Oxidase testing measures a respiratory enzyme and says nothing about whether the organism ferments lactose.",
+          "B": "Shiga toxin production is a property of S. dysenteriae type I and EHEC and is unrelated to the oxidase reaction.",
+          "D": "Salmonella spp. are oxidase negative and catalase positive, so a positive oxidase test argues against Salmonella.",
+          "E": "Shigella spp. are oxidase negative, so a positive test argues against Shigella."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Campylobacter",
+        "oxidase",
+        "laboratory identification"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-007",
+      "stem": "A 6-year-old boy has bloody diarrhea followed by pallor, decreased urine output, and bruising. Laboratory studies show anemia, thrombocytopenia, and a rising creatinine. The responsible toxin is an AB toxin whose enzymatically active A component enters host cells. Which of the following best describes the action of that component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks the release of the neurotransmitters GABA and glycine"
+        },
+        {
+          "label": "B",
+          "text": "Creates double-stranded breaks in host cell DNA"
+        },
+        {
+          "label": "C",
+          "text": "Crosslinks T-cell receptors to MHC class II molecules"
+        },
+        {
+          "label": "D",
+          "text": "Inactivates the 60S subunit of the ribosome"
+        },
+        {
+          "label": "E",
+          "text": "Increases intracellular cyclic AMP by ADP-ribosylation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Shiga toxin inactivates the 60S ribosomal subunit and halts protein synthesis.",
+        "whyCorrect": "Shigella dysenteriae type I and enterohemorrhagic E. coli both produce Shiga toxin, an AB toxin in which the B subunit binds the target cell and the A subunit acts inside it. The A subunit inactivates the 60S ribosomal subunit, blocking protein synthesis and killing the cell. When the toxin leaks out of the GI tract it destroys red cells and injures the kidney, producing hemolytic uremic syndrome.",
+        "whyWrongByChoice": {
+          "A": "Blocking release of GABA and glycine is the mechanism of tetanospasmin, the tetanus toxin.",
+          "B": "Causing double-stranded DNA breaks is the mechanism of cytolethal distending toxin of Campylobacter spp.",
+          "C": "Crosslinking the T-cell receptor to MHC class II is how superantigens such as TSST-1 and SpeA act.",
+          "E": "Raising cyclic AMP by ADP-ribosylation is the mechanism of heat-labile toxin of E. coli and several other bacterial toxins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Shiga toxin",
+        "Shigella dysenteriae",
+        "hemolytic uremic syndrome"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-008",
+      "stem": "An intestinal biopsy from a patient with bacillary dysentery shows bacteria inside colonic epithelial cells, many with a comet-like tail of host cytoskeletal filaments extending from one end and some already within neighboring cells. The isolate has no flagella. Which of the following best explains how this organism reaches adjacent cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is carried between cells inside migrating tissue macrophages"
+        },
+        {
+          "label": "B",
+          "text": "It polymerizes host actin at one pole and is propelled forward"
+        },
+        {
+          "label": "C",
+          "text": "It re-enters the lumen and is taken up again by distant M cells"
+        },
+        {
+          "label": "D",
+          "text": "It secretes a toxin that opens epithelial tight junctions"
+        },
+        {
+          "label": "E",
+          "text": "It uses a polar flagellum to swim through the mucus layer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Shigella spp. are non-motile but spread cell to cell using host actin polymerization.",
+        "whyCorrect": "Unlike Salmonella spp., Shigella spp. are non-motile and have neither flagella nor cilia. They express proteins that cause host actin to polymerize at one end of the bacterium, producing a rocket-like effect that shoots the organism out of its current cell and into flanking cells. This is how the infection spreads laterally through the epithelium after initial entry through M cells.",
+        "whyWrongByChoice": {
+          "A": "Shigella kills the macrophages it encounters and spreads directly between epithelial cells rather than riding inside them.",
+          "C": "Spread is direct from one cell into flanking cells, not by a second round of luminal uptake at distant M cells.",
+          "D": "Shigella injures epithelium through invasion, inflammation, and apoptosis rather than by a toxin that opens tight junctions.",
+          "E": "A polar flagellum is a feature of Campylobacter spp.; Shigella spp. have no flagella at all."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Shigella",
+        "virulence factors",
+        "actin motility"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-009",
+      "stem": "After ingestion, Salmonella spp. reach the small intestine and first invade a specialized epithelial cell that normally samples luminal antigens and hands them to immune cells. Which of the following cells does the organism exploit for this initial entry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterochromaffin cells of the gastric antrum"
+        },
+        {
+          "label": "B",
+          "text": "Goblet cells of the colonic crypts"
+        },
+        {
+          "label": "C",
+          "text": "M cells overlying the Peyer patches"
+        },
+        {
+          "label": "D",
+          "text": "Paneth cells at the base of the crypts"
+        },
+        {
+          "label": "E",
+          "text": "Parietal cells of the gastric fundus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Salmonella spp. enter through M cells of the Peyer patches to reach gut tissue and lymph nodes.",
+        "whyCorrect": "M cells are specialized epithelial cells found in mucosa-associated lymphoid tissue, particularly the Peyer patches of the small intestine, and their normal job is to transport antigens from the lumen to immune cells. Salmonella spp. use them to gain access to the tissue of the GI tract and local lymph nodes. Once through, the organism infects neutrophils, macrophages, and dendritic cells as a facultative intracellular pathogen.",
+        "whyWrongByChoice": {
+          "A": "Enterochromaffin cells are hormone-secreting cells and are not the portal of entry described.",
+          "B": "Goblet cells secrete mucus and are not the antigen-sampling route the organism exploits.",
+          "D": "Paneth cells release antimicrobial peptides into the crypt lumen rather than transporting antigen across the epithelium.",
+          "E": "Parietal cells secrete gastric acid, which Salmonella tolerates poorly; they are not an entry route."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Salmonella",
+        "M cells",
+        "Peyer patches"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-010",
+      "stem": "Salmonella, Shigella, and Campylobacter spp. all use a needle-like apparatus that spans the inner and outer membranes of the bacterium. Which of the following best describes what this structure accomplishes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It anchors lipopolysaccharide to the outer leaflet of the membrane"
+        },
+        {
+          "label": "B",
+          "text": "It exports a capsular polysaccharide that blocks complement deposition"
+        },
+        {
+          "label": "C",
+          "text": "It injects effector proteins that drive bacterial entry into host cells"
+        },
+        {
+          "label": "D",
+          "text": "It pumps antibiotics out of the bacterial cytoplasm into the environment"
+        },
+        {
+          "label": "E",
+          "text": "It transfers plasmid DNA between adjacent bacteria during conjugation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The type III secretion system injects effector proteins that force host cells to take the bacterium in.",
+        "whyCorrect": "The type III secretion system is a needle-like structure that injects host cells with effector proteins. Those effectors facilitate entry of the bacteria into cells and prevent destruction of the bacteria once they have been phagocytized, and the infected cells are eventually destroyed. All three genera in this brick use a T3SS for this purpose.",
+        "whyWrongByChoice": {
+          "A": "Lipopolysaccharide is a structural component of the outer membrane and is not positioned by this apparatus.",
+          "B": "Capsule export is a separate process; the Vi capsule of typhoidal Salmonella is not delivered by the secretion needle.",
+          "D": "Antibiotic efflux is performed by membrane pumps and is unrelated to the injection apparatus described.",
+          "E": "Plasmid transfer during conjugation uses a sex pilus, not the effector-injecting needle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type III secretion system",
+        "virulence factors",
+        "Salmonella"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-011",
+      "stem": "A 14-year-old boy with sickle cell anemia has 5 days of fever and worsening right thigh pain after an episode of diarrhea. Imaging shows osteomyelitis of the femur, and blood cultures grow a non-lactose-fermenting gram-negative rod. Which of the following best explains his susceptibility to this disseminated infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent terminal complement components of the membrane attack complex"
+        },
+        {
+          "label": "B",
+          "text": "Defective neutrophil oxidative burst from an NADPH oxidase defect"
+        },
+        {
+          "label": "C",
+          "text": "Functional asplenia from repeated splenic infarction"
+        },
+        {
+          "label": "D",
+          "text": "Impaired mucosal IgA secretion across the intestinal epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Loss of gastric acid from long-term acid suppression therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sickle cell anemia causes autosplenectomy, and asplenic patients are prone to disseminated salmonellosis.",
+        "whyCorrect": "Invasive Salmonella disease is rare but occurs in children, patients over 50, the immunocompromised, and patients without spleens or with poorly functioning spleens. In sickle cell anemia, abnormally shaped red blood cells drive repeated splenic infarcts, progressively destroying the spleen. This autosplenectomy leaves the patient susceptible to disseminated salmonellosis, which can present as septicemia, osteomyelitis, septic arthritis, or meningitis.",
+        "whyWrongByChoice": {
+          "A": "Terminal complement deficiency is not the explanation offered for disseminated Salmonella in sickle cell anemia.",
+          "B": "A defective neutrophil oxidative burst is not the mechanism described for salmonellosis risk in sickle cell disease.",
+          "D": "Mucosal IgA secretion is not the defect that makes these patients prone to invasive Salmonella infection.",
+          "E": "Reduced gastric acid lowers the dose needed for infection but does not account for bone and bloodstream dissemination here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Salmonella",
+        "disseminated salmonellosis",
+        "sickle cell anemia"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi22-012",
+      "stem": "A 27-year-old man has 2 weeks of knee and ankle pain, red eyes, and burning with urination. Three weeks earlier he had a self-limited episode of bloody diarrhea. Which of the following best characterizes his current condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A crystal-induced synovitis precipitated by the preceding illness"
+        },
+        {
+          "label": "B",
+          "text": "A demyelinating process triggered by antibody molecular mimicry"
+        },
+        {
+          "label": "C",
+          "text": "A septic joint seeded by bacteria still present in the synovium"
+        },
+        {
+          "label": "D",
+          "text": "A toxin-mediated arthropathy caused by circulating Shiga toxin"
+        },
+        {
+          "label": "E",
+          "text": "An autoimmune arthritis strongly associated with the HLA-B27 allele"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reactive arthritis is an autoimmune disease after GI or GU infection, and 70-90% of patients carry HLA-B27.",
+        "whyCorrect": "Reactive arthritis occurs 1-4 weeks after gastrointestinal and genitourinary infections, and its three most common features are conjunctivitis, urethritis, and arthritis, remembered as cannot see, pee, or climb a tree. It is unclear exactly why it happens, but 70-90% of patients carry the HLA-B27 allele of MHC class I. Most cases resolve in a few months with anti-inflammatory therapy.",
+        "whyWrongByChoice": {
+          "A": "Crystal-induced synovitis is a separate entity and is not the postinfectious syndrome described here.",
+          "B": "A demyelinating process from molecular mimicry describes Guillain-Barre syndrome, which causes weakness, not arthritis.",
+          "C": "Reactive arthritis is immune-mediated and follows the infection; it is not a joint with ongoing bacterial infection.",
+          "D": "Shiga toxin causes hemolytic uremic syndrome, not the conjunctivitis-urethritis-arthritis triad."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reactive arthritis",
+        "HLA-B27",
+        "complications"
+      ],
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-001",
+      "stem": "A 19-year-old man develops an itchy rash two days after spending an evening in a poorly maintained hotel hot tub. Examination shows tender red papules and pustules centered on hair follicles over the trunk and thighs, most dense where his swim trunks sat. He is afebrile and otherwise healthy. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Folliculitis following immersion in a poorly maintained hot tub is caused by the water-loving Pseudomonas aeruginosa.",
+        "whyCorrect": "A hot tub that is not properly maintained quickly becomes a breeding ground for water-loving bacteria such as Pseudomonas. Prolonged soaking swells the skin and creates microabrasions that let the organism enter soft tissue. The result is tender, sometimes itchy red papules and pustules focused around hair follicles, which occurs in otherwise healthy people and usually resolves on its own.",
+        "whyWrongByChoice": {
+          "A": "Candida albicans causes intertriginous and mucosal yeast infections, not follicular pustules after water immersion.",
+          "C": "Staphylococcus aureus is the most common cause of skin infection generally, but the hot tub exposure points to Pseudomonas.",
+          "D": "Staphylococcus epidermidis is a low-virulence skin commensal and is not the organism linked to hot tub exposure.",
+          "E": "Streptococcus pyogenes is a common cause of skin infection but does not have the hot tub and whirlpool association."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Pseudomonas aeruginosa",
+        "hot tub folliculitis",
+        "skin infection"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-002",
+      "stem": "A 12-year-old competitive swimmer has three days of right ear pain and drainage. Pulling on the auricle reproduces the pain. The external auditory canal is red, swollen, and filled with purulent debris; the tympanic membrane appears normal where it can be seen. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "C",
+          "text": "Moraxella catarrhalis"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas species are the most common cause of acute otitis externa, and swimming is the usual precipitant.",
+        "whyCorrect": "Contaminated water enters the outer ear canal and Pseudomonas enters through the small microabrasions created as the skin stretches and swells. Otitis externa presents with pain, redness, and swelling of the outer canal, with purulent discharge in more severe cases, and the pain characteristically worsens with manipulation of the ear. Swimming is the most common cause, and blocking the ears before swimming helps prevent it.",
+        "whyWrongByChoice": {
+          "A": "Acinetobacter baumannii causes hospital-acquired pneumonia and wound infection, not swimmer's ear in a healthy child.",
+          "B": "Haemophilus influenzae likewise causes acute otitis media behind an intact tympanic membrane.",
+          "C": "Moraxella catarrhalis is one of the classic middle ear pathogens and is not a typical otitis externa organism.",
+          "E": "Streptococcus pneumoniae is a leading cause of middle ear infection (acute otitis media), not the outer ear canal."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Pseudomonas aeruginosa",
+        "otitis externa",
+        "ear infection"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-003",
+      "stem": "A 71-year-old man with poorly controlled type 2 diabetes has three weeks of worsening left ear pain and drainage despite topical therapy. Granulation tissue is seen in the canal, and he has now developed hoarseness and difficulty swallowing. Culture grows an oxidase-positive gram-negative rod. Which of the following best explains his new symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression of the ear canal by impacted cerumen and debris"
+        },
+        {
+          "label": "B",
+          "text": "Invasion of the skull base involving cranial nerves IX through XII"
+        },
+        {
+          "label": "C",
+          "text": "Perforation of the tympanic membrane with a middle ear effusion"
+        },
+        {
+          "label": "D",
+          "text": "Reactivation of varicella-zoster virus within the geniculate ganglion"
+        },
+        {
+          "label": "E",
+          "text": "Septic emboli to the brainstem arising from infective endocarditis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In diabetics and the immunocompromised, otitis externa can become malignant otitis externa, invading deep tissue and bone and involving cranial nerves IX-XII.",
+        "whyCorrect": "Malignant otitis externa presents with symptoms similar to ordinary otitis externa but with far more severe tissue damage. Invasion into deeper tissues, bone, and the bloodstream is possible. Involvement of cranial nerves IX-XII produces difficulty swallowing, hoarseness, and difficulty speaking, and the infection is life-threatening.",
+        "whyWrongByChoice": {
+          "A": "Impacted cerumen causes conductive hearing loss and fullness; it does not produce cranial nerve palsies.",
+          "C": "A perforated tympanic membrane causes drainage and hearing loss but leaves the lower cranial nerves intact.",
+          "D": "Zoster reactivation in the geniculate ganglion causes facial palsy with vesicles, not an oxidase-positive bacterial infection.",
+          "E": "Infective endocarditis is not suggested here, and emboli would not follow a progressive external ear infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "malignant otitis externa",
+        "diabetes",
+        "cranial nerves"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-004",
+      "stem": "A 58-year-old woman in a burn unit develops septicemia caused by Pseudomonas aeruginosa. The isolate produces exotoxin A, a toxin present in most clinical isolates of this organism. Which of the following best describes how this toxin kills host cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks elongation factor 2, halting host protein synthesis"
+        },
+        {
+          "label": "B",
+          "text": "It cleaves ribosomal RNA within the 60S ribosomal subunit"
+        },
+        {
+          "label": "C",
+          "text": "It degrades membrane phospholipids and lyses the cell"
+        },
+        {
+          "label": "D",
+          "text": "It prevents the release of the inhibitory neurotransmitters"
+        },
+        {
+          "label": "E",
+          "text": "It raises intracellular cAMP by modifying a G protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pseudomonas exotoxin A blocks elongation factor 2, shutting down protein synthesis and killing the target cell.",
+        "whyCorrect": "Strains of Pseudomonas secrete several toxins that damage host cells, and exotoxin A is present in most clinical isolates. It blocks elongation factor 2 activity, which is critical for translation. Without functioning EF-2 the cell cannot make protein and ultimately dies.",
+        "whyWrongByChoice": {
+          "B": "Inactivation of the 60S ribosomal subunit is the mechanism of Shiga toxin, not exotoxin A.",
+          "C": "Phospholipase activity that lyses membranes describes the alpha toxin of Clostridium perfringens in gas gangrene.",
+          "D": "Blocking release of GABA and glycine describes tetanospasmin from Clostridium tetani.",
+          "E": "Raising cAMP by modifying a G protein describes toxins such as cholera toxin, heat-labile toxin of ETEC, anthrax toxin, and pertussis toxin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "exotoxin A",
+        "elongation factor 2",
+        "virulence factor"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-005",
+      "stem": "A wound isolate of Pseudomonas aeruginosa produces a blue pigment that is directly toxic to host cells, including leukocytes and epithelial cells. Which of the following is this pigment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alginate"
+        },
+        {
+          "label": "B",
+          "text": "Exotoxin A"
+        },
+        {
+          "label": "C",
+          "text": "Lipopolysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "Pyocyanin"
+        },
+        {
+          "label": "E",
+          "text": "Pyoverdine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pyocyanin is the blue Pseudomonas pigment that is toxic to leukocytes and epithelial cells.",
+        "whyCorrect": "P. aeruginosa makes two pigments, pyocyanin and pyoverdine. Pyocyanin is blue and toxic for cells, including leukocytes and epithelial cells, so it contributes directly to tissue damage. Together with pyoverdine it gives colonies their blue-to-aqua appearance.",
+        "whyWrongByChoice": {
+          "A": "Alginate is the polysaccharide of the mucoid capsule; it is not a pigment and is not cytotoxic.",
+          "B": "Exotoxin A is a secreted protein toxin, not a pigment, and it acts by blocking elongation factor 2.",
+          "C": "Lipopolysaccharide is the gram-negative outer membrane endotoxin and does not color the colony.",
+          "E": "Pyoverdine is the other Pseudomonas pigment, but it is yellow and fluorescent and functions in iron binding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyocyanin",
+        "pigment",
+        "virulence factor"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-006",
+      "stem": "A flask of Pseudomonas culture glows yellow-green when a ultraviolet lamp is shone on it in a darkened laboratory. The molecule responsible also binds iron for the bacterium. Which of the following is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alginate"
+        },
+        {
+          "label": "B",
+          "text": "Exotoxin A"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharide capsule"
+        },
+        {
+          "label": "D",
+          "text": "Pyocyanin"
+        },
+        {
+          "label": "E",
+          "text": "Pyoverdine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pyoverdine is a yellow, fluorescent, iron-binding pigment that makes Pseudomonas fluoresce under UV light.",
+        "whyCorrect": "Pyoverdine is one of the two pigments produced by P. aeruginosa. It is yellow and fluorescent, and it binds iron. Other Pseudomonas species can produce pyoverdine as well, which is why they fluoresce under ultraviolet light.",
+        "whyWrongByChoice": {
+          "A": "Alginate forms the mucoid capsule seen in cystic fibrosis isolates and does not fluoresce.",
+          "B": "Exotoxin A is a secreted protein toxin that blocks elongation factor 2 and has no pigment function.",
+          "C": "The polysaccharide capsule contributes to adherence and protection, not to fluorescence or iron acquisition.",
+          "D": "Pyocyanin is blue and cytotoxic; it is not the fluorescent iron-binding pigment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyoverdine",
+        "pigment",
+        "iron acquisition"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-007",
+      "stem": "Sputum from an intubated patient grows a motile gram-negative rod that does not ferment lactose and is oxidase positive. The colonies are blue-green. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "E",
+          "text": "Salmonella enterica"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A motile, non-lactose-fermenting, oxidase-positive gram-negative rod with blue-green colonies is Pseudomonas.",
+        "whyCorrect": "Pseudomonas species are gram-negative, do not ferment lactose, and are oxidase positive. They are motile by a single polar flagellum, and pyocyanin and pyoverdine give the colonies an aqua or green color. This combination identifies the organism in the laboratory.",
+        "whyWrongByChoice": {
+          "A": "Acinetobacter is a non-motile, oxidase-negative coccobacillus with colorless or creamy colonies.",
+          "B": "Escherichia coli also ferments lactose, which separates it from Pseudomonas on MacConkey agar.",
+          "C": "Klebsiella pneumoniae ferments lactose and does not produce a blue-green pigment.",
+          "E": "Salmonella does not ferment lactose but is oxidase negative and produces no pigment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "laboratory identification",
+        "oxidase",
+        "lactose fermentation"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-008",
+      "stem": "Two gram-negative rods from different patients both fail to ferment lactose on MacConkey agar; one is later identified as Pseudomonas and the other as a Salmonella species. Which of the following laboratory findings best separates Pseudomonas from non-lactose-fermenting organisms such as Salmonella and Shigella?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ability to grow on standard blood agar"
+        },
+        {
+          "label": "B",
+          "text": "Catalase production by the colonies"
+        },
+        {
+          "label": "C",
+          "text": "Gram stain morphology of the organism"
+        },
+        {
+          "label": "D",
+          "text": "Lactose fermentation on MacConkey agar"
+        },
+        {
+          "label": "E",
+          "text": "Oxidase production by the colonies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oxidase positivity distinguishes Pseudomonas from the other non-lactose-fermenting gram-negative rods.",
+        "whyCorrect": "Two tests anchor the identification of Pseudomonas. The inability to ferment lactose separates it from lactose fermenters such as E. coli and Klebsiella. Oxidase production then separates it from the non-lactose-fermenting gram-negatives such as Salmonella and Shigella, which are oxidase negative.",
+        "whyWrongByChoice": {
+          "A": "All of these organisms grow readily on routine laboratory media.",
+          "B": "Catalase is not the test used to distinguish these gram-negative rods from one another.",
+          "C": "All are gram-negative rods on Gram stain, so morphology does not separate them.",
+          "D": "All three organisms in question fail to ferment lactose, so this test cannot tell them apart."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxidase",
+        "laboratory identification",
+        "gram-negative rods"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-009",
+      "stem": "Sputum from a 17-year-old with cystic fibrosis grows Pseudomonas colonies that are strikingly slimy and wet in appearance, unlike the dry colonies grown from a burn wound isolate on the adjacent plate. Overproduction of which of the following explains this mucoid phenotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alginate"
+        },
+        {
+          "label": "B",
+          "text": "Exotoxin A"
+        },
+        {
+          "label": "C",
+          "text": "Lipopolysaccharide"
+        },
+        {
+          "label": "D",
+          "text": "Pyocyanin"
+        },
+        {
+          "label": "E",
+          "text": "Pyoverdine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The mucoid capsule of Pseudomonas is made of alginate and is characteristic of cystic fibrosis isolates.",
+        "whyCorrect": "Pseudomonas can produce a mucoid capsule made of alginate, a polysaccharide that absorbs a large multiple of its own weight in water. Strains expressing this capsule adhere to and colonize mucus far better. Mucoid strains are almost exclusively isolated from the lungs of cystic fibrosis patients.",
+        "whyWrongByChoice": {
+          "B": "Exotoxin A is a secreted toxin; in chronically colonized CF lungs these toxins are actually downregulated.",
+          "C": "Lipopolysaccharide is present on all gram-negative bacteria and does not confer the mucoid appearance.",
+          "D": "Pyocyanin is the blue cytotoxic pigment and affects colony color rather than texture.",
+          "E": "Pyoverdine is a fluorescent iron-binding pigment and does not create a slimy colony."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alginate",
+        "cystic fibrosis",
+        "mucoid strain"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-010",
+      "stem": "The mucoid capsule that Pseudomonas expresses in the cystic fibrosis lung is a polysaccharide with a striking capacity to hold water, which helps the organism adhere to and colonize airway mucus. Approximately how much water can it absorb relative to its own weight?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2 to 3 times its weight"
+        },
+        {
+          "label": "B",
+          "text": "10 to 20 times its weight"
+        },
+        {
+          "label": "C",
+          "text": "50 to 60 times its weight"
+        },
+        {
+          "label": "D",
+          "text": "200 to 300 times its weight"
+        },
+        {
+          "label": "E",
+          "text": "2,000 to 3,000 times its weight"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alginate can absorb roughly 200-300 times its own weight in water.",
+        "whyCorrect": "Alginate is the polysaccharide of the Pseudomonas mucoid capsule and absorbs about 200-300 times its weight in water. That water-holding capacity is what makes the colonies visibly slimy and lets the organism bind and colonize the thick mucus of the cystic fibrosis airway.",
+        "whyWrongByChoice": {
+          "A": "This underestimates the capacity by roughly two orders of magnitude.",
+          "B": "This is far below the figure described for alginate.",
+          "C": "This is still well short of the actual water-binding capacity.",
+          "E": "This overstates the capacity by about tenfold."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "alginate",
+        "cystic fibrosis",
+        "numbers"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-011",
+      "stem": "Pseudomonas isolates recovered from the chronically colonized lungs of cystic fibrosis patients express far fewer secreted toxins than isolates recovered from acute wound infections in other patients. Which of the following best explains this behavior?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic exposure selects for strains unable to produce toxins"
+        },
+        {
+          "label": "B",
+          "text": "Host mucus chemically inactivates the secreted bacterial toxins"
+        },
+        {
+          "label": "C",
+          "text": "Loss of the polar flagellum prevents export of secreted toxins"
+        },
+        {
+          "label": "D",
+          "text": "Toxin genes are transferred away to other bacteria in the biofilm"
+        },
+        {
+          "label": "E",
+          "text": "White blood cells penetrate mucus poorly, so toxins are dispensable"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the cystic fibrosis lung Pseudomonas downregulates most virulence factors because white blood cells cannot reach it through the mucus.",
+        "whyCorrect": "Pseudomonas colonizing cystic fibrosis mucus stops producing most of its virulence factors. White blood cells cannot infiltrate the mucus layer well, so the organism can save energy by shutting those factors off. Virulence factor reduction of this kind is uncommon among pathogenic bacteria.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics select for resistance, not for loss of toxin production.",
+          "B": "The toxins are not being made in the first place; this is a change in bacterial gene expression, not chemical inactivation.",
+          "C": "Flagellar loss relates to motility, and toxin secretion does not depend on the flagellum here.",
+          "D": "Gene transfer within a biofilm does not explain the coordinated downregulation seen in these isolates."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cystic fibrosis",
+        "virulence factor",
+        "immune evasion"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi23-012",
+      "stem": "A 26-year-old with cystic fibrosis has had recurrent pulmonary infections and a steady decline in lung function since childhood. Which of the following is the most common cause of death in patients with this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic cirrhosis from biliary tract obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Intestinal obstruction from inspissated secretions"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic insufficiency with severe malnutrition"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory failure from chronic lung infection"
+        },
+        {
+          "label": "E",
+          "text": "Septicemia arising from urinary tract infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Respiratory failure due to chronic infection is the most common cause of death in cystic fibrosis.",
+        "whyCorrect": "Thick mucus lets bacteria colonize deeper in the lungs and in higher numbers, which drives chronic inflammation. That inflammation progressively destroys the lungs and increases the risk of further infection, a cycle in which Pseudomonas plays a central role. Respiratory failure from these chronic infections is the most common cause of death.",
+        "whyWrongByChoice": {
+          "A": "Liver disease can complicate cystic fibrosis but does not account for most deaths.",
+          "B": "Intestinal obstruction occurs in cystic fibrosis but is not the leading cause of mortality.",
+          "C": "Pancreatic involvement causes malabsorption and is managed with enzyme replacement; it is not the usual cause of death.",
+          "E": "Urinary tract infection is not a characteristic complication of cystic fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cystic fibrosis",
+        "respiratory failure",
+        "prognosis"
+      ],
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-001",
+      "stem": "A 22-year-old woman presents with 2 days of dysuria, urinary frequency, urgency, and a sensation of incomplete bladder emptying. She is afebrile, and examination shows mild suprapubic tenderness without costovertebral angle tenderness. A urine culture is obtained before empiric therapy is begun. Which of the following organisms is most likely to be recovered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus saprophyticus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute cystitis is primarily caused by Escherichia coli.",
+        "whyCorrect": "Acute cystitis is an infection of the lower urinary tract, and it is primarily caused by Escherichia coli. E. coli is a gram-negative rod of the Enterobacteriaceae family, the group that typically causes urinary tract infections. Her afebrile presentation with suprapubic tenderness and no costovertebral angle tenderness is the classic lower-tract picture.",
+        "whyWrongByChoice": {
+          "A": "Enterococci can cause acute cystitis but account for a minority of cases compared with E. coli.",
+          "C": "Klebsiella is listed among the other organisms that can cause acute cystitis, not the most likely one.",
+          "D": "Proteus is also an occasional cause of acute cystitis but is not the predominant pathogen.",
+          "E": "Staphylococcus saprophyticus is a recognized cause of acute cystitis but is far less common than E. coli."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute cystitis",
+        "urinary tract infection",
+        "Escherichia coli"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-002",
+      "stem": "A 60-year-old man with lobar pneumonia is started on ciprofloxacin. Sputum culture grows Streptococcus pneumoniae, and after 3 days he remains febrile with worsening hypoxemia. Which of the following best explains his poor response to therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciprofloxacin has limited coverage of gram-positive bacteria"
+        },
+        {
+          "label": "B",
+          "text": "Ciprofloxacin has no activity against Klebsiella or Proteus species"
+        },
+        {
+          "label": "C",
+          "text": "Ciprofloxacin is active only against anaerobic organisms"
+        },
+        {
+          "label": "D",
+          "text": "Ciprofloxacin is effective only when given as a topical preparation"
+        },
+        {
+          "label": "E",
+          "text": "Ciprofloxacin lacks activity against Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ciprofloxacin has limited coverage of gram-positive organisms such as S. pneumoniae and S. aureus.",
+        "whyCorrect": "Although fluoroquinolones are broad-spectrum agents, ciprofloxacin's strength is aerobic gram-negative bacilli. Its coverage of gram-positive bacteria, specifically S. pneumoniae and Staphylococcus aureus, is limited, so pneumococcal pneumonia is a predictable treatment failure. Levofloxacin and moxifloxacin are the fluoroquinolones that cover the common respiratory pathogens.",
+        "whyWrongByChoice": {
+          "B": "Ciprofloxacin has excellent activity against Klebsiella and Proteus species.",
+          "C": "Ciprofloxacin is not restricted to anaerobes; it is a broad-spectrum agent with strong aerobic gram-negative activity.",
+          "D": "Ciprofloxacin is used systemically; topical formulation is not the issue here.",
+          "E": "Ciprofloxacin does have activity against Pseudomonas aeruginosa, so this is not the explanation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ciprofloxacin",
+        "spectrum of activity",
+        "Streptococcus pneumoniae"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-003",
+      "stem": "A 58-year-old woman is being treated for community-acquired pneumonia caused by Streptococcus pneumoniae when she also develops dysuria and urinary frequency. The team wants a single fluoroquinolone that covers the common respiratory pathogens and also reaches effective concentrations in the urine. Which of the following agents best meets both requirements?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "B",
+          "text": "Levofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Linezolid"
+        },
+        {
+          "label": "D",
+          "text": "Moxifloxacin"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Levofloxacin covers the common respiratory pathogens and can also be used for urinary tract infections.",
+        "whyCorrect": "Levofloxacin has activity against both gram-positive and gram-negative pathogens and is active against the common respiratory pathogens S. pneumoniae, H. influenzae, and M. catarrhalis. It is also one of the fluoroquinolones that can be used to treat urinary tract infections, making it the single agent that satisfies both needs.",
+        "whyWrongByChoice": {
+          "A": "Ciprofloxacin has limited gram-positive coverage and would not reliably treat S. pneumoniae pneumonia.",
+          "C": "Linezolid is used for MRSA coverage and is not a fluoroquinolone.",
+          "D": "Moxifloxacin covers respiratory pathogens but is not renally eliminated and does not concentrate in the urine.",
+          "E": "Vancomycin is used for MRSA coverage and is not a fluoroquinolone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "levofloxacin",
+        "respiratory pathogens",
+        "urinary tract infection"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-004",
+      "stem": "A 54-year-old man has a polymicrobial intra-abdominal infection involving both gram-positive and gram-negative organisms. The team wants a fluoroquinolone whose enhanced gram-positive activity makes it useful in this setting. Which of the following is the most appropriate choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "B",
+          "text": "Levofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Linezolid"
+        },
+        {
+          "label": "D",
+          "text": "Moxifloxacin"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Moxifloxacin has enhanced gram-positive activity, making it effective for polymicrobial infections such as intra-abdominal infections.",
+        "whyCorrect": "Moxifloxacin's spectrum is similar to that of levofloxacin, but it has enhanced gram-positive activity. That added gram-positive potency is what makes moxifloxacin effective against polymicrobial infections such as intra-abdominal infections.",
+        "whyWrongByChoice": {
+          "A": "Ciprofloxacin has limited gram-positive coverage, so it does not fit the description of enhanced gram-positive activity.",
+          "B": "Levofloxacin covers gram-positive and gram-negative pathogens but does not have the enhanced gram-positive activity attributed to moxifloxacin.",
+          "C": "Linezolid is not a fluoroquinolone; it is used for MRSA coverage.",
+          "E": "Vancomycin is not a fluoroquinolone; it is used for MRSA coverage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "moxifloxacin",
+        "intra-abdominal infection",
+        "gram-positive coverage"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-005",
+      "stem": "A resident proposes moxifloxacin for a patient with an uncomplicated urinary tract infection. The attending explains that moxifloxacin is a poor choice for this indication. Which of the following best supports the attending's reasoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cannot be administered by the oral route to adults"
+        },
+        {
+          "label": "B",
+          "text": "It has no activity against any aerobic gram-negative bacilli"
+        },
+        {
+          "label": "C",
+          "text": "It is chemically inactivated by the acidic pH of the urine"
+        },
+        {
+          "label": "D",
+          "text": "It is contraindicated in every patient older than 60 years"
+        },
+        {
+          "label": "E",
+          "text": "It is not renally eliminated and does not concentrate in the urine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Moxifloxacin is not used for UTIs because it is not renally eliminated and does not concentrate in the urine.",
+        "whyCorrect": "Moxifloxacin is not typically used to treat urinary tract infections because it is not renally eliminated and does not concentrate in the urine. As a result it never reaches levels in the urinary tract sufficient to kill the infecting bacteria, regardless of how susceptible they look in vitro.",
+        "whyWrongByChoice": {
+          "A": "Route of administration is not the limitation; the limitation is lack of urinary concentration.",
+          "B": "Moxifloxacin does have gram-negative activity, including activity against P. aeruginosa; the problem is drug delivery to the urine.",
+          "C": "Urinary pH inactivation is not the reason given for avoiding moxifloxacin in UTIs.",
+          "D": "Age over 60 raises the risk of tendon rupture with fluoroquinolones but is not an absolute contraindication and is unrelated to UTI efficacy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "moxifloxacin",
+        "urinary tract infection",
+        "drug elimination"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-006",
+      "stem": "A 68-year-old man who began levofloxacin 5 days ago for pneumonia reports new pain and swelling just above the right heel that worsens with walking. Which of the following fluoroquinolone adverse effects best explains his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Photosensitivity"
+        },
+        {
+          "label": "B",
+          "text": "QTc prolongation"
+        },
+        {
+          "label": "C",
+          "text": "Red-man syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Sulfa hypersensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Tendon rupture"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fluoroquinolones cause tendon rupture, a risk that increases in patients older than 60 years.",
+        "whyCorrect": "Tendon injury and rupture are well-described fluoroquinolone adverse effects, and the risk increases with age greater than 60. Pain and swelling over the Achilles region in a 68-year-old man started on levofloxacin is the classic presentation of this complication.",
+        "whyWrongByChoice": {
+          "A": "Photosensitivity produces an exaggerated sunburn reaction on sun-exposed skin, not focal heel pain.",
+          "B": "QTc prolongation is an electrocardiographic effect and does not cause localized tendon pain.",
+          "C": "Red-man syndrome is associated with vancomycin, not with the fluoroquinolones.",
+          "D": "Sulfa hypersensitivity follows sulfonamide exposure and typically presents as a skin reaction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "adverse effects",
+        "tendon rupture"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-007",
+      "stem": "A 70-year-old woman with pneumonia is already taking a medication known to lengthen the QT interval. Her physician is reluctant to add a fluoroquinolone to her regimen. Which fluoroquinolone-associated risk is the physician most concerned about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Photosensitivity"
+        },
+        {
+          "label": "B",
+          "text": "QTc prolongation"
+        },
+        {
+          "label": "C",
+          "text": "Red-man syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Tendon rupture"
+        },
+        {
+          "label": "E",
+          "text": "Teratogenic fetal effects"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones prolong the QTc and should be avoided when the risk of further QT lengthening is high.",
+        "whyCorrect": "The use of fluoroquinolones is associated with QTc prolongation, so these agents should be avoided when there is already a risk of increasing the QT interval. Adding a fluoroquinolone to another QT-prolonging drug compounds that risk.",
+        "whyWrongByChoice": {
+          "A": "Photosensitivity is a skin reaction to sun exposure and has no electrocardiographic consequence.",
+          "C": "Red-man syndrome is a vancomycin infusion reaction, not a fluoroquinolone effect.",
+          "D": "Tendon rupture is a genuine fluoroquinolone risk but is unrelated to the QT interval.",
+          "E": "Teratogenicity is a concern in pregnancy and is not relevant to a QT-prolonging co-medication."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "adverse effects",
+        "QTc prolongation"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-008",
+      "stem": "A 27-year-old woman who is 10 weeks pregnant is diagnosed with acute cystitis. Her physician specifically avoids prescribing ciprofloxacin. Which property of the fluoroquinolones explains this decision?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are eliminated exclusively by hepatic metabolism"
+        },
+        {
+          "label": "B",
+          "text": "They are teratogenic and are contraindicated in pregnancy"
+        },
+        {
+          "label": "C",
+          "text": "They cannot be absorbed from the gut during pregnancy"
+        },
+        {
+          "label": "D",
+          "text": "They cause flushing and rash when infused rapidly"
+        },
+        {
+          "label": "E",
+          "text": "They have no activity against Escherichia coli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fluoroquinolones are teratogenic and should be avoided in pregnancy.",
+        "whyCorrect": "Fluoroquinolones are teratogenic, so they should be avoided in pregnant patients. For a pregnant woman with acute cystitis another class must be selected even though the fluoroquinolones would otherwise cover the likely uropathogens.",
+        "whyWrongByChoice": {
+          "A": "Elimination route is the issue for moxifloxacin in UTIs, not the reason to avoid fluoroquinolones in pregnancy.",
+          "C": "Impaired absorption in pregnancy is not the stated reason to avoid these drugs.",
+          "D": "Flushing and rash during rapid infusion describe red-man syndrome, which is caused by vancomycin.",
+          "E": "Fluoroquinolones such as ciprofloxacin cover E. coli very well; efficacy is not the problem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "pregnancy",
+        "teratogenicity"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-009",
+      "stem": "A 30-year-old woman taking ciprofloxacin for a urinary tract infection spends an afternoon outdoors and develops an exaggerated sunburn-like erythema over sun-exposed skin. Which adverse effect of the fluoroquinolones does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Photosensitivity"
+        },
+        {
+          "label": "B",
+          "text": "QTc prolongation"
+        },
+        {
+          "label": "C",
+          "text": "Red-man syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Tendon rupture"
+        },
+        {
+          "label": "E",
+          "text": "Teratogenicity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fluoroquinolones can cause photosensitivity reactions.",
+        "whyCorrect": "Photosensitivity is a recognized fluoroquinolone adverse effect. Patients develop an exaggerated sunburn-type reaction on sun-exposed skin, which is exactly what this patient describes after an afternoon outdoors on ciprofloxacin.",
+        "whyWrongByChoice": {
+          "B": "QTc prolongation is detected on electrocardiogram and produces no skin findings.",
+          "C": "Red-man syndrome follows rapid vancomycin infusion, not sun exposure on a fluoroquinolone.",
+          "D": "Tendon rupture presents with focal tendon pain and swelling, not a sun-distributed rash.",
+          "E": "Teratogenicity refers to fetal harm and is not a cutaneous reaction in the patient."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fluoroquinolones",
+        "adverse effects",
+        "photosensitivity"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-010",
+      "stem": "During a rapid intravenous antibiotic infusion, a patient develops flushing and an erythematous rash over the face and upper torso. Which of the following drugs is classically responsible for this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "B",
+          "text": "Levofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Moxifloxacin"
+        },
+        {
+          "label": "D",
+          "text": "Sulfamethoxazole/trimethoprim"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Red-man syndrome is associated with vancomycin, not with the fluoroquinolones.",
+        "whyCorrect": "Flushing with an erythematous rash during a rapid infusion is red-man syndrome, which is associated with the use of vancomycin. It is specifically not a fluoroquinolone adverse effect, a point the brick makes when listing fluoroquinolone warnings.",
+        "whyWrongByChoice": {
+          "A": "Ciprofloxacin causes QTc prolongation, tendon rupture, and photosensitivity, but not red-man syndrome.",
+          "B": "Levofloxacin shares the fluoroquinolone class warnings and is not linked to red-man syndrome.",
+          "C": "Moxifloxacin shares the fluoroquinolone class warnings and is not linked to red-man syndrome.",
+          "D": "Sulfamethoxazole/trimethoprim causes hypersensitivity skin reactions but not infusion-related red-man syndrome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "red-man syndrome",
+        "adverse effects"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-011",
+      "stem": "A 25-year-old woman with no drug allergies is diagnosed with acute uncomplicated cystitis. Which of the following is the usual first-line antibiotic for this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous cefepime every 8 hours"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous piperacillin/tazobactam"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous vancomycin or linezolid"
+        },
+        {
+          "label": "D",
+          "text": "Oral moxifloxacin 400 mg daily"
+        },
+        {
+          "label": "E",
+          "text": "Sulfamethoxazole/trimethoprim"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "First-line treatment of an uncomplicated UTI is often sulfamethoxazole/trimethoprim.",
+        "whyCorrect": "Acute cystitis is treated with antibiotics, and first-line therapy is often sulfamethoxazole/trimethoprim. The combination covers the usual uropathogens, including E. coli, Klebsiella pneumoniae, and Proteus mirabilis. Fluoroquinolones such as ciprofloxacin and levofloxacin are alternatives.",
+        "whyWrongByChoice": {
+          "A": "Cefepime is used when gram-negative and pseudomonal coverage is needed, not for uncomplicated cystitis.",
+          "B": "Piperacillin/tazobactam is reserved for gram-negative and pseudomonal coverage.",
+          "C": "Vancomycin and linezolid are used for MRSA coverage rather than for routine cystitis.",
+          "D": "Moxifloxacin does not concentrate in the urine and is not used for urinary tract infections."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sulfamethoxazole/trimethoprim",
+        "acute cystitis",
+        "first-line therapy"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi24-012",
+      "stem": "A team is reviewing the gram-positive spectrum of sulfamethoxazole/trimethoprim before selecting therapy. Which of the following organisms lies within that spectrum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Group A Streptococcus"
+        },
+        {
+          "label": "C",
+          "text": "Methicillin-resistant Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sulfonamide gram-positive coverage includes Staphylococcus aureus and Staphylococcus epidermidis.",
+        "whyCorrect": "Sulfonamides cover some gram-positive bacteria, and the organisms named are Staphylococcus aureus and Staphylococcus epidermidis. Staphylococcus epidermidis therefore falls squarely inside the documented sulfonamide gram-positive spectrum.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecalis is not among the gram-positive organisms covered by the sulfonamides.",
+          "B": "Group A Streptococcus is treated with agents such as ampicillin/sulbactam, not with sulfonamides.",
+          "C": "MRSA requires vancomycin or linezolid rather than a sulfonamide.",
+          "E": "Streptococcus pneumoniae is not listed within the sulfonamide gram-positive spectrum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sulfonamides",
+        "spectrum of activity",
+        "gram-positive cocci"
+      ],
+      "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
+      "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-001",
+      "stem": "A medical historian describes the antimicrobial class that first made systemic antibacterial therapy possible. These agents were in clinical use more than a decade before penicillin, and they are built around a sulfur-containing functional group. Which class is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycosides"
+        },
+        {
+          "label": "B",
+          "text": "Fluoroquinolones"
+        },
+        {
+          "label": "C",
+          "text": "Macrolides"
+        },
+        {
+          "label": "D",
+          "text": "Sulfonamides"
+        },
+        {
+          "label": "E",
+          "text": "Tetracyclines"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sulfa drugs were the first systemic antibiotics, preceding penicillin by more than a decade.",
+        "whyCorrect": "Sulfur compounds have been used to inhibit microbial growth for centuries, and sulfonamides became the first true systemic antibiotics. Penicillin usually gets credit as the first antibiotic, but the sulfa drugs beat that 'miracle drug' to the clinic by more than ten years and launched the transformation of modern medicine.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides were introduced after the sulfonamide era had already begun.",
+          "B": "Fluoroquinolones are among the most recently introduced antibacterial classes.",
+          "C": "Macrolides are a later class and were not the first systemic antibacterials.",
+          "E": "Tetracyclines came into use well after the sulfa drugs and after penicillin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sulfonamides",
+        "antibiotic history"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-002",
+      "stem": "A medicinal chemist classifies several drugs by a shared core: a sulfur atom double bonded to two oxygen atoms and single bonded to a nitrogen, with variable R substituents attached. Drugs carrying this core include certain diuretics and diabetes medications as well as antibacterials. Which structure is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside amino sugar"
+        },
+        {
+          "label": "B",
+          "text": "Beta-lactam ring"
+        },
+        {
+          "label": "C",
+          "text": "Macrolide lactone ring"
+        },
+        {
+          "label": "D",
+          "text": "Sulfonamide functional group"
+        },
+        {
+          "label": "E",
+          "text": "Tetracycline four-ring nucleus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The sulfonamide functional group is the core active structure of the sulfa drugs.",
+        "whyCorrect": "The sulfonamide functional group consists of a sulfur atom bonded to two oxygens and to a nitrogen, with R groups that vary between agents. This single functional group defines the entire family of sulfa drugs, which spans antibacterials, diuretics, diabetes medications, and anti-inflammatory agents.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycoside amino sugars are linked sugar rings bearing amino groups, not sulfonyl groups.",
+          "B": "The beta-lactam ring is a four-membered nitrogen-containing ring with no sulfonyl group.",
+          "C": "The macrolide lactone ring is a large cyclic ester and contains no sulfur.",
+          "E": "The tetracycline nucleus is a fused four-ring hydrocarbon skeleton, not a sulfonyl core."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sulfonamides",
+        "drug structure"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-003",
+      "stem": "A 34-year-old man with advanced HIV infection is treated for cerebral toxoplasmosis with a short-acting sulfonamide that has a half-life of about 10 hours, given together with pyrimethamine. Which drug did he most likely receive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "B",
+          "text": "Sulfadiazine"
+        },
+        {
+          "label": "C",
+          "text": "Sulfamethoxazole"
+        },
+        {
+          "label": "D",
+          "text": "Sulfisoxazole"
+        },
+        {
+          "label": "E",
+          "text": "Trimethoprim"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sulfadiazine is the short-acting sulfonamide (half-life about 10 hours) that is paired with pyrimethamine.",
+        "whyCorrect": "Of the two sulfonamides commonly used in humans, sulfadiazine is classified as short acting with a half-life of roughly 10 hours and is given for systemic disease in combination with pyrimethamine. Pyrimethamine blocks dihydrofolate reductase one step downstream of the sulfonamide, giving synergistic killing.",
+        "whyWrongByChoice": {
+          "A": "Pyrimethamine is the partner drug named in the stem and is a dihydrofolate reductase inhibitor.",
+          "C": "Sulfamethoxazole is intermediate acting (9–12 hours) and is paired with trimethoprim, not pyrimethamine.",
+          "D": "Sulfisoxazole is not the agent classified as short acting and paired with pyrimethamine for systemic use.",
+          "E": "Trimethoprim is a folate antagonist, not a sulfonamide, and it has no sulfonamide core."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sulfadiazine",
+        "pharmacokinetics"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-004",
+      "stem": "A 27-year-old woman is prescribed an oral sulfonamide for a urinary tract infection. The agent is described as intermediate acting, with a half-life of 9 to 12 hours, and it is co-formulated with trimethoprim. Which sulfonamide is she taking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Para-aminobenzoic acid"
+        },
+        {
+          "label": "B",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "C",
+          "text": "Sulfadiazine"
+        },
+        {
+          "label": "D",
+          "text": "Sulfamethoxazole"
+        },
+        {
+          "label": "E",
+          "text": "Trimethoprim"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sulfamethoxazole is the intermediate-acting sulfonamide (9–12 hour half-life) combined with trimethoprim.",
+        "whyCorrect": "Sulfamethoxazole has a half-life of 9 to 12 hours, which places it in the intermediate-acting group, and it is most often given with trimethoprim. The pair is used for urinary tract infections as well as gut and skin infections and systemic disease.",
+        "whyWrongByChoice": {
+          "A": "Para-aminobenzoic acid is the bacterial substrate that sulfonamides mimic, not a drug.",
+          "B": "Pyrimethamine is a dihydrofolate reductase inhibitor, not a sulfonamide.",
+          "C": "Sulfadiazine is short acting with a half-life near 10 hours and is combined with pyrimethamine.",
+          "E": "Trimethoprim is the co-formulated partner named in the stem, not the sulfonamide itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sulfamethoxazole",
+        "pharmacokinetics"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-005",
+      "stem": "Sulfamethoxazole is routinely co-formulated with a second drug that acts at a different step of the same bacterial pathway in order to augment its activity. Which drug is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folic acid"
+        },
+        {
+          "label": "B",
+          "text": "Pyrimethamine"
+        },
+        {
+          "label": "C",
+          "text": "Sulfadiazine"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sulfamethoxazole is combined with trimethoprim, which blocks a later step of the same folate pathway.",
+        "whyCorrect": "Sulfamethoxazole blocks dihydropteroate synthase while trimethoprim blocks dihydrofolate reductase, one step further along the same pathway. Hitting two sequential enzymes augments the activity of sulfamethoxazole and converts two bacteriostatic drugs into a bactericidal combination.",
+        "whyWrongByChoice": {
+          "A": "Folic acid is supplemented to treat drug-induced folate deficiency, not to augment activity.",
+          "B": "Pyrimethamine is the folate antagonist paired with sulfadiazine, not with sulfamethoxazole.",
+          "C": "Sulfadiazine is another sulfonamide; combining sulfonamides adds no benefit.",
+          "E": "Warfarin is an anticoagulant whose metabolism is affected by sulfamethoxazole, not a partner drug."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sulfamethoxazole",
+        "trimethoprim",
+        "combination therapy"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-006",
+      "stem": "The sulfonamide functional group is found in many medications that are not antibacterials. Which of the following groups of drugs also contains sulfonamide-based agents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticoagulants, antiarrhythmics, and inhaled corticosteroids"
+        },
+        {
+          "label": "B",
+          "text": "Antihistamines, antacids, and inhaled bronchodilators"
+        },
+        {
+          "label": "C",
+          "text": "Antipsychotics, antiepileptics, and antiemetic agents"
+        },
+        {
+          "label": "D",
+          "text": "Beta-blockers, statins, and opioid analgesics"
+        },
+        {
+          "label": "E",
+          "text": "Diuretics, oral hypoglycemics, and anti-inflammatory agents"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sulfa drugs include diuretics, diabetes medications, and anti-inflammatory agents in addition to antibacterials.",
+        "whyCorrect": "The sulfonamide functional group defines a broad family of medications called the sulfa drugs. Only a subset of them are used as antimicrobials; diuretics, diabetes medications, and anti-inflammatory drugs are other major sulfa-containing classes.",
+        "whyWrongByChoice": {
+          "A": "Anticoagulants, antiarrhythmics, and inhaled corticosteroids do not share this functional group.",
+          "B": "Antihistamines, antacids, and bronchodilators are not sulfa drug classes.",
+          "C": "Antipsychotics, antiepileptics, and antiemetics are not defined by a sulfonamide core.",
+          "D": "Beta-blockers, statins, and opioids are not built on a sulfonamide core."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sulfa drugs",
+        "drug classes"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-007",
+      "stem": "Long-acting and even ultra-long-acting sulfonamide antibiotics exist and some are still used in veterinary medicine, but they are seldom prescribed for people. Which of the following best explains why they are rarely used in human practice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Limited efficacy data, cost, side effects, and widespread resistance"
+        },
+        {
+          "label": "B",
+          "text": "They are bactericidal and therefore considered too toxic for outpatient use"
+        },
+        {
+          "label": "C",
+          "text": "They are destroyed by hepatic CYP2C9 enzymes before ever reaching the urine"
+        },
+        {
+          "label": "D",
+          "text": "They cannot be given orally and must be dosed parenterally in hospital"
+        },
+        {
+          "label": "E",
+          "text": "They have no measurable affinity for the dihydropteroate synthase enzyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Long-acting sulfonamides are rarely used in humans because of poor efficacy data, cost, side effects, and resistance.",
+        "whyCorrect": "Long-acting and ultra-long-acting sulfonamides were developed but never found a durable clinical niche in humans. Limited efficacy data, cost, adverse effects, and highly prevalent resistance keep them out of human practice, though some remain in veterinary care.",
+        "whyWrongByChoice": {
+          "B": "Sulfonamides given alone are bacteriostatic, not bactericidal, and toxicity is not tied to duration.",
+          "C": "Only sulfamethoxazole undergoes partial CYP2C9 metabolism, and the drug still reaches the urine.",
+          "D": "Sulfonamides in general have very good oral absorption, so route is not the limitation.",
+          "E": "All sulfonamides act on dihydropteroate synthase; that is the defining mechanism of the class."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sulfonamides",
+        "clinical use"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-008",
+      "stem": "A sulfonamide is used as monotherapy against a susceptible organism. Which of the following best describes its effect on that bacterial population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It kills the bacteria by cleaving the bacterial chromosome"
+        },
+        {
+          "label": "B",
+          "text": "It kills the bacteria by forming pores in the cell membrane"
+        },
+        {
+          "label": "C",
+          "text": "It lyses the bacteria by disrupting cell wall cross-linking"
+        },
+        {
+          "label": "D",
+          "text": "It neutralizes the toxins that the bacteria release into tissue"
+        },
+        {
+          "label": "E",
+          "text": "It stops bacterial growth and replication without killing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sulfonamides used alone are bacteriostatic.",
+        "whyCorrect": "Sulfonamides do not actually kill bacteria on their own. By starving the cell of tetrahydrofolic acid they stop growth and replication, leaving clearance of the organism to host defenses. Only when a sulfonamide is paired with a folate antagonist does the combination become lethal.",
+        "whyWrongByChoice": {
+          "A": "Sulfonamides do not cleave DNA; they limit the precursors needed to make it.",
+          "B": "Sulfonamides do not act on the bacterial membrane or form pores.",
+          "C": "Cell wall disruption is the mechanism of beta-lactams, not of folate pathway inhibitors.",
+          "D": "Sulfonamides have no toxin-neutralizing activity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "sulfonamides",
+        "bacteriostatic"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-009",
+      "stem": "Sulfamethoxazole and trimethoprim are each bacteriostatic when used alone. Which of the following best describes what happens when the two are given together?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The combination becomes bactericidal only in the urine"
+        },
+        {
+          "label": "B",
+          "text": "The combination becomes bactericidal through synergy"
+        },
+        {
+          "label": "C",
+          "text": "The combination is bacteriostatic only against anaerobes"
+        },
+        {
+          "label": "D",
+          "text": "The combination stays bacteriostatic but lasts longer"
+        },
+        {
+          "label": "E",
+          "text": "The two drugs antagonize each other and lose activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pairing a sulfonamide with a folate antagonist converts two bacteriostatic drugs into a bactericidal combination.",
+        "whyCorrect": "Sulfamethoxazole blocks dihydropteroate synthase and trimethoprim blocks dihydrofolate reductase. Blocking two sequential steps of the same pathway drives tetrahydrofolic acid production low enough that the combined bacteriostatic actions become synergistic and lethal to the bacteria.",
+        "whyWrongByChoice": {
+          "A": "The synergy is a property of the pathway blockade, not of the urinary compartment.",
+          "C": "Sulfamethoxazole-trimethoprim does not cover anaerobes at all.",
+          "D": "The character of the effect changes, not just its duration; the pair becomes bactericidal.",
+          "E": "The two drugs are synergistic rather than antagonistic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "synergy",
+        "bactericidal"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-010",
+      "stem": "Which of the following best describes the mechanism by which sulfonamides inhibit bacterial growth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Competitive inhibition of bacterial DNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition of bacterial RNA polymerase"
+        },
+        {
+          "label": "C",
+          "text": "Competitive inhibition of dihydrofolate reductase"
+        },
+        {
+          "label": "D",
+          "text": "Competitive inhibition of dihydropteroate synthase"
+        },
+        {
+          "label": "E",
+          "text": "Competitive inhibition of the 30S ribosomal subunit"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sulfonamides are competitive inhibitors of bacterial dihydropteroate synthase.",
+        "whyCorrect": "Sulfonamides compete with para-aminobenzoic acid at the active site of dihydropteroate synthase, the enzyme that makes a key precursor of tetrahydrofolic acid. Without tetrahydrofolic acid the organism cannot make the DNA, RNA, and proteins it needs, so sulfonamides are effectively inhibitors of nucleic acid synthesis.",
+        "whyWrongByChoice": {
+          "A": "Inhibition of DNA polymerase is the mechanism of other agents, not of sulfonamides.",
+          "B": "RNA polymerase inhibition describes rifampin-type drugs, not sulfonamides.",
+          "C": "Dihydrofolate reductase is the target of trimethoprim and pyrimethamine, one step downstream.",
+          "E": "Sulfonamides have no direct effect on the bacterial ribosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "dihydropteroate synthase"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-011",
+      "stem": "Sulfonamides act as competitive inhibitors of their target enzyme because they closely resemble one of that enzyme's substrates. Which molecule do sulfonamides mimic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolic acid"
+        },
+        {
+          "label": "B",
+          "text": "Methionine"
+        },
+        {
+          "label": "C",
+          "text": "Para-aminobenzoic acid"
+        },
+        {
+          "label": "D",
+          "text": "Pteridine"
+        },
+        {
+          "label": "E",
+          "text": "Tetrahydrofolic acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sulfonamides are structural mimics of para-aminobenzoic acid (PABA).",
+        "whyCorrect": "Bacteria take in or produce PABA, which dihydropteroate synthase condenses with pteridine. Because sulfonamides look like PABA, they occupy the enzyme's active site and competitively block formation of dihydropteroic acid, which stalls the whole folate pathway.",
+        "whyWrongByChoice": {
+          "A": "Dihydrofolic acid lies downstream of the sulfonamide-sensitive step.",
+          "B": "Methionine is a product made using tetrahydrofolic acid, not an enzyme substrate here.",
+          "D": "Pteridine is the other substrate of the enzyme but is not what sulfonamides resemble.",
+          "E": "Tetrahydrofolic acid is the end product of the pathway, not the mimicked substrate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PABA",
+        "competitive inhibition"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    },
+    {
+      "id": "mi25-012",
+      "stem": "Bacterial dihydropteroate synthase condenses para-aminobenzoic acid with pteridine. Which product does this reaction generate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolic acid"
+        },
+        {
+          "label": "B",
+          "text": "Dihydropteroic acid"
+        },
+        {
+          "label": "C",
+          "text": "Methionine"
+        },
+        {
+          "label": "D",
+          "text": "Tetrahydrofolic acid"
+        },
+        {
+          "label": "E",
+          "text": "Thymidine monophosphate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dihydropteroate synthase uses PABA and pteridine to make dihydropteroic acid.",
+        "whyCorrect": "The pathway runs PABA plus pteridine to dihydropteroic acid, then dihydropteroic acid to dihydrofolic acid, then dihydrofolic acid to tetrahydrofolic acid. Dihydropteroic acid is the immediate product of the dihydropteroate synthase step, which is exactly where sulfonamides act.",
+        "whyWrongByChoice": {
+          "A": "Dihydrofolic acid is formed from dihydropteroic acid, one step after this reaction.",
+          "C": "Methionine is also a downstream product of tetrahydrofolic acid metabolism.",
+          "D": "Tetrahydrofolic acid is produced two steps later by dihydrofolate reductase.",
+          "E": "Thymidine is made downstream using tetrahydrofolic acid as a cofactor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "folate pathway",
+        "dihydropteroate synthase"
+      ],
+      "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
+      "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
+      "tier": "core"
+    }
+  ]
+}

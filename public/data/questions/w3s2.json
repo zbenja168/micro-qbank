@@ -1,0 +1,2241 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mi35-001",
+      "stem": "A 46-year-old man who received a kidney transplant 3 years ago and remains on chronic immunosuppressive therapy develops generalized lymphadenopathy and hypercalcemia. A peripheral blood smear shows malignant T lymphocytes. His physician explains that the responsible agent is a retrovirus, but one that causes T cell cancer rather than acquired immunodeficiency. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "B",
+          "text": "Human herpesvirus 8"
+        },
+        {
+          "label": "C",
+          "text": "Human immunodeficiency virus type 1"
+        },
+        {
+          "label": "D",
+          "text": "Human immunodeficiency virus type 2"
+        },
+        {
+          "label": "E",
+          "text": "Human T-cell lymphotropic virus type 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Retroviridae contains two medically significant human viruses: HIV, which causes AIDS, and HTLV-1, which causes T cell cancers.",
+        "whyCorrect": "HTLV-1 is the second medically significant member of Retroviridae. It causes T cell malignancies, most commonly in immunosuppressed patients such as this transplant recipient. The stem specifies a retrovirus producing T cell cancer rather than immunodeficiency, which identifies HTLV-1.",
+        "whyWrongByChoice": {
+          "A": "Epstein-Barr virus is a herpesvirus, not a retrovirus, and it enters cells by binding CD21.",
+          "B": "Human herpesvirus 8 is a herpesvirus that causes Kaposi sarcoma, a vascular tumor of endothelial cells.",
+          "C": "HIV-1 is a retrovirus, but it causes acquired immunodeficiency syndrome rather than T cell cancer.",
+          "D": "HIV-2 is a retrovirus, but like HIV-1 it causes progressive immunodeficiency, not T cell cancer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "retroviridae",
+        "HTLV-1",
+        "taxonomy"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-002",
+      "stem": "A student compares HIV with influenza virus and poliovirus. She notes that the latter two viruses complete their entire replication cycle within the cytoplasm of the host cell, whereas HIV behaves differently once a DNA copy of its genome has been produced. Which of the following best describes where HIV replicates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the plasma membrane, using a membrane-bound viral polymerase"
+        },
+        {
+          "label": "B",
+          "text": "In mitochondria, using enzymes borrowed from the host organelle"
+        },
+        {
+          "label": "C",
+          "text": "In the cytoplasm, in the same way as most other RNA viruses"
+        },
+        {
+          "label": "D",
+          "text": "In the nucleus, after its DNA copy is incorporated into the host genome"
+        },
+        {
+          "label": "E",
+          "text": "In the rough endoplasmic reticulum, before budding from the cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Retroviruses are unusual among RNA viruses in that they replicate in the nucleus after their DNA copy is integrated into the host genome.",
+        "whyCorrect": "Reverse transcriptase converts the viral RNA into DNA, and that DNA copy is incorporated into the host cell genome, where it remains. Because the viral genetic material now resides in host chromosomal DNA, HIV replication occurs in the nucleus. Most other RNA viruses never enter the nucleus and replicate in the cytoplasm.",
+        "whyWrongByChoice": {
+          "A": "New virions bud from the plasma membrane, but genome replication does not occur there.",
+          "B": "HIV does not replicate in mitochondria or use mitochondrial enzymes.",
+          "C": "This describes most other RNA viruses; retroviruses are the exception to that rule.",
+          "E": "The endoplasmic reticulum is not the site of retroviral genome replication."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "replication",
+        "nucleus"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-003",
+      "stem": "A researcher purifies virions from the plasma of a patient with AIDS and characterizes the nucleic acid packaged inside the capsid, as well as the virion-associated enzyme required for the first step of replication after entry. Which of the following findings would be expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One molecule of double-stranded DNA, copied by a viral DNA polymerase"
+        },
+        {
+          "label": "B",
+          "text": "One molecule of single-stranded RNA, translated directly by host ribosomes"
+        },
+        {
+          "label": "C",
+          "text": "Two copies of double-stranded RNA, copied by a viral RNA polymerase"
+        },
+        {
+          "label": "D",
+          "text": "Two copies of single-stranded DNA, copied into RNA by reverse transcriptase"
+        },
+        {
+          "label": "E",
+          "text": "Two copies of single-stranded RNA, copied into DNA by reverse transcriptase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Retroviruses package two copies of single-stranded RNA and carry reverse transcriptase to convert that RNA into DNA.",
+        "whyCorrect": "Retroviruses encode their genetic information as two copies of single-stranded RNA. After entry, the enzyme reverse transcriptase converts viral RNA into DNA, and this DNA copy is then incorporated into the host cell genome, where it remains permanently.",
+        "whyWrongByChoice": {
+          "A": "Retroviruses do not package DNA; their genome is RNA that must first be reverse transcribed.",
+          "B": "The genome is present in two copies, and replication requires reverse transcription rather than direct translation alone.",
+          "C": "The retroviral genome is single-stranded RNA, and the enzyme carried converts RNA into DNA, not RNA into RNA.",
+          "D": "Reverse transcriptase works in the opposite direction, copying RNA into DNA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "genome",
+        "reverse transcriptase"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-004",
+      "stem": "Electron microscopy of newly released HIV virions shows that each particle is surrounded by a lipid bilayer studded with viral glycoproteins. Which of the following is the source of this lipid bilayer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A lipid layer synthesized de novo by viral enzymes"
+        },
+        {
+          "label": "B",
+          "text": "The endoplasmic reticulum membrane of the infected host cell"
+        },
+        {
+          "label": "C",
+          "text": "The Golgi apparatus membrane of the infected host cell"
+        },
+        {
+          "label": "D",
+          "text": "The nuclear membrane of the infected host cell"
+        },
+        {
+          "label": "E",
+          "text": "The plasma membrane of the infected host cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Retroviridae are enveloped viruses, and the HIV envelope is derived from the host cell plasma membrane.",
+        "whyCorrect": "Retroviridae viruses have an envelope, and that envelope is derived from the host plasma membrane as the virion buds from the infected cell. Viral glycoproteins encoded by the virus are inserted into this host-derived membrane.",
+        "whyWrongByChoice": {
+          "A": "Viruses do not synthesize their own lipid bilayers; envelopes are acquired from host membranes.",
+          "B": "The endoplasmic reticulum membrane is not the source of the HIV envelope.",
+          "C": "The Golgi membrane is not the source of the retroviral envelope.",
+          "D": "The envelope is taken from the plasma membrane, not the nuclear membrane."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "envelope",
+        "structure"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-005",
+      "stem": "A virologist annotates the complete genome of an HIV-1 isolate. She identifies the three genes carried by all retroviruses, plus additional open reading frames that are not present in other retroviruses. How many genes does the HIV genome contain in total?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eight"
+        },
+        {
+          "label": "B",
+          "text": "Four"
+        },
+        {
+          "label": "C",
+          "text": "Nine"
+        },
+        {
+          "label": "D",
+          "text": "Seven"
+        },
+        {
+          "label": "E",
+          "text": "Six"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "All retroviruses carry env, gag, and pol; HIV carries 6 additional genes for a total of 9.",
+        "whyCorrect": "Every retrovirus has three genes: env, gag, and pol. HIV contains 6 additional genes beyond these three, giving a total of 9 genes. The extra genes encode proteins that help the virus evade and suppress the host immune system.",
+        "whyWrongByChoice": {
+          "A": "Eight understates the HIV gene count.",
+          "B": "Four would mean only one gene beyond the three shared retroviral genes.",
+          "D": "Seven understates the HIV gene count.",
+          "E": "Six is the number of additional genes HIV carries, not its total."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "genome",
+        "genes"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-006",
+      "stem": "HIV carries six genes that are not found in other retroviruses. A researcher deletes all six from a laboratory strain and finds that the virus still assembles infectious particles in cell culture but is rapidly cleared when introduced into an animal host with an intact immune system. Which of the following best describes the normal function of these six genes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They encode proteins that allow the virus to evade and suppress host immunity."
+        },
+        {
+          "label": "B",
+          "text": "They encode the enzymes that copy viral RNA into DNA and integrate it."
+        },
+        {
+          "label": "C",
+          "text": "They encode the glycoproteins that mediate fusion with the target cell."
+        },
+        {
+          "label": "D",
+          "text": "They encode the lipids of the envelope acquired during viral budding."
+        },
+        {
+          "label": "E",
+          "text": "They encode the structural proteins of the capsid, nucleocapsid, and matrix."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beyond env, gag, and pol, HIV's six additional genes encode proteins that evade and suppress the host immune system.",
+        "whyCorrect": "HIV contains 6 genes in addition to the 3 shared by all retroviruses. These extra genes encode proteins that allow the virus to evade and suppress the host immune system, which is consistent with a deletion mutant that assembles normally in culture but is cleared by an intact immune response.",
+        "whyWrongByChoice": {
+          "B": "Reverse transcriptase, integrase, and protease are encoded by pol, one of the three core retroviral genes.",
+          "C": "gp120 and gp41, which mediate fusion, are encoded by env.",
+          "D": "Envelope lipids are not encoded at all; they come from the host plasma membrane.",
+          "E": "The capsid, nucleocapsid, and matrix proteins p24, p7, and p17 are encoded by gag."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "immune evasion",
+        "genes"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-007",
+      "stem": "An immunoblot of disrupted HIV virions identifies three structural proteins: one forming the conical core shell, one bound to the viral RNA inside it, and one lining the inner face of the envelope. Which of the following proteins are encoded by the HIV gag gene?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 and CCR5, the cell-surface entry proteins"
+        },
+        {
+          "label": "B",
+          "text": "CXCR4 and CD4, the coreceptor and primary receptor"
+        },
+        {
+          "label": "C",
+          "text": "gp120 and gp41, the fusion glycoproteins"
+        },
+        {
+          "label": "D",
+          "text": "p24, p7, and p17, the capsid, nucleocapsid, and matrix proteins"
+        },
+        {
+          "label": "E",
+          "text": "Reverse transcriptase, integrase, and protease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The gag gene codes for the HIV structural proteins of the capsid, nucleocapsid, and outer matrix: p24, p7, and p17.",
+        "whyCorrect": "Gag encodes the structural proteins used in the capsid, nucleocapsid, and outer matrix, identified as p24, p7, and p17. These are the proteins detected in the described immunoblot.",
+        "whyWrongByChoice": {
+          "A": "CD4 and CCR5 are host cell surface proteins, not virally encoded products.",
+          "B": "CXCR4 and CD4 are host cell surface proteins used for entry, not gag products.",
+          "C": "gp120 and gp41 are encoded by env and mediate fusion with target cells.",
+          "E": "Reverse transcriptase, integrase, and protease are encoded by the polymerase gene, pol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "gag",
+        "structural proteins"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-008",
+      "stem": "A candidate antiviral is designed to bind the HIV docking glycoprotein so that the transmembrane glycoprotein can no longer drive fusion of the viral envelope with the target cell membrane. The two glycoproteins targeted by this drug are products of which HIV gene, and what are they called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "env, which encodes gp120 and gp41"
+        },
+        {
+          "label": "B",
+          "text": "gag, which encodes p24 and p17"
+        },
+        {
+          "label": "C",
+          "text": "gag, which encodes p7 and p24"
+        },
+        {
+          "label": "D",
+          "text": "pol, which encodes protease and integrase"
+        },
+        {
+          "label": "E",
+          "text": "pol, which encodes reverse transcriptase and integrase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The env gene encodes gp120 and gp41, which mediate viral fusion with target cells.",
+        "whyCorrect": "Env encodes gp120 and gp41. gp120 is the docking glycoprotein and gp41 is the transmembrane glycoprotein, and together they mediate fusion of the virus with target cells. A drug blocking these proteins blocks entry.",
+        "whyWrongByChoice": {
+          "B": "gag encodes structural proteins of the capsid and matrix, not the fusion glycoproteins.",
+          "C": "p7 and p24 are gag-encoded structural proteins that do not mediate fusion.",
+          "D": "Protease and integrase are pol products that act inside the cell, not at the membrane.",
+          "E": "pol encodes replication enzymes that act after entry, not surface glycoproteins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "env",
+        "gp120",
+        "gp41"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-009",
+      "stem": "A 43-year-old man with HIV has taken antiretroviral therapy without missing doses for 4 years. On routine monitoring, his HIV viral titer has risen 4-fold. Resistance testing shows that the virus is no longer susceptible to inhibition of reverse transcriptase. A mutation in which of the following genes best explains this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A host gene encoding CCR5"
+        },
+        {
+          "label": "B",
+          "text": "A host gene encoding CD4"
+        },
+        {
+          "label": "C",
+          "text": "The viral env gene"
+        },
+        {
+          "label": "D",
+          "text": "The viral gag gene"
+        },
+        {
+          "label": "E",
+          "text": "The viral pol gene"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reverse transcriptase, integrase, and protease are all encoded by the HIV polymerase gene, pol.",
+        "whyCorrect": "The polymerase gene pol encodes reverse transcriptase, integrase, and protease, all of which are critical for viral replication. Because resistance has developed specifically to reverse transcriptase inhibition in an adherent patient, the mutation must lie in pol.",
+        "whyWrongByChoice": {
+          "A": "CCR5 is a host coreceptor and is not the target of reverse transcriptase inhibitors.",
+          "B": "CD4 is a host receptor; drug resistance arises from mutation in the virus, not the host receptor.",
+          "C": "env encodes gp120 and gp41, which mediate fusion rather than reverse transcription.",
+          "D": "gag encodes the structural proteins p24, p7, and p17, not reverse transcriptase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "pol",
+        "drug resistance"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-010",
+      "stem": "An investigational antiretroviral blocks cleavage of the large polyprotein translated from HIV transcripts. Virions still bud from treated cells, but they contain uncleaved precursor proteins and are non-infectious. Which of the following HIV proteins does this drug inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Integrase"
+        },
+        {
+          "label": "B",
+          "text": "Protease"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptase"
+        },
+        {
+          "label": "D",
+          "text": "The gp120 docking glycoprotein"
+        },
+        {
+          "label": "E",
+          "text": "The gp41 transmembrane glycoprotein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HIV protease cleaves the polyprotein transcribed from viral DNA, a step required for virion maturation.",
+        "whyCorrect": "Protease, encoded by pol, cleaves the polyprotein that is produced from viral DNA transcripts. Blocking this cleavage yields particles that still assemble and bud but contain uncleaved precursors and cannot establish infection.",
+        "whyWrongByChoice": {
+          "A": "Integrase incorporates the viral DNA copy into the host genome rather than cleaving proteins.",
+          "C": "Reverse transcriptase converts viral RNA into DNA early in the cycle, before any polyprotein is made.",
+          "D": "gp120 is the docking glycoprotein that binds the target cell and has no proteolytic role.",
+          "E": "gp41 is the transmembrane glycoprotein that drives fusion and does not cleave polyproteins."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "protease",
+        "maturation"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-011",
+      "stem": "A drug under study allows HIV to enter a CD4 T cell and allows a DNA copy of the viral genome to be produced, but prevents that DNA copy from being inserted into host chromosomal DNA. Which of the following enzymes does this drug inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "gp120"
+        },
+        {
+          "label": "B",
+          "text": "Integrase"
+        },
+        {
+          "label": "C",
+          "text": "p17"
+        },
+        {
+          "label": "D",
+          "text": "Protease"
+        },
+        {
+          "label": "E",
+          "text": "Reverse transcriptase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Integrase, a pol gene product, incorporates the DNA copy of the HIV genome into the host cell genome.",
+        "whyCorrect": "After reverse transcriptase makes a DNA copy of the viral RNA, integrase incorporates that viral DNA into the host genome, where it remains permanently. A drug that permits reverse transcription but blocks insertion into host DNA is acting on integrase.",
+        "whyWrongByChoice": {
+          "A": "gp120 is a surface glycoprotein used for docking, and entry is stated to be intact.",
+          "C": "p17 is a gag-encoded matrix structural protein with no role in integration.",
+          "D": "Protease cleaves the viral polyprotein and acts later, during virion maturation.",
+          "E": "Reverse transcriptase makes the DNA copy, which the stem states is still produced."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "integrase",
+        "replication"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi35-012",
+      "stem": "A man who has had an undetectable viral load on antiretroviral therapy for 10 years asks why he cannot simply stop his medication and why no curative treatment exists. Which of the following best explains why HIV infection is so difficult to cure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reverse transcriptase causes a high mutation rate and viral DNA is permanently integrated."
+        },
+        {
+          "label": "B",
+          "text": "The host-derived envelope prevents the immune system from recognizing the virus at all."
+        },
+        {
+          "label": "C",
+          "text": "The virus replicates only in the cytoplasm, where drugs cannot reach it."
+        },
+        {
+          "label": "D",
+          "text": "The virus spreads only by cell-to-cell contact that antibodies are unable to block."
+        },
+        {
+          "label": "E",
+          "text": "The virus stores its genetic information as DNA that host repair enzymes protect."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HIV resists cure because reverse transcriptase generates a high mutation rate and the viral DNA becomes a permanent part of the host genome.",
+        "whyCorrect": "Reverse transcriptase is error-prone, producing a high mutation rate that fuels escape from drugs and immunity. In addition, the DNA copy of the viral genome is incorporated into the host cell genome and remains there permanently, so suppressed virus can rebound when therapy stops.",
+        "whyWrongByChoice": {
+          "B": "The envelope is host derived, but this is not the reason cure is impossible.",
+          "C": "HIV actually replicates in the nucleus once its DNA is integrated, unlike most RNA viruses.",
+          "D": "HIV is a bloodborne pathogen transmitted by blood, sexual contact, and vertically, not solely cell to cell.",
+          "E": "HIV stores its genetic information as RNA and must convert it to DNA inside host cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "mutation rate",
+        "integration"
+      ],
+      "topicId": "retroviridae-part-1-of-2",
+      "topicName": "Retroviridae (Part 1 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-001",
+      "stem": "A 29-year-old man with HIV has taken a single antiretroviral agent for 8 months. His plasma HIV RNA level, previously undetectable, has risen to 45,000 copies/mL, and sequencing of the circulating virus shows several new mutations not present at diagnosis. Which of the following properties of HIV best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its capsid shields the genome from host nucleases"
+        },
+        {
+          "label": "B",
+          "text": "Its envelope is acquired from the host nuclear membrane"
+        },
+        {
+          "label": "C",
+          "text": "Its genome is transcribed only within the host nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "Its protease degrades host DNA repair enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Its reverse transcriptase cannot proofread the DNA it makes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reverse transcriptase has no proofreading ability, so HIV mutates rapidly and quickly adapts to a single drug.",
+        "whyCorrect": "Reverse transcriptase cannot recognize and correct errors as it copies viral RNA into DNA. HIV makes billions of copies of itself in a single day, so even though most of those mutations harm the virus, a few by random chance benefit it. Those mutant viruses spread through the host and become the dominant strain, which is how HIV escapes both the immune response and antiviral therapy.",
+        "whyWrongByChoice": {
+          "A": "The p24 capsid packages the viral genome, but it has nothing to do with how faithfully the genome is copied.",
+          "B": "The viral envelope is taken from host cell membrane, and its origin does not affect replication fidelity.",
+          "C": "Viral DNA is integrated into host chromosomes, and the site of transcription is not what generates new mutations.",
+          "D": "HIV protease cleaves the viral polyprotein into functional proteins after translation; it does not act on host DNA repair enzymes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "reverse transcriptase",
+        "drug resistance"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-002",
+      "stem": "Zidovudine (AZT) was the first drug approved to treat HIV, but patients given AZT alone continued to progress to AIDS. Modern regimens combine several antiretroviral agents. Which of the following best explains the advantage of combination therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Combined drugs let the host clear integrated viral DNA"
+        },
+        {
+          "label": "B",
+          "text": "Combined drugs restore proofreading by reverse transcriptase"
+        },
+        {
+          "label": "C",
+          "text": "Each drug raises the plasma concentration of the others"
+        },
+        {
+          "label": "D",
+          "text": "Multiple drugs block viral entry into resting CD4 cells"
+        },
+        {
+          "label": "E",
+          "text": "The virus must acquire several mutations at once to escape"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multi-drug therapy works because HIV would have to accumulate several resistance mutations simultaneously.",
+        "whyCorrect": "AZT monotherapy failed because the high mutation rate of HIV let the virus adapt to a single drug quickly and become resistant. When several drugs act at once, the virus must mutate around all of them at the same time, which is far less likely, so viral titers stay suppressed for years.",
+        "whyWrongByChoice": {
+          "A": "No antiretroviral regimen removes proviral DNA from the host genome; therapy only suppresses viral titers.",
+          "B": "Reverse transcriptase has no proofreading function, so there is nothing for a drug to restore.",
+          "C": "Raising drug levels is not the reason multi-drug therapy succeeded; resistance, not inadequate drug concentration, defeated AZT alone.",
+          "D": "Therapy does not prevent the reservoir of already-infected cells from persisting, and that reservoir is the problem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "antiretroviral therapy",
+        "drug resistance"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-003",
+      "stem": "A 37-year-old man with HIV has had undetectable plasma viral loads for 6 years while taking antiretroviral therapy. He asks his physician whether he has been cured of the infection. Which of the following best explains why he has not?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies to gp120 neutralize but do not kill the virus"
+        },
+        {
+          "label": "B",
+          "text": "Free virions persist just below the assay detection limit"
+        },
+        {
+          "label": "C",
+          "text": "The drugs suppress only virus replicating in lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Viral DNA is integrated into the genome of host cells"
+        },
+        {
+          "label": "E",
+          "text": "Viral reverse transcriptase stays active within the cytoplasm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Once reverse transcriptase makes viral DNA, integrase inserts it into the host genome, where it persists for the life of the cell.",
+        "whyCorrect": "After viral RNA is converted into DNA, that DNA is incorporated into the host cell genome, and every daughter cell made from that cell carries the viral DNA too. Curing the infection would require destroying every cell holding HIV DNA or cutting the viral DNA back out. Therapy can suppress plasma titers below the limit of detection without touching this reservoir.",
+        "whyWrongByChoice": {
+          "A": "Antibody responses are not the reason therapy fails to cure; integrated proviral DNA is.",
+          "B": "The barrier to cure is archived proviral DNA inside cells, not a small residue of circulating virions.",
+          "C": "Antiretroviral therapy suppresses virus throughout the body rather than sparing tissues outside lymph nodes.",
+          "E": "Enzyme activity in the cytoplasm is not what persists; the integrated provirus in host chromosomes is."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "integration",
+        "cure"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-004",
+      "stem": "A 41-year-old woman with HIV has had an undetectable viral load on antiretroviral therapy for 3 years. She loses her insurance and stops all medication. Which of the following is most likely to occur over the next several weeks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T cells will clear her integrated proviral DNA"
+        },
+        {
+          "label": "B",
+          "text": "Her CD4 count and viral load will both remain stable"
+        },
+        {
+          "label": "C",
+          "text": "Her plasma viral load will rise rapidly"
+        },
+        {
+          "label": "D",
+          "text": "Her viral load will fall further as drug pressure is removed"
+        },
+        {
+          "label": "E",
+          "text": "She will become permanently resistant to all antiretrovirals"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Antiretroviral therapy suppresses HIV replication but does not remove the virus, so stopping it causes viral titers to rebound.",
+        "whyCorrect": "The virus is still present in the patient's DNA even when it cannot be detected in blood. When therapy is withdrawn, the integrated provirus resumes producing virions and plasma viral titers begin to rise rapidly again. This is the reason continuity of care matters so much in HIV.",
+        "whyWrongByChoice": {
+          "A": "No immune mechanism removes integrated proviral DNA from infected cells.",
+          "B": "Suppression depends entirely on continued drug pressure, so neither value remains stable off therapy.",
+          "D": "Removing the drugs removes the block on replication, so titers climb rather than fall.",
+          "E": "Resistance arises from mutation under drug pressure, not from stopping treatment altogether."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "antiretroviral therapy",
+        "viral load"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-005",
+      "stem": "A man with HIV and leukemia underwent a bone marrow transplant to treat his cancer. Years later he has no detectable HIV despite having stopped antiretroviral therapy, making him one of only a handful of people ever cured of the infection. Which of the following features of the donor cells best accounts for this outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A donor immune system that excises proviral DNA"
+        },
+        {
+          "label": "B",
+          "text": "Absence of CD4 on the donor lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Homozygous CCR5 delta-32 mutation"
+        },
+        {
+          "label": "D",
+          "text": "Homozygous deletion of the CXCR4 gene"
+        },
+        {
+          "label": "E",
+          "text": "Preformed IgG against the p24 capsid protein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The handful of cured patients received marrow from donors homozygous for the CCR5 delta-32 mutation, which blocks efficient viral entry.",
+        "whyCorrect": "HIV engages CD4 and then a coreceptor, most commonly CCR5. Donor stem cells carrying a homozygous CCR5 delta-32 mutation cannot be entered efficiently by the virus, so the recipient's reconstituted immune system was resistant and the infection was cured. The other cured patients received similar transplants from donors with the same mutation.",
+        "whyWrongByChoice": {
+          "A": "No immune system removes integrated proviral DNA from cells on its own.",
+          "B": "CD4 is the primary receptor for HIV, and healthy donor lymphocytes express it normally.",
+          "D": "CXCR4 is an alternative coreceptor, and losing it was not the change present in the donor cells.",
+          "E": "Antibodies against the capsid protein do not block viral entry and cannot cure an established infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "CCR5",
+        "cure"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-006",
+      "stem": "A 33-year-old man who is homozygous for the CCR5 delta-32 allele, and therefore considered highly resistant to HIV, is found on screening to have acquired HIV infection. Which of the following best explains how the virus was able to enter his cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It entered his cells without first binding CD4"
+        },
+        {
+          "label": "B",
+          "text": "It used CXCR4 as its coreceptor"
+        },
+        {
+          "label": "C",
+          "text": "It was carried in by integrase rather than by membrane fusion"
+        },
+        {
+          "label": "D",
+          "text": "Its protease restored function to the mutant CCR5 protein"
+        },
+        {
+          "label": "E",
+          "text": "Its reverse transcriptase copied the virus into the CCR5 gene"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CCR5 mutations make a person very resistant to HIV, but the virus can still enter using the alternative coreceptor CXCR4.",
+        "whyCorrect": "Some people carry naturally occurring CCR5 mutations that make them very resistant to HIV infection. The virus is crafty, however, and strains that bind the CXCR4 coreceptor instead can still engage CD4 and fuse with the cell, establishing infection in a person who lacks functional CCR5.",
+        "whyWrongByChoice": {
+          "A": "CD4 is the primary receptor for HIV and binding it is required regardless of which coreceptor is used.",
+          "C": "Integrase acts inside the cell to insert viral DNA into host DNA; it plays no role in entry.",
+          "D": "Protease cleaves viral polyprotein into functional proteins and does not modify host receptors.",
+          "E": "Reverse transcriptase copies the viral genome into DNA and does not repair or target the host CCR5 gene."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "CCR5",
+        "CXCR4",
+        "viral entry"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-007",
+      "stem": "A 26-year-old man acquires HIV through condomless intercourse. Which of the following best describes what happens during the first days to weeks after transmission?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 counts fall below 200/uL and opportunistic infections begin"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T cells eliminate every infected cell at the entry site"
+        },
+        {
+          "label": "C",
+          "text": "Host antibodies bind virions and drive titers to undetectable"
+        },
+        {
+          "label": "D",
+          "text": "It establishes latency in neurons without replicating"
+        },
+        {
+          "label": "E",
+          "text": "It replicates locally, then seeds lymphoid organs throughout the body"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the acute phase HIV replicates locally, spreads to draining lymph nodes, and seeds lymphoid organs systemically, producing high viremia.",
+        "whyCorrect": "After exposure the virus replicates in local tissue antigen-presenting cells and CD4 cells. The infection then spreads to local lymph nodes where rapid replication begins, and the virus travels through the blood to distal sites and seeds the lymphoid organs systemically. The result is acute viremia with very high viral titers in the blood.",
+        "whyWrongByChoice": {
+          "A": "Profound CD4 depletion defines AIDS and develops years later; in acute infection the count rarely drops below 400/uL.",
+          "B": "The immune response never clears HIV completely at any stage of the infection.",
+          "C": "Antibody production against HIV surface antigens begins only several weeks later, in the chronic phase.",
+          "D": "HIV does not establish a silent, non-replicating neuronal latency after transmission."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "acute phase",
+        "pathogenesis"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-008",
+      "stem": "A 22-year-old woman has fever, pharyngitis, and diffuse lymphadenopathy 4 weeks after a high-risk exposure. Plasma HIV RNA is 1.2 million copies/mL. Which of the following is most likely true of her CD4 T-cell count at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It drops below 50/uL within days"
+        },
+        {
+          "label": "B",
+          "text": "It falls significantly but rarely below 400/uL"
+        },
+        {
+          "label": "C",
+          "text": "It falls to an undetectable level"
+        },
+        {
+          "label": "D",
+          "text": "It rises well above the normal range"
+        },
+        {
+          "label": "E",
+          "text": "It stays exactly at her pre-infection value"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During acute HIV the CD4 count may drop noticeably, but it rarely falls below 400/uL.",
+        "whyCorrect": "The acute phase is marked by rapid viral replication and very high plasma titers, and the CD4 T cell count may fall significantly. Even so, it rarely drops below 400 CD4 T cells/uL at this stage. The severe depletion seen in AIDS takes years to develop in an untreated adult.",
+        "whyWrongByChoice": {
+          "A": "Counts below 50/uL are seen in very advanced disease, not within weeks of infection.",
+          "C": "CD4 cells are never driven to undetectable levels, even in advanced AIDS.",
+          "D": "Acute HIV drives CD4 counts down rather than above the normal range of 500 to 1500/uL.",
+          "E": "A significant fall in CD4 count is expected with the acute viremia, so the count does not stay unchanged."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "acute phase",
+        "CD4 count"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-009",
+      "stem": "A 24-year-old man develops fever, sore throat, myalgias, and diffuse lymphadenopathy. He reports condomless sex with a new partner about 1 month ago. Heterophile antibody testing is negative. Which of the following best describes the expected course of his current symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They persist until antiretroviral therapy is started"
+        },
+        {
+          "label": "B",
+          "text": "They progress directly into opportunistic infection"
+        },
+        {
+          "label": "C",
+          "text": "They recur every 3 to 6 weeks for several years"
+        },
+        {
+          "label": "D",
+          "text": "They resolve on their own in 2 to 4 weeks"
+        },
+        {
+          "label": "E",
+          "text": "They worsen steadily over the next 12 months"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acute HIV viremia causes a self-limited mononucleosis-like illness that resolves in 2 to 4 weeks.",
+        "whyCorrect": "The acute viremia of HIV can present as a mononucleosis-like illness that is clinically indistinct from EBV or CMV infection. It typically appears 3 to 6 weeks after infection and the symptoms usually resolve in 2 to 4 weeks. Roughly 40 to 90 percent of patients have such an illness, while some have no signs of infection at all.",
+        "whyWrongByChoice": {
+          "A": "The symptoms subside on their own as the chronic phase begins, whether or not therapy is started.",
+          "B": "Opportunistic infections appear only after years of CD4 decline, not at the end of the acute phase.",
+          "C": "The acute illness is a single self-limited episode, not a relapsing one.",
+          "E": "Progressive worsening over a year is not the pattern of acute retroviral syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "acute retroviral syndrome",
+        "clinical course"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-010",
+      "stem": "A 31-year-old man at high risk for HIV presents with a 5-day history of fever, rash, and lymphadenopathy that began about 5 weeks after a high-risk sexual exposure. Which of the following is the most appropriate initial test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD4 count with viral resistance culture"
+        },
+        {
+          "label": "B",
+          "text": "Deferral of all testing for 3 months"
+        },
+        {
+          "label": "C",
+          "text": "HIV antigen/antibody combination assay"
+        },
+        {
+          "label": "D",
+          "text": "HIV-1/HIV-2 antibody differentiation immunoassay"
+        },
+        {
+          "label": "E",
+          "text": "Western blot for antibodies against HIV"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The antigen/antibody combination assay is the usual first-line HIV screen because it detects both p24 antigen and host antibody.",
+        "whyCorrect": "The combination assay detects early infection through the p24 antigen and established infection through host IgM or IgG, so it throws the broadest net and catches the most cases regardless of where a patient is in the infection. At roughly 5 weeks after exposure, p24 and usually IgM are already detectable, so this assay will identify the infection.",
+        "whyWrongByChoice": {
+          "A": "CD4 count and resistance testing are follow-up studies performed once the diagnosis has been established.",
+          "B": "Deferral applies to exposures within about 10 days; 5 weeks is well within the detectable window.",
+          "D": "The antibody differentiation immunoassay is the confirmatory second test performed after a positive screen.",
+          "E": "Western blot is no longer used for HIV testing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "screening",
+        "antigen/antibody assay"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-011",
+      "stem": "About 8 weeks after acquiring HIV, a patient's plasma viral load falls from 2 million copies/mL to 30,000 copies/mL and his fever and rash resolve. Which of the following best accounts for this decline?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibodies bind virions and cytotoxic T cells kill infected cells"
+        },
+        {
+          "label": "B",
+          "text": "CD4 cells resist infection by shedding their CCR5 coreceptors"
+        },
+        {
+          "label": "C",
+          "text": "Integrated proviral DNA is excised from infected cells"
+        },
+        {
+          "label": "D",
+          "text": "Reverse transcriptase is inhibited by host interferons"
+        },
+        {
+          "label": "E",
+          "text": "The virus stops replicating and enters a dormant state"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Falling viral titers at the start of the chronic phase reflect antibody production plus an expanding cytotoxic T cell response.",
+        "whyCorrect": "Several weeks after infection the patient begins producing antibodies against HIV surface antigens. Those antibodies bind free-floating virions and target them for destruction by phagocytes. At the same time cytotoxic T cell numbers increase and begin hunting down and destroying infected cells. Together these responses lower viral titers and the patient's symptoms, if present, subside.",
+        "whyWrongByChoice": {
+          "B": "CD4 cells do not shed coreceptors to escape infection; resistance to entry is a fixed genetic trait.",
+          "C": "Nothing removes integrated proviral DNA from infected cells, which is why the infection cannot be cleared.",
+          "D": "The decline is driven by antibody and cytotoxic T cell responses rather than by inhibition of the viral enzyme.",
+          "E": "The virus continues to replicate actively throughout the chronic phase even though the patient feels well."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "chronic phase",
+        "immune response"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi36-012",
+      "stem": "A 35-year-old woman with untreated HIV diagnosed 7 years ago feels well and has no symptoms. Which of the following is most likely true of her infection at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her CD4 count has risen above the normal range"
+        },
+        {
+          "label": "B",
+          "text": "Her viral load is undetectable without any therapy"
+        },
+        {
+          "label": "C",
+          "text": "The virus has been cleared from her lymphoid tissue"
+        },
+        {
+          "label": "D",
+          "text": "The virus is actively replicating"
+        },
+        {
+          "label": "E",
+          "text": "The virus persists as DNA but makes no new virions"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The chronic phase of HIV is asymptomatic but not quiescent: the virus replicates actively while the immune system fights it.",
+        "whyCorrect": "Although antibody and cytotoxic T cell responses bring viral titers down and symptoms subside, the immune system cannot clear the virus completely. Despite the patient having no symptoms, the virus is actively replicating as the immune system fights the infection, and this phase can last a decade or more.",
+        "whyWrongByChoice": {
+          "A": "CD4 counts drift downward over the chronic phase rather than rising above normal.",
+          "B": "An undetectable viral load requires antiretroviral therapy and is not a feature of untreated chronic HIV.",
+          "C": "The immune system never clears HIV from lymphoid tissue, which is seeded during the acute phase.",
+          "E": "Ongoing production of new virions is exactly what characterizes the chronic phase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HIV",
+        "chronic phase",
+        "clinical latency"
+      ],
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-001",
+      "stem": "A virology laboratory characterizes the agent isolated from nasopharyngeal specimens during a winter surge of respiratory illness. The particle is readily inactivated by lipid solvents, its genome is translated directly by host ribosomes without a prior transcription step, and electron microscopy shows a coiled internal nucleoprotein filament with club-shaped surface projections. Which of the following best describes this virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enveloped virus with a double-stranded DNA genome and an icosahedral capsid"
+        },
+        {
+          "label": "B",
+          "text": "Enveloped virus with a negative-sense single-stranded RNA genome and an icosahedral capsid"
+        },
+        {
+          "label": "C",
+          "text": "Enveloped virus with a positive-sense single-stranded RNA genome and a helical capsid"
+        },
+        {
+          "label": "D",
+          "text": "Naked virus with a double-stranded RNA genome and a helical capsid"
+        },
+        {
+          "label": "E",
+          "text": "Naked virus with a single-stranded RNA genome and an icosahedral capsid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Coronaviruses are enveloped, positive-sense single-stranded RNA viruses with a helical nucleocapsid.",
+        "whyCorrect": "Coronaviruses are enveloped and store their genetic information as (+)ssRNA, which is why the genome can be translated directly by host ribosomes. They also have a helical nucleocapsid, and the spiked protrusions on the surface give the crown-like appearance that names the family. Susceptibility to lipid solvents reflects the lipid envelope.",
+        "whyWrongByChoice": {
+          "A": "Coronaviruses carry an RNA genome; a double-stranded DNA genome with an icosahedral capsid describes an unrelated family.",
+          "B": "A negative-sense genome could not be translated directly by ribosomes, and the coronavirus capsid is helical, not icosahedral.",
+          "D": "The genome is single stranded, not double stranded, and coronaviruses are enveloped rather than naked.",
+          "E": "Although the genome is single-stranded RNA, coronaviruses are enveloped and have a helical rather than icosahedral capsid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "coronaviridae",
+        "virus structure"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-002",
+      "stem": "Electron micrographs of a coronavirus isolate show club-shaped projections radiating from the surface of each particle, giving it a crown-like silhouette. Which of the following best describes the function of these surface projections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They bind receptors on the host cell surface and facilitate viral entry"
+        },
+        {
+          "label": "B",
+          "text": "They cleave sialic acid from the cell surface to release progeny virions"
+        },
+        {
+          "label": "C",
+          "text": "They coil around the genome to build the internal nucleocapsid structure"
+        },
+        {
+          "label": "D",
+          "text": "They copy the viral genome into a complementary negative-sense RNA template"
+        },
+        {
+          "label": "E",
+          "text": "They form the pore through which viral RNA is extruded into the cytoplasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The coronavirus spike protein binds host cells and mediates entry.",
+        "whyCorrect": "Coronaviruses are named for the spiked protrusions on their surface, which make the particle look like a crown ('corona' is Latin for crown). The spike protein that protrudes from the virus surface binds host cells and facilitates entry. For SARS-CoV-2 this binding is to the ACE2 receptor.",
+        "whyWrongByChoice": {
+          "B": "Cleaving sialic acid to release progeny virions is the job of a neuraminidase, which coronaviruses do not use for this purpose.",
+          "C": "The internal helical nucleocapsid is built from nucleocapsid protein, not from the external spike protein.",
+          "D": "Copying the genome into a complementary template is performed by the RNA-dependent RNA polymerase, an internal enzyme.",
+          "E": "The spike is an attachment and entry protein, not a channel for extruding genomic RNA into the cytoplasm."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "spike protein",
+        "viral entry"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-003",
+      "stem": "A 67-year-old man is admitted with 5 days of fever, dry cough, and progressive dyspnea after his grandson had a 'cold.' Oxygen saturation is 88% on room air, and chest imaging shows bilateral peripheral ground-glass opacities. A nasopharyngeal nucleic acid amplification test is positive for SARS-CoV-2. Which of the following host cell receptors does this virus use to enter cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin-converting enzyme 2 (ACE2)"
+        },
+        {
+          "label": "B",
+          "text": "CD21 (complement receptor 2) on B lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "CD4, together with the CXCR4 and CCR5 coreceptors"
+        },
+        {
+          "label": "D",
+          "text": "Heparan sulfate proteoglycans on epithelial cells"
+        },
+        {
+          "label": "E",
+          "text": "Sialic acid residues on surface glycoproteins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SARS-CoV-2 enters cells by binding ACE2 with its spike glycoprotein.",
+        "whyCorrect": "When SARS-CoV-2 reaches the distal respiratory tract it infects type II pneumocytes via the receptor for angiotensin-converting enzyme 2 (ACE2). ACE2 is also expressed in the cardiovascular system, brain, kidneys, and gastrointestinal tract, which is why patients may develop findings beyond the respiratory system.",
+        "whyWrongByChoice": {
+          "B": "CD21 (CR2) is the entry receptor used by Epstein-Barr virus on B lymphocytes.",
+          "C": "CD4 with the CXCR4 and CCR5 coreceptors is used by HIV to enter cells.",
+          "D": "Herpes simplex virus uses heparan sulfate proteoglycans for attachment.",
+          "E": "Influenza virus attaches to sialic acid residues on host surface glycoproteins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ACE2",
+        "viral entry"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-004",
+      "stem": "A 58-year-old woman with COVID-19 becomes hypoxemic on hospital day 8. Studies of patients with similar disease show that once the virus reaches the distal respiratory tract it completes its life cycle in an alveolar cell population that expresses high levels of the viral entry receptor. Which of the following cells is infected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial smooth muscle cells"
+        },
+        {
+          "label": "C",
+          "text": "Goblet cells of the bronchial mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Type I pneumocytes"
+        },
+        {
+          "label": "E",
+          "text": "Type II pneumocytes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the distal lung SARS-CoV-2 completes its life cycle inside ACE2-bearing type II pneumocytes.",
+        "whyCorrect": "When the virus reaches the distal respiratory tract it infects type II pneumocytes via the ACE2 receptor and completes its virus life cycle there. Infection of these surfactant-producing cells contributes to surfactant dysfunction, alveolar collapse, and impaired gas exchange in severe disease.",
+        "whyWrongByChoice": {
+          "A": "Alveolar macrophages are recruited and activated during the inflammatory response but are not the cells in which the virus completes its life cycle.",
+          "B": "Bronchial smooth muscle regulates airway caliber and is not a site of viral replication in this infection.",
+          "C": "Goblet cells secrete mucus in the conducting airways and are not the distal alveolar target described.",
+          "D": "Type I pneumocytes form the thin gas-exchange surface but are not identified as the ACE2-bearing cells in which the virus replicates."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "type II pneumocytes",
+        "pathogenesis"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-005",
+      "stem": "A 30-year-old man develops nasal congestion, sore throat, and hoarseness 4 days after a household exposure to SARS-CoV-2. He notes that secretions feel difficult to clear from his nose and throat. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibody-mediated lysis of nasal epithelium strips the mucosal barrier"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial superinfection enzymatically degrades the airway mucus layer"
+        },
+        {
+          "label": "C",
+          "text": "Destruction of ciliated epithelial cells impairs mucociliary clearance"
+        },
+        {
+          "label": "D",
+          "text": "Loss of submucosal glands eliminates production of airway mucus"
+        },
+        {
+          "label": "E",
+          "text": "Reflex vasoconstriction of nasal vessels thickens the airway secretions"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SARS-CoV-2 destroys ciliated epithelium of the nasopharynx and upper airway, impairing mucociliary clearance.",
+        "whyCorrect": "In the upper respiratory system the virus infects and destroys ciliated epithelial cells of the nasopharynx and upper airway. The result is inflammation and impaired mucociliary clearance, which produces the familiar rhinorrhea, congestion, sinus and ear pain, sore throat, and hoarseness of early infection.",
+        "whyWrongByChoice": {
+          "A": "Antibody-mediated lysis of the nasal epithelium is not the mechanism of early upper airway injury in this infection.",
+          "B": "Bacterial superinfection is not required for the upper respiratory symptoms of acute SARS-CoV-2 infection.",
+          "D": "Mucus production is not lost; the problem is failure to move mucus, not failure to make it.",
+          "E": "Vasoconstriction of nasal vessels does not account for the impaired clearance of secretions described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mucociliary clearance",
+        "upper respiratory tract"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-006",
+      "stem": "A 71-year-old man hospitalized with COVID-19 pneumonia has arterial hypoxemia far more severe than predicted by the extent of consolidation on chest imaging. In addition to alveolar epithelium, SARS-CoV-2 infects and destroys a second cell type within the alveolar wall. Which of the following best describes that target and its consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airway smooth muscle cells, causing fixed narrowing of the small airways"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar macrophages, causing failure to clear inhaled particulate matter"
+        },
+        {
+          "label": "C",
+          "text": "Capillary endothelial cells, causing reduced blood perfusion of the alveoli"
+        },
+        {
+          "label": "D",
+          "text": "Fibroblasts, causing immediate deposition of dense interstitial collagen"
+        },
+        {
+          "label": "E",
+          "text": "Pleural mesothelial cells, causing accumulation of exudative pleural fluid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SARS-CoV-2 also infects and destroys capillary endothelial cells, reducing alveolar perfusion.",
+        "whyCorrect": "Besides infecting type II pneumocytes through ACE2, the virus can infect and destroy capillary endothelial cells, leading to reduced blood perfusion of the alveoli. Loss of the perfusing capillary bed impairs gas exchange out of proportion to the visible airspace disease and also contributes to the microvascular injury and thrombotic complications of severe COVID-19.",
+        "whyWrongByChoice": {
+          "A": "Fixed small airway narrowing produces obstructive physiology rather than the perfusion defect described.",
+          "B": "Impaired particulate clearance by macrophages does not explain hypoxemia disproportionate to radiographic consolidation.",
+          "D": "Immediate dense collagen deposition is not the described endothelial mechanism of early perfusion failure.",
+          "E": "Exudative pleural fluid accumulation is not the alveolar-wall target described in this infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endothelial injury",
+        "pathogenesis"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-007",
+      "stem": "Investigators find that epithelial cells infected with SARS-CoV-2 release markedly less of a key antiviral cytokine than cells infected with control viruses, and that nasopharyngeal viral titers in infected patients are correspondingly high. Which of the following viral strategies best explains these observations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Viral proteins block assembly of the complement membrane attack complex"
+        },
+        {
+          "label": "B",
+          "text": "Viral proteins cleave secreted immunoglobulin A at its hinge region"
+        },
+        {
+          "label": "C",
+          "text": "Viral proteins degrade major histocompatibility complex class I molecules"
+        },
+        {
+          "label": "D",
+          "text": "Viral proteins inhibit the production of interferon-beta by immune cells"
+        },
+        {
+          "label": "E",
+          "text": "Viral proteins prevent maturation of the phagolysosome in macrophages"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SARS-CoV-2 translates proteins that blunt the innate response, notably by inhibiting interferon-beta production.",
+        "whyCorrect": "SARS-CoV-2 translates many proteins that protect it from the initial innate immune response; one example is inhibition of interferon-beta production by immune cells. Slowing the innate response allows a high amount of virus to be produced, which in turn increases transmission risk.",
+        "whyWrongByChoice": {
+          "A": "Blocking the membrane attack complex is a complement evasion strategy and does not explain reduced cytokine release.",
+          "B": "IgA protease activity is a bacterial mucosal evasion mechanism, not the described innate cytokine defect.",
+          "C": "Degradation of MHC class I would impair CD8 T-cell recognition rather than reduce release of an antiviral cytokine.",
+          "E": "Blocking phagolysosome maturation is an intracellular bacterial survival strategy unrelated to interferon production."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "interferon",
+        "immune evasion"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-008",
+      "stem": "A 26-year-old woman with confirmed SARS-CoV-2 infection has rhinorrhea, ear and sinus pain, sore throat, cough, and hoarseness. Macrophage activation and recruitment drive the airway inflammation responsible for these symptoms. Which of the following sets of mediators is chiefly responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine, bradykinin, and leukotriene C4"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-1, interleukin-6, and tumor necrosis factor-alpha"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-2, interleukin-12, and interferon-gamma"
+        },
+        {
+          "label": "D",
+          "text": "Interleukin-4, interleukin-5, and interleukin-13"
+        },
+        {
+          "label": "E",
+          "text": "Transforming growth factor-beta, interleukin-10, and interleukin-35"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute airway inflammation in COVID-19 is driven by macrophage-derived IL-1, IL-6, and TNF-alpha.",
+        "whyCorrect": "SARS-CoV-2 becomes symptomatic by inducing airway inflammation that produces the familiar upper respiratory symptoms. That inflammatory response is driven by cytokines: macrophage activation and recruitment cause increased interleukin-1, interleukin-6, and tumor necrosis factor-alpha. IL-6 is also the target of immunomodulatory therapy in severe disease.",
+        "whyWrongByChoice": {
+          "A": "Histamine, bradykinin, and leukotrienes are vasoactive mediators of immediate hypersensitivity, not the macrophage cytokines described.",
+          "C": "Interleukin-2, interleukin-12, and interferon-gamma drive type 1 cell-mediated responses rather than this airway cytokine surge.",
+          "D": "Interleukins 4, 5, and 13 are type 2 cytokines associated with allergic inflammation and eosinophil recruitment.",
+          "E": "Transforming growth factor-beta, interleukin-10, and interleukin-35 are anti-inflammatory and would suppress, not drive, inflammation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cytokines",
+        "inflammation"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-009",
+      "stem": "Over 3 years of genomic surveillance, a respiratory virus with an RNA genome accumulates far more sequence changes than a co-circulating virus with a DNA genome. Which of the following best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "RNA genomes are replicated many more times within each infected cell"
+        },
+        {
+          "label": "B",
+          "text": "RNA genomes are segmented and reassort whenever two strains coinfect a cell"
+        },
+        {
+          "label": "C",
+          "text": "RNA genomes recombine with host chromosomal DNA during each replication cycle"
+        },
+        {
+          "label": "D",
+          "text": "RNA polymerases have reduced proofreading capacity compared with DNA polymerases"
+        },
+        {
+          "label": "E",
+          "text": "RNA viruses integrate a provirus that is copied by error-prone reverse transcriptase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "RNA viruses mutate faster because their polymerases proofread poorly.",
+        "whyCorrect": "RNA viruses have a higher rate of mutation than DNA viruses because of the reduced proofreading capacity of their polymerases. This is why SARS-CoV-2 has evolved continuously, producing multiple variants that differ in transmissibility, immune escape, and treatment response.",
+        "whyWrongByChoice": {
+          "A": "A higher number of replication cycles is not the stated explanation for the elevated mutation rate of RNA viruses.",
+          "B": "Reassortment requires a segmented genome, which coronaviruses do not have.",
+          "C": "Coronaviruses do not recombine with host chromosomal DNA during replication.",
+          "E": "Coronaviruses do not integrate a provirus or use reverse transcriptase."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mutation",
+        "RNA virus"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-010",
+      "stem": "A public health agency reports that a newly dominant SARS-CoV-2 variant displaced the previously circulating variant within weeks because it spread more efficiently between people. Sequencing shows a large number of mutations concentrated in a single viral gene. Which of the following best accounts for the increased transmissibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mutations in the envelope gene that increase the stability of released virions"
+        },
+        {
+          "label": "B",
+          "text": "Mutations in the membrane gene that widen the range of tissues infected"
+        },
+        {
+          "label": "C",
+          "text": "Mutations in the nucleocapsid gene that increase genome packaging efficiency"
+        },
+        {
+          "label": "D",
+          "text": "Mutations in the polymerase gene that accelerate replication of the genome"
+        },
+        {
+          "label": "E",
+          "text": "Mutations in the spike gene that increase the infective capability of the virus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Spike protein mutations explain why Omicron outcompeted Delta in transmissibility.",
+        "whyCorrect": "The Omicron variant had a higher rate of transmissibility than the Delta variant, probably because of a high number of mutations to its spike protein that increased its infective capability. Because spike mediates receptor binding and entry, changes there directly affect how efficiently the virus infects a new host, and mutations in the spike glycoprotein are also a common cause of repeated infections.",
+        "whyWrongByChoice": {
+          "A": "Increased virion stability from envelope changes is not the explanation given for variant displacement.",
+          "B": "A broadened tissue range would alter the disease pattern rather than explain more efficient person-to-person spread.",
+          "C": "Nucleocapsid changes affecting genome packaging are not the described driver of increased spread between people.",
+          "D": "Faster genome replication by the polymerase is not the mechanism identified for the variant's transmissibility advantage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "variants",
+        "spike protein"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-011",
+      "stem": "Which of the following best describes the origin of SARS-CoV-2 as currently understood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It arose by reassortment between two human seasonal coronaviruses"
+        },
+        {
+          "label": "B",
+          "text": "It emerged from chronic persistent infection in immunocompromised people"
+        },
+        {
+          "label": "C",
+          "text": "It has circulated undetected in human populations since the early 1990s"
+        },
+        {
+          "label": "D",
+          "text": "It is zoonotic, probably from bats, and crossed to humans in late 2019"
+        },
+        {
+          "label": "E",
+          "text": "It was transmitted to humans from domestic poultry in Southeast Asia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SARS-CoV-2 is thought to be zoonotic, probably of bat origin, with human crossover in late 2019.",
+        "whyCorrect": "As with many epidemic or pandemic viral strains, SARS-CoV-2 is thought to be zoonotic, probably originating from bats or an accidental laboratory release. The crossover to humans is believed to have occurred in late 2019 in a livestock market in Wuhan, China, although exactly how the initial human infection occurred is unclear.",
+        "whyWrongByChoice": {
+          "A": "Reassortment requires a segmented genome and is not how this coronavirus arose.",
+          "B": "Chronic infection in immunocompromised hosts is not the proposed origin of the pandemic strain.",
+          "C": "SARS-CoV-2 was newly recognized in late 2019, not circulating silently for decades.",
+          "E": "Domestic poultry are the reservoir associated with avian influenza, not with SARS-CoV-2."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "zoonosis",
+        "epidemiology"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi37-012",
+      "stem": "During the 2002-2003 outbreak of one novel coronavirus, roughly 8,096 cases resulted in 774 deaths. Since the first case of a second novel coronavirus, 2,494 cases have resulted in 858 deaths. Which of the following best characterizes the second outbreak relative to the first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A higher case-fatality rate and a larger total number of cases"
+        },
+        {
+          "label": "B",
+          "text": "A higher case-fatality rate and a smaller total number of cases"
+        },
+        {
+          "label": "C",
+          "text": "A lower case-fatality rate and a larger total number of cases"
+        },
+        {
+          "label": "D",
+          "text": "A lower case-fatality rate and a similar total number of cases"
+        },
+        {
+          "label": "E",
+          "text": "An identical case-fatality rate and a smaller total number of cases"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "MERS-CoV has caused far fewer cases than SARS-CoV but with a much higher case-fatality rate.",
+        "whyCorrect": "During the 2002-2003 SARS-CoV outbreak roughly 8,096 cases were reported with 774 deaths, a case-fatality rate of 9.6%. Since the first case of MERS, 2,494 cases have resulted in 858 deaths, a case-fatality rate of 34.4%. So the second outbreak involved fewer cases but a substantially higher proportion of deaths.",
+        "whyWrongByChoice": {
+          "A": "The case-fatality rate was indeed higher, but the total number of cases was smaller, not larger.",
+          "C": "The second outbreak had both a higher case-fatality rate and fewer cases, not a lower rate with more cases.",
+          "D": "The case-fatality rate was higher, not lower, and the case counts differ by more than threefold.",
+          "E": "The case-fatality rates are not identical: 34.4% versus 9.6%."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "MERS-CoV",
+        "SARS-CoV",
+        "epidemiology"
+      ],
+      "topicId": "respiratory-coronaviridae",
+      "topicName": "Respiratory: Coronaviridae (2026)",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-001",
+      "stem": "A 34-year-old man with newly diagnosed HIV infection is started on a regimen containing emtricitabine, a cytosine analogue. The drug competes with the individual nucleotides and is incorporated into the nucleotide chain that is being built as viral RNA is copied into DNA. Which of the following best describes how this drug stops viral replication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds gp41 after gp120 engages, preventing viral fusion"
+        },
+        {
+          "label": "B",
+          "text": "It binds integrase, preventing insertion of DNA into the genome"
+        },
+        {
+          "label": "C",
+          "text": "It blocks protease, preventing cleavage into mature viral units"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits hepatic CYP450, raising levels of other antivirals"
+        },
+        {
+          "label": "E",
+          "text": "It terminates the growing DNA strand, halting reverse transcription"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nucleotide/nucleoside reverse transcriptase inhibitors are chain terminators that stop reverse transcriptase.",
+        "whyCorrect": "NRTIs are analogues of adenosine (tenofovir), cytosine (emtricitabine, lamivudine), guanosine (abacavir), or thymidine (zidovudine). They compete with the natural nucleotides and are incorporated into the growing nucleotide chain, where they act as chain terminators and stop reverse transcriptase. Because retroviruses must convert RNA to DNA to replicate, this blockade halts the viral life cycle, which is why NRTIs are a mainstay of treatment.",
+        "whyWrongByChoice": {
+          "A": "Binding gp41 once it is exposed by gp120 attachment is the mechanism of the fusion inhibitor enfuvirtide.",
+          "B": "Blocking integrase is the mechanism of the integrase strand transfer inhibitors, not of a nucleoside analogue.",
+          "C": "Blocking protease is how protease inhibitors stop budding of mature virions, a later step entirely.",
+          "D": "Inhibiting hepatic CYP450 describes the pharmacokinetic enhancers ritonavir and cobicistat."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "NRTI",
+        "mechanism of action"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-002",
+      "stem": "A 40-year-old man with HIV infection has efavirenz added to his regimen. Unlike the nucleoside analogues he is already taking, this drug is not incorporated into the elongating DNA strand; instead it attaches directly to a viral enzyme and inactivates it, so that the DNA strand being made is left incomplete and useless. Which enzyme is inactivated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic cytochrome P450"
+        },
+        {
+          "label": "B",
+          "text": "Human DNA polymerase"
+        },
+        {
+          "label": "C",
+          "text": "Integrase"
+        },
+        {
+          "label": "D",
+          "text": "Protease"
+        },
+        {
+          "label": "E",
+          "text": "Reverse transcriptase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "NNRTIs inhibit reverse transcriptase by binding directly to the enzyme rather than by chain termination.",
+        "whyCorrect": "Non-nucleoside reverse transcriptase inhibitors, like NRTIs, inhibit reverse transcriptase, but they do so by binding directly to the enzyme and inactivating it. This stops the DNA chain from polymerizing and leaves the elongating strand incomplete. NNRTIs such as efavirenz are often used together with NRTIs, especially tenofovir.",
+        "whyWrongByChoice": {
+          "A": "Hepatic cytochrome P450 is a host enzyme targeted by boosters, not the viral enzyme inactivated here.",
+          "B": "Human DNA polymerase is a host enzyme whose inhibition explains NRTI mitochondrial toxicity, not the antiviral effect.",
+          "C": "Integrase is the target of the integrase strand transfer inhibitors such as raltegravir and dolutegravir.",
+          "D": "Protease is the target of the protease inhibitors, which act at the final budding step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "NNRTI",
+        "reverse transcriptase"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-003",
+      "stem": "A 41-year-old man with drug-resistant HIV infection is started on maraviroc. The drug prevents the virus from binding to a molecule on the surface of the host cell, so that the virus is unable to enter. Which of the following does this drug block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CCR5"
+        },
+        {
+          "label": "B",
+          "text": "gp120"
+        },
+        {
+          "label": "C",
+          "text": "gp41"
+        },
+        {
+          "label": "D",
+          "text": "Integrase"
+        },
+        {
+          "label": "E",
+          "text": "Protease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Maraviroc is an entry inhibitor that blocks the host CCR5 coreceptor.",
+        "whyCorrect": "For HIV to enter a host cell it must first bind a surface receptor and then fuse with the membrane. One of these receptors is CCR5. Maraviroc blocks CCR5, which prevents binding of the virus and leaves it unable to enter the cell. It is sometimes useful in patients with drug-resistant virus infection.",
+        "whyWrongByChoice": {
+          "B": "gp120 is the viral envelope protein that attaches to the cell; maraviroc acts on the host coreceptor instead.",
+          "C": "gp41 is the viral protein bound by enfuvirtide, which blocks fusion rather than receptor binding.",
+          "D": "Integrase is the enzyme that inserts viral DNA into the host genome and is targeted by INSTIs.",
+          "E": "Protease is an intracellular viral enzyme targeted by protease inhibitors, not by entry inhibitors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "entry inhibitor",
+        "maraviroc"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-004",
+      "stem": "A 37-year-old woman with HIV infection is given enfuvirtide. The target of this drug is not accessible on free virions; it becomes exposed only after the virus has bound gp120 to the cell surface, and blocking it prevents the virus from fusing with the membrane and entering the cell. Which of the following is the target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "gp41"
+        },
+        {
+          "label": "B",
+          "text": "Integrase"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptase"
+        },
+        {
+          "label": "D",
+          "text": "The CCR5 coreceptor"
+        },
+        {
+          "label": "E",
+          "text": "The p17 matrix protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Enfuvirtide binds gp41, which is exposed once HIV binds through gp120, and blocks fusion.",
+        "whyCorrect": "Entry requires binding followed by fusion. Enfuvirtide binds gp41, a viral protein that becomes exposed once HIV binds gp120 to the cell surface. Binding gp41 blocks fusion of the virus with the membrane and therefore blocks its entry into the cell.",
+        "whyWrongByChoice": {
+          "B": "Integrase acts inside the cell after reverse transcription and is targeted by INSTIs.",
+          "C": "Reverse transcriptase acts after entry and is targeted by NRTIs and NNRTIs.",
+          "D": "The CCR5 coreceptor is blocked by maraviroc, which prevents binding rather than fusion.",
+          "E": "p17 is a structural matrix protein of the virion and is not the target of any antiretroviral class here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "fusion inhibitor",
+        "enfuvirtide"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-005",
+      "stem": "A 45-year-old man with HIV infection is started on raltegravir. Which of the following steps of the retroviral life cycle does this drug block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding of the virus to the CCR5 coreceptor"
+        },
+        {
+          "label": "B",
+          "text": "Budding of assembled virions from the cell"
+        },
+        {
+          "label": "C",
+          "text": "Cleavage of polyproteins into mature units"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of viral RNA into viral DNA"
+        },
+        {
+          "label": "E",
+          "text": "Insertion of viral DNA into the host genome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Integrase strand transfer inhibitors block integration of newly made viral DNA into the host cell genome.",
+        "whyCorrect": "Normally, newly made viral DNA must be integrated into the host cell's genome, a step catalyzed by the enzyme integrase. Integrase strand transfer inhibitors such as raltegravir inhibit integrase and prevent this DNA from infecting cells. INSTIs are very common components of modern HIV regimens.",
+        "whyWrongByChoice": {
+          "A": "Binding to CCR5 is blocked by maraviroc, an entry inhibitor.",
+          "B": "Budding is the final step blocked indirectly by protease inhibitors, not by integrase inhibitors.",
+          "C": "Cleavage of polyproteins into mature viral units is blocked by protease inhibitors.",
+          "D": "Conversion of RNA into DNA is blocked by NRTIs and NNRTIs acting on reverse transcriptase."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "INSTI",
+        "integrase"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-006",
+      "stem": "A 50-year-old man with HIV infection is started on darunavir. Which of the following best describes the effect of this drug on the virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyprotein chains are not cut into mature viral proteins"
+        },
+        {
+          "label": "B",
+          "text": "The elongating nucleotide chain is terminated prematurely"
+        },
+        {
+          "label": "C",
+          "text": "The virus cannot bind the CCR5 receptor on the cell surface"
+        },
+        {
+          "label": "D",
+          "text": "Viral DNA is not inserted into the host cell's own genome"
+        },
+        {
+          "label": "E",
+          "text": "Viral RNA is not converted into double-stranded viral DNA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Protease inhibitors block the enzyme that cuts polyproteins into mature viral proteins, preventing formation of mature virions.",
+        "whyCorrect": "Protease inhibitors act on the final step of replication, which involves budding of the virus from the host cell. Protease is the enzyme responsible for cutting polyprotein chains into the smaller proteins that make up mature HIV units. Inhibiting protease stops mature viral particles from forming, and these drugs are often considered when a patient is not responding to initial antiretroviral therapy.",
+        "whyWrongByChoice": {
+          "B": "Premature chain termination describes the nucleoside analogues, which act at reverse transcription.",
+          "C": "Blocking CCR5 binding describes maraviroc, an entry inhibitor acting before the virus gets inside.",
+          "D": "Blocking insertion of viral DNA into the genome describes the integrase strand transfer inhibitors.",
+          "E": "Blocking conversion of RNA to DNA describes inhibition of reverse transcriptase by NRTIs and NNRTIs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "protease inhibitor",
+        "mechanism of action"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-007",
+      "stem": "A 39-year-old man with HIV infection is prescribed atazanavir together with low-dose ritonavir. His clinician explains that the second drug is included specifically to raise the concentration of the first. Which of the following best explains this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic cytochrome P450 enzymes are induced"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic cytochrome P450 metabolism is inhibited"
+        },
+        {
+          "label": "C",
+          "text": "Intestinal absorption of the first drug is increased"
+        },
+        {
+          "label": "D",
+          "text": "Renal tubular secretion of the first drug is blocked"
+        },
+        {
+          "label": "E",
+          "text": "The first drug is displaced from plasma proteins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ritonavir and cobicistat are pharmacokinetic enhancers that inhibit hepatic CYP450 to raise levels of the boosted drug.",
+        "whyCorrect": "Protease inhibitors often require a booster with ritonavir, which is itself a protease inhibitor, or with cobicistat. These boosters inhibit hepatic cytochrome P450, increasing the concentration of the protease inhibitor. This lets the drug be given less frequently, improving adherence, and it also limits the adverse effects seen at higher doses.",
+        "whyWrongByChoice": {
+          "A": "Induction of CYP450 would lower rather than raise the level of the boosted drug; efavirenz is the inducer discussed.",
+          "C": "Enhanced intestinal absorption is not the described mechanism of ritonavir or cobicistat.",
+          "D": "The brick attributes boosting to CYP450 inhibition, not to blockade of renal elimination.",
+          "E": "Displacement from plasma proteins is not how these pharmacokinetic enhancers work."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetic enhancer",
+        "CYP450"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-008",
+      "stem": "A clinician wants to build an antiretroviral regimen that does not require a pharmacokinetic booster, because the patient is already taking several medications metabolized by cytochrome P450. Which of the following antiretrovirals is most likely to require such a booster and should therefore be avoided?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bictegravir"
+        },
+        {
+          "label": "B",
+          "text": "Dolutegravir"
+        },
+        {
+          "label": "C",
+          "text": "Elvitegravir"
+        },
+        {
+          "label": "D",
+          "text": "Raltegravir"
+        },
+        {
+          "label": "E",
+          "text": "Tenofovir"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Among the integrase inhibitors, elvitegravir is the one that commonly requires boosting.",
+        "whyCorrect": "Only a handful of HIV medications require a pharmacokinetic enhancer. The most common ones that need boosters are the protease inhibitors atazanavir, darunavir, and lopinavir, and the integrase strand transfer inhibitor elvitegravir. Avoiding elvitegravir avoids the added CYP450 inhibition from ritonavir or cobicistat.",
+        "whyWrongByChoice": {
+          "A": "Bictegravir is cleared by CYP450 but is not listed among the drugs that require boosting.",
+          "B": "Dolutegravir is an integrase inhibitor that is not listed as requiring a booster.",
+          "D": "Raltegravir is an integrase inhibitor but is not among the drugs listed as requiring a booster.",
+          "E": "Tenofovir is a nucleotide reverse transcriptase inhibitor and is not a boosted agent."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "elvitegravir",
+        "pharmacokinetic enhancer"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-009",
+      "stem": "A 43-year-old woman taking a boosted protease inhibitor asks why an extra pill that has no direct antiviral benefit for her was added. Apart from raising the drug concentration, which of the following is the main clinical advantage of adding this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It broadens the regimen's activity against resistant strains"
+        },
+        {
+          "label": "B",
+          "text": "It can be substituted for one of the two required NRTIs"
+        },
+        {
+          "label": "C",
+          "text": "It lowers the dosing frequency and improves adherence"
+        },
+        {
+          "label": "D",
+          "text": "It prevents mother-to-child transmission during pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "It removes the need for HLA-B*5701 genetic testing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Boosting prolongs the duration of the drug so it can be taken less often, which improves adherence.",
+        "whyCorrect": "Ritonavir and cobicistat inhibit CYP enzymes, which prolongs the duration of the boosted drug and decreases how often the patient must take it. Less frequent dosing helps with adherence to the medication. Boosting also limits the adverse effects that would be seen if higher doses were used instead.",
+        "whyWrongByChoice": {
+          "A": "Boosters improve pharmacokinetics; they are not described as broadening activity against resistant virus.",
+          "B": "Boosters do not replace an NRTI; regimens still generally contain two NRTIs plus a third active drug.",
+          "D": "Reducing perinatal transmission comes from effective combination therapy during pregnancy, not from the booster itself.",
+          "E": "HLA-B*5701 testing is required in all HIV-positive patients regardless of the regimen chosen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adherence",
+        "pharmacokinetic enhancer"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-010",
+      "stem": "A 29-year-old treatment-naive woman is newly diagnosed with HIV infection and is ready to begin antiretroviral therapy. Which of the following combinations is most commonly used to initiate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One nucleoside inhibitor plus one fusion inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Three nucleoside reverse transcriptase inhibitors"
+        },
+        {
+          "label": "C",
+          "text": "Two non-nucleoside inhibitors plus one protease inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Two nucleoside inhibitors plus one integrase inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Two protease inhibitors plus one non-nucleoside inhibitor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Initial HIV therapy is generally two NRTIs plus a third drug from another class, most commonly an INSTI.",
+        "whyCorrect": "A multidrug treatment plan best suppresses HIV RNA, and many studies support initiating therapy with two NRTIs plus one drug from another class, most commonly an integrase strand transfer inhibitor. In some cases the third drug may instead be a protease inhibitor or an NNRTI. This multidrug approach reduces morbidity and mortality related to the infection.",
+        "whyWrongByChoice": {
+          "A": "Fusion and entry inhibitors are not typically first-line choices.",
+          "B": "Three NRTIs is not the described initial approach; the third drug comes from a different class.",
+          "C": "Regimens are built on two NRTIs, not on two NNRTIs.",
+          "E": "Two protease inhibitors is not a standard backbone; only a booster dose of ritonavir accompanies another PI."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HAART",
+        "initial therapy"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-011",
+      "stem": "A 35-year-old man with HIV infection has been adherent to a three-drug regimen for two years. Which of the following best describes what this therapy is expected to accomplish?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete eradication of provirus from the host genome"
+        },
+        {
+          "label": "B",
+          "text": "Correction of the proofreading defect of reverse transcriptase"
+        },
+        {
+          "label": "C",
+          "text": "Cure of the infection once the viral load is undetectable"
+        },
+        {
+          "label": "D",
+          "text": "Prevention of all resistance mutations for the patient's life"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of HIV RNA that slows progression to AIDS"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Combination antiretroviral therapy suppresses HIV RNA and can slow or halt progression to AIDS, but it does not cure the infection.",
+        "whyCorrect": "Combination therapy is the mainstay of highly active antiretroviral treatment and can slow or halt progression to acquired immunodeficiency syndrome. By suppressing viral RNA and reducing the inflammatory immune response, it keeps the CD4 count up. HIV remains incurable, which is why prevention is emphasized so heavily.",
+        "whyWrongByChoice": {
+          "A": "Integration of viral DNA into the host genome is one of the reasons HIV cannot be eradicated.",
+          "B": "The lack of proofreading by reverse transcriptase is an intrinsic viral property that drugs do not repair.",
+          "C": "An undetectable viral load reflects suppression, not cure; the virus is described as incurable but manageable.",
+          "D": "Combination therapy raises the number of mutations needed for resistance but does not prevent all of them."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HAART",
+        "AIDS"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    },
+    {
+      "id": "mi38-012",
+      "stem": "A student asks why a patient with HIV infection is never treated with a single antiretroviral agent. Which of the following provides the best explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single agent cannot penetrate the central nervous system"
+        },
+        {
+          "label": "B",
+          "text": "A single agent is always more nephrotoxic than a combination"
+        },
+        {
+          "label": "C",
+          "text": "Antiretrovirals are inactive unless a booster is also given"
+        },
+        {
+          "label": "D",
+          "text": "Combination tablets are less expensive than single agents"
+        },
+        {
+          "label": "E",
+          "text": "More mutations are needed for resistance with several drugs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multiple drugs are used simultaneously so that the virus must acquire more mutations before it becomes resistant.",
+        "whyCorrect": "HIV has a high mutation rate because reverse transcriptase lacks proofreading, which lets the virus quickly adapt to treatment. Using several drugs at once increases the number of mutations the virus would need to escape therapy. These medications are therefore always used in combination, which helps reduce resistance rates.",
+        "whyWrongByChoice": {
+          "A": "Central nervous system penetration is not the reason given for combination therapy.",
+          "B": "Nephrotoxicity is drug specific, such as with tenofovir DF or atazanavir, and is not a reason to combine drugs.",
+          "C": "Only a handful of antiretrovirals require a booster; most are fully active without one.",
+          "D": "Combination tablets are used to reduce pill burden and improve adherence, not because of cost."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "resistance",
+        "combination therapy"
+      ],
+      "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
+      "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
+      "tier": "core"
+    }
+  ]
+}

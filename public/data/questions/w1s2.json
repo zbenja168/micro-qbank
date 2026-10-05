@@ -1,0 +1,3353 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "mi05-001",
+      "stem": "A laboratory technician performs a Gram stain on a wound swab. After crystal violet is applied and fixed with iodine, the slide is decolorized with acetone and then counterstained. One population of organisms remains deep purple under the microscope. Which feature of these organisms best explains the retained purple color?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A polysaccharide capsule that preferentially binds safranin"
+        },
+        {
+          "label": "B",
+          "text": "A thick cell wall that holds the crystal violet dye"
+        },
+        {
+          "label": "C",
+          "text": "A thin cell wall that releases dye during decolorization"
+        },
+        {
+          "label": "D",
+          "text": "A waxy surface coat that repels all aqueous dyes"
+        },
+        {
+          "label": "E",
+          "text": "An outer membrane that excludes the crystal violet dye"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gram-positive bacteria keep crystal violet because their cell walls are thick.",
+        "whyCorrect": "In the Gram stain, bacteria are stained with crystal violet, fixed with iodine, and then decolorized with alcohol or acetone. Gram-positive bacteria retain the purple dye because of their thick cell walls, so they appear purple at the end of the procedure. Gram-negative organisms, whose cell walls are thinner, lose the dye during decolorization.",
+        "whyWrongByChoice": {
+          "A": "Safranin is the counterstain that colors decolorized organisms red; it does not account for a purple result.",
+          "C": "A thin cell wall is exactly what allows the dye to wash out, producing a gram-negative result.",
+          "D": "Organisms with a waxy surface are the ones that cannot be stained reliably by Gram stain at all, which is why other stains are needed for them.",
+          "E": "An outer membrane is a gram-negative feature, and those organisms lose the crystal violet rather than retaining it."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gram stain",
+        "cell wall"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-002",
+      "stem": "During the same Gram stain, a second organism on the slide loses the crystal violet after the alcohol wash and appears red when the procedure is complete. Which dye accounts for the red color of this organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crystal violet"
+        },
+        {
+          "label": "B",
+          "text": "Eosin Y"
+        },
+        {
+          "label": "C",
+          "text": "Methylene blue"
+        },
+        {
+          "label": "D",
+          "text": "Neutral red"
+        },
+        {
+          "label": "E",
+          "text": "Safranin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Safranin is the counterstain that makes gram-negative bacteria red.",
+        "whyCorrect": "Gram-negative bacteria have thinner cell walls and lose crystal violet during decolorization. They are then counterstained red with safranin, which is what allows them to be seen and classified as gram negative.",
+        "whyWrongByChoice": {
+          "A": "Crystal violet is the primary purple dye, and it has already been washed out of this organism.",
+          "B": "Eosin Y is also an EMB agar ingredient used to inhibit gram-positive growth and color colonies on a plate.",
+          "C": "Methylene blue is an ingredient of eosin methylene blue agar, not the Gram stain counterstain.",
+          "D": "Neutral red is the pH indicator in MacConkey agar, where it colors lactose-fermenting colonies."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gram stain",
+        "counterstain"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-003",
+      "stem": "A 6-year-old unimmunized child has a sore throat and a gray membrane over the tonsils. Gram stain of a throat swab shows gram-positive rods that are wider at one end, giving them a club shape. Which organism shows this characteristic morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus spp."
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium spp."
+        },
+        {
+          "label": "C",
+          "text": "Fusobacterium spp."
+        },
+        {
+          "label": "D",
+          "text": "Salmonella spp."
+        },
+        {
+          "label": "E",
+          "text": "Vibrio spp."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Club-shaped rods are the classic morphology of Corynebacterium diphtheriae.",
+        "whyCorrect": "Shape and arrangement are recorded during the Gram stain because they narrow the differential immediately. Among the common morphologies, the club-shaped rod is the pattern assigned to Corynebacterium diphtheriae.",
+        "whyWrongByChoice": {
+          "A": "Bacillus spp. are rods with square ends, not rods that flare at one end.",
+          "C": "Fusobacterium spp. are fusiform, tapering at both ends rather than clubbing at one.",
+          "D": "Salmonella spp. are rods with rounded ends and are gram negative besides.",
+          "E": "Vibrio spp. are curved, comma-shaped gram-negative organisms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "gram-positive bacilli"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-004",
+      "stem": "A 19-year-old college student has fever, headache, and neck stiffness. Gram stain of cerebrospinal fluid shows gram-negative cocci in pairs, each cell flattened along the side it shares with its partner, giving a kidney-bean appearance. Which genus shows this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus"
+        },
+        {
+          "label": "B",
+          "text": "Borrelia"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Kidney-bean-shaped cocci in pairs are Neisseria spp.",
+        "whyCorrect": "Bacteria that form pairs are described as diplococci, and Neisseria spp. are the classic example. Their paired cells have a kidney bean shape, which together with the gram-negative staining identifies the genus.",
+        "whyWrongByChoice": {
+          "A": "Bacillus spp. are gram-positive rods with square ends, not cocci.",
+          "B": "Borrelia spp. are spirochetes with a relaxed coil, not cocci.",
+          "D": "Staphylococcus spp. form grape-like clusters and are gram positive.",
+          "E": "Streptococcus spp. form chains of cocci and are gram positive."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "diplococci"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-005",
+      "stem": "A 68-year-old man with lobar pneumonia has a sputum Gram stain showing gram-positive cocci in pairs, with the outer end of each cell tapered to a point. Which organism is most consistent with this morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cocci in pairs with pointed ends are Streptococcus pneumoniae.",
+        "whyCorrect": "Most streptococci grow in chains, but Streptococcus pneumoniae is distinguished by growing in pairs whose outer ends are pointed. That morphology, in a gram-positive organism from sputum, points directly to S. pneumoniae.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecalis is a gram-positive coccus that grows in chains rather than pointed pairs.",
+          "B": "Neisseria meningitidis is a gram-negative diplococcus with kidney-bean-shaped cells.",
+          "C": "Staphylococcus aureus grows in grape-like clusters, not in pairs with tapered ends.",
+          "E": "Streptococcus pyogenes grows in chains, the general streptococcal pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "Streptococcus pneumoniae"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-006",
+      "stem": "A preparation from a genital ulcer shows slender spiral organisms whose coils are wound tightly and regularly, like the threads on a screw. Based on the coiling pattern, which genus is favored?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia"
+        },
+        {
+          "label": "B",
+          "text": "Fusobacterium"
+        },
+        {
+          "label": "C",
+          "text": "Spirillum"
+        },
+        {
+          "label": "D",
+          "text": "Treponema"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tightly coiled spirochetes are Treponema; relaxed coils are Borrelia.",
+        "whyCorrect": "Spirochetes have a twisted shape like the threads on a screw, and the tightness of the coil separates the genera. Tightly coiled spirochetes correspond to Treponema spp., which is what this preparation shows.",
+        "whyWrongByChoice": {
+          "A": "Borrelia spp. are the spirochetes described as having a relaxed coil, not a tight one.",
+          "B": "Fusobacterium spp. are fusiform rods that taper at each end and are not spiral.",
+          "C": "Spirillum organisms have a wavy shape, which is not the tight screw-thread coil described.",
+          "E": "Vibrio spp. are curved, comma-shaped organisms rather than spirals."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "spirochetes"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-007",
+      "stem": "A Gram stain of pus from a skin abscess shows gram-positive cocci bunched together in irregular, grape-like groups. Which genus has this arrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium"
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive cocci in grape-like clusters are staphylococci.",
+        "whyCorrect": "Grouping patterns are recorded alongside shape. Clusters, in which the bacteria bunch together like grapes, are the arrangement of Staphylococcus spp., and all Staphylococcus spp. are gram-positive cocci in clusters.",
+        "whyWrongByChoice": {
+          "A": "Clostridium organisms are gram-positive rods that grow only without oxygen.",
+          "B": "Corynebacterium organisms are club-shaped rods, not cocci.",
+          "C": "Neisseria spp. are gram-negative organisms that form pairs, not clusters.",
+          "E": "Streptococcus spp. form short single-file chains rather than clusters."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "Staphylococcus"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-008",
+      "stem": "A woman with vulvovaginal itching and thick white discharge has a swab sent for culture, and the laboratory needs to recover the suspected yeast from a site that carries heavy normal bacterial flora. Which medium is designed for this purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Eosin methylene blue agar"
+        },
+        {
+          "label": "B",
+          "text": "MacConkey agar"
+        },
+        {
+          "label": "C",
+          "text": "Mannitol salt agar"
+        },
+        {
+          "label": "D",
+          "text": "Sabouraud dextrose agar"
+        },
+        {
+          "label": "E",
+          "text": "Thayer-Martin agar"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sabouraud dextrose agar is the selective medium for fungi.",
+        "whyCorrect": "Sabouraud dextrose agar has an acidic pH and contains antibiotics that inhibit bacterial growth, so it is selective for fungi such as Candida spp. and Aspergillus spp. Candidiasis occurs at sites loaded with normal flora, which is exactly when a selective fungal medium is needed.",
+        "whyWrongByChoice": {
+          "A": "Eosin methylene blue agar is used for gram-negative bacteria and their lactose fermentation.",
+          "B": "MacConkey agar is aimed at gram-negative bacteria through bile salts and crystal violet.",
+          "C": "Mannitol salt agar uses high salt to select staphylococci, not yeast.",
+          "E": "Thayer-Martin agar contains nystatin to inhibit fungi, so it would suppress the organism being sought."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selective agar",
+        "fungi"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-009",
+      "stem": "Thayer-Martin medium is inoculated with a specimen to recover Neisseria gonorrhoeae. Which component of this medium suppresses the gram-positive bacteria present in the specimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bile salts"
+        },
+        {
+          "label": "B",
+          "text": "Colistin"
+        },
+        {
+          "label": "C",
+          "text": "Nystatin"
+        },
+        {
+          "label": "D",
+          "text": "Trimethoprim"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vancomycin is the Thayer-Martin ingredient that inhibits gram-positive bacteria.",
+        "whyCorrect": "Thayer-Martin agar contains antibiotics that inhibit most bacteria and fungi so that Neisseria can be isolated. Within that mixture, vancomycin is the agent directed at gram-positive bacteria.",
+        "whyWrongByChoice": {
+          "A": "Bile salts are a MacConkey agar ingredient and are not part of Thayer-Martin medium.",
+          "B": "Colistin inhibits most gram-negative bacteria other than the Neisseria being selected.",
+          "C": "Nystatin is included in Thayer-Martin agar to inhibit fungi, not gram-positive bacteria.",
+          "D": "Trimethoprim likewise acts against most gram-negative bacteria in the specimen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selective agar",
+        "Neisseria"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-010",
+      "stem": "A rectal swab from a man being screened for gonorrhea is plated on both chocolate agar and Thayer-Martin agar. The chocolate plate is overgrown with mixed colonies, while the Thayer-Martin plate yields only a few distinct colonies. Which statement best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chocolate agar changes color when the normal flora ferment lactose."
+        },
+        {
+          "label": "B",
+          "text": "Chocolate agar lacks the nutrients that Neisseria requires for growth."
+        },
+        {
+          "label": "C",
+          "text": "Thayer-Martin agar contains antibiotics that suppress the normal flora."
+        },
+        {
+          "label": "D",
+          "text": "Thayer-Martin agar forms a black precipitate with the normal flora."
+        },
+        {
+          "label": "E",
+          "text": "Thayer-Martin agar lyses the organisms that are soluble in bile salts."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Selective media are used at sites rich in normal flora so the pathogen is not overgrown.",
+        "whyCorrect": "The rectum carries heavy normal flora. On a non-selective agar such as chocolate agar, that flora overwhelms the plate and makes N. gonorrhoeae very difficult to isolate. Thayer-Martin agar contains antibiotics that suppress the competing organisms, leaving Neisseria to grow.",
+        "whyWrongByChoice": {
+          "A": "Chocolate agar is not a lactose-based differential medium, so no fermentation color change occurs.",
+          "B": "Chocolate agar supports Neisseria growth well; the problem is overgrowth by other organisms, not a lack of nutrients.",
+          "D": "A black precipitate signals hydrogen sulfide production on triple sugar iron agar, not growth on Thayer-Martin agar.",
+          "E": "Bile solubility is a separate assay used with the alpha-hemolytic streptococci, not a property of Thayer-Martin agar."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "selective agar",
+        "normal flora"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-011",
+      "stem": "Colonies growing on blood agar are surrounded by a greenish-brown zone of discoloration, but the agar around them is not cleared. Which description of this result is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha hemolysis, from partial oxidation of hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Beta hemolysis, from complete lysis of red blood cells"
+        },
+        {
+          "label": "C",
+          "text": "Beta hemolysis, from partial oxidation of hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Gamma hemolysis, from an absence of red cell lysis"
+        },
+        {
+          "label": "E",
+          "text": "Gamma hemolysis, from complete lysis of red blood cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Greenish discoloration without clearing is alpha hemolysis.",
+        "whyCorrect": "Blood agar contains sheep's blood and is used to read hemolytic patterns. Alpha hemolysis is partial oxidation of hemoglobin, which produces a greenish or brown discoloration around the colonies without clearing the agar.",
+        "whyWrongByChoice": {
+          "B": "Beta hemolysis is complete hemolysis and produces a clear zone, which is not present here.",
+          "C": "Beta hemolysis is complete lysis, not partial oxidation of hemoglobin.",
+          "D": "Gamma hemolysis means no hemolysis and no change in the agar, but this plate shows discoloration.",
+          "E": "Gamma hemolysis specifically involves no lysis of red blood cells at all."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "blood agar",
+        "hemolysis"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi05-012",
+      "stem": "A throat culture from a child with pharyngitis grows colonies on blood agar that are surrounded by a completely clear, transparent zone. Which organism is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus mitis"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A clear zone on blood agar is beta hemolysis, seen with Streptococcus pyogenes.",
+        "whyCorrect": "Beta hemolysis is complete hemolysis, producing a clear zone around the colonies. Streptococcus pyogenes is the beta-hemolytic streptococcus typically recovered from pharyngitis.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecalis shows gamma hemolysis with no change in the agar.",
+          "B": "Streptococcus mitis is also a viridans group organism with an alpha-hemolytic pattern.",
+          "C": "Streptococcus mutans belongs to the viridans group and is alpha hemolytic.",
+          "D": "Streptococcus pneumoniae is alpha hemolytic, giving greenish discoloration rather than clearing."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "blood agar",
+        "beta hemolysis"
+      ],
+      "topicId": "gram-positive-and-negative-algorithms",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-001",
+      "stem": "A 34-year-old man comes to the clinic with a draining lesion on his forearm. Gram stain of the purulent drainage shows purple-staining spherical bacteria arranged in irregular, grape-like clusters. Which of the following genera do these organisms most likely belong to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium"
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Staphylococci are gram-positive cocci that characteristically clump in grape-like clusters.",
+        "whyCorrect": "Staphylococci stain purple because they are gram positive, they are spherical, and they tend to cluster together like grapes rather than forming pairs or chains. This appearance in pus is the first clue to the genus. Because all staphylococcal species look identical on Gram stain, biochemical testing is needed to identify the species.",
+        "whyWrongByChoice": {
+          "A": "Clostridium species are gram-positive, spore-forming rods rather than cocci in clusters.",
+          "B": "Corynebacterium species are gram-positive bacilli and would appear as purple rods.",
+          "C": "Neisseria species are gram negative, stain pink, and appear as diplococci.",
+          "E": "Streptococci are also gram-positive cocci, but they are arranged in chains rather than clusters."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gram-positive cocci",
+        "gram stain",
+        "identification"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-002",
+      "stem": "A laboratory isolates gram-positive cocci from a wound culture and must determine whether the organisms belong to the genus Staphylococcus rather than Streptococcus or Enterococcus. Which of the following tests is most useful for this distinction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bile salt tolerance"
+        },
+        {
+          "label": "B",
+          "text": "Catalase test"
+        },
+        {
+          "label": "C",
+          "text": "Coagulase test"
+        },
+        {
+          "label": "D",
+          "text": "Mannitol fermentation"
+        },
+        {
+          "label": "E",
+          "text": "Novobiocin disk diffusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "All staphylococci are catalase positive, which separates them from Streptococcus and Enterococcus.",
+        "whyCorrect": "Staphylococci produce catalase, the enzyme that converts hydrogen peroxide to water and oxygen, so mixing a colony with hydrogen peroxide produces visible bubbles. Streptococcus and Enterococcus species do not produce catalase. A positive catalase test therefore places a gram-positive coccus in the genus Staphylococcus.",
+        "whyWrongByChoice": {
+          "A": "All staphylococci grow in the presence of bile salts, so this result does not sort organisms by genus.",
+          "C": "Coagulase separates S. aureus from the other staphylococci; it does not sort the genus from streptococci.",
+          "D": "Mannitol fermentation on salt agar identifies S. aureus within the staphylococci.",
+          "E": "Novobiocin sensitivity is used to pick out S. saprophyticus among coagulase-negative staphylococci."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "catalase",
+        "lab identification",
+        "gram-positive cocci"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-003",
+      "stem": "A 24-year-old man reports a swollen, red bump about 1 inch across on his calf that he thought was a spider bite. There is a pale tan peak at the center that has drained thick exudate, the area is tender and hot, faint red streaking extends proximally, and the inguinal lymph nodes are palpable. Which of the following best describes the lesion and its most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An abscess caused by S. aureus"
+        },
+        {
+          "label": "B",
+          "text": "Bullous impetigo caused by S. aureus"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis caused by S. saprophyticus"
+        },
+        {
+          "label": "D",
+          "text": "Folliculitis caused by S. epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "Osteomyelitis caused by S. aureus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A localized pocket of pus in soft tissue is an abscess, most commonly caused by S. aureus.",
+        "whyCorrect": "Abscesses are collections of pus in tissues, organs, or other spaces, and S. aureus is the most common cause. They often begin at a trivial break in the skin such as a scratch or an infected hair follicle that was too minor to notice. Management is incision and drainage, with antibiotic coverage that includes MRSA when there is surrounding spread.",
+        "whyWrongByChoice": {
+          "B": "Bullous impetigo produces fluid-filled blisters on an erythematous base rather than a deep pus collection.",
+          "C": "S. saprophyticus colonizes the urogenital tract and causes urinary infection, not soft tissue abscess.",
+          "D": "Folliculitis is confined to a hair follicle and appears as a small tender pustule, not a draining pocket of pus.",
+          "E": "Osteomyelitis is infection of bone and would not present as a superficial draining skin nodule."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "abscess",
+        "skin and soft tissue",
+        "S. aureus"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-004",
+      "stem": "A 23-year-old sexually active woman has 2 days of burning with urination, urinary frequency, and suprapubic pain. She recently returned from her honeymoon. Urine culture grows gram-positive cocci in clusters that are catalase positive, coagulase negative, and resistant to novobiocin. Which of the following is the most likely causal organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus"
+        },
+        {
+          "label": "D",
+          "text": "S. epidermidis"
+        },
+        {
+          "label": "E",
+          "text": "S. saprophyticus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A coagulase-negative, novobiocin-resistant staphylococcus causing cystitis in a young woman is S. saprophyticus.",
+        "whyCorrect": "S. saprophyticus is part of the normal urogenital flora and is the staphylococcus that causes urinary tract infections and cystitis in sexually active young women. Among the staphylococci it is uniquely resistant to novobiocin, and like other coagulase-negative species it fails to clot plasma. Risk factors include sexual activity, a short urethra, and open cuts or sores.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecalis is catalase negative and does not form grape-like clusters.",
+          "B": "E. coli is a gram-negative rod and would not appear as gram-positive cocci in clusters.",
+          "C": "S. aureus is coagulase positive, so the negative coagulase test excludes it.",
+          "D": "S. epidermidis is coagulase negative but is sensitive rather than resistant to novobiocin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "S. saprophyticus",
+        "urinary tract infection",
+        "novobiocin"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-005",
+      "stem": "A hospitalized 58-year-old woman with a tunneled central venous catheter develops low-grade fevers. Two blood cultures grow gram-positive cocci in clusters that are catalase positive, coagulase negative, and sensitive to novobiocin. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "S. aureus"
+        },
+        {
+          "label": "C",
+          "text": "S. epidermidis"
+        },
+        {
+          "label": "D",
+          "text": "S. saprophyticus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus agalactiae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S. epidermidis is coagulase negative, novobiocin sensitive, and the classic pathogen of indwelling catheters.",
+        "whyCorrect": "S. epidermidis is a commensal of the skin that is coagulase negative and novobiocin sensitive. It readily colonizes foreign bodies such as central venous catheters and Foley catheters and causes severe endogenous infection in immunosuppressed patients. Its tendency to adhere to plastic surfaces makes catheter-related bloodstream infection its signature presentation.",
+        "whyWrongByChoice": {
+          "A": "Enterococcus faecalis is catalase negative, so it would not be identified as a staphylococcus.",
+          "B": "S. aureus clots plasma in the coagulase test and is therefore ruled out.",
+          "D": "S. saprophyticus is novobiocin resistant and is associated with urinary rather than catheter infection.",
+          "E": "Streptococcus agalactiae is catalase negative and grows in chains rather than clusters."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "S. epidermidis",
+        "catheter infection",
+        "coagulase negative"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-006",
+      "stem": "An isolate of gram-positive cocci in clusters is streaked onto mannitol salt agar. After incubation, the medium surrounding the colonies has turned from red to yellow. This color change is a direct result of which of the following properties of the isolate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It ferments mannitol"
+        },
+        {
+          "label": "B",
+          "text": "It is beta-hemolytic"
+        },
+        {
+          "label": "C",
+          "text": "It is resistant to novobiocin"
+        },
+        {
+          "label": "D",
+          "text": "It produces catalase"
+        },
+        {
+          "label": "E",
+          "text": "It produces coagulase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Yellowing of mannitol salt agar means the organism ferments mannitol, as S. aureus does.",
+        "whyCorrect": "Mannitol salt agar contains mannitol plus a pH indicator. S. aureus ferments mannitol and the acid produced turns the agar yellow. Staphylococci that do not ferment mannitol grow as small pink or red colonies and leave the color of the medium unchanged.",
+        "whyWrongByChoice": {
+          "B": "Beta-hemolysis is clearing of red blood cells on blood agar, a different medium entirely.",
+          "C": "Novobiocin resistance is read as growth up to an antibiotic disk rather than as a color change.",
+          "D": "Catalase is detected by bubbling when colonies are mixed with hydrogen peroxide.",
+          "E": "Coagulase production is detected by clotting plasma in a tube, not by a color change in agar."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mannitol salt agar",
+        "S. aureus",
+        "lab identification"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-007",
+      "stem": "Mannitol salt agar is used as a selective medium for gram-positive organisms such as staphylococci. Which component of the medium provides this selectivity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5% sheep blood"
+        },
+        {
+          "label": "B",
+          "text": "7.5% sodium chloride"
+        },
+        {
+          "label": "C",
+          "text": "A novobiocin disk"
+        },
+        {
+          "label": "D",
+          "text": "Bile salts"
+        },
+        {
+          "label": "E",
+          "text": "Hydrogen peroxide"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mannitol salt agar for Staphylococcus is selective because of its 7.5% sodium chloride.",
+        "whyCorrect": "For Staphylococcus, mannitol salt agar usually contains 7.5% sodium chloride. Most bacteria cannot tolerate that salt concentration, so the medium selects for salt-tolerant gram-positive organisms. The mannitol and pH indicator then differentiate S. aureus, which ferments mannitol and turns the agar yellow.",
+        "whyWrongByChoice": {
+          "A": "Sheep blood is the component of blood agar and is used to read hemolysis patterns.",
+          "C": "Novobiocin is applied as a disk in a separate test used to identify S. saprophyticus.",
+          "D": "Bile salts are not the selective agent here, and all staphylococci grow in their presence.",
+          "E": "Hydrogen peroxide is the reagent for the catalase test, not a component of the medium."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mannitol salt agar",
+        "selective media",
+        "thresholds"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-008",
+      "stem": "A catalase-positive, gram-positive coccus that grows in clusters is plated on blood agar and produces colonies surrounded by a clear zone of complete red blood cell lysis. Which of the following additional laboratory results is expected for this isolate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coagulase negative"
+        },
+        {
+          "label": "B",
+          "text": "Coagulase positive"
+        },
+        {
+          "label": "C",
+          "text": "Does not ferment mannitol"
+        },
+        {
+          "label": "D",
+          "text": "Resistant to novobiocin"
+        },
+        {
+          "label": "E",
+          "text": "Sensitive to bile salts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Of the main staphylococci, only S. aureus is beta-hemolytic, and only S. aureus is coagulase positive.",
+        "whyCorrect": "Culturing on blood agar reveals complete lysis of red blood cells by S. aureus, leaving a pale or clear zone around the colonies. S. epidermidis and S. saprophyticus are nonhemolytic. Because S. aureus is also the only one of the three that produces coagulase, a beta-hemolytic staphylococcus should clot plasma.",
+        "whyWrongByChoice": {
+          "A": "The coagulase-negative staphylococci, S. epidermidis and S. saprophyticus, are nonhemolytic.",
+          "C": "S. aureus ferments mannitol, which is why it turns mannitol salt agar yellow.",
+          "D": "S. aureus is sensitive to novobiocin; only S. saprophyticus is resistant.",
+          "E": "All staphylococci are resistant to bile salts and grow in their presence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemolysis",
+        "coagulase",
+        "S. aureus"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-009",
+      "stem": "A student is trying to tell apart S. aureus, S. epidermidis, and S. saprophyticus in the laboratory. Which of the following results is identical for all three species and therefore cannot be used to distinguish them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-hemolysis on blood agar"
+        },
+        {
+          "label": "B",
+          "text": "Coagulase production"
+        },
+        {
+          "label": "C",
+          "text": "Mannitol fermentation"
+        },
+        {
+          "label": "D",
+          "text": "Novobiocin resistance"
+        },
+        {
+          "label": "E",
+          "text": "Resistance to bile salts"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "All staphylococci are bile salt resistant, so that result never distinguishes among the species.",
+        "whyCorrect": "All staphylococci grow in the presence of bile salts, so bile salt testing returns the same answer for every species and is useless for separating them. The useful discriminators are coagulase, hemolysis on blood agar, mannitol fermentation, and novobiocin sensitivity. This is why bile salt resistance appears as a uniform row across the identification table.",
+        "whyWrongByChoice": {
+          "A": "Only S. aureus is beta-hemolytic; the other two are nonhemolytic.",
+          "B": "Only S. aureus produces coagulase, so this test separates it from the other two species.",
+          "C": "Only S. aureus ferments mannitol, turning mannitol salt agar yellow.",
+          "D": "Only S. saprophyticus is novobiocin resistant; the other two are sensitive."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bile salts",
+        "lab identification",
+        "comparison table"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-010",
+      "stem": "An isolate of Staphylococcus grows well both in an aerobic incubator and in an anaerobic jar. Which term best describes this organism's oxygen requirement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aerotolerant anaerobe"
+        },
+        {
+          "label": "B",
+          "text": "Facultative anaerobe"
+        },
+        {
+          "label": "C",
+          "text": "Microaerophile"
+        },
+        {
+          "label": "D",
+          "text": "Obligate aerobe"
+        },
+        {
+          "label": "E",
+          "text": "Obligate anaerobe"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "All staphylococci are facultative anaerobes, capable of both aerobic and anaerobic growth.",
+        "whyCorrect": "Facultative anaerobes can generate energy with or without oxygen, which is exactly what all staphylococci do. This metabolic flexibility lets them grow on routine laboratory media under either atmosphere and colonize a wide range of body sites.",
+        "whyWrongByChoice": {
+          "A": "An aerotolerant anaerobe survives oxygen but cannot use it, whereas staphylococci grow aerobically.",
+          "C": "A microaerophile requires reduced oxygen and grows poorly at atmospheric oxygen levels.",
+          "D": "An obligate aerobe would fail to grow in the anaerobic jar.",
+          "E": "An obligate anaerobe would fail to grow in the aerobic incubator."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "facultative anaerobe",
+        "growth requirements"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-011",
+      "stem": "A 45-year-old man has a warm, tender, rapidly spreading area of erythema on the shin that began at a small cut 2 days earlier. The process involves the dermis and subcutaneous tissue, and there is no drainable collection of pus. Which term best describes this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abscess"
+        },
+        {
+          "label": "B",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Folliculitis"
+        },
+        {
+          "label": "D",
+          "text": "Impetigo"
+        },
+        {
+          "label": "E",
+          "text": "Osteomyelitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cellulitis is acute infection of the dermis and subcutaneous tissue, usually starting at a break in the skin.",
+        "whyCorrect": "Cellulitis is an acute infection of the dermis and subcutaneous tissues that usually starts from a break in the skin caused by trauma or another infection. It is commonly caused by S. aureus and much less commonly by S. epidermidis. The inflammation is diffuse rather than walled off.",
+        "whyWrongByChoice": {
+          "A": "An abscess is a walled-off collection of pus, which is explicitly absent in this patient.",
+          "C": "Folliculitis is limited to a hair follicle and appears as a small tender pustule.",
+          "D": "Impetigo is a superficial infection with honey-crusted lesions rather than deep spreading erythema.",
+          "E": "Osteomyelitis is infection of bone and would not be diagnosed from spreading skin erythema."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cellulitis",
+        "skin and soft tissue",
+        "terminology"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi06-012",
+      "stem": "S. aureus produces an enzyme that causes blood clot formation. Which of the following best describes how this enzyme benefits the organism during infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds the Fc portion of IgG, inverting the antibody's orientation"
+        },
+        {
+          "label": "B",
+          "text": "It cleaves the beta-lactam ring of penicillin, inactivating the drug"
+        },
+        {
+          "label": "C",
+          "text": "It coats the organism in fibrin, shielding it from immune attack"
+        },
+        {
+          "label": "D",
+          "text": "It converts hydrogen peroxide into water and oxygen gas"
+        },
+        {
+          "label": "E",
+          "text": "It forms pores in leukocyte membranes, killing those cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Coagulase builds an insoluble fibrin capsule that hides S. aureus from the immune system.",
+        "whyCorrect": "Coagulase causes blood clot formation, and a positive reaction creates an insoluble fibrin capsule around the microorganism. In vivo, that fibrin coat shields the pathogen from the immune response. In the laboratory the same enzyme clots plasma, which is a dead giveaway for S. aureus.",
+        "whyWrongByChoice": {
+          "A": "That describes protein A, a surface protein that blocks opsonization.",
+          "B": "That describes penicillinase, an antibiotic resistance enzyme rather than a clotting enzyme.",
+          "D": "That describes catalase, which is produced by all staphylococci.",
+          "E": "That describes leukocidin, a pore-forming exotoxin that kills white blood cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "coagulase",
+        "virulence factor",
+        "immune evasion"
+      ],
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-001",
+      "stem": "A 65-year-old man with community-acquired pneumonia is started on intravenous ceftriaxone. The drug kills the bacteria by interfering with assembly of the bacterial cell wall. Which of the following reactions is most directly blocked by this antibiotic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of bacterial autolytic enzymes in the wall"
+        },
+        {
+          "label": "B",
+          "text": "Addition of the NAM-NAG unit to the growing glycan chain"
+        },
+        {
+          "label": "C",
+          "text": "Cross-linking of peptidoglycan chains by transpeptidase"
+        },
+        {
+          "label": "D",
+          "text": "Synthesis of the D-alanyl-D-alanine terminus of the peptide"
+        },
+        {
+          "label": "E",
+          "text": "Transfer of N-acetylmuramic acid onto the bactoprenol carrier"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cephalosporins are beta-lactams that inhibit the transpeptidation reaction that cross-links peptidoglycan.",
+        "whyCorrect": "The beta-lactam ring binds covalently to the active site of penicillin-binding proteins, the transpeptidases that cross-link adjacent peptidoglycan chains. With cross-linking blocked, peptidoglycan synthesis halts and the wall loses the rigidity that protects the cell from rupture. The organism then dies from loss of cell wall integrity.",
+        "whyWrongByChoice": {
+          "A": "Activation of autolytic enzymes is one of the mechanisms attributed to the penicillins.",
+          "B": "Blocking addition of the NAM-NAG unit to the growing peptidoglycan chain is the mechanism of vancomycin, not of cephalosporins.",
+          "D": "Cephalosporins mimic the D-alanyl-D-alanine terminus rather than preventing the cell from making it.",
+          "E": "Preventing NAM from joining bactoprenol is the mechanism of bacitracin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "mechanism of action",
+        "transpeptidase"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-002",
+      "stem": "A student is grouping antibiotics by shared chemical structure and places the cephalosporins in the same structural class as the penicillins. Which structural feature accounts for this grouping?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A beta-lactam ring"
+        },
+        {
+          "label": "B",
+          "text": "A four-ring naphthacene nucleus"
+        },
+        {
+          "label": "C",
+          "text": "A glycopeptide backbone"
+        },
+        {
+          "label": "D",
+          "text": "A macrolide lactone ring"
+        },
+        {
+          "label": "E",
+          "text": "An aminocyclitol sugar core"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cephalosporins are beta-lactam antibiotics, the same structural class as the penicillins.",
+        "whyCorrect": "Cephalosporins carry the four-membered beta-lactam ring, and it is this ring that binds the penicillin-binding proteins. Because penicillins share the same ring, the two drug families are grouped together and also share cross-reactivity in allergic patients.",
+        "whyWrongByChoice": {
+          "B": "A four-ring naphthacene nucleus describes the tetracyclines, which are not beta-lactams.",
+          "C": "A glycopeptide backbone describes vancomycin, which acts on the wall by a different mechanism.",
+          "D": "A macrolide lactone ring defines the macrolides, which are protein synthesis inhibitors rather than cell wall agents.",
+          "E": "An aminocyclitol sugar core describes the aminoglycosides, which bind the ribosome."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "beta-lactam",
+        "drug class"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-003",
+      "stem": "Cephalosporins bind covalently to the active site of penicillin-binding proteins. This binding occurs because the antibiotic is a structural analog of which bacterial substrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bactoprenol"
+        },
+        {
+          "label": "B",
+          "text": "D-alanyl-D-alanine"
+        },
+        {
+          "label": "C",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "D",
+          "text": "N-acetylglucosamine"
+        },
+        {
+          "label": "E",
+          "text": "N-acetylmuramic acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta-lactams mimic the D-Ala-D-Ala terminus of the peptidoglycan side chain.",
+        "whyCorrect": "The amino-acid peptide on N-acetylmuramic acid terminates in D-alanyl-D-alanine, which is the natural substrate of the penicillin-binding protein. Cephalosporins resemble this dipeptide closely enough to enter the active site and bind it covalently, which permanently disables the enzyme.",
+        "whyWrongByChoice": {
+          "A": "Bactoprenol is the lipid carrier that ferries wall subunits across the membrane and is the target of bacitracin.",
+          "C": "Lipoteichoic acid is a gram-positive wall component that plays no part in transpeptidation.",
+          "D": "N-acetylglucosamine is a sugar of the glycan backbone, not the substrate recognized by the transpeptidase active site.",
+          "E": "N-acetylmuramic acid is the sugar that anchors the peptide, but the enzyme acts on the peptide terminus rather than the sugar."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "penicillin-binding protein",
+        "D-Ala-D-Ala"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-004",
+      "stem": "In a growing bacterium, a penicillin-binding protein removes the terminal alanine from a peptide side chain of peptidoglycan. What is the direct consequence of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cross-link forms with a nearby peptide, giving the wall rigidity"
+        },
+        {
+          "label": "B",
+          "text": "A new N-acetylglucosamine subunit is added to the glycan backbone"
+        },
+        {
+          "label": "C",
+          "text": "Autolytic enzymes are released into the periplasmic space"
+        },
+        {
+          "label": "D",
+          "text": "The peptide side chain is transferred onto the bactoprenol carrier"
+        },
+        {
+          "label": "E",
+          "text": "The plasma membrane is depolarized and loses its barrier function"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Removal of the terminal D-alanine by penicillin-binding protein creates the peptide cross-link that stiffens the wall.",
+        "whyCorrect": "The peptide attached to N-acetylmuramic acid ends in D-alanyl-D-alanine. The penicillin-binding protein cleaves off the terminal alanine and uses the energy of that bond to join the peptide to a neighbor, producing the cross-linked mesh that gives the cell wall its rigidity. Cephalosporins stop this exact step.",
+        "whyWrongByChoice": {
+          "B": "Adding sugar subunits to the glycan backbone is a separate polymerization step that precedes cross-linking.",
+          "C": "Autolysin release is a downstream event of penicillin action, not the direct product of this reaction.",
+          "D": "Transfer of wall subunits onto bactoprenol happens during transport, not during transpeptidation.",
+          "E": "Membrane depolarization is not a consequence of transpeptidase activity, which acts outside the membrane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cell wall",
+        "penicillin-binding protein",
+        "cross-linking"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-005",
+      "stem": "Peptidoglycan is a cross-linked polymer of polysaccharide and peptide. The polysaccharide portion is built from which pair of sugars?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose and galactose, the halves of dietary lactose"
+        },
+        {
+          "label": "B",
+          "text": "Glucuronic acid and iduronic acid of host glycosaminoglycans"
+        },
+        {
+          "label": "C",
+          "text": "Mannose and fucose from glycoproteins and fungal walls"
+        },
+        {
+          "label": "D",
+          "text": "N-acetylglucosamine and N-acetylmuramic acid"
+        },
+        {
+          "label": "E",
+          "text": "Ribose and deoxyribose, the nucleic acid pentoses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The peptidoglycan glycan strand alternates N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM).",
+        "whyCorrect": "The bacterial cell wall is made of peptidoglycan, a cross-linked polymer of polysaccharides and peptides. The polysaccharide is an alternating chain of NAG and NAM, and the amino-acid peptide hangs off the NAM sugar. Recognizing these two sugars is the starting point for understanding where each wall-active antibiotic acts.",
+        "whyWrongByChoice": {
+          "A": "Glucose and galactose are dietary and storage sugars and are not the repeating units of peptidoglycan.",
+          "B": "Glucuronic and iduronic acids are components of host glycosaminoglycans, not of the bacterial wall.",
+          "C": "Mannose and fucose appear in glycoproteins and fungal walls rather than in peptidoglycan.",
+          "E": "Ribose and deoxyribose are nucleic acid sugars and have no role in wall structure."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cell wall",
+        "peptidoglycan",
+        "NAG NAM"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-006",
+      "stem": "Within the peptidoglycan polymer, the short amino-acid peptide that is later cross-linked is attached to which component?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The bactoprenol carrier lipid"
+        },
+        {
+          "label": "B",
+          "text": "The lipopolysaccharide core of the outer membrane"
+        },
+        {
+          "label": "C",
+          "text": "The N-acetylglucosamine sugar"
+        },
+        {
+          "label": "D",
+          "text": "The N-acetylmuramic acid sugar"
+        },
+        {
+          "label": "E",
+          "text": "The phospholipid head of the plasma membrane"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The cross-linking peptide is linked to N-acetylmuramic acid and terminates in D-alanyl-D-alanine.",
+        "whyCorrect": "In the glycan strand the amino-acid peptide is attached specifically to the NAM sugar, and that peptide ends in D-alanyl-D-alanine. The penicillin-binding protein grabs this terminus to build the cross-link, which is why beta-lactams that mimic D-Ala-D-Ala can block the reaction.",
+        "whyWrongByChoice": {
+          "A": "Bactoprenol transports subunits across the membrane but is not the anchor for the finished peptide.",
+          "B": "Lipopolysaccharide is an outer membrane molecule of gram-negative bacteria and is separate from peptidoglycan.",
+          "C": "N-acetylglucosamine alternates with NAM in the backbone but does not carry the peptide side chain.",
+          "E": "The peptide is part of the wall polymer outside the membrane and is not attached to membrane phospholipid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cell wall",
+        "peptidoglycan",
+        "NAM"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-007",
+      "stem": "A researcher adds a cephalosporin to two flasks of the same organism: one in log-phase growth and one held in a nutrient-free buffer in which the cells are not dividing. Killing occurs only in the log-phase flask. Which property best explains this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug binds ribosomes only while translation is ongoing"
+        },
+        {
+          "label": "B",
+          "text": "The drug is bacteriostatic and requires host immunity to kill"
+        },
+        {
+          "label": "C",
+          "text": "The drug is degraded by proteases released in stationary phase"
+        },
+        {
+          "label": "D",
+          "text": "The drug kills only cells that are actively synthesizing cell wall"
+        },
+        {
+          "label": "E",
+          "text": "The drug requires an oxygen-dependent transporter for uptake"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Like penicillins, cephalosporins kill only bacteria that are actively growing and building cell wall.",
+        "whyCorrect": "Cephalosporins work by stopping the transpeptidation step of new peptidoglycan synthesis. A cell that is not growing is not laying down new wall, so there is no vulnerable reaction to block and the organism survives exposure. Actively dividing cells, by contrast, cannot complete their wall and die.",
+        "whyWrongByChoice": {
+          "A": "Cephalosporins act on the cell wall and have no ribosomal target.",
+          "B": "Most cephalosporins are bactericidal rather than bacteriostatic, so this misstates the class.",
+          "C": "Protease degradation of the drug is not the described property of cephalosporins; beta-lactamases, not proteases, are the relevant resistance enzymes.",
+          "E": "Oxygen-dependent uptake describes aminoglycoside entry, not cephalosporin activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "bactericidal",
+        "growth dependence"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-008",
+      "stem": "Most cephalosporins are best classified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bactericidal disruptors of the cell membrane"
+        },
+        {
+          "label": "B",
+          "text": "Bactericidal inhibitors of cell wall synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Bactericidal inhibitors of DNA gyrase"
+        },
+        {
+          "label": "D",
+          "text": "Bacteriostatic inhibitors of folate synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Bacteriostatic inhibitors of protein synthesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cephalosporins are bactericidal cell wall synthesis inhibitors.",
+        "whyCorrect": "By blocking transpeptidation, cephalosporins halt peptidoglycan synthesis, and the cell dies from loss of wall integrity rather than merely stopping its growth. This killing action places most members of the class among the bactericidal antibiotics.",
+        "whyWrongByChoice": {
+          "A": "Cephalosporins act on the wall rather than dissolving the cell membrane.",
+          "C": "DNA gyrase is the target of the fluoroquinolones, not of beta-lactams.",
+          "D": "Folate synthesis inhibition describes sulfonamides and trimethoprim.",
+          "E": "Cephalosporins do not act on the ribosome and are not bacteriostatic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cephalosporins",
+        "bactericidal",
+        "cell wall synthesis"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-009",
+      "stem": "After individual peptidoglycan chains have been assembled, transpeptidase enzymes act on them. What does this step accomplish?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It adds teichoic acid side chains to the glycan strands"
+        },
+        {
+          "label": "B",
+          "text": "It anchors the wall to the outer membrane through lipoprotein"
+        },
+        {
+          "label": "C",
+          "text": "It cleaves the wall so that daughter cells can separate"
+        },
+        {
+          "label": "D",
+          "text": "It exports the completed glycan strands across the membrane"
+        },
+        {
+          "label": "E",
+          "text": "It joins chains through peptides to form a rigid multilayered network"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transpeptidases cross-link peptidoglycan chains so that multiple layers form a rigid network.",
+        "whyCorrect": "Once the chains of peptidoglycan are constructed, enzymes called transpeptidases link them to one another through their peptide side chains. This allows multiple layers to develop in the cell wall, producing the rigid network that withstands internal pressure. Cephalosporins inhibit precisely this enzyme.",
+        "whyWrongByChoice": {
+          "A": "Teichoic acid addition is a distinct biosynthetic process not carried out by transpeptidases.",
+          "B": "Lipoprotein anchoring of the outer membrane is a separate gram-negative feature unrelated to transpeptidation.",
+          "C": "Cleaving the wall for cell separation is the job of autolysins, which break bonds rather than form them.",
+          "D": "Export of glycan strands across the membrane occurs on the bactoprenol carrier before cross-linking."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cell wall",
+        "transpeptidase",
+        "peptidoglycan"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-010",
+      "stem": "An antibiotic blocks the addition of the NAM-NAG unit to the growing peptidoglycan chain rather than inhibiting the transpeptidation reaction. Which drug acts in this way?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Bacitracin"
+        },
+        {
+          "label": "C",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vancomycin stops the NAM-NAG unit from being added to the growing peptidoglycan chain.",
+        "whyCorrect": "Vancomycin acts one step earlier in wall synthesis than the beta-lactams do, preventing the disaccharide subunit from being incorporated into the elongating glycan strand. Because it does not bind penicillin-binding proteins, its mechanism is a classic contrast to that of the cephalosporins.",
+        "whyWrongByChoice": {
+          "A": "Aztreonam works by binding penicillin-binding protein 3.",
+          "B": "Bacitracin prevents N-acetylmuramic acid from joining bactoprenol.",
+          "C": "Cefazolin is a cephalosporin and inhibits the transpeptidase cross-linking step.",
+          "D": "Penicillin G blocks cross-linking and also activates autolytic enzymes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "cell wall synthesis",
+        "drug comparison"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-011",
+      "stem": "An antibiotic exerts its effect by preventing N-acetylmuramic acid from joining bactoprenol. Which drug has this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Bacitracin"
+        },
+        {
+          "label": "C",
+          "text": "Cefepime"
+        },
+        {
+          "label": "D",
+          "text": "Ceftriaxone"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bacitracin blocks the transfer of NAM onto the bactoprenol lipid carrier.",
+        "whyCorrect": "Bacitracin interferes with the lipid carrier step that moves wall precursors across the membrane, so subunits never reach the growing chain. This is upstream of both the vancomycin step and the transpeptidation step targeted by cephalosporins.",
+        "whyWrongByChoice": {
+          "A": "Aztreonam binds penicillin-binding protein 3.",
+          "C": "Cefepime is a cephalosporin and acts at the transpeptidation step.",
+          "D": "Ceftriaxone is a cephalosporin and inhibits peptidoglycan cross-linking.",
+          "E": "Vancomycin prevents the NAM-NAG unit from being added to the growing chain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "bacitracin",
+        "bactoprenol",
+        "drug comparison"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi07-012",
+      "stem": "Which antibiotic exerts its antibacterial effect specifically by binding penicillin-binding protein 3?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Bacitracin"
+        },
+        {
+          "label": "C",
+          "text": "Cefoxitin"
+        },
+        {
+          "label": "D",
+          "text": "Ceftaroline"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Binding to penicillin-binding protein 3 is the mechanism attributed to aztreonam.",
+        "whyCorrect": "Aztreonam is singled out as the agent whose action is described as binding penicillin-binding protein 3. Cephalosporins bind penicillin-binding proteins as well, but their described mechanism is inhibition of the transpeptidase cross-linking reaction rather than this specific PBP.",
+        "whyWrongByChoice": {
+          "B": "Bacitracin prevents NAM from joining bactoprenol.",
+          "C": "Cefoxitin is a second-generation cephalosporin that inhibits peptidoglycan cross-linking.",
+          "D": "Ceftaroline is a fifth-generation cephalosporin and works at the transpeptidation step.",
+          "E": "Vancomycin blocks addition of the NAM-NAG unit to the growing chain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aztreonam",
+        "PBP3",
+        "drug comparison"
+      ],
+      "topicId": "cephalosporins",
+      "topicName": "Cephalosporins",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-001",
+      "stem": "A 58-year-old man with a complicated intra-abdominal infection is started on intravenous meropenem. The drug kills the infecting bacteria by acting on a target in the bacterial cell envelope. Which of the following best describes the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds penicillin-binding proteins and halts wall cross-linking"
+        },
+        {
+          "label": "B",
+          "text": "Binds the 50S ribosomal subunit and blocks peptide elongation"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits bacterial DNA gyrase and topoisomerase IV"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits dihydropteroate synthase in the folate pathway"
+        },
+        {
+          "label": "E",
+          "text": "Inserts into the outer membrane and disrupts its permeability"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carbapenems are beta-lactams that kill bacteria by binding penicillin-binding proteins and halting cell wall synthesis.",
+        "whyCorrect": "Like the other beta-lactams, the carbapenem beta-lactam ring binds the transpeptidase enzyme, also called penicillin-binding protein (PBP). That enzyme cross-links the linear peptidoglycan chains of the cell wall. With cross-linking blocked, cell wall synthesis is halted and the bacteria die.",
+        "whyWrongByChoice": {
+          "B": "Ribosomal binding describes protein synthesis inhibitors; carbapenems do not interfere with translation.",
+          "C": "Nucleic acid targets are not the site of action of any beta-lactam; carbapenems act on the cell wall, not on DNA synthesis enzymes.",
+          "D": "Folate pathway inhibition is a distinct antimetabolite mechanism and has nothing to do with the beta-lactam ring.",
+          "E": "Carbapenems do not act as membrane-disrupting detergents; they inhibit an enzyme of wall assembly."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "mechanism of action",
+        "penicillin-binding protein"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-002",
+      "stem": "A pharmacology student is asked to explain how the beta-lactam ring of a carbapenem is recognized by its bacterial target enzyme. Which of the following best explains this molecular recognition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ring mimics para-aminobenzoic acid used in folate synthesis"
+        },
+        {
+          "label": "B",
+          "text": "The ring mimics the aminoacyl-tRNA substrate of the ribosome"
+        },
+        {
+          "label": "C",
+          "text": "The ring mimics the D-Ala-D-Ala terminus of the peptidoglycan peptide"
+        },
+        {
+          "label": "D",
+          "text": "The ring mimics the lipid carrier that ferries subunits outward"
+        },
+        {
+          "label": "E",
+          "text": "The ring mimics the NAG-NAM disaccharide backbone of the wall"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The beta-lactam ring is a structural analogue of D-Ala-D-Ala, which is why transpeptidase binds it.",
+        "whyCorrect": "The brick emphasizes that the beta-lactam ring acts as a structural analogue for D-Ala-D-Ala found in the peptidoglycan peptide side chain. Because the enzyme normally acts on that terminus, it binds the drug instead, and peptidoglycan cross-linking is blocked.",
+        "whyWrongByChoice": {
+          "A": "Mimicry of para-aminobenzoic acid describes sulfonamide action in the folate pathway, not beta-lactam action.",
+          "B": "The ribosome and its tRNA substrates are unrelated to cell wall cross-linking and to beta-lactam binding.",
+          "D": "The lipid carrier moves wall subunits across the membrane, an earlier step that the beta-lactam ring does not imitate.",
+          "E": "NAG and NAM form the glycan backbone, but the transpeptidase recognizes the peptide terminus, not the sugar chain itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "beta-lactam ring",
+        "D-Ala-D-Ala"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-003",
+      "stem": "After a carbapenem binds its target, holes appear in the wall of the dividing bacteria and the organisms lyse osmotically. Which additional drug effect best accounts for these cell wall lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of bacterial autolytic enzymes that degrade the wall"
+        },
+        {
+          "label": "B",
+          "text": "Chelation of the divalent cations that stabilize the outer membrane"
+        },
+        {
+          "label": "C",
+          "text": "Formation of pores by drug molecules inserted into the wall"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the enzymes that recycle used wall precursors"
+        },
+        {
+          "label": "E",
+          "text": "Oxidative damage from free radicals generated in the cytoplasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-lactams also activate bacterial autolysins, producing cell wall lesions and osmotic death.",
+        "whyCorrect": "Beyond blocking cross-linking, cell wall-active antibiotics activate autolytic enzymes (autolysins). These enzymes cause lesions in the bacterial cell wall, which leads to osmotic death and contributes to the bactericidal effect of the drug.",
+        "whyWrongByChoice": {
+          "B": "Cation chelation is the mechanism of other agents that destabilize the outer membrane and is not described for carbapenems.",
+          "C": "Carbapenems are enzyme inhibitors, not pore-forming molecules that physically insert into the wall.",
+          "D": "Precursor recycling enzymes are not the target; the lesions come from activated autolysins.",
+          "E": "No free radical generation is part of the described beta-lactam killing mechanism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "autolysins",
+        "bactericidal"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-004",
+      "stem": "A researcher shows that a carbapenem rapidly kills a bacterial culture in log-phase growth but has little killing effect on the same organism held in a nondividing, stationary state. Which of the following best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The drug acts only while new cell wall is actively being built"
+        },
+        {
+          "label": "B",
+          "text": "The drug binds ribosomes only when protein synthesis has stopped"
+        },
+        {
+          "label": "C",
+          "text": "The drug is inactivated by enzymes made in stationary phase"
+        },
+        {
+          "label": "D",
+          "text": "The drug needs a low-oxygen environment in order to be activated"
+        },
+        {
+          "label": "E",
+          "text": "The drug requires an active efflux pump in order to enter the cell"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carbapenem killing depends on rapid bacterial growth, because cell wall must be actively synthesized.",
+        "whyCorrect": "The brick states that carbapenem action is dependent on the rapid growth of bacteria, since cell walls must be built for growth to occur. These drugs are bactericidal, but they can only kill during rapid growth when the organisms are actively multiplying.",
+        "whyWrongByChoice": {
+          "B": "Ribosomes are not the target of carbapenems, so the state of protein synthesis does not govern their effect.",
+          "C": "The experiment describes loss of killing in nondividing cells, not enzymatic destruction of the drug.",
+          "D": "Carbapenems do not require anaerobic conditions for activation; their activity tracks with wall synthesis.",
+          "E": "Efflux pumps export drug out of bacteria; they are not required for carbapenem entry or activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "bactericidal",
+        "growth dependence"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-005",
+      "stem": "A 44-year-old woman being discharged asks whether she can finish her ertapenem course as a pill at home. Which of the following best describes the available formulations of the carbapenems?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are given by mouth as a prodrug activated in the gut"
+        },
+        {
+          "label": "B",
+          "text": "They are given intravenously and have high bioavailability"
+        },
+        {
+          "label": "C",
+          "text": "They are given orally and have poor penetration into tissues"
+        },
+        {
+          "label": "D",
+          "text": "They are given orally but must be taken along with food"
+        },
+        {
+          "label": "E",
+          "text": "They are given topically because of their systemic toxicity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Carbapenems are available only as intravenous formulations, which gives them high bioavailability.",
+        "whyCorrect": "The brick states that the carbapenems are only available in intravenous formulations. Because the dose goes directly into the circulation, bioavailability is high and the drugs readily penetrate most tissues and body fluids.",
+        "whyWrongByChoice": {
+          "A": "No oral prodrug form of the carbapenems is described; therapy is intravenous.",
+          "C": "There is no oral carbapenem, and tissue penetration of these drugs is actually excellent.",
+          "D": "Food interactions are irrelevant because these agents are not absorbed from the gastrointestinal tract.",
+          "E": "Topical use is not a route for carbapenems, which are given for serious systemic infections."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "pharmacokinetics",
+        "route of administration"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-006",
+      "stem": "Carbapenems have a broader spectrum of activity than most other beta-lactam antibiotics. Which of the following properties most directly accounts for this broader spectrum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are actively concentrated inside the bacterial cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "They are more resistant to hydrolysis by beta-lactamase enzymes"
+        },
+        {
+          "label": "C",
+          "text": "They bind an entirely different target than other beta-lactams"
+        },
+        {
+          "label": "D",
+          "text": "They reach much higher peak concentrations in the serum"
+        },
+        {
+          "label": "E",
+          "text": "They remain active against organisms that lack a cell wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The broad carbapenem spectrum comes largely from resistance to beta-lactamase-mediated hydrolysis.",
+        "whyCorrect": "The brick attributes the broader spectrum of the carbapenem class largely to its greater resistance to beta-lactamase-mediated hydrolysis. Organisms that inactivate other beta-lactams with these enzymes therefore remain susceptible to carbapenems.",
+        "whyWrongByChoice": {
+          "A": "These drugs act on the wall and periplasmic enzymes rather than being concentrated in the cytoplasm.",
+          "C": "Carbapenems bind the same penicillin-binding proteins that the other beta-lactams bind.",
+          "D": "Higher serum peaks are not the explanation offered; the difference is enzymatic stability of the ring.",
+          "E": "Organisms without a cell wall are inherently unaffected by any cell wall-active antibiotic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "beta-lactamase",
+        "spectrum"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-007",
+      "stem": "A 62-year-old woman with type 2 diabetes is admitted with three days of fever, flank pain, and dysuria. She is febrile to 102.1 F with right costovertebral angle tenderness, and urinalysis shows pyuria, bacteriuria, and positive nitrites. She has had multiple antibiotic courses this year and a documented prior infection with an extended-spectrum beta-lactamase (ESBL)-producing organism. She reports no drug allergies. Which of the following is the most appropriate empiric therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Ampicillin"
+        },
+        {
+          "label": "C",
+          "text": "Cefazolin"
+        },
+        {
+          "label": "D",
+          "text": "Meropenem"
+        },
+        {
+          "label": "E",
+          "text": "Nitrofurantoin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carbapenems such as meropenem are the drug of choice for ESBL-producing organisms.",
+        "whyCorrect": "This patient has pyelonephritis and a history that makes another ESBL organism likely. The brick states that carbapenems, like meropenem, are the drug of choice for ESBLs and are warranted even empirically in exactly this situation, because they resist beta-lactamase hydrolysis.",
+        "whyWrongByChoice": {
+          "A": "Aminopenicillins are readily destroyed by extended-spectrum beta-lactamases and would be expected to fail.",
+          "B": "Ampicillin is inactivated by the beta-lactamases these organisms produce and is not appropriate empiric therapy.",
+          "C": "Cephalosporins are hydrolyzed by ESBLs, which is precisely the resistance problem this patient has.",
+          "E": "This agent does not achieve reliable tissue levels for pyelonephritis and does not address the ESBL problem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carbapenems",
+        "ESBL",
+        "urinary tract infection"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-008",
+      "stem": "A 62-year-old woman is admitted with fever, flank pain, and pyuria, and her chart documents a prior extended-spectrum beta-lactamase (ESBL)-producing urinary organism. She also has a documented severe anaphylactic reaction to penicillin and tells you she will not accept any penicillin. Which of the following is the most appropriate empiric antibiotic?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Doripenem"
+        },
+        {
+          "label": "C",
+          "text": "Ertapenem"
+        },
+        {
+          "label": "D",
+          "text": "Imipenem/cilastatin"
+        },
+        {
+          "label": "E",
+          "text": "Meropenem"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aztreonam covers many ESBL organisms and is the choice when a severe penicillin allergy rules out carbapenems.",
+        "whyCorrect": "The brick works through this exact case: carbapenems would be the usual drug of choice for an ESBL, but despite relatively low cross-reactivity rates they should still be avoided in a patient with severe allergy. Aztreonam retains coverage against many ESBLs and, because of its monobactam structure, has no cross-reactivity in penicillin-allergic patients.",
+        "whyWrongByChoice": {
+          "B": "Doripenem is a carbapenem as well and is not the agent chosen for severe penicillin allergy.",
+          "C": "Ertapenem is a carbapenem and carries the same concern in a patient with anaphylaxis to penicillin.",
+          "D": "This is also a carbapenem, so the same caution in severe penicillin allergy applies to it.",
+          "E": "This is a carbapenem, which the brick says should still be avoided when the penicillin allergy is severe or anaphylactic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aztreonam",
+        "penicillin allergy",
+        "ESBL"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-009",
+      "stem": "The patient above asks why the antibiotic you chose will not trigger the same reaction that penicillin caused. Which of the following features of aztreonam best explains the answer you give her?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a carbapenem whose bulky side chain blocks IgE binding"
+        },
+        {
+          "label": "B",
+          "text": "It is coformulated with an agent that blocks histamine release"
+        },
+        {
+          "label": "C",
+          "text": "It is degraded before it can reach mast cells within the tissues"
+        },
+        {
+          "label": "D",
+          "text": "It is given as a prodrug that is activated only inside bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Its ring system is a single beta-lactam ring, unlike other agents"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aztreonam is a monobactam, containing only a fused beta-lactam ring, so cross-reactivity with penicillins is unlikely.",
+        "whyCorrect": "Monobactams contain only a fused beta-lactam ring rather than the thiazolidine or dihydrothiazidine ring found in penicillins and cephalosporins. That unique structure makes cross-reactivity with other beta-lactams unlikely, which is why aztreonam is reserved for patients with severe penicillin or beta-lactam allergy.",
+        "whyWrongByChoice": {
+          "A": "Aztreonam is a monobactam, not a carbapenem, and the explanation rests on its ring system rather than a side chain.",
+          "B": "No antihistamine is coformulated with aztreonam; the lack of cross-reactivity is structural.",
+          "C": "The drug is not rapidly degraded in tissue; its safety in allergy comes from its structure.",
+          "D": "Aztreonam is not a prodrug requiring bacterial activation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aztreonam",
+        "monobactam",
+        "cross-reactivity"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-010",
+      "stem": "Which of the following antibiotics is the only monobactam currently in therapeutic use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aztreonam"
+        },
+        {
+          "label": "B",
+          "text": "Doripenem"
+        },
+        {
+          "label": "C",
+          "text": "Ertapenem"
+        },
+        {
+          "label": "D",
+          "text": "Imipenem/cilastatin"
+        },
+        {
+          "label": "E",
+          "text": "Meropenem"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aztreonam is the single monobactam in clinical use; the other agents listed are carbapenems.",
+        "whyCorrect": "The brick states plainly that aztreonam is currently the only member of the monobactam class in therapeutic use. Its beta-lactam ring stands alone rather than being fused to a second ring.",
+        "whyWrongByChoice": {
+          "B": "Doripenem is also a carbapenem rather than a monobactam.",
+          "C": "Ertapenem belongs to the carbapenem class described alongside meropenem.",
+          "D": "This combination is a carbapenem paired with a renal enzyme inhibitor, not a monobactam.",
+          "E": "Meropenem is one of the commonly available carbapenems, not a monobactam."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "aztreonam",
+        "monobactam",
+        "drug classes"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-011",
+      "stem": "A hospital pharmacist explains to a student why imipenem is never dispensed as a single agent. Which of the following best describes the role of cilastatin in the combination product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks tubular secretion of imipenem into the urine"
+        },
+        {
+          "label": "B",
+          "text": "It broadens the spectrum to include anaerobic organisms"
+        },
+        {
+          "label": "C",
+          "text": "It inhibits a renal dipeptidase that degrades imipenem"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits the beta-lactamases made by resistant bacteria"
+        },
+        {
+          "label": "E",
+          "text": "It prevents the seizures that imipenem otherwise causes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cilastatin inhibits the renal tubular dipeptidase that hydrolyzes imipenem, extending its half-life.",
+        "whyCorrect": "Imipenem is hydrolyzed rapidly by a dipeptidase in the brush border of the proximal tubule. Given alone it essentially becomes ineffective because hydrolysis greatly reduces its half-life, so it is formulated with cilastatin to inhibit that degradation and extend the elimination half-life.",
+        "whyWrongByChoice": {
+          "A": "Cilastatin blocks enzymatic hydrolysis of the drug rather than its secretion into urine.",
+          "B": "Cilastatin has no antibacterial spectrum of its own and does not add anaerobic coverage.",
+          "D": "Beta-lactamase inhibition is the job of agents such as vaborbactam or relebactam, not cilastatin.",
+          "E": "Imipenem/cilastatin still carries the highest seizure risk of the carbapenems, so this is not the purpose."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imipenem",
+        "cilastatin",
+        "pharmacokinetics"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi08-012",
+      "stem": "The enzyme responsible for the rapid hydrolysis of imipenem is located at which of the following sites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The apical membrane of the renal collecting duct"
+        },
+        {
+          "label": "B",
+          "text": "The brush border of the renal proximal tubule"
+        },
+        {
+          "label": "C",
+          "text": "The endothelial lining of the pulmonary capillary"
+        },
+        {
+          "label": "D",
+          "text": "The luminal surface of the small intestinal enterocyte"
+        },
+        {
+          "label": "E",
+          "text": "The sinusoidal membrane of the periportal hepatocyte"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Imipenem is hydrolyzed by a dipeptidase in the brush border of the proximal tubule of the nephron.",
+        "whyCorrect": "The brick localizes the offending dipeptidase to the brush border of the proximal tubule of the nephron. Because the enzyme sits in the kidney, blocking it with cilastatin preserves imipenem concentrations and extends the drug's half-life.",
+        "whyWrongByChoice": {
+          "A": "The collecting duct is a distal nephron segment; the dipeptidase is a proximal tubule brush border enzyme.",
+          "C": "The pulmonary vasculature is not the site of imipenem degradation described in this brick.",
+          "D": "Intestinal enzymes are irrelevant here, since imipenem is given intravenously and never traverses the gut.",
+          "E": "The brick attributes imipenem breakdown to a renal tubular enzyme, not to hepatic metabolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imipenem",
+        "dipeptidase",
+        "renal physiology"
+      ],
+      "topicId": "carbapenems",
+      "topicName": "Carbapenems",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-001",
+      "stem": "A 62-year-old man with methicillin-resistant Staphylococcus aureus bacteremia is started on an intravenous antibiotic that kills bacteria by interfering with peptidoglycan assembly. The agent is not a beta-lactam and is reserved for serious gram-positive infections. To which class of antibiotics does this drug belong?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminoglycoside"
+        },
+        {
+          "label": "B",
+          "text": "Glycopeptide"
+        },
+        {
+          "label": "C",
+          "text": "Macrolide"
+        },
+        {
+          "label": "D",
+          "text": "Polyene"
+        },
+        {
+          "label": "E",
+          "text": "Tetracycline"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vancomycin is a glycopeptide antibiotic used for serious staphylococcal infections, especially MRSA.",
+        "whyCorrect": "Vancomycin is classified as a glycopeptide. It is a peptidoglycan-inhibitor antibiotic given intravenously for very serious staphylococcal infections, particularly those caused by MRSA.",
+        "whyWrongByChoice": {
+          "A": "Aminoglycosides are a separate class; in this brick they appear only as nephrotoxic and ototoxic drugs that raise the risk of vancomycin toxicity.",
+          "C": "Macrolides are not peptidoglycan inhibitors and are not the class of the drug used for serious MRSA infection here.",
+          "D": "Polyene refers to antifungal agents such as amphotericin B, which is mentioned only as a co-administered nephrotoxic drug.",
+          "E": "Tetracyclines do not act on peptidoglycan and are not the class to which vancomycin belongs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "drug class"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-002",
+      "stem": "A 55-year-old man with a deep wound infection growing methicillin-resistant Staphylococcus aureus is treated with intravenous vancomycin. The drug halts cell wall construction by attaching to a component of the peptidoglycan precursor rather than to an enzyme. Which of the following does vancomycin bind?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The active site of the transpeptidase enzyme"
+        },
+        {
+          "label": "B",
+          "text": "The D-alanyl-D-alanine terminus of the peptide"
+        },
+        {
+          "label": "C",
+          "text": "The membrane lipid carrier called bactoprenol"
+        },
+        {
+          "label": "D",
+          "text": "The peptidyl site of the 50S ribosomal subunit"
+        },
+        {
+          "label": "E",
+          "text": "The regulatory domain of bacterial autolysins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vancomycin binds the D-alanyl-D-alanine (D-Ala D-Ala) terminus of the peptidoglycan precursor.",
+        "whyCorrect": "Vancomycin binds the D-Alanine (D-Ala D-Ala) terminus of the amino acid peptide of the precursor, blocking peptidoglycan polymerization. With the newly formed NAM-NAG unit unable to add to the existing chain, elongation and cross-linking both fail and the cell lyses.",
+        "whyWrongByChoice": {
+          "A": "Inhibiting transpeptidase is the mechanism of the beta-lactam antibiotics, not of vancomycin.",
+          "C": "Bactoprenol is the lipid carrier blocked by bacitracin at the first step, not the target vancomycin binds.",
+          "D": "Vancomycin is a cell wall agent; it does not act at the ribosome or inhibit protein synthesis.",
+          "E": "Inhibiting autolysins is not the mechanism of vancomycin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "mechanism of action"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-003",
+      "stem": "A 19-year-old woman applies an over-the-counter ointment containing bacitracin to a superficial scrape. The drug halts bacterial cell wall synthesis at the very first step of peptidoglycan precursor assembly, so that no new subunits are produced at all. Which of the following best describes how bacitracin acts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds the D-alanyl-D-alanine terminus of the pentapeptide"
+        },
+        {
+          "label": "B",
+          "text": "It blocks transpeptidase-mediated cross-linking of peptide chains"
+        },
+        {
+          "label": "C",
+          "text": "It degrades peptidoglycan already present in the mature wall"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits autolysin activity at the growing point of the wall"
+        },
+        {
+          "label": "E",
+          "text": "It prevents NAM from joining the lipid carrier bactoprenol"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bacitracin works by preventing NAM from joining bactoprenol, the first step of precursor assembly.",
+        "whyCorrect": "In step 1 of peptidoglycan synthesis, NAM is joined to the lipid bactoprenol at the membrane surface. Bacitracin blocks that joining, which stops synthesis of any new peptidoglycan units altogether.",
+        "whyWrongByChoice": {
+          "A": "Binding D-alanyl-D-alanine is the mechanism of vancomycin, which acts further down the line than bacitracin.",
+          "B": "Blocking transpeptidase cross-linking is the beta-lactam mechanism, and it acts after the subunits have already been assembled.",
+          "C": "Neither drug digests existing peptidoglycan; both block synthesis of new wall material.",
+          "D": "Autolysin inhibition is not the mechanism of either drug discussed in this brick."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bacitracin",
+        "mechanism of action"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-004",
+      "stem": "The rigid bacterial cell wall targeted by vancomycin and bacitracin is built from peptidoglycan. Peptidoglycan can be divided into which two components?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A glycan and a cholesterol membrane anchor"
+        },
+        {
+          "label": "B",
+          "text": "A glycan and a lipopolysaccharide outer core"
+        },
+        {
+          "label": "C",
+          "text": "A glycan and a peptide bridge"
+        },
+        {
+          "label": "D",
+          "text": "A mycolic acid and an arabinogalactan scaffold"
+        },
+        {
+          "label": "E",
+          "text": "A phospholipid bilayer and a teichoic acid stalk"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Peptidoglycan has two components: a glycan (NAG or NAM) and a peptide bridge.",
+        "whyCorrect": "The bacterial cell wall is made of peptidoglycan, which divides into a glycan component, either N-acetyl-D-glucosamine (NAG) or N-acetylmuramic acid (NAM), and a peptide bridge. The peptide bridges are what transpeptidases later cross-link to make the wall rigid.",
+        "whyWrongByChoice": {
+          "A": "Cholesterol is not a component of peptidoglycan; the second component is the peptide bridge.",
+          "B": "Lipopolysaccharide is not described as a component of peptidoglycan in this brick.",
+          "D": "Mycolic acid and arabinogalactan are not the two components of peptidoglycan described here.",
+          "E": "The phospholipid bilayer is the plasma membrane, a structure separate from the peptidoglycan cell wall."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peptidoglycan",
+        "cell wall structure"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-005",
+      "stem": "A microbiology student is reviewing the glycan portion of peptidoglycan. The glycan is one of two specific sugars. Which pair is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2-deoxy-D-ribose and D-ribose-5-phosphate"
+        },
+        {
+          "label": "B",
+          "text": "D-glucuronic acid and D-galactosamine sulfate"
+        },
+        {
+          "label": "C",
+          "text": "N-acetyl-D-galactosamine and D-glucuronic acid"
+        },
+        {
+          "label": "D",
+          "text": "N-acetyl-D-glucosamine and N-acetylmuramic acid"
+        },
+        {
+          "label": "E",
+          "text": "N-acetylneuraminic acid and D-mannose-6-phosphate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The glycan of peptidoglycan is either N-acetyl-D-glucosamine (NAG) or N-acetylmuramic acid (NAM).",
+        "whyCorrect": "The two glycans that alternate in the peptidoglycan backbone are NAG, N-acetyl-D-glucosamine, and NAM, N-acetylmuramic acid. Both are synthesized in the cytoplasm and then carried to the wall by bactoprenol.",
+        "whyWrongByChoice": {
+          "A": "Ribose and deoxyribose are nucleic acid sugars, not cell wall glycans.",
+          "B": "Glucuronic acid and sulfated galactosamine are not components of peptidoglycan.",
+          "C": "Galactosamine and glucuronic acid are not the glycan units named in peptidoglycan.",
+          "E": "Sialic acid and mannose sugars do not make up the peptidoglycan backbone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peptidoglycan",
+        "NAG NAM"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-006",
+      "stem": "Glycans made in the bacterial cytoplasm must be delivered to the growing cell wall in a series of three steps. Which of the following is the first of these steps, occurring at the membrane surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NAG is joined to the bactoprenol-NAM group"
+        },
+        {
+          "label": "B",
+          "text": "NAM is joined to the lipid bactoprenol"
+        },
+        {
+          "label": "C",
+          "text": "The bactoprenol-NAM-NAG unit crosses the membrane"
+        },
+        {
+          "label": "D",
+          "text": "The completed unit is added to the growing chain"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases cross-link adjacent peptide chains"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Step 1 of peptidoglycan delivery is the joining of NAM to the lipid bactoprenol at the membrane surface.",
+        "whyCorrect": "The brick lays out three steps: first NAM is joined to bactoprenol at the membrane surface, then NAG is joined to that bactoprenol-NAM group, and finally the bactoprenol-NAM-NAG unit is transported across the membrane. Bacitracin blocks this first step.",
+        "whyWrongByChoice": {
+          "A": "Joining NAG to bactoprenol-NAM is the second step, after NAM has already been loaded onto the carrier.",
+          "C": "Transport of the assembled bactoprenol-NAM-NAG unit across the membrane is the third step, not the first.",
+          "D": "Addition of the completed unit to the growing chain occurs in the third step, at the outer cell wall.",
+          "E": "Transpeptidase cross-linking happens only after the glycan chains themselves have been constructed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peptidoglycan synthesis",
+        "bactoprenol"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-007",
+      "stem": "In a bacterium actively building its cell wall, NAM has just been joined to bactoprenol at the membrane surface. Which event occurs next in the assembly sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autolysins cleave the existing glycan backbone"
+        },
+        {
+          "label": "B",
+          "text": "Bactoprenol releases NAM back into the cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "NAG is added to the bactoprenol-NAM group"
+        },
+        {
+          "label": "D",
+          "text": "The peptide bridge is stripped away from NAM"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases cross-link the completed wall layers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Step 2 of peptidoglycan assembly is the addition of NAG to the bactoprenol-NAM group.",
+        "whyCorrect": "After NAM is loaded onto bactoprenol, NAG is joined to that bactoprenol-NAM group. Only then is the complete bactoprenol-NAM-NAG unit carried across the membrane to the outer cell wall.",
+        "whyWrongByChoice": {
+          "A": "Autolysin cleavage is not the next step in the described assembly sequence.",
+          "B": "NAM is not released back to the cytoplasm; it stays on the carrier as the unit is built.",
+          "D": "The peptide is retained on NAM, since it is the D-Ala D-Ala terminus that vancomycin later binds.",
+          "E": "Cross-linking by transpeptidases occurs later, once glycan chains have been constructed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peptidoglycan synthesis",
+        "NAG NAM"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-008",
+      "stem": "A bacterium has assembled a complete bactoprenol-NAM-NAG unit at the membrane. Which of the following describes the fate of this unit in the third step of peptidoglycan synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It crosses the membrane and adds to the growing glycan chain"
+        },
+        {
+          "label": "B",
+          "text": "It is cross-linked to a second bactoprenol on the inner leaflet of the membrane"
+        },
+        {
+          "label": "C",
+          "text": "It is degraded within the periplasm by bacterial autolysins"
+        },
+        {
+          "label": "D",
+          "text": "It is exported from the cell as a soluble teichoic acid precursor"
+        },
+        {
+          "label": "E",
+          "text": "It is recycled back into free NAG and NAM inside the cytoplasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The bactoprenol-NAM-NAG unit is transported across the membrane and added as one more unit to the growing chain.",
+        "whyCorrect": "In step 3, the bactoprenol-NAM-NAG unit is transported across the membrane to the outer cell wall, where it acts as one additional unit on the growing peptidoglycan chain, like a bead added to a string. Vancomycin blocks exactly this addition.",
+        "whyWrongByChoice": {
+          "B": "Cross-linking is done by transpeptidases between peptide chains, not between bactoprenol carriers.",
+          "C": "The unit is used to extend the wall, not destroyed by autolysins after assembly.",
+          "D": "The unit is incorporated into peptidoglycan rather than exported as a teichoic acid precursor.",
+          "E": "Recycling the finished unit back into free sugars is not the step described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peptidoglycan synthesis",
+        "bactoprenol"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-009",
+      "stem": "Before they can be incorporated into the cell wall, the glycans NAG and NAM must first be synthesized. In which compartment of the bacterial cell are they made?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the cytoplasm of the bacterial cell"
+        },
+        {
+          "label": "B",
+          "text": "In the extracellular space around the cell"
+        },
+        {
+          "label": "C",
+          "text": "In the periplasmic space of the organism"
+        },
+        {
+          "label": "D",
+          "text": "On the outer leaflet of the plasma membrane"
+        },
+        {
+          "label": "E",
+          "text": "Within the mature peptidoglycan layer itself"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NAG and NAM are synthesized in the cytoplasm and then transported out to the cell wall.",
+        "whyCorrect": "The glycans NAG and NAM are made in the cytoplasm of the cell and then eventually transported to the cell wall in three steps using the lipid carrier bactoprenol. This is why a lipid carrier is required at all: the sugars must cross a membrane.",
+        "whyWrongByChoice": {
+          "B": "Synthesis occurs inside the cell, not in the extracellular space.",
+          "C": "The periplasm lies outside the plasma membrane; the sugars are made before they reach it.",
+          "D": "The membrane surface is where NAM is loaded onto bactoprenol, not where the glycans are synthesized.",
+          "E": "The peptidoglycan layer is the destination of the glycans, not their site of synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peptidoglycan synthesis",
+        "cell wall structure"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-010",
+      "stem": "Once chains of peptidoglycan have been constructed, they are joined to one another through their peptide chains so that multiple layers form a rigid network. Which enzymes carry out this cross-linking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autolysins"
+        },
+        {
+          "label": "B",
+          "text": "Bactoprenol synthases"
+        },
+        {
+          "label": "C",
+          "text": "Beta-lactamases"
+        },
+        {
+          "label": "D",
+          "text": "Transglycosylases"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transpeptidases cross-link peptidoglycan chains through their peptide bridges, creating the rigid multilayer wall.",
+        "whyCorrect": "After the glycan chains are built, transpeptidases cross-link them to each other through peptide chains. This cross-linking allows multiple layers to develop in the cell wall, forming the rigid network that gives the bacterium its structural integrity.",
+        "whyWrongByChoice": {
+          "A": "Autolysin activity cleaves wall material at the growing point rather than forming peptide cross-links.",
+          "B": "No such enzyme is described as performing peptide cross-linking in the cell wall.",
+          "C": "Beta-lactamases are bacterial resistance enzymes that destroy antibiotics; they do not build the wall.",
+          "D": "Transglycosylase activity forms the new glycoside bonds of the sugar backbone, not the peptide cross-links."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transpeptidase",
+        "cell wall structure"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-011",
+      "stem": "A staphylococcal isolate is exposed to vancomycin in vitro. Elongation of its peptidoglycan and cross-linking of the chains are both inhibited. Which of the following best describes the outcome for the organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cell lysis, so that the drug is bactericidal"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of the organism to a dormant spore-forming state"
+        },
+        {
+          "label": "C",
+          "text": "Increased drug efflux with no change in wall architecture"
+        },
+        {
+          "label": "D",
+          "text": "Reversible growth arrest that resolves when drug is removed"
+        },
+        {
+          "label": "E",
+          "text": "Selective loss of ribosomal protein synthesis without lysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Blocking peptidoglycan elongation and cross-linking leads to cell lysis, making vancomycin bactericidal.",
+        "whyCorrect": "Because the newly formed NAM-NAG unit cannot be added to the chain, the peptidoglycan cannot grow and the chains cannot be cross-linked. The resulting failure of wall integrity leads to cell lysis, which is why vancomycin is a bactericidal agent.",
+        "whyWrongByChoice": {
+          "B": "Sporulation is not the described response to peptidoglycan inhibition.",
+          "C": "Efflux without structural change would mean the drug had no effect, which contradicts the lysis described.",
+          "D": "Reversible growth arrest describes a bacteriostatic drug; vancomycin kills the organism outright.",
+          "E": "Vancomycin does not act on the ribosome or protein synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vancomycin",
+        "bactericidal"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi09-012",
+      "stem": "A 28-year-old man asks a pharmacist about bacitracin. Which of the following describes the typical clinical use of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhaled therapy for hospital-acquired pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Intramuscular therapy for infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous therapy for MRSA bloodstream infection"
+        },
+        {
+          "label": "D",
+          "text": "Oral therapy for severe antibiotic-associated colitis"
+        },
+        {
+          "label": "E",
+          "text": "Topical ointment for superficial skin infections"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bacitracin is typically used as an ointment for superficial skin infections.",
+        "whyCorrect": "Bacitracin is a peptidoglycan-inhibitor antibiotic that is typically used as an ointment for superficial skin infections. Vancomycin, the other drug in this brick, is the one given intravenously for serious staphylococcal infection.",
+        "whyWrongByChoice": {
+          "A": "Bacitracin is not described as an inhaled agent for pneumonia.",
+          "B": "Deep-seated infections such as endocarditis are not treated with a topical agent like bacitracin.",
+          "C": "Intravenous therapy for serious MRSA infection is the role of vancomycin, not bacitracin.",
+          "D": "Oral therapy for colitis is not the use of bacitracin described in this brick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bacitracin",
+        "clinical use"
+      ],
+      "topicId": "vancomycin-and-bacitracin",
+      "topicName": "Vancomycin and Bacitracin",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-001",
+      "stem": "A pharmacology student examines the core scaffold shared by penicillin G, amoxicillin, and nafcillin. Every one of these agents is built on a strained four-membered ring fused to a five-membered sulfur-containing ring, and an amide and a carboxylic acid group are also present. Which of the following pairs of rings makes up this shared core?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A beta-lactam ring fused to a dihydrothiazine ring"
+        },
+        {
+          "label": "B",
+          "text": "A beta-lactam ring fused to a thiazolidine ring"
+        },
+        {
+          "label": "C",
+          "text": "A beta-lactam ring fused to an imidazolidine ring"
+        },
+        {
+          "label": "D",
+          "text": "A macrolactone ring fused to a pyrrolidine ring"
+        },
+        {
+          "label": "E",
+          "text": "A macrolactone ring fused to a thiazolidine ring"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The penicillin nucleus is a beta-lactam ring fused to a thiazolidine ring.",
+        "whyCorrect": "Penicillin structure consists of a fused beta-lactam ring, which is why these drugs are called beta-lactam antibiotics, joined to a thiazolidine ring that carries two methyl groups and a carboxylic acid. An amide side chain projects from the beta-lactam ring. This chemistry matters clinically because it determines both antibacterial activity and the hypersensitivity reactions penicillins can provoke.",
+        "whyWrongByChoice": {
+          "A": "A dihydrothiazine ring is not the ring fused to the beta-lactam nucleus of a penicillin; the penicillin partner ring is the five-membered thiazolidine.",
+          "C": "An imidazolidine ring is nitrogen-based and is not the sulfur-containing ring fused to the penicillin beta-lactam.",
+          "D": "Neither a macrolactone nor a pyrrolidine ring forms part of the penicillin nucleus.",
+          "E": "The penicillin core is not a macrolactone; a large lactone ring belongs to a different antibiotic class entirely and is not described for penicillins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "penicillin structure",
+        "beta-lactam"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-002",
+      "stem": "A 30-year-old man with streptococcal pharyngitis is treated with an oral beta-lactam. The drug halts construction of the bacterial cell wall by irreversibly blocking the enzyme that cross-links the linear peptidoglycan chains. Inhibition of which of the following enzymes accounts for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase of the folate pathway"
+        },
+        {
+          "label": "B",
+          "text": "DNA gyrase, a bacterial topoisomerase"
+        },
+        {
+          "label": "C",
+          "text": "Peptidyl transferase of the 50S ribosomal subunit"
+        },
+        {
+          "label": "D",
+          "text": "RNA polymerase of the bacterial cytoplasm"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidase, a penicillin-binding protein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Penicillins irreversibly inhibit transpeptidase (penicillin-binding protein), the cross-linking enzyme of peptidoglycan.",
+        "whyCorrect": "The beta-lactam ring binds to and irreversibly, noncompetitively inhibits transpeptidase, also called penicillin-binding protein (PBP). This enzyme cross-links the linear peptidoglycan chains of the cell wall. With cross-linking blocked, cell wall synthesis is halted and the bacteria die.",
+        "whyWrongByChoice": {
+          "A": "Dihydrofolate reductase blockade interferes with folate synthesis, not with peptidoglycan cross-linking.",
+          "B": "DNA gyrase inhibition is the mechanism of a different antibiotic class and has nothing to do with the beta-lactam ring.",
+          "C": "Peptidyl transferase is a ribosomal activity; protein synthesis inhibition is a mechanism of other antibiotic classes, not of beta-lactams.",
+          "D": "RNA polymerase inhibition blocks transcription; penicillins do not act on bacterial RNA synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "transpeptidase"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-003",
+      "stem": "The beta-lactam ring of penicillin occupies the active site of the enzyme that cross-links peptidoglycan because it imitates a component of the growing cell wall. The beta-lactam ring acts as a structural analogue of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D-Ala-D-Ala"
+        },
+        {
+          "label": "B",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "C",
+          "text": "Mycolic acid"
+        },
+        {
+          "label": "D",
+          "text": "N-acetylglucosamine"
+        },
+        {
+          "label": "E",
+          "text": "N-acetylmuramic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The beta-lactam ring mimics D-Ala-D-Ala, the peptidoglycan residue that transpeptidase normally engages.",
+        "whyCorrect": "The beta-lactam ring is a structural analogue of D-Ala-D-Ala, which is found in the peptidoglycan and normally binds to transpeptidase (PBP). By occupying that binding site, the antibiotic blocks peptidoglycan cross-linking in the cell wall.",
+        "whyWrongByChoice": {
+          "B": "Lipoteichoic acid is a gram-positive wall component that is not involved in the transpeptidase reaction targeted by penicillins.",
+          "C": "Mycolic acid is a mycobacterial wall lipid and has no role in the peptidoglycan cross-linking step blocked here.",
+          "D": "N-acetylglucosamine alternates with N-acetylmuramic acid in the glycan backbone but is not the transpeptidase substrate mimicked by the drug.",
+          "E": "N-acetylmuramic acid is a sugar backbone unit of peptidoglycan, not the residue that the beta-lactam ring imitates."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mechanism of action",
+        "peptidoglycan"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-004",
+      "stem": "Exposure to a beta-lactam antibiotic causes a gram-positive organism not only to stop building new cell wall but also to rapidly digest the wall it already has, producing lesions and osmotic death. Activation of which of the following best explains this additional killing effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autolysins present within the bacterial cell wall"
+        },
+        {
+          "label": "B",
+          "text": "Beta-lactamases held within the periplasmic space"
+        },
+        {
+          "label": "C",
+          "text": "Efflux pumps situated in the plasma membrane"
+        },
+        {
+          "label": "D",
+          "text": "Porin channels within the outer cell membrane"
+        },
+        {
+          "label": "E",
+          "text": "Transpeptidases acting at the cross-linking site"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-lactams activate autolysins, which digest the cell wall and cause osmotic death.",
+        "whyCorrect": "Autolysins exist in the cell wall, predominantly in gram-positive bacteria, where they normally remodel the wall during growth under tight regulation. Beta-lactams, acting in synergy with accumulated cell wall building blocks, release that regulation and activate the autolysins, which rapidly digest the wall. The result is osmotic death, part of the bactericidal effect of these drugs.",
+        "whyWrongByChoice": {
+          "B": "Beta-lactamases destroy the antibiotic and protect the organism; they do not digest the bacterium's own cell wall.",
+          "C": "Efflux pumps expel drug from the cell and play no part in digesting the peptidoglycan wall.",
+          "D": "Porins are entry channels in gram-negative outer membranes; altering them affects drug access, not wall digestion.",
+          "E": "Transpeptidases build cross-links and are inhibited by the drug, so their activity is decreased rather than activated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "autolysins",
+        "bactericidal"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-005",
+      "stem": "A researcher shows that penicillin G efficiently kills a broth culture of Streptococcus pyogenes during log-phase growth but has almost no killing effect on the same organism held in stationary phase. Which of the following best explains this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-lactamase output rises sharply in stationary phase"
+        },
+        {
+          "label": "B",
+          "text": "Cell wall synthesis occurs only in actively multiplying bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Penicillins are bacteriostatic rather than bactericidal drugs"
+        },
+        {
+          "label": "D",
+          "text": "Porin channels close whenever bacterial growth slows"
+        },
+        {
+          "label": "E",
+          "text": "Ribosomal drug targets are exposed only in dividing cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Penicillins kill only during rapid growth, because only then is cell wall actively being built.",
+        "whyCorrect": "Penicillin action depends on the rapid growth of bacteria both in vitro and in vivo. For bacteria to grow, cell walls must be built; if cell wall synthesis is inhibited, growth is halted. These drugs are bactericidal, but they can only kill during rapid growth, when the organisms are actively multiplying.",
+        "whyWrongByChoice": {
+          "A": "Nothing in the pharmacology of penicillins ties beta-lactamase output to growth phase; the explanation is the absence of wall synthesis.",
+          "C": "Penicillins are bactericidal, not bacteriostatic; the limitation is when they can kill, not whether they kill.",
+          "D": "Porin changes are a resistance mechanism in some gram-negative rods, not a growth-phase phenomenon in a gram-positive coccus.",
+          "E": "Penicillins do not act on the ribosome at all, so ribosomal target exposure is irrelevant."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bactericidal",
+        "rapid growth"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-006",
+      "stem": "Penicillins are bactericidal at concentrations that are essentially nontoxic to human cells. Which of the following best explains this selective toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Human cells divide too slowly to be injured by the drug"
+        },
+        {
+          "label": "B",
+          "text": "Human cells exclude penicillin by means of efflux pumps"
+        },
+        {
+          "label": "C",
+          "text": "Human cells neither make nor require peptidoglycan"
+        },
+        {
+          "label": "D",
+          "text": "Human cells produce an intracellular beta-lactamase enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Human cells rapidly metabolize penicillin to an inert form"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Penicillins spare host cells because human cells have no peptidoglycan to target.",
+        "whyCorrect": "The target of penicillins is the cross-linking of peptidoglycan in the bacterial cell wall. Penicillins do not damage host cells because human cells neither make nor need peptidoglycan, so the drug has no equivalent target in the patient.",
+        "whyWrongByChoice": {
+          "A": "Growth rate of human cells is not the relevant factor; the absence of the drug target is.",
+          "B": "Host efflux of the drug is not the described basis for selective toxicity.",
+          "D": "Beta-lactamase is a bacterial resistance enzyme, not a protective human enzyme.",
+          "E": "Penicillins are polar compounds that are not metabolized extensively; host metabolism is not the basis of their safety."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "selective toxicity",
+        "peptidoglycan"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-007",
+      "stem": "Penicillin G, the antistaphylococcal penicillins, and the aminopenicillins differ from one another in spectrum, acid stability, and susceptibility to beta-lactamases, yet all are built on an identical bicyclic nucleus. These differences are produced mainly by modifying which portion of the molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The carbonyl carbon within the beta-lactam ring"
+        },
+        {
+          "label": "B",
+          "text": "The nitrogen atom within the beta-lactam ring"
+        },
+        {
+          "label": "C",
+          "text": "The side chain (R) group attached to the amide"
+        },
+        {
+          "label": "D",
+          "text": "The sulfur atom within the thiazolidine ring"
+        },
+        {
+          "label": "E",
+          "text": "The two methyl groups on the thiazolidine ring"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Penicillins differ chiefly in the R side chain of the amide group.",
+        "whyCorrect": "Variation among the penicillins is mainly limited to the side chain (R) group of the amide. Altering this side chain is what changes acid stability, spectrum, and resistance to beta-lactamases across the subgroups. Separately, prodrugs have been developed by modifying the carboxylic acid group.",
+        "whyWrongByChoice": {
+          "A": "The beta-lactam carbonyl is essential for binding transpeptidase and is not what is varied between agents.",
+          "B": "The beta-lactam nitrogen is part of the ring that must stay intact for activity, not a site of structural variation.",
+          "D": "The sulfur of the thiazolidine ring is part of the conserved nucleus shared by all penicillins.",
+          "E": "The two methyl groups on the thiazolidine ring are conserved features of the penicillin nucleus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "penicillin structure",
+        "classification"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-008",
+      "stem": "A 21-year-old woman with mild streptococcal pharyngitis is to be treated with an oral penicillin. Penicillin G is avoided in favor of penicillin V. Which property of penicillin V best accounts for this choice?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It covers the gram-negative rods that penicillin G misses"
+        },
+        {
+          "label": "B",
+          "text": "It has a far longer plasma half-life than penicillin G"
+        },
+        {
+          "label": "C",
+          "text": "It is more stable in gastric acid than penicillin G"
+        },
+        {
+          "label": "D",
+          "text": "It is not hydrolyzed by staphylococcal beta-lactamases"
+        },
+        {
+          "label": "E",
+          "text": "It reaches higher CSF concentrations than penicillin G"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Penicillin V is acid stable and therefore orally absorbed, whereas penicillin G is destroyed by gastric acid.",
+        "whyCorrect": "Penicillins vary in their resistance to gastric acid and therefore in oral bioavailability. Penicillin G is poorly absorbed orally because it is broken down by gastric acid in the stomach, while penicillin V has increased absorption owing to its increased acid stability. That makes penicillin V the practical oral choice.",
+        "whyWrongByChoice": {
+          "A": "Penicillin V shares the narrow gram-positive spectrum of penicillin G and has little activity against gram-negative rods.",
+          "B": "Plasma half-lives of most penicillins are similar, in the range of 30 minutes to 1 hour.",
+          "D": "Resistance to staphylococcal beta-lactamases belongs to the antistaphylococcal penicillins such as nafcillin and oxacillin, not to penicillin V.",
+          "E": "Penicillins cross into the CNS chiefly when the meninges are inflamed; penicillin V is not distinguished by CSF penetration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "acid stability"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-009",
+      "stem": "Most penicillins are eliminated unchanged by the kidney. One beta-lactamase-resistant penicillin is instead eliminated mainly in the bile, a point that matters when choosing an agent for a patient with poor renal function. Which of the following is that agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amoxicillin"
+        },
+        {
+          "label": "B",
+          "text": "Ampicillin"
+        },
+        {
+          "label": "C",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "E",
+          "text": "Piperacillin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nafcillin, a beta-lactamase-resistant penicillin, is excreted mainly in the bile.",
+        "whyCorrect": "Nafcillin is an antistaphylococcal penicillin that resists staphylococcal beta-lactamases. Unlike the other penicillins, which are usually excreted unchanged in the urine by glomerular filtration and tubular secretion, nafcillin is mainly excreted in the bile. It also has poor oral absorption.",
+        "whyWrongByChoice": {
+          "A": "Amoxicillin is an aminopenicillin, is not beta-lactamase resistant, and is renally eliminated.",
+          "B": "Ampicillin is renally excreted; it is distinguished instead by undergoing enterohepatic recycling.",
+          "D": "Penicillin G is excreted unchanged in the urine and is readily hydrolyzed by beta-lactamases.",
+          "E": "Piperacillin is an antipseudomonal penicillin given parenterally and is not the biliary-excreted agent described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "nafcillin"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-010",
+      "stem": "A 19-year-old man with bacterial meningitis achieves therapeutic CSF concentrations on an intravenous penicillin. Once his meningeal inflammation resolves, the same dose would yield markedly lower CSF levels. Which of the following best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inflammation activates a pump that drives penicillin into the CSF"
+        },
+        {
+          "label": "B",
+          "text": "Inflammation allows penicillin to cross the blood-brain barrier"
+        },
+        {
+          "label": "C",
+          "text": "Inflammation increases hepatic conversion of penicillin prodrug"
+        },
+        {
+          "label": "D",
+          "text": "Inflammation sharply raises CSF protein binding of penicillin"
+        },
+        {
+          "label": "E",
+          "text": "Inflammation slows the renal tubular secretion of penicillin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Penicillins penetrate the CNS only when the meninges are inflamed.",
+        "whyCorrect": "Penicillins are widely distributed in the body, and most cross the blood-brain barrier to penetrate the central nervous system, but only when the meninges are inflamed. Once inflammation resolves, the barrier again restricts entry and CSF concentrations fall at any given dose.",
+        "whyWrongByChoice": {
+          "A": "Active transport of penicillin at the CNS interface moves drug out of the CSF into the bloodstream, not into the CSF.",
+          "C": "Penicillins are polar compounds that are not metabolized extensively, so hepatic activation is not involved.",
+          "D": "Increased CSF protein binding is not the described mechanism of CNS penetration for penicillins.",
+          "E": "Renal tubular secretion governs systemic elimination, not the ability of drug to enter the CSF."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "CNS penetration"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-011",
+      "stem": "A patient with markedly reduced creatinine clearance is started on high-dose intravenous penicillin G and rapidly accumulates the drug. Which route of elimination normally handles this drug and accounts for the accumulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conjugation with glucuronide and biliary export"
+        },
+        {
+          "label": "B",
+          "text": "Glomerular filtration and renal tubular secretion"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic oxidation by cytochrome P450 enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Hydrolysis by circulating plasma esterase enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Sequestration and slow release from adipose tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Penicillins are excreted unchanged in the urine by glomerular filtration and tubular secretion.",
+        "whyCorrect": "Penicillins are usually excreted unchanged in the urine via glomerular filtration and tubular secretion. They are polar compounds and are not metabolized extensively, so a fall in renal clearance directly raises drug concentrations.",
+        "whyWrongByChoice": {
+          "A": "Biliary excretion is the exception rather than the rule and applies chiefly to nafcillin.",
+          "C": "Penicillins are not extensively metabolized, so hepatic oxidation is not the principal route of elimination.",
+          "D": "Plasma esterase hydrolysis is not described as an elimination route for penicillins.",
+          "E": "Penicillins are polar compounds and are not stored in fat."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "renal excretion"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    },
+    {
+      "id": "mi10-012",
+      "stem": "Among the penicillins, one agent is notable for being returned to the circulation after biliary excretion and reabsorption from the gut, a cycle that prolongs its intestinal exposure. Which of the following agents undergoes this enterohepatic recycling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ampicillin"
+        },
+        {
+          "label": "B",
+          "text": "Nafcillin"
+        },
+        {
+          "label": "C",
+          "text": "Oxacillin"
+        },
+        {
+          "label": "D",
+          "text": "Penicillin G"
+        },
+        {
+          "label": "E",
+          "text": "Penicillin V"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ampicillin is the penicillin that undergoes enterohepatic recycling.",
+        "whyCorrect": "Penicillin itself does not undergo enterohepatic recycling; it is ampicillin that does. Ampicillin is an aminopenicillin with increased stability to gastric acid, and it is also the penicillin most associated with nausea and diarrhea, consistent with prolonged exposure of the gut to drug.",
+        "whyWrongByChoice": {
+          "B": "Nafcillin is excreted mainly in the bile but is not the agent described as undergoing enterohepatic recycling.",
+          "C": "Oxacillin is an antistaphylococcal penicillin and is not associated with this cycle.",
+          "D": "Penicillin G is poorly absorbed orally and is excreted unchanged in the urine.",
+          "E": "Penicillin V is distinguished by acid stability and good oral absorption, not by enterohepatic recycling."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacokinetics",
+        "ampicillin"
+      ],
+      "topicId": "penicillins",
+      "topicName": "Penicillins",
+      "tier": "core"
+    }
+  ]
+}
