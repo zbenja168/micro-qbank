@@ -434,8 +434,8 @@
           "name": "Candida and Aspergillus spp.",
           "sourceFile": "Micro Brick 44",
           "coreCount": 12,
-          "extraCount": 24,
-          "questionCount": 36
+          "extraCount": 23,
+          "questionCount": 35
         },
         {
           "id": "geographically-defined-mycoses",
@@ -525,5 +525,5 @@
       "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1872
+  "totalQuestions": 1871
 }
