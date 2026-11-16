@@ -47,7 +47,8 @@
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
       "topicName": "Neisseria meningitidis and Haemophilus influenzae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi16-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
       "topicName": "Neisseria meningitidis and Haemophilus influenzae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi16-003",
@@ -188,7 +190,8 @@
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
       "topicName": "Neisseria meningitidis and Haemophilus influenzae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi16-005",
@@ -282,7 +285,8 @@
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
       "topicName": "Neisseria meningitidis and Haemophilus influenzae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi16-007",
@@ -376,7 +380,8 @@
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
       "topicName": "Neisseria meningitidis and Haemophilus influenzae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi16-009",
@@ -564,7 +569,8 @@
       ],
       "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
       "topicName": "Neisseria meningitidis and Haemophilus influenzae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi17-001",
@@ -610,7 +616,8 @@
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
       "topicName": "Enterobacteriaceae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi17-002",
@@ -748,7 +755,8 @@
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
       "topicName": "Enterobacteriaceae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi17-005",
@@ -794,7 +802,8 @@
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
       "topicName": "Enterobacteriaceae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi17-006",
@@ -1116,7 +1125,8 @@
       ],
       "topicId": "enterobacteriaceae-part-1-of-2",
       "topicName": "Enterobacteriaceae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-001",
@@ -1163,7 +1173,8 @@
       ],
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-002",
@@ -1210,7 +1221,8 @@
       ],
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-003",
@@ -1257,7 +1269,8 @@
       ],
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-004",
@@ -1304,7 +1317,8 @@
       ],
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-005",
@@ -1445,7 +1459,8 @@
       ],
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-008",
@@ -1539,7 +1554,8 @@
       ],
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi18-010",
@@ -1774,7 +1790,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
       "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi19-003",
@@ -1962,7 +1979,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
       "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi19-007",
@@ -2150,7 +2168,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
       "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi19-011",
@@ -2244,7 +2263,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
       "topicName": "Spectrum of Activity and Indications – 2: β-lactams and 30S Inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi20-001",
@@ -2612,7 +2632,8 @@
       ],
       "topicId": "protein-synthesis-inhibitors-1-mechanisms-of-action",
       "topicName": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi20-009",
@@ -2843,7 +2864,8 @@
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
       "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi21-002",
@@ -2889,7 +2911,8 @@
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
       "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi21-003",
@@ -3123,7 +3146,8 @@
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
       "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi21-008",
@@ -3355,7 +3379,8 @@
       ],
       "topicId": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
       "topicName": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

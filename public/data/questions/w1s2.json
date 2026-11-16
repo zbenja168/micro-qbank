@@ -460,7 +460,8 @@
       ],
       "topicId": "gram-positive-and-negative-algorithms",
       "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi05-011",
@@ -552,7 +553,8 @@
       ],
       "topicId": "gram-positive-and-negative-algorithms",
       "topicName": "Gram-Positive and Negative Algorithms",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi06-001",
@@ -646,7 +648,8 @@
       ],
       "topicId": "staphylococci",
       "topicName": "Staphylococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi06-003",
@@ -693,7 +696,8 @@
       ],
       "topicId": "staphylococci",
       "topicName": "Staphylococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi06-004",
@@ -740,7 +744,8 @@
       ],
       "topicId": "staphylococci",
       "topicName": "Staphylococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi06-005",
@@ -928,7 +933,8 @@
       ],
       "topicId": "staphylococci",
       "topicName": "Staphylococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi06-009",
@@ -1162,7 +1168,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi07-002",
@@ -1256,7 +1263,8 @@
       ],
       "topicId": "cephalosporins",
       "topicName": "Cephalosporins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi07-004",
@@ -1726,7 +1734,8 @@
       ],
       "topicId": "carbapenems",
       "topicName": "Carbapenems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi08-002",
@@ -1773,7 +1782,8 @@
       ],
       "topicId": "carbapenems",
       "topicName": "Carbapenems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi08-003",
@@ -1961,7 +1971,8 @@
       ],
       "topicId": "carbapenems",
       "topicName": "Carbapenems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi08-007",
@@ -2008,7 +2019,8 @@
       ],
       "topicId": "carbapenems",
       "topicName": "Carbapenems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi08-008",
@@ -2055,7 +2067,8 @@
       ],
       "topicId": "carbapenems",
       "topicName": "Carbapenems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi08-009",
@@ -2196,7 +2209,8 @@
       ],
       "topicId": "carbapenems",
       "topicName": "Carbapenems",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi08-012",
@@ -2335,7 +2349,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi09-003",
@@ -2381,7 +2396,8 @@
       ],
       "topicId": "vancomycin-and-bacitracin",
       "topicName": "Vancomycin and Bacitracin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi09-004",
@@ -2887,7 +2903,8 @@
       ],
       "topicId": "penicillins",
       "topicName": "Penicillins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi10-003",
@@ -3071,7 +3088,8 @@
       ],
       "topicId": "penicillins",
       "topicName": "Penicillins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi10-007",
@@ -3301,7 +3319,8 @@
       ],
       "topicId": "penicillins",
       "topicName": "Penicillins",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi10-012",

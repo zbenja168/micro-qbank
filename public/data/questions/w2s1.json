@@ -47,7 +47,8 @@
       ],
       "topicId": "streptococci-and-enterococci",
       "topicName": "Streptococci and Enterococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi11-002",
@@ -189,7 +190,8 @@
       ],
       "topicId": "streptococci-and-enterococci",
       "topicName": "Streptococci and Enterococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi11-005",
@@ -236,7 +238,8 @@
       ],
       "topicId": "streptococci-and-enterococci",
       "topicName": "Streptococci and Enterococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi11-006",
@@ -424,7 +427,8 @@
       ],
       "topicId": "streptococci-and-enterococci",
       "topicName": "Streptococci and Enterococci",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi11-010",
@@ -612,7 +616,8 @@
       ],
       "topicId": "clostridia",
       "topicName": "Clostridia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi12-002",
@@ -706,7 +711,8 @@
       ],
       "topicId": "clostridia",
       "topicName": "Clostridia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi12-004",
@@ -800,7 +806,8 @@
       ],
       "topicId": "clostridia",
       "topicName": "Clostridia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi12-006",
@@ -988,7 +995,8 @@
       ],
       "topicId": "clostridia",
       "topicName": "Clostridia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi12-010",
@@ -1129,7 +1137,8 @@
       ],
       "topicId": "clostridia",
       "topicName": "Clostridia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-001",
@@ -1176,7 +1185,8 @@
       ],
       "topicId": "listeria-monocytogenes",
       "topicName": "Listeria monocytogenes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-002",
@@ -1222,7 +1232,8 @@
       ],
       "topicId": "listeria-monocytogenes",
       "topicName": "Listeria monocytogenes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-003",
@@ -1454,7 +1465,8 @@
       ],
       "topicId": "listeria-monocytogenes",
       "topicName": "Listeria monocytogenes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-008",
@@ -1501,7 +1513,8 @@
       ],
       "topicId": "listeria-monocytogenes",
       "topicName": "Listeria monocytogenes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-009",
@@ -1595,7 +1608,8 @@
       ],
       "topicId": "listeria-monocytogenes",
       "topicName": "Listeria monocytogenes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-011",
@@ -1642,7 +1656,8 @@
       ],
       "topicId": "listeria-monocytogenes",
       "topicName": "Listeria monocytogenes",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi13-012",
@@ -1735,7 +1750,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-002",
@@ -1782,7 +1798,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-003",
@@ -1829,7 +1846,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-004",
@@ -1923,7 +1941,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-006",
@@ -1970,7 +1989,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-007",
@@ -2017,7 +2037,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-008",
@@ -2205,7 +2226,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
       "topicName": "Spectrum of Activity and Indications 1 – β-lactams and Vancomycin",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi14-012",
@@ -2299,7 +2321,8 @@
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
       "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi15-002",
@@ -2346,7 +2369,8 @@
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
       "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi15-003",
@@ -2628,7 +2652,8 @@
       ],
       "topicId": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
       "topicName": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi15-009",

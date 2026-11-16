@@ -47,7 +47,8 @@
       ],
       "topicId": "bacterial-structure-growth-and-staining",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi01-002",
@@ -95,7 +96,8 @@
       ],
       "topicId": "bacterial-structure-growth-and-staining",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi01-003",
@@ -283,7 +285,8 @@
       ],
       "topicId": "bacterial-structure-growth-and-staining",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi01-007",
@@ -519,7 +522,8 @@
       ],
       "topicId": "bacterial-structure-growth-and-staining",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi01-012",
@@ -658,7 +662,8 @@
       ],
       "topicId": "bacterial-reproduction-and-genetics",
       "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi02-003",
@@ -750,7 +755,8 @@
       ],
       "topicId": "bacterial-reproduction-and-genetics",
       "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi02-005",
@@ -981,7 +987,8 @@
       ],
       "topicId": "bacterial-reproduction-and-genetics",
       "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi02-010",
@@ -1258,7 +1265,8 @@
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi03-004",
@@ -1305,7 +1313,8 @@
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi03-005",
@@ -1490,7 +1499,8 @@
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi03-009",
@@ -1536,7 +1546,8 @@
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi03-010",
@@ -1583,7 +1594,8 @@
       ],
       "topicId": "normal-flora-role-in-health-and-disease",
       "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi03-011",
@@ -1723,7 +1735,8 @@
       ],
       "topicId": "principles-of-antibacterial-drugs",
       "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi04-002",
@@ -1999,7 +2012,8 @@
       ],
       "topicId": "principles-of-antibacterial-drugs",
       "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi04-008",
@@ -2184,7 +2198,8 @@
       ],
       "topicId": "principles-of-antibacterial-drugs",
       "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi04-012",
@@ -2230,7 +2245,8 @@
       ],
       "topicId": "principles-of-antibacterial-drugs",
       "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

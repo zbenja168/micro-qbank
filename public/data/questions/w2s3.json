@@ -47,7 +47,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-004",
@@ -235,7 +238,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-006",
@@ -329,7 +333,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-008",
@@ -376,7 +381,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-009",
@@ -517,7 +523,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi22-012",
@@ -564,7 +571,8 @@
       ],
       "topicId": "salmonella-shigella-and-campylobacter-spp",
       "topicName": "Salmonella, Shigella, and Campylobacter spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-001",
@@ -611,7 +619,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-002",
@@ -658,7 +667,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-003",
@@ -705,7 +715,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-004",
@@ -752,7 +763,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-005",
@@ -799,7 +811,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-006",
@@ -893,7 +906,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-008",
@@ -987,7 +1001,8 @@
       ],
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi23-010",
@@ -1175,7 +1190,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-002",
@@ -1222,7 +1238,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-003",
@@ -1269,7 +1286,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-004",
@@ -1316,7 +1334,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-005",
@@ -1363,7 +1382,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-006",
@@ -1410,7 +1430,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-007",
@@ -1504,7 +1525,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-009",
@@ -1645,7 +1667,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
       "topicName": "Spectrum of Activity and Indications–3 Fluoroquinolones and Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi24-012",
@@ -2153,7 +2176,8 @@
       ],
       "topicId": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
       "topicName": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi25-011",

@@ -47,7 +47,8 @@
       ],
       "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
       "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi26-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
       "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi26-003",
@@ -282,7 +284,8 @@
       ],
       "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
       "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi26-007",
@@ -329,7 +332,8 @@
       ],
       "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
       "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi26-008",
@@ -470,7 +474,8 @@
       ],
       "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
       "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi26-011",
@@ -517,7 +522,8 @@
       ],
       "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
       "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi26-012",
@@ -611,7 +617,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-002",
@@ -658,7 +665,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-003",
@@ -705,7 +713,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-004",
@@ -752,7 +761,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-005",
@@ -799,7 +809,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-006",
@@ -846,7 +857,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-007",
@@ -940,7 +952,8 @@
       ],
       "topicId": "atypical-bacteria",
       "topicName": "Atypical Bacteria",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi27-009",
@@ -1175,7 +1188,8 @@
       ],
       "topicId": "bacterial-tick-borne-diseases",
       "topicName": "Bacterial Tick-borne Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi28-002",
@@ -1363,7 +1377,8 @@
       ],
       "topicId": "bacterial-tick-borne-diseases",
       "topicName": "Bacterial Tick-borne Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi28-006",
@@ -1457,7 +1472,8 @@
       ],
       "topicId": "bacterial-tick-borne-diseases",
       "topicName": "Bacterial Tick-borne Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi28-008",
@@ -1504,7 +1520,8 @@
       ],
       "topicId": "bacterial-tick-borne-diseases",
       "topicName": "Bacterial Tick-borne Diseases",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi28-009",
@@ -1830,7 +1847,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
       "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi29-004",
@@ -1876,7 +1894,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
       "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi29-005",
@@ -1922,7 +1941,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
       "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi29-006",
@@ -1968,7 +1988,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
       "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi29-007",
@@ -2198,7 +2219,8 @@
       ],
       "topicId": "spectrum-of-activity-and-indications-4-50s-inhibitors",
       "topicName": "Spectrum of Activity and Indications–4 50S inhibitors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi29-012",
@@ -2337,7 +2359,8 @@
       ],
       "topicId": "antibiotic-stewardship",
       "topicName": "Antibiotic Stewardship",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi30-003",
@@ -2430,7 +2453,8 @@
       ],
       "topicId": "antibiotic-stewardship",
       "topicName": "Antibiotic Stewardship",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi30-005",
@@ -2522,7 +2546,8 @@
       ],
       "topicId": "antibiotic-stewardship",
       "topicName": "Antibiotic Stewardship",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi30-007",
@@ -2569,7 +2594,8 @@
       ],
       "topicId": "antibiotic-stewardship",
       "topicName": "Antibiotic Stewardship",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi30-008",
@@ -2662,7 +2688,8 @@
       ],
       "topicId": "antibiotic-stewardship",
       "topicName": "Antibiotic Stewardship",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi30-010",
@@ -2755,7 +2782,8 @@
       ],
       "topicId": "antibiotic-stewardship",
       "topicName": "Antibiotic Stewardship",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi30-012",

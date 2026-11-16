@@ -47,7 +47,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi51-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi51-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi51-004",
@@ -282,7 +285,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi51-007",
@@ -330,7 +334,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi51-008",
@@ -378,7 +383,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi51-009",
@@ -570,7 +576,8 @@
       ],
       "topicId": "helminths-part-1",
       "topicName": "Helminths (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi52-001",
@@ -711,7 +718,8 @@
       ],
       "topicId": "helminths-part-2-of-2",
       "topicName": "Helminths (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi52-004",
@@ -805,7 +813,8 @@
       ],
       "topicId": "helminths-part-2-of-2",
       "topicName": "Helminths (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi52-006",
@@ -899,7 +908,8 @@
       ],
       "topicId": "helminths-part-2-of-2",
       "topicName": "Helminths (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi52-008",
@@ -1040,7 +1050,8 @@
       ],
       "topicId": "helminths-part-2-of-2",
       "topicName": "Helminths (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi52-011",

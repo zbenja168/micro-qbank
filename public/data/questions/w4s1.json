@@ -188,7 +188,8 @@
       ],
       "topicId": "mycology-an-introduction",
       "topicName": "Mycology: An Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi43-005",
@@ -235,7 +236,8 @@
       ],
       "topicId": "mycology-an-introduction",
       "topicName": "Mycology: An Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi43-006",
@@ -282,7 +284,8 @@
       ],
       "topicId": "mycology-an-introduction",
       "topicName": "Mycology: An Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi43-007",
@@ -564,7 +567,8 @@
       ],
       "topicId": "mycology-an-introduction",
       "topicName": "Mycology: An Introduction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi44-001",
@@ -611,7 +615,8 @@
       ],
       "topicId": "candida-and-aspergillus-spp",
       "topicName": "Candida and Aspergillus spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi44-002",
@@ -846,7 +851,8 @@
       ],
       "topicId": "candida-and-aspergillus-spp",
       "topicName": "Candida and Aspergillus spp.",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi44-007",
@@ -1174,7 +1180,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-002",
@@ -1220,7 +1227,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-003",
@@ -1312,7 +1320,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-005",
@@ -1358,7 +1367,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-006",
@@ -1404,7 +1414,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-007",
@@ -1450,7 +1461,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-008",
@@ -1588,7 +1600,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-011",
@@ -1634,7 +1647,8 @@
       ],
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi45-012",
@@ -1774,7 +1788,8 @@
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
       "topicName": "Antifungals—Drugs to Treat Fungal Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi46-003",
@@ -1868,7 +1883,8 @@
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
       "topicName": "Antifungals—Drugs to Treat Fungal Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi46-005",
@@ -2150,7 +2166,8 @@
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
       "topicName": "Antifungals—Drugs to Treat Fungal Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi46-011",
@@ -2244,7 +2261,8 @@
       ],
       "topicId": "antifungals-drugs-to-treat-fungal-infections",
       "topicName": "Antifungals—Drugs to Treat Fungal Infections",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

@@ -10,7 +10,9 @@
           "sourceFile": "Micro Brick 1",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "bacterial-reproduction-and-genetics",
@@ -18,7 +20,9 @@
           "sourceFile": "Micro Brick 2",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 3
         },
         {
           "id": "normal-flora-role-in-health-and-disease",
@@ -26,7 +30,9 @@
           "sourceFile": "Micro Brick 3",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         },
         {
           "id": "principles-of-antibacterial-drugs",
@@ -34,7 +40,9 @@
           "sourceFile": "Micro Brick 4",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         }
       ],
       "week": 1,
@@ -51,7 +59,9 @@
           "sourceFile": "Micro Brick 5",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 2
         },
         {
           "id": "staphylococci",
@@ -59,7 +69,9 @@
           "sourceFile": "Micro Brick 6",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "cephalosporins",
@@ -67,7 +79,9 @@
           "sourceFile": "Micro Brick 7",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 2
         },
         {
           "id": "carbapenems",
@@ -75,7 +89,9 @@
           "sourceFile": "Micro Brick 8",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "vancomycin-and-bacitracin",
@@ -83,7 +99,9 @@
           "sourceFile": "Micro Brick 9",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 11,
+          "hyCoreCount": 2
         },
         {
           "id": "penicillins",
@@ -91,7 +109,9 @@
           "sourceFile": "Micro Brick 10",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 3
         }
       ],
       "week": 1,
@@ -108,7 +128,9 @@
           "sourceFile": "Micro Brick 11",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "clostridia",
@@ -116,7 +138,9 @@
           "sourceFile": "Micro Brick 12",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         },
         {
           "id": "listeria-monocytogenes",
@@ -124,7 +148,9 @@
           "sourceFile": "Micro Brick 13",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "spectrum-of-activity-and-indications-1-beta-lactams-and-vancomycin",
@@ -132,7 +158,9 @@
           "sourceFile": "Micro Brick 14",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "dna-gyrase-and-folic-acid-inhibitors-2-of-2-fluoroquinolones",
@@ -140,7 +168,9 @@
           "sourceFile": "Micro Brick 15",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 3
         }
       ],
       "week": 2,
@@ -157,7 +187,9 @@
           "sourceFile": "Micro Brick 16",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "enterobacteriaceae-part-1-of-2",
@@ -165,7 +197,9 @@
           "sourceFile": "Micro Brick 17",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "enterobacteriaceae-part-2",
@@ -173,7 +207,9 @@
           "sourceFile": "Micro Brick 18",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors",
@@ -181,7 +217,9 @@
           "sourceFile": "Micro Brick 19",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "protein-synthesis-inhibitors-1-mechanisms-of-action",
@@ -189,7 +227,9 @@
           "sourceFile": "Micro Brick 20",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 1
         },
         {
           "id": "protein-synthesis-inhibitors-2-of-2-adverse-drug-reaction",
@@ -197,7 +237,9 @@
           "sourceFile": "Micro Brick 21",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         }
       ],
       "week": 2,
@@ -214,7 +256,9 @@
           "sourceFile": "Micro Brick 22",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "pseudomonas-species-and-other-closely-related-bacteria",
@@ -222,7 +266,9 @@
           "sourceFile": "Micro Brick 23",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "spectrum-of-activity-and-indications-3-fluoroquinolones-and-sulfonamides",
@@ -230,7 +276,9 @@
           "sourceFile": "Micro Brick 24",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "dna-gyrase-inhibitors-and-folic-acid-synthesis-inhibitors-1-of-2-sulfonamides",
@@ -238,7 +286,9 @@
           "sourceFile": "Micro Brick 25",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 1
         }
       ],
       "week": 2,
@@ -255,7 +305,9 @@
           "sourceFile": "Micro Brick 26",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "atypical-bacteria",
@@ -263,7 +315,9 @@
           "sourceFile": "Micro Brick 27",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "bacterial-tick-borne-diseases",
@@ -271,7 +325,9 @@
           "sourceFile": "Micro Brick 28",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "spectrum-of-activity-and-indications-4-50s-inhibitors",
@@ -279,7 +335,9 @@
           "sourceFile": "Micro Brick 29",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         },
         {
           "id": "antibiotic-stewardship",
@@ -287,7 +345,9 @@
           "sourceFile": "Micro Brick 30",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         }
       ],
       "week": 2,
@@ -304,7 +364,9 @@
           "sourceFile": "Micro Brick 31",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "herpesviridae-part-1-of-2",
@@ -312,7 +374,9 @@
           "sourceFile": "Micro Brick 32",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 6
         },
         {
           "id": "herpesviridae-2-of-2",
@@ -320,7 +384,9 @@
           "sourceFile": "Micro Brick 33",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
@@ -328,7 +394,9 @@
           "sourceFile": "Micro Brick 34",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -345,7 +413,9 @@
           "sourceFile": "Micro Brick 35",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "retroviridae-part-2-of-2",
@@ -353,7 +423,9 @@
           "sourceFile": "Micro Brick 36",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         },
         {
           "id": "respiratory-coronaviridae",
@@ -361,7 +433,9 @@
           "sourceFile": "Micro Brick 37",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
@@ -369,7 +443,9 @@
           "sourceFile": "Micro Brick 38",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -386,7 +462,9 @@
           "sourceFile": "Micro Brick 39",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
@@ -394,7 +472,9 @@
           "sourceFile": "Micro Brick 40",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "caliciviridae-matonaviridae-and-reoviridae",
@@ -402,7 +482,9 @@
           "sourceFile": "Micro Brick 41",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
@@ -410,7 +492,9 @@
           "sourceFile": "Micro Brick 42",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -427,7 +511,9 @@
           "sourceFile": "Micro Brick 43",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "candida-and-aspergillus-spp",
@@ -435,7 +521,9 @@
           "sourceFile": "Micro Brick 44",
           "coreCount": 12,
           "extraCount": 23,
-          "questionCount": 35
+          "questionCount": 35,
+          "hyCount": 12,
+          "hyCoreCount": 2
         },
         {
           "id": "geographically-defined-mycoses",
@@ -443,7 +531,9 @@
           "sourceFile": "Micro Brick 45",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 8
         },
         {
           "id": "antifungals-drugs-to-treat-fungal-infections",
@@ -451,7 +541,9 @@
           "sourceFile": "Micro Brick 46",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         }
       ],
       "week": 4,
@@ -468,7 +560,9 @@
           "sourceFile": "Micro Brick 47",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         },
         {
           "id": "introduction-to-parasitology",
@@ -476,7 +570,9 @@
           "sourceFile": "Micro Brick 48",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 5
         },
         {
           "id": "protozoan-infections",
@@ -484,7 +580,9 @@
           "sourceFile": "Micro Brick 49",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 3
         },
         {
           "id": "agents-treating-helminthic-and-protozoal-infections",
@@ -492,7 +590,9 @@
           "sourceFile": "Micro Brick 50",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 3
         }
       ],
       "week": 4,
@@ -509,7 +609,9 @@
           "sourceFile": "Micro Brick 51",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 7
         },
         {
           "id": "helminths-part-2-of-2",
@@ -517,7 +619,9 @@
           "sourceFile": "Micro Brick 52",
           "coreCount": 12,
           "extraCount": 24,
-          "questionCount": 36
+          "questionCount": 36,
+          "hyCount": 12,
+          "hyCoreCount": 4
         }
       ],
       "week": 4,

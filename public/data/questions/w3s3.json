@@ -46,7 +46,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi39-002",
@@ -184,7 +185,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi39-005",
@@ -414,7 +416,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi39-010",
@@ -460,7 +463,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-1-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi39-011",
@@ -599,7 +603,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi40-002",
@@ -646,7 +651,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi40-003",
@@ -693,7 +699,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi40-004",
@@ -975,7 +982,8 @@
       ],
       "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
       "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi40-010",
@@ -1163,7 +1171,8 @@
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
       "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi41-002",
@@ -1257,7 +1266,8 @@
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
       "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi41-004",
@@ -1351,7 +1361,8 @@
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
       "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi41-006",
@@ -1586,7 +1597,8 @@
       ],
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
       "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi41-011",
@@ -1726,7 +1738,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi42-002",
@@ -1867,7 +1880,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi42-005",
@@ -1961,7 +1975,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi42-007",
@@ -2055,7 +2070,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi42-009",
@@ -2102,7 +2118,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi42-010",
@@ -2149,7 +2166,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi42-011",
@@ -2243,7 +2261,8 @@
       ],
       "topicId": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
       "topicName": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

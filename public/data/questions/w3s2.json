@@ -47,7 +47,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-003",
@@ -141,7 +143,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-004",
@@ -377,7 +380,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-009",
@@ -424,7 +428,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-010",
@@ -471,7 +476,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-011",
@@ -518,7 +524,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi35-012",
@@ -565,7 +572,8 @@
       ],
       "topicId": "retroviridae-part-1-of-2",
       "topicName": "Retroviridae (Part 1 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi36-001",
@@ -612,7 +620,8 @@
       ],
       "topicId": "retroviridae-part-2-of-2",
       "topicName": "Retroviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi36-002",
@@ -706,7 +715,8 @@
       ],
       "topicId": "retroviridae-part-2-of-2",
       "topicName": "Retroviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi36-004",
@@ -989,7 +999,8 @@
       ],
       "topicId": "retroviridae-part-2-of-2",
       "topicName": "Retroviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi36-010",
@@ -1036,7 +1047,8 @@
       ],
       "topicId": "retroviridae-part-2-of-2",
       "topicName": "Retroviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi36-011",
@@ -1130,7 +1142,8 @@
       ],
       "topicId": "retroviridae-part-2-of-2",
       "topicName": "Retroviridae (Part 2 of 2)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi37-001",
@@ -1176,7 +1189,8 @@
       ],
       "topicId": "respiratory-coronaviridae",
       "topicName": "Respiratory: Coronaviridae (2026)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi37-002",
@@ -1268,7 +1282,8 @@
       ],
       "topicId": "respiratory-coronaviridae",
       "topicName": "Respiratory: Coronaviridae (2026)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi37-004",
@@ -1314,7 +1329,8 @@
       ],
       "topicId": "respiratory-coronaviridae",
       "topicName": "Respiratory: Coronaviridae (2026)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi37-005",
@@ -1683,7 +1699,8 @@
       ],
       "topicId": "respiratory-coronaviridae",
       "topicName": "Respiratory: Coronaviridae (2026)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-001",
@@ -1775,7 +1792,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-003",
@@ -1821,7 +1839,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-004",
@@ -1913,7 +1932,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-006",
@@ -1959,7 +1979,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-007",
@@ -2005,7 +2026,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-008",
@@ -2143,7 +2165,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "mi38-011",
@@ -2235,7 +2258,8 @@
       ],
       "topicId": "antiretrovirals-drugs-to-treat-and-prevent-hiv-infection",
       "topicName": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }
