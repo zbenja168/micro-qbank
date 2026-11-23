@@ -3,1134 +3,1148 @@
   "categoryName": "Session 1",
   "questions": [
     {
-      "id": "mi01-001",
-      "stem": "A previously healthy 3-year-old girl is brought to the emergency department with fever and neck stiffness. Cerebrospinal fluid culture grows an organism whose outermost layer is a polysaccharide coat lying external to the cell wall. This structure most directly contributes to virulence by which of the following mechanisms?",
+      "id": "mi53-001",
+      "stem": "A researcher engineers a mutant strain of an enteric bacterium. The mutant still swims normally toward nutrients in soft agar but can no longer attach to cultured human intestinal epithelial cells. Loss of which structure most likely explains this defect?",
       "choices": [
         {
           "label": "A",
-          "text": "Anchoring the organism to mucosal epithelial cells"
+          "text": "Flagella"
         },
         {
           "label": "B",
-          "text": "Hydrolyzing beta-lactam drugs in the periplasmic space"
+          "text": "Nucleoid"
         },
         {
           "label": "C",
-          "text": "Permitting transport of small molecules across the membrane"
+          "text": "Periplasmic space"
         },
         {
           "label": "D",
-          "text": "Protecting the organism from host phagocytosis"
-        },
-        {
-          "label": "E",
-          "text": "Triggering cytokine release through toll-like receptors"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The bacterial capsule is a polysaccharide layer whose primary function is protection from host immune defenses such as phagocytosis.",
-        "whyCorrect": "Capsules are present in some gram-positive and some gram-negative bacteria and are typically composed of polysaccharides. Their primary function is to shield the bacterium from host immune defenses, notably phagocytosis. By promoting survival within the host, a capsule often enhances an organism's ability to cause disease.",
-        "whyWrongByChoice": {
-          "A": "Adhesion to host surfaces is the job of pili and fimbriae, which carry adhesin proteins and glycoproteins; the capsule is not described as the adhesion structure.",
-          "B": "Beta-lactamase activity is localized to the periplasmic space of gram-negative organisms, a compartment between the outer and inner membranes, not to the capsule.",
-          "C": "Transport of molecules across the outer membrane is performed by porins, protein channels of gram-negative bacteria.",
-          "E": "Systemic immune activation through toll-like receptors is the property of lipopolysaccharide in the gram-negative outer membrane, not of the polysaccharide capsule."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "capsule",
-        "virulence factor",
-        "cell envelope"
-      ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi01-002",
-      "stem": "A 69-year-old man is brought to the emergency department with a temperature of 39.4 C, blood pressure of 78/40 mm Hg, mental confusion, and large patches of bruising over his torso. Blood cultures grow a gram-negative organism. Which of the following bacterial components is most directly responsible for his presentation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Dormant spores within the organism"
-        },
-        {
-          "label": "B",
-          "text": "Lipopolysaccharide of the outer membrane"
-        },
-        {
-          "label": "C",
-          "text": "Lipoteichoic acid of the cell wall"
-        },
-        {
-          "label": "D",
-          "text": "Mycolic acid of the cell wall"
-        },
-        {
-          "label": "E",
-          "text": "Peptidoglycan of the cell wall"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Lipopolysaccharide is the endotoxin of the gram-negative outer membrane and produces fever, hypotension, bruising, and multiorgan failure.",
-        "whyCorrect": "Lipopolysaccharide sits in the outer membrane of gram-negative bacteria and acts as an endotoxin. It activates systemic immune reactions by engaging immune cell receptors such as toll-like receptors, which releases cytokines and other inflammatory mediators. The result is blood vessel dilation and increased permeability, so blood pressure and organ perfusion fall, producing septic shock and potentially multiorgan failure.",
-        "whyWrongByChoice": {
-          "A": "Spores are dormant survival structures formed under adverse conditions; by themselves they do not produce shock.",
-          "C": "Lipoteichoic acid is an anionic polymer interwoven through the thick wall of gram-positive bacteria, and this patient's isolate is gram-negative.",
-          "D": "Mycolic acid is the abundant wall lipid of acid-fast organisms such as Mycobacteria; it accounts for retention of carbol fuchsin, not for endotoxic shock.",
-          "E": "Peptidoglycan is the rigid structural exoskeleton that maintains shape and prevents osmotic lysis; it is not the endotoxin described here."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "lipopolysaccharide",
-        "endotoxin",
-        "septic shock",
-        "gram-negative"
-      ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi01-003",
-      "stem": "Purified lipopolysaccharide is separated into its three constituent parts, and each part is injected separately into mice. Only one fraction reproduces fever and hypotension. Which of the following parts of the molecule accounts for this effect?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Lipid A"
-        },
-        {
-          "label": "B",
-          "text": "The core polysaccharide"
-        },
-        {
-          "label": "C",
-          "text": "The O antigen"
-        },
-        {
-          "label": "D",
-          "text": "The outer membrane porin"
-        },
-        {
-          "label": "E",
-          "text": "The peptidoglycan cross-link"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Lipopolysaccharide has three parts, and lipid A is the toxic anchor responsible for endotoxin activity.",
-        "whyCorrect": "Lipopolysaccharide is composed of lipid A, a core polysaccharide, and an O antigen. Together these provide structural integrity and trigger strong immune responses, but lipid A is specifically the toxic anchor of the molecule. Isolating lipid A therefore reproduces the fever and hypotension of endotoxin exposure.",
-        "whyWrongByChoice": {
-          "B": "The core polysaccharide is the middle sugar region that joins the O antigen to lipid A; it is not the toxic moiety.",
-          "C": "The O antigen is the outermost carbohydrate portion of lipopolysaccharide and contributes to its structure, not to the toxic activity.",
-          "D": "Porins are protein channels that sit in the outer membrane alongside lipopolysaccharide; they are not part of the lipopolysaccharide molecule.",
-          "E": "Peptide cross-links belong to peptidoglycan in the cell wall and are unrelated to lipopolysaccharide."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "lipopolysaccharide",
-        "lipid A",
-        "endotoxin"
-      ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
-    },
-    {
-      "id": "mi01-004",
-      "stem": "A gram-negative bacillus is cultured in a medium containing a small water-soluble nutrient. Passage of this nutrient inward across the outermost membrane of the organism depends most directly on which of the following structures?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Flagellar filaments"
-        },
-        {
-          "label": "B",
-          "text": "Lipoteichoic acid"
-        },
-        {
-          "label": "C",
-          "text": "Mycolic acid"
-        },
-        {
-          "label": "D",
-          "text": "Peptidoglycan cross-links"
+          "text": "Pili (fimbriae)"
         },
         {
           "label": "E",
           "text": "Porins"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Porins are the protein channels of the gram-negative outer membrane that allow molecules to cross it.",
-        "whyCorrect": "The gram-negative outer membrane is a glycolipid bilayer containing lipopolysaccharide. It also contains porins, protein channels that allow transport of molecules across the membrane. Without porins, a hydrophilic solute could not readily traverse this lipid barrier.",
+        "summary": "Pili/fimbriae mediate adhesion; flagella mediate motility.",
+        "whyCorrect": "Pili, also called fimbriae, are tiny hair-like projections that carry adhesins (proteins or glycoproteins) allowing bacteria to attach to surfaces such as the human intestinal lining. Motility is preserved, so the flagella are intact.",
         "whyWrongByChoice": {
-          "A": "Flagella are elongated protein filaments used for locomotion and chemotaxis, not for nutrient uptake.",
-          "B": "Lipoteichoic acid is an anionic polymer unique to the thick cell wall of gram-positive bacteria, which have no outer membrane.",
-          "C": "Mycolic acid is a wall lipid of acid-fast organisms and resists decolorization during staining; it is not a transport structure.",
-          "D": "Peptidoglycan cross-links give the cell wall strength and shape; they do not form transport channels."
+          "A": "Flagella provide whip-like motility and chemotaxis, which this mutant still has.",
+          "B": "The nucleoid holds the circular chromosome and plays no direct role in attachment.",
+          "C": "The periplasmic space lies between the two membranes of gram-negatives and holds enzymes such as beta-lactamases.",
+          "E": "Porins are outer membrane protein channels that transport molecules, not attachment structures."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bacterial structure",
+        "pili",
+        "adhesion"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi53-002",
+      "stem": "A 64-year-old man with a long-term urinary catheter develops fever, confusion, and a blood pressure of 78/40 mm Hg. Blood cultures grow organisms that appear pink on Gram stain. Which bacterial component most likely triggered his hypotension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide of the outer membrane"
+        },
+        {
+          "label": "B",
+          "text": "Mycolic acids of an acid-fast wall"
+        },
+        {
+          "label": "C",
+          "text": "Polysaccharide capsule around the wall"
+        },
+        {
+          "label": "D",
+          "text": "Sterols in the cytoplasmic membrane"
+        },
+        {
+          "label": "E",
+          "text": "Teichoic acids of a thick cell wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gram-negative LPS (endotoxin) causes septic shock.",
+        "whyCorrect": "Pink organisms on Gram stain are gram-negative, and only gram-negatives carry lipopolysaccharide (LPS) in an outer membrane. LPS is an endotoxin that can drive sepsis, septic shock, and multiorgan failure.",
+        "whyWrongByChoice": {
+          "B": "Mycolic acids characterize acid-fast organisms such as Mycobacteria, which are Gram nonreactive.",
+          "C": "A capsule protects against phagocytosis; it is not the endotoxin that causes shock.",
+          "D": "Membrane sterols are the notable exception of Mycoplasma and are not linked to septic shock.",
+          "E": "Teichoic and lipoteichoic acids belong to gram-positive walls, which stain purple, not pink."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "porins",
-        "outer membrane",
+        "cell envelope",
+        "LPS",
+        "septic shock",
         "gram-negative"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
-      "id": "mi01-005",
-      "stem": "A gram-negative isolate resists ampicillin by producing an enzyme that hydrolyzes the drug before it can reach its target. In this organism, the enzyme is concentrated in which of the following locations?",
+      "id": "mi53-003",
+      "stem": "A 52-year-old woman with gram-negative bacteremia becomes hypotensive and develops multiorgan failure. Endotoxin from her organism produces the fall in blood pressure chiefly through which mechanism?",
       "choices": [
         {
           "label": "A",
-          "text": "The basal body that anchors the flagellum"
+          "text": "A secreted paralytic toxin that acts on nerves and muscle"
         },
         {
           "label": "B",
-          "text": "The interior of the peptidoglycan cell wall"
+          "text": "Germinating spores that physically block small blood vessels"
         },
         {
           "label": "C",
-          "text": "The nucleoid at the center of the cytoplasm"
+          "text": "Hemolytic toxins that lyse red cells to harvest their iron"
         },
         {
           "label": "D",
-          "text": "The outer leaflet of the outer membrane"
+          "text": "Iron-chelating compounds that strip iron from transferrin"
         },
         {
           "label": "E",
-          "text": "The periplasmic space between the two membranes"
+          "text": "TLR signaling causing cytokine release and vasodilation"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Gram-negative bacteria have a periplasmic space between their outer and inner membranes, and this is where beta-lactamase resides.",
-        "whyCorrect": "Gram-negative organisms have an outer lipid membrane, a thin cell wall, and an inner lipid membrane. The space between the membranes is the periplasmic space, and it is the location of beta-lactamase. An antibiotic crossing the outer membrane therefore meets the degrading enzyme before it reaches the peptidoglycan it is meant to disrupt.",
+        "summary": "LPS acts through toll-like receptors, triggering cytokine-driven vasodilation and leak.",
+        "whyCorrect": "LPS interacts with toll-like receptors on immune cells, causing release of cytokines and other inflammatory factors. These dilate blood vessels and increase their permeability, lowering blood pressure and organ blood flow.",
         "whyWrongByChoice": {
-          "A": "The basal body anchors the flagellum within the cell wall and plasma membrane and has no role in antibiotic degradation.",
-          "B": "The peptidoglycan wall is the target of beta-lactam drugs rather than the compartment where the degrading enzyme is concentrated.",
-          "C": "The nucleoid is the central region of the cytoplasm containing the single circular chromosome, not a site of drug-degrading enzymes.",
-          "D": "The outer leaflet of the outer membrane carries lipopolysaccharide; beta-lactamase is not situated there."
+          "A": "A secreted paralytic toxin is an exotoxin, as with botulinum toxin; endotoxin is a structural component.",
+          "B": "Spores are dormant survival structures and do not cause shock by blocking vessels.",
+          "C": "Hemolysins help bacteria obtain iron; they are not how endotoxin causes shock.",
+          "D": "Chelators steal iron from host proteins; they do not cause vasodilation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "LPS",
+        "endotoxin",
+        "toll-like receptors",
+        "sepsis"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
+    },
+    {
+      "id": "mi53-004",
+      "stem": "A laboratory technician floods a smear with crystal violet, then iodide, and then a decolorizing agent. One organism remains deep purple after decolorization, while another has lost its color. Which feature of the purple organism explains its retention of the dye?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A cell wall rich in mycolic acids"
+        },
+        {
+          "label": "B",
+          "text": "A polysaccharide capsule layer"
+        },
+        {
+          "label": "C",
+          "text": "A thick peptidoglycan cell wall"
+        },
+        {
+          "label": "D",
+          "text": "An outer membrane containing porins"
+        },
+        {
+          "label": "E",
+          "text": "Sterols within the cytoplasmic membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thick peptidoglycan retains the crystal violet-iodide complex in gram-positives.",
+        "whyCorrect": "Gram-positive bacteria have thick peptidoglycan walls that hold the crystal violet-iodide complex after decolorization, so they appear deep purple or blue.",
+        "whyWrongByChoice": {
+          "A": "Mycolic acid-rich (atypical) bacteria are Gram nonreactive and are identified by acid-fast staining.",
+          "B": "Capsules do not bind most dyes and are not why gram-positives stay purple.",
+          "D": "An outer membrane with porins is a gram-negative feature; these cells lose the violet dye and take up safranin.",
+          "E": "Membrane sterols are a Mycoplasma exception and do not determine Gram reaction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Gram stain",
+        "gram-positive",
+        "peptidoglycan"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi53-005",
+      "stem": "A 45-year-old man has had a productive cough for several months. His sputum smear is stained with carbol fuchsin and then washed with a decolorizer; slender red rods stand out against a blue counterstained background. Which property of these rods allows them to keep the red dye?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A polysaccharide capsule that excludes the dye"
+        },
+        {
+          "label": "B",
+          "text": "A thick peptidoglycan layer with teichoic acids"
+        },
+        {
+          "label": "C",
+          "text": "Abundant porins in the outer membrane"
+        },
+        {
+          "label": "D",
+          "text": "Large amounts of mycolic acids in the wall"
+        },
+        {
+          "label": "E",
+          "text": "Lipopolysaccharide within an outer membrane"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mycolic acids make Mycobacteria and Nocardia acid-fast.",
+        "whyCorrect": "Acid-fast bacteria such as Mycobacteria have large amounts of mycolic acids in their cell walls that resist decolorization by acid alcohol, so they stay bright red while the background takes up methylene blue.",
+        "whyWrongByChoice": {
+          "A": "Capsules do not bind most dyes; they appear as clear halos with India ink.",
+          "B": "Thick peptidoglycan explains Gram-positive crystal violet retention, not resistance to acid alcohol.",
+          "C": "Porins are transport channels and do not retain carbol fuchsin.",
+          "E": "LPS is a gram-negative endotoxin and does not confer acid-fastness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acid-fast stain",
+        "Mycobacteria",
+        "mycolic acid"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi53-006",
+      "stem": "A bacterium recovered from a deep wound grows only in an oxygen-free culture chamber and dies quickly when exposed to room air. The patient is treated with metronidazole, a drug that exploits this organism's metabolism. Which deficiency accounts for the organism's sensitivity to air?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lack of enzymes for anaerobic fermentation"
+        },
+        {
+          "label": "B",
+          "text": "Lack of porins and lipopolysaccharide"
+        },
+        {
+          "label": "C",
+          "text": "Lack of secreted iron-chelating compounds"
+        },
+        {
+          "label": "D",
+          "text": "Lack of sterols in the cytoplasmic membrane"
+        },
+        {
+          "label": "E",
+          "text": "Lack of superoxide dismutase and catalase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Obligate anaerobes lack superoxide dismutase and catalase.",
+        "whyCorrect": "Obligate anaerobes cannot live in an oxygen atmosphere because they lack superoxide dismutase and catalase, the enzymes that protect against oxygen free radicals. Metronidazole exploits this metabolic weakness.",
+        "whyWrongByChoice": {
+          "A": "An organism lacking fermentation would fail without oxygen, the opposite of this pattern.",
+          "B": "Porins and LPS are outer membrane parts of gram-negatives and are unrelated to oxygen tolerance.",
+          "C": "Chelators help pathogens obtain scarce iron; they do not protect against oxygen radicals.",
+          "D": "Almost all bacteria lack membrane sterols, including aerobes, so this cannot explain oxygen toxicity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oxygen requirements",
+        "obligate anaerobe",
+        "metronidazole"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core"
+    },
+    {
+      "id": "mi53-007",
+      "stem": "Bacteria are inoculated into fresh broth. After an initial slow period, the population climbs so that the number of new cells formed at any moment is proportional to the number already present. This continues until space or nutrients run out. Which growth phase is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Death phase"
+        },
+        {
+          "label": "B",
+          "text": "Dormant phase"
+        },
+        {
+          "label": "C",
+          "text": "Exponential phase"
+        },
+        {
+          "label": "D",
+          "text": "Lag phase"
+        },
+        {
+          "label": "E",
+          "text": "Stationary phase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Exponential (log) phase: growth proportional to population size.",
+        "whyCorrect": "In the exponential (log) phase, growth is rapid and new cell production is proportional to the current population (1, 2, 4, 8...). It continues until resources such as space or nutrients are exhausted.",
+        "whyWrongByChoice": {
+          "A": "The death phase is a decline in the population.",
+          "B": "Dormancy with low CFUs describes the middle of a chronic infection, not rapid proportional growth.",
+          "D": "The lag phase is the initial slow period when bacteria mature and adapt.",
+          "E": "In the stationary phase new cells and dying cells roughly balance, so total count plateaus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "growth curve",
+        "exponential phase"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi53-008",
+      "stem": "Two patients have bacterial infections. Patient 1, a 19-year-old, has fever, headache, and neck stiffness that worsened over less than 2 days; CSF shows gram-negative diplococci. Patient 2 has a cough that developed slowly over months; sputum shows acid-fast organisms. Which property best explains the difference in the tempo of their illnesses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Organism 1 divides about daily; organism 2 about hourly"
+        },
+        {
+          "label": "B",
+          "text": "Organism 1 divides about hourly; organism 2 about daily"
+        },
+        {
+          "label": "C",
+          "text": "Organism 1 has a mycolic wall; organism 2 a thin wall"
+        },
+        {
+          "label": "D",
+          "text": "Organism 1 lacks a cell wall; organism 2 has a thick one"
+        },
+        {
+          "label": "E",
+          "text": "Organism 1 uses binary fission; organism 2 sporulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Division rate drives tempo: N. meningitidis about hourly vs M. tuberculosis about every 24 hours.",
+        "whyCorrect": "Neisseria meningitidis divides at least once per hour, so a few bacteria rapidly produce an invasive infection after a short prodrome. Mycobacterium tuberculosis divides about every 24 hours, so illness is chronic and slow to manifest.",
+        "whyWrongByChoice": {
+          "A": "This reverses the rates; the meningococcus is the fast divider.",
+          "C": "Mycolic acids belong to the acid-fast organism, not to the gram-negative diplococci.",
+          "D": "Gram-negative diplococci have a thin peptidoglycan wall between two membranes; they do not lack a wall.",
+          "E": "All clinically important bacteria discussed replicate by binary fission."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "periplasmic space",
-        "beta-lactamase",
-        "gram-negative"
+        "growth rate",
+        "Neisseria meningitidis",
+        "Mycobacterium tuberculosis",
+        "clinical correlation"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
-    },
-    {
-      "id": "mi01-006",
-      "stem": "Two clinical isolates are compared by electron microscopy. Isolate 1 has a thick peptidoglycan layer with anionic polymers interwoven through it and no outer membrane. Isolate 2 has a thin peptidoglycan layer sandwiched between two lipid membranes. Which of the following is found in isolate 1 but not isolate 2?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A plasma membrane"
-        },
-        {
-          "label": "B",
-          "text": "A polysaccharide capsule"
-        },
-        {
-          "label": "C",
-          "text": "Flagella"
-        },
-        {
-          "label": "D",
-          "text": "Lipoteichoic acid"
-        },
-        {
-          "label": "E",
-          "text": "Pili"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Teichoic and lipoteichoic acids are anionic polymers unique to the thick cell wall of gram-positive bacteria.",
-        "whyCorrect": "Isolate 1 has the gram-positive envelope: no outer membrane and a much thicker peptidoglycan layer. Teichoic acids and lipoteichoic acids are interwoven throughout that wall and contribute to its strength and stability. Gram-positive organisms also carry surface proteins that serve functions analogous to the periplasmic and outer membrane proteins of gram-negative bacteria.",
-        "whyWrongByChoice": {
-          "A": "Both envelopes include a plasma membrane; the gram-negative organism simply has an additional outer membrane.",
-          "B": "Capsules occur in some gram-positive and some gram-negative bacteria, so a capsule does not distinguish the two envelopes.",
-          "C": "Flagella are common to both gram-positive and gram-negative organisms.",
-          "E": "Pili are common to both gram-positive and gram-negative organisms."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "lipoteichoic acid",
-        "gram-positive",
-        "cell envelope"
-      ],
-      "topicId": "bacterial-structure-growth-and-staining",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
       "topicName": "Bacterial Structure, Growth, and Staining",
       "tier": "core",
       "hy": true
     },
     {
-      "id": "mi01-007",
-      "stem": "Peptidoglycan forms a strong, interconnected network that gives the bacterial cell wall its rigidity and characteristic shape. Which of the following features accounts for this interconnection between adjacent glycan strands?",
+      "id": "mi53-009",
+      "stem": "A Gram stain of pus from a skin abscess shows purple spherical cells bunched together like grapes. Which genus is most likely?",
       "choices": [
         {
           "label": "A",
-          "text": "Disulfide bridges linking adjacent surface proteins"
+          "text": "Escherichia"
         },
         {
           "label": "B",
-          "text": "Hydrogen bonds between adjacent porin channels"
+          "text": "Neisseria"
         },
         {
           "label": "C",
-          "text": "Hydrophobic stacking of mycolic acid chains"
+          "text": "Nocardia"
         },
         {
           "label": "D",
-          "text": "Ionic bridges formed between lipid A anchors"
+          "text": "Staphylococcus"
         },
         {
           "label": "E",
-          "text": "Peptide cross-links extending from N-acetylmuramic acid"
+          "text": "Streptococcus"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Peptidoglycan strands are joined by short peptide chains attached to N-acetylmuramic acid, creating the cross-linked mesh.",
-        "whyCorrect": "Peptidoglycan consists of repeating units of N-acetylglucosamine and N-acetylmuramic acid linked by beta-1,4 glycosidic bonds. A short peptide chain is attached to each N-acetylmuramic acid residue, and these peptides cross-link with neighboring strands. The resulting interconnected network is what gives the wall its strength and shape.",
+        "summary": "Gram-positive cocci in clusters = Staphylococcus.",
+        "whyCorrect": "Gram-positive (purple) cocci arranged in grape-like clusters are characteristic of Staphylococcus.",
         "whyWrongByChoice": {
-          "A": "Gram-positive bacteria have surface proteins, but the wall's mesh is built from cross-linked peptides on the glycan backbone, not from protein disulfide bridges.",
-          "B": "Porins are transport channels of the gram-negative outer membrane and do not link peptidoglycan strands.",
-          "C": "Mycolic acids are found in the walls of acid-fast bacteria and explain retention of carbol fuchsin, not the general architecture of peptidoglycan.",
-          "D": "Lipid A is the toxic anchor of lipopolysaccharide in the gram-negative outer membrane and is not part of the peptidoglycan mesh."
+          "A": "Escherichia coli is a gram-negative organism and would stain pink.",
+          "B": "Neisseria forms gram-negative (pink) diplococci, in pairs.",
+          "C": "Nocardia forms long thread-like filaments (hyphae) and is Gram nonreactive.",
+          "E": "Streptococcus forms gram-positive cocci in short single-file chains."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "morphology",
+        "grouping",
+        "Staphylococcus"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi53-010",
+      "stem": "A 4-month-old boy is brought in because he has not stooled for several days. Over the next day he drools excessively, has little facial expression, and becomes weak. His parents had been dipping his pacifier in honey. What is the pathogenesis of his illness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsule blocking phagocytes in the infant's blood"
+        },
+        {
+          "label": "B",
+          "text": "Endotoxin released from gram-negative rods in the gut"
+        },
+        {
+          "label": "C",
+          "text": "Flagellated bacteria swimming into the spinal cord"
+        },
+        {
+          "label": "D",
+          "text": "Ingested spores germinated in the gut and made toxin"
+        },
+        {
+          "label": "E",
+          "text": "Pili attaching bacteria directly to muscle fibers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Infant botulism: honey-borne spores germinate in the immature gut and produce paralytic toxin.",
+        "whyCorrect": "Clostridium botulinum spores can contaminate honey. An infant's immature gut cannot clear them, so they germinate into toxin-forming bacteria, and the paralytic toxin causes constipation, drooling, facial weakness, and muscle weakness.",
+        "whyWrongByChoice": {
+          "A": "A capsule helps evade phagocytosis but does not explain toxin-mediated paralysis.",
+          "B": "LPS endotoxin causes sepsis and shock, not descending paralysis with constipation.",
+          "C": "The illness results from toxin produced in the gut, not bacterial invasion of nerve tissue.",
+          "E": "Pili mediate adhesion; the paralysis here is caused by a toxin."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "peptidoglycan",
-        "cell wall",
-        "NAG-NAM"
+        "spores",
+        "Clostridium botulinum",
+        "infant botulism"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi53-011",
+      "stem": "A 70-year-old woman has a urinary tract infection caused by a gram-negative rod that fails to respond to a beta-lactam antibiotic. Testing shows the isolate produces an extended-spectrum beta-lactamase (ESBL). Where is this enzyme located, and how does it confer resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the capsule, trapping the drug in polysaccharide"
+        },
+        {
+          "label": "B",
+          "text": "In the cytoplasm, altering the ribosomes"
+        },
+        {
+          "label": "C",
+          "text": "In the nucleoid, rewriting penicillin-binding proteins"
+        },
+        {
+          "label": "D",
+          "text": "In the outer membrane, closing its porin channels"
+        },
+        {
+          "label": "E",
+          "text": "In the periplasmic space, cleaving the drug's ring"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gram-negative beta-lactamases act in the periplasmic space by hydrolyzing the beta-lactam ring.",
+        "whyCorrect": "Gram-negative beta-lactamases such as ESBLs, AmpC, and carbapenemases sit in the periplasmic space between the inner and outer membranes and hydrolyze the beta-lactam ring, so the drug cannot bind penicillin-binding proteins.",
+        "whyWrongByChoice": {
+          "A": "Capsules protect against phagocytosis; they are not the location of beta-lactamases.",
+          "B": "Ribosomes carry out translation and are not the target of beta-lactams or beta-lactamases.",
+          "C": "Beta-lactamases act on the drug itself in the periplasm, not within the nucleoid.",
+          "D": "Porins are outer membrane transport channels; beta-lactamases are periplasmic enzymes that destroy the drug."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antibiotic resistance",
+        "beta-lactamase",
+        "ESBL",
+        "periplasmic space"
+      ],
+      "topicId": "bacterial-structure-growth-and-staining-2026",
       "topicName": "Bacterial Structure, Growth, and Staining",
       "tier": "core"
     },
     {
-      "id": "mi01-008",
-      "stem": "Tears and saliva contain an enzyme that lyses many bacteria on contact, and gram-positive organisms are especially susceptible because their cell wall is more exposed. This enzyme acts by which of the following mechanisms?",
+      "id": "mi53-012",
+      "stem": "Tears and saliva contain an enzyme that helps protect the eyes and mouth from bacteria and is especially effective against gram-positive organisms. Which action of this enzyme, and which reason for its gram-positive preference, are correct?",
       "choices": [
         {
           "label": "A",
-          "text": "Binding lipid A and neutralizing endotoxin activity"
+          "text": "Breaks peptide cross-links within the periplasm"
         },
         {
           "label": "B",
-          "text": "Blocking nutrient transport through outer membrane porins"
+          "text": "Cleaves NAG-NAM bonds in an exposed wall"
         },
         {
           "label": "C",
-          "text": "Cleaving beta-1,4 linkages between NAG and NAM"
+          "text": "Degrades sterols in the cytoplasmic membrane"
         },
         {
           "label": "D",
-          "text": "Degrading the O antigen of lipopolysaccharide"
+          "text": "Dissolves mycolic acids in a waxy acid-fast wall"
         },
         {
           "label": "E",
-          "text": "Inserting pores into the bacterial plasma membrane"
+          "text": "Hydrolyzes lipid A in an exposed outer membrane"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Lysozyme cleaves the beta-1,4 linkages between N-acetylglucosamine and N-acetylmuramic acid, destroying peptidoglycan.",
-        "whyCorrect": "Lysozyme is found in tears, saliva, and other body fluids. It breaks the beta-1,4 linkages between N-acetylglucosamine and N-acetylmuramic acid, dismantling peptidoglycan and leading to bacterial cell lysis. Gram-positive bacteria are especially vulnerable because their thick wall is on the outside of the cell rather than buried beneath an outer membrane.",
+        "summary": "Lysozyme cleaves NAG-NAM beta-1,4 bonds; gram-positive walls are exposed.",
+        "whyCorrect": "Lysozyme breaks the beta-1,4 linkages between NAG and NAM, weakening peptidoglycan and causing lysis. It works especially well on gram-positives because their cell wall is more exposed, with no outer membrane covering it.",
         "whyWrongByChoice": {
-          "A": "Neutralizing lipid A would blunt endotoxin activity but would not lyse the organism, and gram-positive bacteria do not carry lipopolysaccharide.",
-          "B": "Blocking porins would restrict nutrient uptake in gram-negative bacteria; it does not explain lysis of gram-positive organisms.",
-          "D": "The O antigen is a lipopolysaccharide component of gram-negative bacteria and is not the substrate of this enzyme.",
-          "E": "Lysozyme attacks the peptidoglycan wall; membrane pore formation is not the described mechanism."
+          "A": "Gram-positives lack a periplasmic space, and lysozyme acts on the NAG-NAM glycosidic bonds.",
+          "C": "Most bacterial membranes lack sterols, and lysozyme targets peptidoglycan.",
+          "D": "Mycolic acids belong to acid-fast organisms, not to typical gram-positives.",
+          "E": "Gram-positives have no outer membrane or lipid A; LPS is exclusive to gram-negatives."
         }
       },
-      "difficulty": "medium",
+      "difficulty": "hard",
       "imageRef": null,
       "tags": [
         "lysozyme",
         "peptidoglycan",
-        "innate defense"
+        "gram-positive"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
       "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
-      "id": "mi01-009",
-      "stem": "A suspension of bacteria is treated with a compound that degrades peptidoglycan and is then placed in a hypotonic solution. Which of the following is the most likely outcome?",
+      "id": "mi54-001",
+      "stem": "A microbiologist grows an ampicillin-resistant E. coli strain together with a susceptible strain. Resistance spreads to the susceptible strain only when the cells are allowed to touch; separating the strains with a filter that passes free DNA and viruses but not cells prevents the spread. Which process best accounts for the transfer?",
       "choices": [
         {
           "label": "A",
-          "text": "The cells become resistant to acid-alcohol decolorization"
+          "text": "Binary fission"
         },
         {
           "label": "B",
-          "text": "The cells convert into dormant, heat-resistant spores"
+          "text": "Conjugation"
         },
         {
           "label": "C",
-          "text": "The cells shrink as water leaves the cytoplasm"
+          "text": "Generalized transduction"
         },
         {
           "label": "D",
-          "text": "The cells stop translating messenger RNA into protein"
+          "text": "Specialized transduction"
         },
         {
           "label": "E",
-          "text": "The cells swell and lyse from internal cytoplasmic pressure"
+          "text": "Transformation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Conjugation transfers plasmids from one bacterium to another through direct physical contact.",
+        "whyCorrect": "Conjugation requires a sex pilus from an F+ donor to attach to an F- recipient and form a mating bridge, so the cells must touch. A filter that blocks cells but passes DNA and phages abolishes only this mechanism. The transferred plasmids usually carry antibiotic resistance genes.",
+        "whyWrongByChoice": {
+          "A": "Binary fission produces clones of one cell and does not move genes between strains.",
+          "C": "A phage vector could cross the filter, so phage-mediated transfer would not be blocked.",
+          "D": "Temperate phages could also cross the filter; this mechanism needs no cell contact.",
+          "E": "Uptake of naked DNA would still occur across a filter that lets free DNA pass."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "horizontal gene transfer",
+        "conjugation"
+      ],
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi54-002",
+      "stem": "Heat-killed, lysed Streptococcus pneumoniae carrying a resistance marker are mixed with live susceptible S. pneumoniae. Live cells soon acquire the marker. Adding an enzyme that degrades free DNA to the medium completely prevents this, while blocking cell contact and removing phages do not. Which process is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conjugation"
+        },
+        {
+          "label": "B",
+          "text": "Generalized transduction"
+        },
+        {
+          "label": "C",
+          "text": "Site-specific recombination of the F plasmid"
+        },
+        {
+          "label": "D",
+          "text": "Specialized transduction"
+        },
+        {
+          "label": "E",
+          "text": "Transformation"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "The peptidoglycan cell wall is an exoskeleton that prevents osmotic lysis; destroying it causes the cell to burst.",
-        "whyCorrect": "The cell wall forms a strong exoskeleton that helps prevent lysis in hypotonic or isotonic solutions and gives bacteria their characteristic shape. If the peptidoglycan is damaged by antibiotics, enzymes, or other compounds, the bacterium lyses from the pressure of its own internal cytoplasm. This is why wall-active agents are bactericidal.",
+        "summary": "Transformation is uptake of naked DNA from the environment by a competent bacterium.",
+        "whyCorrect": "The DNA comes from dying or lysed cells and is taken up directly by competent bacteria such as S. pneumoniae, so destroying free DNA stops it. The absorbed DNA is integrated into the chromosome by homologous recombination.",
         "whyWrongByChoice": {
-          "A": "Resistance to acid-alcohol decolorization comes from mycolic acid in the wall of acid-fast organisms and is unrelated to peptidoglycan digestion.",
-          "B": "Sporulation is triggered by adverse physiologic conditions such as lack of nutrients, not by enzymatic loss of the wall.",
-          "C": "Water moves into the cell in a hypotonic environment, so the cell swells rather than shrinks.",
-          "D": "Translation occurs on free ribosomes in the cytoplasm and is not the immediate consequence of removing the wall."
+          "A": "Conjugation needs a mating bridge between living cells; blocking contact did not stop transfer here.",
+          "B": "Packaging of host DNA in a phage coat also depends on phages, which were removed.",
+          "C": "Integration of the F plasmid creates Hfr strains for conjugation, not uptake of free DNA.",
+          "D": "Phage-mediated transfer protects DNA inside a capsid and was excluded by removing phages."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "cell wall",
-        "osmotic lysis",
-        "peptidoglycan"
+        "horizontal gene transfer",
+        "transformation",
+        "competence"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
     },
     {
-      "id": "mi01-010",
-      "stem": "Two motile gram-negative rods are compared by electron microscopy. The first bears a single flagellum at one pole, as in Pseudomonas aeruginosa. The second bears flagella distributed over its entire surface. The arrangement seen in the second organism is best described by which of the following?",
+      "id": "mi54-003",
+      "stem": "During lytic growth of a phage in a bacterial culture, a few new phage particles contain randomly chosen fragments of host bacterial DNA instead of viral DNA. These particles then deliver the bacterial DNA into new host cells. Which process is described?",
       "choices": [
         {
           "label": "A",
-          "text": "Clustered, as in Staphylococcus species"
+          "text": "F+ x F- conjugation"
         },
         {
           "label": "B",
-          "text": "Diploid, as in Neisseria species"
+          "text": "Generalized transduction"
         },
         {
           "label": "C",
-          "text": "Hyphal, as in Nocardia species"
+          "text": "Hfr conjugation"
         },
         {
           "label": "D",
-          "text": "Peritrichous, as in Salmonella species"
+          "text": "Specialized transduction"
         },
         {
           "label": "E",
-          "text": "Polar, as in Pseudomonas species"
+          "text": "Transformation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Generalized transduction is a packaging process in which lytic phages mispackage random host DNA.",
+        "whyCorrect": "In generalized transduction, some phages produced during lytic growth are packaged with host bacterial DNA rather than viral DNA; these transducing phages carry random donor DNA into a new cell, where it is swapped into the chromosome by homologous recombination.",
+        "whyWrongByChoice": {
+          "A": "Plasmid transfer through a sex pilus does not involve phage particles.",
+          "C": "Transfer from a chromosome with an integrated F plasmid happens across a mating bridge, not inside phages.",
+          "D": "Specialized transduction is an excision process that carries only DNA adjacent to an integrated prophage, not random fragments.",
+          "E": "Uptake of naked DNA needs no phage vector."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transduction",
+        "generalized transduction"
+      ],
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi54-004",
+      "stem": "A nontoxigenic strain of Corynebacterium diphtheriae becomes toxin-producing after it is infected by a bacteriophage that does not lyse it. The new trait is passed to all daughter cells. Which event best explains how this strain acquired the toxin gene?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Integration of temperate phage DNA into the chromosome as a prophage"
+        },
+        {
+          "label": "B",
+          "text": "Random host DNA packaged into a lytic phage capsid"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous point mutation during DNA polymerase III replication"
+        },
+        {
+          "label": "D",
+          "text": "Transfer of an F plasmid through a mating bridge"
+        },
+        {
+          "label": "E",
+          "text": "Uptake of naked DNA released from lysed toxigenic cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Temperate phages integrate as prophages and often encode bacterial toxins such as diphtheria toxin.",
+        "whyCorrect": "A temperate bacteriophage injects viral DNA that incorporates into the host genome as a dormant prophage, which does not cause lysis and is passed to child cells. Temperate phages often carry genes for virulence proteins, with diphtheria, cholera, botulinum, Shiga-like and erythrogenic toxins as prime examples.",
+        "whyWrongByChoice": {
+          "B": "A transducing phage from generalized transduction carries random bacterial DNA, not the phage-borne toxin gene.",
+          "C": "A spontaneous mutation would not follow phage infection or create a toxin gene de novo in this way.",
+          "D": "Conjugation requires a sex pilus and mating bridge, not a phage.",
+          "E": "Transformation involves free DNA, not infection by a phage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "transduction",
+        "temperate phage",
+        "toxins"
+      ],
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi54-005",
+      "stem": "A 34-year-old man who recently hiked in a wooded area develops an expanding red skin lesion and is diagnosed with Lyme disease. He is started on doxycycline. Which bacterial structure does this drug target to stop protein production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30S small ribosomal subunit"
+        },
+        {
+          "label": "B",
+          "text": "40S small ribosomal subunit"
+        },
+        {
+          "label": "C",
+          "text": "50S large ribosomal subunit"
+        },
+        {
+          "label": "D",
+          "text": "60S large ribosomal subunit"
+        },
+        {
+          "label": "E",
+          "text": "Penicillin-binding proteins of the wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tetracyclines such as doxycycline target the 30S subunit of the bacterial 70S ribosome.",
+        "whyCorrect": "Bacterial ribosomes are 70S, composed of a 50S large and a 30S small subunit, and they differ from human 80S ribosomes, which makes them antibiotic targets. Doxycycline binds the 30S subunit and prevents bacterial protein production; it is commonly used for zoonotic infections such as Lyme disease and Rocky Mountain spotted fever.",
+        "whyWrongByChoice": {
+          "B": "The 40S is the small subunit of human 80S ribosomes.",
+          "C": "The 50S is the bacterial large subunit, but tetracyclines act on the small subunit.",
+          "D": "The 60S is the large subunit of human 80S ribosomes.",
+          "E": "Penicillin-binding proteins are the target of beta-lactams, which block peptidoglycan cross-linking."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ribosomes",
+        "tetracyclines",
+        "antibiotic targets"
+      ],
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi54-006",
+      "stem": "An E. coli isolate carries a beta-lactamase gene on its chromosome. After several generations, the same gene is found on a plasmid in the same cell and can then be shared with other bacteria. Which genetic element most directly allowed the gene to move from the chromosome onto the plasmid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacteriophage capsid"
+        },
+        {
+          "label": "B",
+          "text": "Competence factor"
+        },
+        {
+          "label": "C",
+          "text": "Origin of replication"
+        },
+        {
+          "label": "D",
+          "text": "Sex pilus"
+        },
+        {
+          "label": "E",
+          "text": "Transposon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transposons let DNA sequences jump within a genome, including between chromosome and plasmids.",
+        "whyCorrect": "Transposons contain enzyme-coding genes that allow transposition of DNA sequences, moving them around the genome and between chromosomal and plasmid DNA, often carrying drug resistance genes. Once on a plasmid, the beta-lactamase gene can be transferred to other bacteria by conjugation.",
+        "whyWrongByChoice": {
+          "A": "The capsid is the protein coat of a phage and stays outside the infected cell.",
+          "B": "Competence describes the ability to take up naked DNA from the environment.",
+          "C": "The origin is where replication or plasmid transfer begins; it does not relocate genes.",
+          "D": "The sex pilus forms the mating bridge for transfer between cells, not movement within one cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transposons",
+        "antibiotic resistance",
+        "plasmids"
+      ],
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi54-007",
+      "stem": "A researcher compares chromosome copying in E. coli with copying in human cells. Which feature is characteristic of the bacterial process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is slower because the genome is much longer"
+        },
+        {
+          "label": "B",
+          "text": "Replication occurs inside a membrane-bound nucleus"
+        },
+        {
+          "label": "C",
+          "text": "The products are two linear double-stranded chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "Unwinding begins at a single origin of replication"
+        },
+        {
+          "label": "E",
+          "text": "Unwinding proceeds without any helicase enzyme"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Flagella arranged all around the bacterium are peritrichous, as in Salmonella; a flagellum at one or both ends is polar, as in Pseudomonas aeruginosa.",
-        "whyCorrect": "Flagella are elongated protein filament cylinders anchored inside the cell wall and plasma membrane, and their whip-like motion propels the bacterium. Their arrangement is useful in identification: they may sit at one or both ends, which is polar, or all around the cell, which is peritrichous. Salmonella species are the example given for the peritrichous pattern.",
+        "summary": "Bacterial replication begins at a single origin, whereas human DNA has multiple origins.",
+        "whyCorrect": "A bacterial helicase unwinds the circular double-stranded chromosome starting at a single origin of replication, in contrast to the multiple origins on human DNA. DNA polymerase III then replicates and proofreads, yielding two identical circular chromosomes, and the shorter genome makes the process simpler and quicker.",
         "whyWrongByChoice": {
-          "A": "Clustering describes bacteria that bunch together like grapes, such as Staphylococcus, and is also a grouping pattern.",
-          "B": "Diploid describes bacteria that form pairs, such as Neisseria, and is a grouping pattern rather than a flagellar arrangement.",
-          "C": "Hyphae are long thread-like filaments formed by grouped bacteria such as Nocardia; this is a grouping pattern, not a flagellar arrangement.",
-          "E": "Polar describes the first organism, with a flagellum at one end, and does not describe surface-wide distribution."
+          "A": "The E. coli genome is far shorter than the human genome, and replication is quicker.",
+          "B": "Bacteria are prokaryotes and have no nucleus.",
+          "C": "The products are two circular double-stranded chromosomes.",
+          "E": "A bacterial helicase is required to unwind the strands."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "flagella",
-        "peritrichous",
-        "bacterial identification"
+        "DNA replication"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
-    },
-    {
-      "id": "mi01-011",
-      "stem": "A gram-negative rod colonizes the human intestinal lining using numerous tiny hair-like surface projections that carry proteins and glycoproteins capable of binding host surfaces. These projections serve which of the following primary functions?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Adhesion to host cells"
-        },
-        {
-          "label": "B",
-          "text": "Antibiotic resistance"
-        },
-        {
-          "label": "C",
-          "text": "Defense against predators"
-        },
-        {
-          "label": "D",
-          "text": "Ingestion of nutrients"
-        },
-        {
-          "label": "E",
-          "text": "Motility"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Pili and fimbriae carry adhesins and function primarily in adhesion to surfaces and host tissue.",
-        "whyCorrect": "Pili, also called fimbriae, appear as tiny hairs around a bacterium. They often bear adhesins, proteins or glycoproteins that play an integral role in attachment, allowing the organism to stick to environmental surfaces or to other organisms such as the human intestinal lining. Adhesion is their principal function.",
-        "whyWrongByChoice": {
-          "B": "Fimbriae have no known role in antibiotic resistance itself, although larger fimbriae can transfer resistance genes during conjugation.",
-          "C": "Fimbriae have no known role in defending the organism against predators.",
-          "D": "Fimbriae have no known role in the ingestion or uptake of nutrients.",
-          "E": "Motility is the function of flagella, whose whip-like motion propels the bacterium."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "pili",
-        "fimbriae",
-        "adhesins",
-        "adhesion"
-      ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
       "tier": "core",
       "hy": true
     },
     {
-      "id": "mi01-012",
-      "stem": "An Escherichia coli isolate acquires a drug resistance determinant from a neighboring bacterial cell during direct cell-to-cell contact. Which of the following bacterial structures mediates this transfer?",
+      "id": "mi54-008",
+      "stem": "In a mating experiment, a donor E. coli strain repeatedly passes segments of its chromosomal genes, not just plasmid genes, to F- recipients. Which property of the donor best explains this?",
       "choices": [
         {
           "label": "A",
-          "text": "Chromosomal nucleoid"
+          "text": "It carries a free F plasmid in its cytoplasm"
         },
         {
           "label": "B",
-          "text": "Flagellar filament"
+          "text": "It contains transposons flanking each chromosomal gene"
         },
         {
           "label": "C",
-          "text": "Larger fimbria (R-pilus)"
+          "text": "It harbors a temperate phage that is imprecisely excised"
         },
         {
           "label": "D",
-          "text": "Outer membrane porin"
+          "text": "It releases naked chromosomal DNA that recipients absorb"
         },
         {
           "label": "E",
-          "text": "Polysaccharide capsule"
+          "text": "Its F plasmid has been integrated into the chromosome"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Larger fimbriae, known as R-pili, carry out drug resistance transfer during bacterial conjugation.",
-        "whyCorrect": "Pili and fimbriae are the tiny hair-like appendages that normally mediate adhesion. The larger fimbriae, also called R-pili, are specifically involved in drug resistance transfer by bacterial conjugation, in which genetic material moves between cells in direct contact. This is one way resistance spreads within a bacterial population.",
+        "summary": "Hfr strains carry the F plasmid integrated into the chromosome and can transfer flanking chromosomal DNA.",
+        "whyCorrect": "In high-frequency recombination (Hfr) strains, the F plasmid is integrated into the chromosome by site-specific recombination. Transfer starts at the origin within the F sequence, so flanking chromosomal DNA can follow, usually only a fragment of the donor chromosome. In ordinary F+ x F- mating, there is no transfer of chromosomal DNA.",
         "whyWrongByChoice": {
-          "A": "The nucleoid is the cytoplasmic region holding the circular chromosome; it is the source of DNA, not the structure that transfers it.",
-          "B": "Flagella propel the bacterium and allow it to respond to chemical gradients; they do not transfer genetic material.",
-          "D": "Porins are transport channels for molecules crossing the gram-negative outer membrane, not a conjugation apparatus.",
-          "E": "The capsule is a polysaccharide layer that protects against phagocytosis and does not mediate gene transfer."
+          "A": "A free F plasmid in an F+ donor is transferred without chromosomal DNA.",
+          "B": "Transposons move sequences within a genome; they do not make conjugation carry chromosomal genes.",
+          "C": "Imprecise excision of a prophage is specialized transduction, a phage process.",
+          "D": "Release and uptake of free DNA is transformation and does not require mating with F- cells."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "R-pili",
         "conjugation",
-        "antimicrobial resistance"
+        "Hfr"
       ],
-      "topicId": "bacterial-structure-growth-and-staining",
-      "topicName": "Bacterial Structure, Growth, and Staining",
-      "tier": "core"
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core",
+      "hy": true
     },
     {
-      "id": "mi02-001",
-      "stem": "A laboratory is characterizing the genetic material of a clinical Escherichia coli isolate. Which of the following best describes the typical organization of this organism's chromosomal genome?",
+      "id": "mi54-009",
+      "stem": "An Hfr donor is mixed with an F- recipient, and mating pairs are sheared apart in a blender after only a few minutes, breaking the mating bridge. Which donor genes are most likely to have entered the recipient?",
       "choices": [
         {
           "label": "A",
-          "text": "A single circular molecule of double-stranded DNA"
+          "text": "A random selection of genes from across the chromosome"
         },
         {
           "label": "B",
-          "text": "A single circular molecule of single-stranded RNA"
+          "text": "Genes located closest to the origin of transfer"
         },
         {
           "label": "C",
-          "text": "A single linear chromosome paired with a homologous copy"
+          "text": "Genes located farthest from the origin of transfer"
         },
         {
           "label": "D",
-          "text": "Multiple linear chromosomes enclosed by a nuclear membrane"
+          "text": "Only the genes encoding the sex pilus"
         },
         {
           "label": "E",
-          "text": "Several circular chromosomes present in two copies each"
+          "text": "The complete donor chromosome"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "The bacterial genome is typically one circular, double-stranded DNA chromosome.",
-        "whyCorrect": "Bacteria are prokaryotes whose genome is typically a single, circular chromosome made of DNA. Replication of that molecule yields two identical circular double-stranded chromosomes. Additional DNA may be carried extrachromosomally in plasmids or in integrated viral DNA, but the chromosome itself is a single circular molecule.",
+        "summary": "Interrupted conjugation transfers only the genes nearest the origin of transfer.",
+        "whyCorrect": "Hfr transfer begins at the origin in the integrated F plasmid sequence and proceeds linearly. If the mating bridge breaks early, the recipient receives only part of the donor DNA, namely the genes closest to the origin. Timing the interruption in this way is useful for mapping gene order experimentally.",
         "whyWrongByChoice": {
-          "B": "The bacterial genome is DNA; single-stranded RNA genomes belong to certain viruses.",
-          "C": "Bacterial DNA is haploid and circular, so there is no paired linear homolog.",
-          "D": "Prokaryotes have no nuclear membrane, and the chromosome is not a set of linear molecules.",
-          "E": "Bacteria carry one set of chromosomal DNA; they do not maintain duplicate chromosome sets."
+          "A": "Conjugal transfer is ordered from the origin, not random; random fragments fit generalized transduction.",
+          "C": "Distant genes enter last and are the first to be lost when mating is interrupted.",
+          "D": "Transfer begins at the origin within the F sequence; it is not limited to pilus genes.",
+          "E": "Even uninterrupted Hfr transfer usually passes only a fragment of the donor chromosome."
         }
       },
-      "difficulty": "easy",
+      "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "bacterial genome",
-        "chromosome structure"
+        "conjugation",
+        "Hfr",
+        "gene mapping"
       ],
-      "topicId": "bacterial-reproduction-and-genetics",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
       "topicName": "Bacterial Reproduction and Genetics",
       "tier": "core"
     },
     {
-      "id": "mi02-002",
-      "stem": "A hospital isolate carries a segment of DNA that lies outside the chromosome, replicates on its own schedule, and most often encodes antibiotic resistance. This element is best described as which of the following?",
+      "id": "mi54-010",
+      "stem": "A single E. coli cell lands on a catheter surface and within hours establishes a large colony of genetically identical cells. Which process produced this colony?",
       "choices": [
         {
           "label": "A",
-          "text": "A plasmid"
+          "text": "Binary fission producing two clones per cycle"
         },
         {
           "label": "B",
-          "text": "A prophage"
+          "text": "Budding of daughter cells from a parent spore"
         },
         {
           "label": "C",
-          "text": "A ribosome"
+          "text": "Lysogeny of the cell by a temperate phage"
         },
         {
           "label": "D",
-          "text": "A sex pilus"
+          "text": "Mating of two cells that mix their chromosomes"
         },
         {
           "label": "E",
-          "text": "A transposon"
+          "text": "Repeated uptake of DNA from neighboring cells"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Plasmids are circular extrachromosomal DNA molecules that replicate independently and usually carry resistance genes.",
-        "whyCorrect": "Plasmids are independent of the bacterial genome and replicate independently of it. They most often contain genes encoding antibiotic resistance, and being extrachromosomal facilitates their ease of transfer between cells. Conjugation moves such plasmids from one bacterium to another.",
+        "summary": "Bacteria reproduce by binary fission, yielding two clones and doubling the population each cycle.",
+        "whyCorrect": "Bacteria are haploid and undergo clonal division rather than sexual reproduction. Each binary fission produces two clones of the same cell, so the population doubles every cycle, which makes colonization and invasion easy.",
         "whyWrongByChoice": {
-          "B": "A prophage is viral DNA integrated into the host chromosome, not an independently replicating resistance element.",
-          "C": "The ribosome is the 70S protein-synthesis machine of the cell, not a DNA element.",
-          "D": "The sex pilus is a surface appendage encoded by the F plasmid, not a DNA molecule.",
-          "E": "A transposon is a DNA sequence that jumps within a genome; it is not a self-replicating extrachromosomal element."
+          "B": "The lecture describes bacterial reproduction as division into two clones, not budding.",
+          "C": "A prophage becomes dormant within a cell; it does not generate the colony.",
+          "D": "Bacteria do not reproduce by mixing chromosomes from two parents.",
+          "E": "Uptake of free DNA is transformation, a gene-exchange mechanism, not reproduction."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "plasmid",
+        "binary fission",
+        "reproduction"
+      ],
+      "topicId": "bacterial-reproduction-and-genetics-2026",
+      "topicName": "Bacterial Reproduction and Genetics",
+      "tier": "core"
+    },
+    {
+      "id": "mi54-011",
+      "stem": "A patient with an E. coli infection is treated with amoxicillin but does not improve. The isolate produces an enzyme that destroys the drug before it can reach its target. What does this enzyme do?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alters the sex pilus receptor"
+        },
+        {
+          "label": "B",
+          "text": "Blocks entry of the drug through porins"
+        },
+        {
+          "label": "C",
+          "text": "Degrades beta-lactam antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Methylates the 30S ribosomal subunit"
+        },
+        {
+          "label": "E",
+          "text": "Pumps tetracyclines out of the cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Beta-lactamase is an enzyme that degrades beta-lactam antibiotics and provides resistance.",
+        "whyCorrect": "Ampicillin, amoxicillin and piperacillin are beta-lactams that bind penicillin-binding proteins and prevent cross-linking of the peptidoglycan cell wall. A cell carrying a beta-lactamase gene degrades these drugs, and the gene can spread on plasmids to other bacteria.",
+        "whyWrongByChoice": {
+          "A": "The sex pilus mediates conjugation and is unrelated to amoxicillin action.",
+          "B": "Reduced entry does not destroy the drug, which is what the stem describes.",
+          "D": "Amoxicillin acts on penicillin-binding proteins, not the 30S subunit; the stem describes drug destruction.",
+          "E": "Efflux of tetracyclines would not explain amoxicillin failure, and efflux does not destroy the drug."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-lactamase",
         "antibiotic resistance"
       ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi02-003",
-      "stem": "A student notes that bacterial genetics lacks the dominant and recessive allele relationships seen in human genetics. Which feature of bacterial cells best explains this?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Their DNA is copied by a polymerase that proofreads each strand"
-        },
-        {
-          "label": "B",
-          "text": "Their DNA is haploid, so only one set of chromosome is present"
-        },
-        {
-          "label": "C",
-          "text": "Their DNA is packaged inside a membrane-bound nuclear compartment"
-        },
-        {
-          "label": "D",
-          "text": "Their DNA is rebuilt from two parent cells at every division"
-        },
-        {
-          "label": "E",
-          "text": "Their DNA is transcribed but is never translated into protein"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Bacterial DNA is haploid, with only one set of chromosome, because bacteria divide clonally.",
-        "whyCorrect": "Bacterial DNA is haploid, meaning there is only one set of chromosome in the cell. This makes sense given that bacteria undergo clonal division rather than sexual reproduction, so a second parental genome is never contributed. With a single copy of each gene there is no pairing of alleles to be dominant or recessive.",
-        "whyWrongByChoice": {
-          "A": "Proofreading by DNA polymerase III affects error rate, not the number of gene copies in the cell.",
-          "C": "Bacteria are prokaryotes and have no nucleus in which to package DNA.",
-          "D": "Bacteria produce two clones of the same cell by binary fission; no second parent contributes DNA.",
-          "E": "Bacteria both transcribe and translate their DNA, using their own 70S ribosomes."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "haploid genome",
-        "clonal division"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
       "topicName": "Bacterial Reproduction and Genetics",
       "tier": "core"
     },
     {
-      "id": "mi02-004",
-      "stem": "Which of the following correctly describes the ribosome of a bacterial cell?",
+      "id": "mi54-012",
+      "stem": "An F+ E. coli cell forms a mating bridge with an F- cell. Which describes the DNA that crosses the bridge and what happens next?",
       "choices": [
         {
           "label": "A",
-          "text": "60S, composed of a 40S large subunit and a 30S small subunit"
+          "text": "A random chromosome fragment crosses and recombines homologously"
         },
         {
           "label": "B",
-          "text": "70S, composed of a 50S large subunit and a 30S small subunit"
+          "text": "Both plasmid strands cross and the donor loses its plasmid"
         },
         {
           "label": "C",
-          "text": "70S, composed of a 60S large subunit and a 40S small subunit"
+          "text": "Both plasmid strands cross, along with a large chromosome segment"
         },
         {
           "label": "D",
-          "text": "80S, composed of a 50S large subunit and a 30S small subunit"
+          "text": "One chromosome strand crosses, starting at the chromosomal origin"
         },
         {
           "label": "E",
-          "text": "80S, composed of a 60S large subunit and a 40S small subunit"
+          "text": "One plasmid strand crosses, and each cell then synthesizes its complement"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "Bacterial ribosomes are 70S (50S + 30S); human ribosomes are 80S (60S + 40S).",
-        "whyCorrect": "Bacterial and human ribosomes differ in size and structure. The bacterial ribosome is 70S and is built from a 50S large subunit and a 30S small subunit. That structural difference from the human 80S ribosome is what makes the bacterial ribosome a usable antibiotic target.",
+        "summary": "In F+ x F- conjugation, one strand of the F plasmid crosses and both cells restore the double strand.",
+        "whyCorrect": "A single strand of the double-stranded F plasmid is transferred across the mating bridge, starting at the origin of the plasmid, and no chromosomal DNA is transferred. Each bacterium then synthesizes the complementary strand, restoring a double-stranded plasmid in both cells.",
         "whyWrongByChoice": {
-          "A": "60S is a eukaryotic large subunit; no ribosome has this described composition.",
-          "C": "The 60S and 40S subunits belong to the human 80S ribosome, not to a 70S ribosome.",
-          "D": "The 50S and 30S subunits combine to form a 70S ribosome, not an 80S ribosome.",
-          "E": "This is the human (eukaryotic) 80S ribosome, not the bacterial one."
+          "A": "Random chromosomal fragments recombining homologously fits generalized transduction or transformation.",
+          "B": "Only one strand is transferred, and the donor retains a complete double-stranded plasmid.",
+          "C": "Only a single plasmid strand crosses, and F+ x F- mating transfers no chromosomal DNA.",
+          "D": "Chromosomal DNA is not transferred in F+ x F- mating; that occurs only in Hfr strains."
         }
       },
-      "difficulty": "easy",
+      "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "ribosome",
-        "70S vs 80S"
+        "conjugation",
+        "F plasmid"
       ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi02-005",
-      "stem": "A 40-year-old man who removed an attached tick 10 days ago now has fever, headache, and a spreading rash. He is treated with doxycycline. This drug produces its antibacterial effect by binding which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bacterial DNA polymerase III at the replication fork"
-        },
-        {
-          "label": "B",
-          "text": "Penicillin-binding proteins of the bacterial cell wall"
-        },
-        {
-          "label": "C",
-          "text": "The 30S small subunit of the bacterial ribosome"
-        },
-        {
-          "label": "D",
-          "text": "The 50S large subunit of the bacterial ribosome"
-        },
-        {
-          "label": "E",
-          "text": "The 60S large subunit of the human ribosome"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Tetracyclines such as doxycycline bind the 30S subunit of the bacterial ribosome and block protein production.",
-        "whyCorrect": "Tetracyclines, including doxycycline, target the 30S subunit of the bacterial ribosome and thereby prevent bacterial protein production. Doxycycline is a common choice in zoonotic infections such as Lyme disease and Rocky Mountain spotted fever, which fits this tick-exposure vignette.",
-        "whyWrongByChoice": {
-          "A": "Doxycycline inhibits protein production and does not act on DNA replication enzymes.",
-          "B": "Penicillin-binding proteins are the target of β-lactam antibiotics such as ampicillin.",
-          "D": "Tetracyclines act at the 30S small subunit rather than at the 50S large subunit.",
-          "E": "The human 80S ribosome and its 60S subunit are spared; that selectivity is why the drug is usable."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "tetracyclines",
-        "30S subunit",
-        "zoonotic infection"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
+      "topicId": "bacterial-reproduction-and-genetics-2026",
       "topicName": "Bacterial Reproduction and Genetics",
       "tier": "core"
     },
     {
-      "id": "mi02-006",
-      "stem": "An antimicrobial agent inhibits protein synthesis in a Streptococcus culture but leaves cultured human cells unaffected at the same concentration. Which of the following best accounts for this selectivity?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bacterial and human ribosomes differ in size and in structure"
-        },
-        {
-          "label": "B",
-          "text": "Bacterial cells contain a nucleus that excludes the drug"
-        },
-        {
-          "label": "C",
-          "text": "Bacterial cells lack ribosomes and import protein from the host"
-        },
-        {
-          "label": "D",
-          "text": "Human cells lack ribosomes and do not synthesize any protein"
-        },
-        {
-          "label": "E",
-          "text": "Human cells replicate their chromosomes from a single origin"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Antibiotics can target bacterial ribosomes because the 70S bacterial ribosome differs structurally from the human 80S ribosome.",
-        "whyCorrect": "Bacterial cells carry much of the same molecular machinery as human cells, including ribosomes. Because bacterial ribosomes differ in size and structure from human ribosomes (70S with 50S and 30S subunits versus 80S with 60S and 40S subunits), they are common targets for antibiotics that spare the host.",
-        "whyWrongByChoice": {
-          "B": "Bacteria are prokaryotes and have no nucleus.",
-          "C": "Bacteria carry their own 70S ribosomes and make their own protein.",
-          "D": "Human cells have 80S ribosomes and synthesize protein continuously.",
-          "E": "Origin number is a feature of DNA replication, and it is humans who use multiple origins."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "ribosome",
-        "selective toxicity"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
-    },
-    {
-      "id": "mi02-007",
-      "stem": "A single bacterial cell contaminating a nutrient broth divides by binary fission without restriction. Approximately how many cells are present after 30 division cycles?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "1 billion cells"
-        },
-        {
-          "label": "B",
-          "text": "1 thousand cells"
-        },
-        {
-          "label": "C",
-          "text": "1 trillion cells"
-        },
-        {
-          "label": "D",
-          "text": "30 cells"
-        },
-        {
-          "label": "E",
-          "text": "60 cells"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Because binary fission doubles the population each cycle, 30 cycles yield roughly 1 billion cells.",
-        "whyCorrect": "Bacterial cells reproduce by binary fission, producing two clones of the same cell, so the population doubles every cycle. After 30 cycles approximately 1 billion bacterial cells are present. That explosive growth is what makes colonization and invasion so easy for bacteria.",
-        "whyWrongByChoice": {
-          "B": "About a thousand cells is reached after roughly 10 doublings, not 30.",
-          "C": "A trillion cells would require substantially more than 30 doublings.",
-          "D": "Thirty is the number of division cycles; each cycle doubles the population rather than adding one cell.",
-          "E": "Sixty would result from adding two cells per cycle, not from doubling."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "binary fission",
-        "growth kinetics"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
-    },
-    {
-      "id": "mi02-008",
-      "stem": "Before a bacterium can cause infection it must first colonize, that is, establish a colony of many cells at the site. By which process do bacterial cells increase their numbers to accomplish this?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Binary fission, generating two clones of the parent cell"
-        },
-        {
-          "label": "B",
-          "text": "Budding, generating a daughter from a parental protrusion"
-        },
-        {
-          "label": "C",
-          "text": "Conjugation, generating a hybrid cell from two parents"
-        },
-        {
-          "label": "D",
-          "text": "Meiosis, generating four genetically distinct daughter cells"
-        },
-        {
-          "label": "E",
-          "text": "Transduction, generating progeny inside a viral capsid"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Bacteria multiply by binary fission, which yields two clones of the dividing cell.",
-        "whyCorrect": "Bacterial cells reproduce by binary fission, or dividing, which results in two clones of the same bacterial cell. Repeated fission doubles the population each cycle and rapidly builds the colony needed for colonization and invasion.",
-        "whyWrongByChoice": {
-          "B": "Budding describes growth of organisms such as yeast, not bacterial division.",
-          "C": "Conjugation transfers a plasmid between two cells but does not increase cell number.",
-          "D": "Meiosis is a eukaryotic reduction division; bacteria are haploid and divide clonally.",
-          "E": "Transduction is DNA transfer by a bacteriophage, not a mode of bacterial replication."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "binary fission",
-        "colonization"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
-    },
-    {
-      "id": "mi02-009",
-      "stem": "Replication of the chromosome of Escherichia coli is compared with replication of a human chromosome. Which of the following is characteristic of the bacterial process?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Replication begins at a single origin on the chromosome"
-        },
-        {
-          "label": "B",
-          "text": "Replication begins at multiple origins along the same chromosome"
-        },
-        {
-          "label": "C",
-          "text": "Replication is completed within a nuclear compartment"
-        },
-        {
-          "label": "D",
-          "text": "Replication proceeds in only one direction from the origin"
-        },
-        {
-          "label": "E",
-          "text": "Replication yields two linear daughter chromosomes"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Bacterial DNA replication starts at a single origin, in contrast to the multiple origins used by humans.",
-        "whyCorrect": "The circular, chromosomal, double-stranded bacterial DNA is unwound by a bacterial helicase that starts at a single origin of replication. Humans, in contrast, have multiple origins of replication on the same DNA strand. From that single bacterial origin, replication then proceeds in both directions.",
-        "whyWrongByChoice": {
-          "B": "Multiple origins on one strand is the human pattern, not the bacterial one.",
-          "C": "Bacteria are prokaryotes and have no nucleus in which replication could occur.",
-          "D": "Replication proceeds in both directions from the bacterial origin of replication.",
-          "E": "The bacterial product is two identical circular double-stranded chromosomes."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "DNA replication",
-        "origin of replication"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi02-010",
-      "stem": "The first step in replication of the circular bacterial chromosome is separation of the two parental strands at the origin. Which enzyme performs this step?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "DNA polymerase III"
-        },
-        {
-          "label": "B",
-          "text": "Helicase"
-        },
-        {
-          "label": "C",
-          "text": "Reverse transcriptase"
-        },
-        {
-          "label": "D",
-          "text": "Transposase"
-        },
-        {
-          "label": "E",
-          "text": "β-lactamase"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "A bacterial helicase unwinds the double-stranded circular chromosome at the single origin of replication.",
-        "whyCorrect": "Before bacteria can divide they must replicate their DNA, and the circular double-stranded chromosome is first unwound by a bacterial helicase acting at the single origin of replication. Only after unwinding can DNA polymerase III copy the exposed strands.",
-        "whyWrongByChoice": {
-          "A": "DNA polymerase III synthesizes and proofreads the new strand after the DNA has been unwound.",
-          "C": "Reverse transcriptase copies RNA into DNA and is not part of bacterial chromosome replication.",
-          "D": "Transposase-type enzymes cleave and ligate at transposon sequences to relocate genes.",
-          "E": "β-lactamase degrades penicillin molecules and plays no role in DNA replication."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "helicase",
-        "DNA replication"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
-    },
-    {
-      "id": "mi02-011",
-      "stem": "After the bacterial chromosome is unwound at the origin, new DNA strands are synthesized and are simultaneously proofread. Which enzyme is chiefly responsible for this?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bacterial helicase"
-        },
-        {
-          "label": "B",
-          "text": "DNA polymerase III"
-        },
-        {
-          "label": "C",
-          "text": "Penicillin-binding protein"
-        },
-        {
-          "label": "D",
-          "text": "Phage integrase"
-        },
-        {
-          "label": "E",
-          "text": "RNA polymerase"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "DNA polymerase III replicates the bacterial DNA strand while proofreading the daughter strand.",
-        "whyCorrect": "Once helicase has unwound the chromosome, DNA polymerase III replicates the DNA strand while simultaneously proofreading the child strand. Bacterial DNA replication is mainly mediated by this enzyme, and the result is two identical circular double-stranded chromosomes.",
-        "whyWrongByChoice": {
-          "A": "Helicase unwinds the double helix but does not synthesize new DNA.",
-          "C": "Penicillin-binding proteins cross-link the peptidoglycan cell wall.",
-          "D": "Phage integrase inserts viral DNA into the host chromosome during lysogeny.",
-          "E": "RNA polymerase carries out transcription, producing RNA from a DNA template."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "DNA polymerase III",
-        "proofreading"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
-    },
-    {
-      "id": "mi02-012",
-      "stem": "Replication of the Escherichia coli chromosome is simpler and quicker than replication of a human chromosome. Which of the following best explains this difference?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The bacterial genome contains about 245 million base pairs"
-        },
-        {
-          "label": "B",
-          "text": "The bacterial genome contains about 5 million base pairs"
-        },
-        {
-          "label": "C",
-          "text": "The bacterial genome is copied by host nuclear enzymes"
-        },
-        {
-          "label": "D",
-          "text": "The bacterial genome is copied only during the S phase"
-        },
-        {
-          "label": "E",
-          "text": "The bacterial genome is copied without any proofreading step"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The E. coli chromosome is roughly 5 million base pairs versus about 245 million in humans, so replication is shorter and faster.",
-        "whyCorrect": "Bacterial DNA replication is very similar to that in humans, but bacterial DNA is much shorter, approximately 5 million base pairs in Escherichia coli compared with about 245 million in humans. Because the molecule to be copied is far smaller, the process is simpler and quicker, and E. coli can divide as often as every 20 minutes.",
-        "whyWrongByChoice": {
-          "A": "About 245 million base pairs is the approximate human figure, not the bacterial one.",
-          "C": "Bacteria use their own replication enzymes and have no nucleus.",
-          "D": "S phase is a eukaryotic cell-cycle concept; bacteria replicate as they divide clonally.",
-          "E": "DNA polymerase III does proofread the daughter strand while replicating it."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "genome size",
-        "DNA replication"
-      ],
-      "topicId": "bacterial-reproduction-and-genetics",
-      "topicName": "Bacterial Reproduction and Genetics",
-      "tier": "core"
-    },
-    {
-      "id": "mi03-001",
-      "stem": "A medical student is reviewing the distribution of the human microbiota and is asked to identify the body site that harbors the greatest number of normal flora microbes in a healthy adult. Which of the following sites is correct?",
+      "id": "mi55-001",
+      "stem": "A researcher quantifies resident microbes in samples taken from several body sites of a healthy adult. Which site is expected to harbor the greatest number of microbes?",
       "choices": [
         {
           "label": "A",
@@ -1138,61 +1152,15 @@
         },
         {
           "label": "B",
-          "text": "Lungs"
-        },
-        {
-          "label": "C",
-          "text": "Saliva"
-        },
-        {
-          "label": "D",
-          "text": "Skin"
-        },
-        {
-          "label": "E",
-          "text": "Stomach"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "By far the highest concentration of normal flora is in the colon, which holds roughly 10^14 (10 to 100 trillion) microbes.",
-        "whyCorrect": "Microbial density rises steeply as one descends the GI tract, and the colon carries approximately 10^14 organisms, mostly anaerobes. No other site approaches this number. The acidic stomach and the relatively nutrient-poor proximal small bowel hold far fewer organisms.",
-        "whyWrongByChoice": {
-          "B": "The upper lobes of the lungs are only lightly populated, with a few million microbes.",
-          "C": "Saliva carries about 10^11 microbes, well below colonic numbers.",
-          "D": "Skin carries about 10^11 microbes, three orders of magnitude fewer than the colon.",
-          "E": "The stomach holds about 10^7 microbes because acid destroys most ingested organisms."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "normal flora",
-        "microbiota distribution"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
-    },
-    {
-      "id": "mi03-002",
-      "stem": "A healthy 30-year-old man undergoes a lecture demonstration in which cultures are taken from several body sites. Which of the following sites should be sterile in a healthy person?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Blood"
-        },
-        {
-          "label": "B",
           "text": "Dental plaque"
         },
         {
           "label": "C",
-          "text": "Ileum"
+          "text": "Skin"
         },
         {
           "label": "D",
-          "text": "Saliva"
+          "text": "Stomach"
         },
         {
           "label": "E",
@@ -1201,262 +1169,123 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Blood, along with the central nervous system, heart, liver, spleen, bones, joints, and most internal organs, is normally sterile.",
-        "whyCorrect": "Normal flora colonize surfaces that communicate with the outside world. Internal compartments such as the bloodstream are kept free of microbes, and the presence of organisms there represents dysbiosis or infection rather than normal colonization.",
+        "summary": "The colon carries by far the most normal flora, about 10^14 microbes.",
+        "whyCorrect": "Microbe concentration rises steeply as one descends the GI tract, and the colon holds the highest concentration of normal flora, about 10^14 organisms. These are mostly anaerobes such as Bacteroides species.",
         "whyWrongByChoice": {
-          "B": "Dental plaque is one of the most densely colonized sites, with about 10^12 microbes.",
-          "C": "The ileum carries about 10^11 microbes, including Lactobacillus and Bacteroides species.",
-          "D": "Saliva carries about 10^11 microbes, including Streptococcus and Actinomyces species.",
-          "E": "The vagina carries about 10^7 to 10^8 microbes, dominated by Lactobacillus species."
+          "B": "Dental plaque is dense (about 10^12) but still about 100-fold below the large bowel.",
+          "C": "Skin carries about 10^11 microbes, far fewer than the large bowel.",
+          "D": "Gastric acidity limits growth; the stomach holds only about 10^7 microbes.",
+          "E": "The vagina holds roughly 10^7 to 10^8 microbes."
         }
       },
       "difficulty": "easy",
       "imageRef": null,
       "tags": [
-        "sterile sites",
-        "normal flora"
+        "normal flora distribution",
+        "GI tract"
       ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
-    },
-    {
-      "id": "mi03-003",
-      "stem": "A 25-year-old woman undergoes a routine pelvic examination. Vaginal secretions are tested and the pH is 4.0. Which of the following best explains this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Candida species ferment glycogen into ethanol and acetate"
-        },
-        {
-          "label": "B",
-          "text": "Enterococcus species hydrolyze urea into ammonia and carbonate"
-        },
-        {
-          "label": "C",
-          "text": "Gardnerella species convert epithelial proteins into amines"
-        },
-        {
-          "label": "D",
-          "text": "Lactobacillus species ferment glycogen into lactic acid"
-        },
-        {
-          "label": "E",
-          "text": "Streptococcus species convert oxygen into hydrogen peroxide"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Lactobacillus species keep the vagina at a pH of about 4 by fermenting glycogen to lactic acid.",
-        "whyCorrect": "Lactobacillus species dominate the vaginal flora and, as their name implies, generate lactic acid from glycogen supplied by the vaginal epithelium. Most microbes tolerate acid poorly, so this indirectly inhibits pathogens and prevents overgrowth of other normal flora.",
-        "whyWrongByChoice": {
-          "A": "Candida is a normal vaginal colonizer but is not the source of vaginal acidity.",
-          "B": "Ammonia production would raise, not lower, the vaginal pH.",
-          "C": "Amine release by Gardnerella produces the fishy odor of bacterial vaginosis, not a pH of 4.",
-          "E": "Hydrogen peroxide generation by Streptococcus is not the mechanism taught for vaginal pH."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Lactobacillus",
-        "vaginal flora",
-        "pH"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
       "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core",
       "hy": true
     },
     {
-      "id": "mi03-004",
-      "stem": "A 62-year-old postmenopausal woman is evaluated for recurrent vaginal discharge. Vaginal pH is 5.0. Which of the following best explains the change in her vaginal pH?",
+      "id": "mi55-002",
+      "stem": "A 68-year-old woman develops cramping, abdominal tenderness, and watery diarrhea 12 times a day after 2 weeks of broad-spectrum antibiotics for pneumonia. Colonoscopy shows yellow-white membranous plaques adherent to the mucosa. Which of the following best explains how her illness arose?",
       "choices": [
         {
           "label": "A",
-          "text": "Chronic Candida colonization neutralizes the vaginal lactic acid"
+          "text": "Direct toxicity of the antibiotic to the colonic epithelium"
         },
         {
           "label": "B",
-          "text": "Declining estrogen reduces the glycogen available to Lactobacillus"
+          "text": "Ingestion of a preformed toxin in contaminated food"
         },
         {
           "label": "C",
-          "text": "Loss of Gardnerella allows colonization by acid-consuming anaerobes"
+          "text": "Invasion of the colonic wall by an inhaled respiratory pathogen"
         },
         {
           "label": "D",
-          "text": "Rising estrogen drives glycogen release and Lactobacillus overgrowth"
+          "text": "Overgrowth of a resident gut organism after loss of competing flora"
         },
         {
           "label": "E",
-          "text": "Thinning of the vaginal wall increases local bicarbonate secretion"
+          "text": "Translocation of colonic bacteria into the peritoneal cavity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Antibiotics kill competing gut flora, letting resident C. difficile overgrow and cause pseudomembranous colitis.",
+        "whyCorrect": "C. difficile is normal flora of the lower GI tract, normally held in check by other flora competing for space and food. Antibiotics remove that competition, so C. difficile overgrows and its toxins damage the lining, producing yellow-white pseudomembranes and watery diarrhea.",
+        "whyWrongByChoice": {
+          "A": "The antibiotic acts indirectly by killing competing flora; bacterial toxins damage the lining.",
+          "B": "The organism involved is already a member of lower GI flora; this is not a food-borne intoxication.",
+          "C": "The disease arises from the patient's own gut flora, not from spread of her pneumonia pathogen.",
+          "E": "Spillage into the peritoneum causes peritonitis, not mucosal pseudomembranes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C. difficile",
+        "pseudomembranous colitis",
+        "dysbiosis"
+      ],
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi55-003",
+      "stem": "A 30-year-old woman who douches regularly reports a thin, grayish discharge with a strong fishy odor. She has little itching or pain. Pelvic examination shows the walls coated with thin gray discharge and minimal inflammation. Overgrowth of which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Gardnerella vaginalis"
+        },
+        {
+          "label": "C",
+          "text": "Lactobacillus species"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus saprophyticus"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Estrogen drives glycogen release from vaginal epithelium; as estrogen falls with age, Lactobacillus has less fuel for lactic acid and the pH rises toward 5.",
-        "whyCorrect": "Estrogen promotes release of glycogen from the vaginal epithelium, and that glycogen is the substrate Lactobacillus ferments into lactic acid. With age, estrogen levels diminish, less lactic acid is produced, and vaginal pH approaches 5, increasing the risk of overgrowth of normal flora and infection by pathogens.",
+        "summary": "Bacterial vaginosis is usually caused by overgrowth of Gardnerella vaginalis.",
+        "whyCorrect": "Bacterial vaginosis presents with a thin white or grayish discharge with a fishy smell from released amines, minimal inflammation, and little pain. Douching is a common risk factor, and the usual cause is overgrowth of Gardnerella vaginalis.",
         "whyWrongByChoice": {
-          "A": "Candida overgrowth is a consequence of dysbiosis, not a cause of a rising vaginal pH.",
-          "C": "Gardnerella is an opportunist that can overgrow when pH rises; its loss does not raise the pH.",
-          "D": "Estrogen falls rather than rises after menopause, and more estrogen would lower rather than raise the pH.",
-          "E": "Bicarbonate secretion by the atrophic vaginal wall is not the mechanism described for this change."
+          "A": "Candida causes thick white discharge with intense itching and inflammation.",
+          "C": "Lactobacillus is the protective dominant flora that keeps the pH near 4.",
+          "D": "S. saprophyticus is a urinary tract pathogen, not a cause of this discharge.",
+          "E": "S. pneumoniae is nasopharyngeal flora associated with otitis media."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "estrogen",
-        "glycogen",
-        "vaginal flora"
+        "bacterial vaginosis",
+        "Gardnerella"
       ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi03-005",
-      "stem": "A physician explains to a patient that her vaginal pH has risen from 4 to 5. Compared with a pH of 4, a pH of 5 corresponds to which of the following changes in hydrogen ion concentration?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A 2-fold increase"
-        },
-        {
-          "label": "B",
-          "text": "A 5-fold increase"
-        },
-        {
-          "label": "C",
-          "text": "A 10-fold decrease"
-        },
-        {
-          "label": "D",
-          "text": "A 10-fold increase"
-        },
-        {
-          "label": "E",
-          "text": "A 100-fold decrease"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The pH scale is logarithmic, so a one-unit rise from 4 to 5 is a 10-fold decrease in hydrogen ion concentration.",
-        "whyCorrect": "A shift in pH from 4 to 5 may look small, but because pH is logarithmic it means ten times fewer hydrogen ions. That loss of acidity meaningfully increases the risk of overgrowth of normal flora and infection by pathogenic microbes.",
-        "whyWrongByChoice": {
-          "A": "A doubling would correspond to a change of about 0.3 pH units, not a full unit.",
-          "B": "A 5-fold change does not correspond to a one-unit shift on a base-10 logarithmic scale.",
-          "D": "A rising pH means fewer, not more, hydrogen ions.",
-          "E": "A 100-fold decrease corresponds to a two-unit rise, such as pH 4 to pH 6."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "pH",
-        "vaginal flora"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
       "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core"
     },
     {
-      "id": "mi03-006",
-      "stem": "A newborn is delivered vaginally at term. Cultures taken from the infant shortly after birth are most likely to grow which of the following organisms?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bacteroides species"
-        },
-        {
-          "label": "B",
-          "text": "Corynebacterium species"
-        },
-        {
-          "label": "C",
-          "text": "Lactobacillus species"
-        },
-        {
-          "label": "D",
-          "text": "Propionibacterium species"
-        },
-        {
-          "label": "E",
-          "text": "Staphylococcus species"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Infants delivered vaginally initially acquire flora resembling the maternal vaginal flora, such as Lactobacillus species.",
-        "whyCorrect": "Our symbiotic relationship with microbes begins at birth, and the route of delivery shapes the first flora acquired. Passage through the birth canal seeds the infant with vaginal organisms, of which Lactobacillus is the dominant member.",
-        "whyWrongByChoice": {
-          "A": "Bacteroides is a colonic anaerobe rather than a characteristic first colonizer at birth.",
-          "B": "Corynebacterium is a skin organism acquired by infants delivered by cesarean section.",
-          "D": "Propionibacterium is a skin organism typical of infants delivered by cesarean section.",
-          "E": "Staphylococcus is a skin organism typical of infants delivered by cesarean section."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "neonatal colonization",
-        "Lactobacillus"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
-    },
-    {
-      "id": "mi03-007",
-      "stem": "A term infant is delivered by cesarean section. During the first days of life, the infant's skin and gut are colonized with organisms resembling those of the primary caregiver's skin. Which of the following groups is most likely to be recovered?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Enterococcus, Escherichia, and Clostridium species"
-        },
-        {
-          "label": "B",
-          "text": "Lactobacillus, Bacteroides, and Bifidobacterium species"
-        },
-        {
-          "label": "C",
-          "text": "Staphylococcus, Corynebacterium, and Propionibacterium species"
-        },
-        {
-          "label": "D",
-          "text": "Streptococcus, Actinomyces, and Candida species"
-        },
-        {
-          "label": "E",
-          "text": "Veillonella, Fusobacterium, and Prevotella species"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Infants born by cesarean section first acquire flora that resembles the primary caregiver's skin flora.",
-        "whyCorrect": "Because the infant does not pass through the birth canal, the earliest colonizers come from skin contact with caregivers. Staphylococcus, Corynebacterium, and Propionibacterium species are the characteristic skin organisms transferred in this way.",
-        "whyWrongByChoice": {
-          "A": "These organisms are members of the colonic flora rather than skin flora.",
-          "B": "These organisms reflect vaginal and colonic flora, typical after vaginal delivery.",
-          "D": "These are oral and salivary organisms rather than the skin flora of a caregiver.",
-          "E": "These anaerobes are characteristic of dental plaque and saliva, not skin."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "neonatal colonization",
-        "skin flora"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
-    },
-    {
-      "id": "mi03-008",
-      "stem": "A 23-year-old woman completes a 10-day course of amoxicillin for sinusitis. Three days later she develops intense vulvar itching, swelling, and erythema with a thick white discharge, along with pain during intercourse and urination. Which of the following is the most likely cause of her symptoms?",
+      "id": "mi55-004",
+      "stem": "In healthy premenopausal women, a dominant resident organism ferments glycogen from the epithelium of the lower genital tract, keeping the pH near 4 and inhibiting pathogens. Which organism is this?",
       "choices": [
         {
           "label": "A",
@@ -1464,7 +1293,7 @@
         },
         {
           "label": "B",
-          "text": "Clostridioides difficile"
+          "text": "Enterococcus species"
         },
         {
           "label": "C",
@@ -1473,211 +1302,210 @@
         {
           "label": "D",
           "text": "Lactobacillus species"
-        },
-        {
-          "label": "E",
-          "text": "Staphylococcus saprophyticus"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Antibiotics kill commensal bacteria and allow Candida albicans, a normal flora yeast, to overgrow and cause vulvovaginal candidiasis.",
-        "whyCorrect": "C. albicans is a yeast that normally colonizes the oral, gastrointestinal, and vaginal tracts. Antibiotics cause dysbiosis by killing both pathogenic and commensal bacteria, allowing Candida to become dominant. Vulvovaginal candidiasis presents with intense itching, irritation, swelling, erythema, thick white discharge, dyspareunia, and dysuria.",
-        "whyWrongByChoice": {
-          "B": "C. difficile overgrowth after antibiotics causes colitis with watery diarrhea, not vaginitis.",
-          "C": "Gardnerella overgrowth causes bacterial vaginosis, which produces minimal inflammation and little pain.",
-          "D": "Lactobacillus is the protective dominant flora that keeps the vagina acidic rather than a cause of vaginitis.",
-          "E": "S. saprophyticus causes urinary tract infections, not a thick white vaginal discharge with vulvar erythema."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "Candida albicans",
-        "opportunistic infection",
-        "antibiotics"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi03-009",
-      "stem": "A 30-year-old woman reports a thin greyish discharge coating the vaginal walls with a strong odor. She has minimal itching, burning, or pain, and the vulva appears uninflamed. Which of the following organisms most likely accounts for her presentation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Candida albicans"
-        },
-        {
-          "label": "B",
-          "text": "Escherichia coli"
-        },
-        {
-          "label": "C",
-          "text": "Gardnerella vaginalis"
-        },
-        {
-          "label": "D",
-          "text": "Lactobacillus species"
-        },
-        {
-          "label": "E",
-          "text": "Streptococcus species"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Bacterial vaginosis is commonly caused by overgrowth of Gardnerella vaginalis and presents with a thin, malodorous discharge and minimal inflammation.",
-        "whyCorrect": "Overgrowth of vaginal bacteria produces bacterial vaginosis, most commonly attributed to Gardnerella vaginalis. Patients typically have a thin white or greyish discharge with a strong fishy smell from released amines, and unlike candidiasis the condition causes minimal inflammation and is usually not painful.",
-        "whyWrongByChoice": {
-          "A": "Candidiasis causes intense itching, swelling, erythema, and a thick white discharge.",
-          "B": "E. coli is colonic flora and the leading cause of urinary tract infections, not this syndrome.",
-          "D": "Lactobacillus is the protective dominant flora and does not cause a malodorous discharge.",
-          "E": "Streptococcus species are normal vaginal colonizers but are not the cause of bacterial vaginosis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "bacterial vaginosis",
-        "Gardnerella vaginalis"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi03-010",
-      "stem": "A wet mount of vaginal secretions from a woman with a thin, malodorous discharge is reported as showing clue cells. Which of the following best describes a clue cell?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A ciliated columnar cell stripped of its surface microvilli"
-        },
-        {
-          "label": "B",
-          "text": "A neutrophil filled with ingested gram-negative diplococci"
-        },
-        {
-          "label": "C",
-          "text": "A squamous cell containing intracellular lactic acid granules"
-        },
-        {
-          "label": "D",
-          "text": "A squamous epithelial cell whose surface is coated with bacteria"
-        },
-        {
-          "label": "E",
-          "text": "A yeast cell bearing attached pseudohyphae and budding forms"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Clue cells are vaginal epithelial cells covered in bacteria and are used to diagnose bacterial vaginosis.",
-        "whyCorrect": "On a stained preparation the flat, large, pink squamous epithelial cells are studded with small coccobacilli, which are Gardnerella vaginalis. The presence of these bacteria-coated epithelial cells is the finding used to make the diagnosis of bacterial vaginosis.",
-        "whyWrongByChoice": {
-          "A": "Clue cells are squamous epithelial cells covered by bacteria, not damaged ciliated cells.",
-          "B": "Intracellular diplococci within neutrophils are not the described basis for diagnosing bacterial vaginosis.",
-          "C": "Lactic acid is secreted by Lactobacillus into the environment and is not visible as intracellular granules.",
-          "E": "Yeast with pseudohyphae points to candidiasis, a different diagnosis entirely."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "clue cells",
-        "bacterial vaginosis",
-        "lab identification"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi03-011",
-      "stem": "Two women present to a clinic on the same day. The first has intense itching, swelling, erythema, and a thick white discharge. The second has a thin greyish discharge, little discomfort, and minimal inflammation. Which of the following features best distinguishes the second patient's condition from the first?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "A history of recent antibiotic use preceding the symptoms"
-        },
-        {
-          "label": "B",
-          "text": "A thick, white, plaque-like discharge coating the vaginal walls"
-        },
-        {
-          "label": "C",
-          "text": "Marked inflammation and erythema of the vulvar tissues"
-        },
-        {
-          "label": "D",
-          "text": "More intense burning, itching, and dysuria on presentation"
-        },
-        {
-          "label": "E",
-          "text": "Release of amines producing a strong fishy odor"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Bacterial vaginosis is distinguished from vulvovaginal candidiasis by a thin malodorous discharge from released amines, with little inflammation or pain.",
-        "whyCorrect": "Patients with bacterial vaginosis typically have less burning, itching, and dysuria than those with vulvovaginal candidiasis. Their thin, white or greyish discharge carries a strong fishy smell caused by the release of amines, and the condition usually produces minimal inflammation and little pain.",
-        "whyWrongByChoice": {
-          "A": "Antibiotic use is a recognized risk factor for both conditions, so it does not distinguish them.",
-          "B": "A thick white discharge with plaque is the classic finding in vulvovaginal candidiasis.",
-          "C": "Marked inflammation and erythema characterize candidiasis; bacterial vaginosis has minimal inflammation.",
-          "D": "Burning, itching, and dysuria are more prominent in vulvovaginal candidiasis, not bacterial vaginosis."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "bacterial vaginosis",
-        "candidiasis",
-        "look-alike contrast"
-      ],
-      "topicId": "normal-flora-role-in-health-and-disease",
-      "topicName": "Normal Flora: Role in Health and Disease",
-      "tier": "core"
-    },
-    {
-      "id": "mi03-012",
-      "stem": "A 4-month-old infant who recently finished a course of oral antibiotics is brought in with white plaques on the tongue and buccal mucosa. Which of the following organisms is the most likely cause?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Candida albicans"
-        },
-        {
-          "label": "B",
-          "text": "Clostridioides difficile"
-        },
-        {
-          "label": "C",
-          "text": "Gardnerella vaginalis"
-        },
-        {
-          "label": "D",
-          "text": "Moraxella catarrhalis"
         },
         {
           "label": "E",
           "text": "Staphylococcus epidermidis"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Thrush is an overgrowth of Candida species in the oral cavity, classically after antibiotic use, and presents as a white plaque.",
-        "whyCorrect": "Candida albicans normally colonizes the oral cavity as part of the flora. Antibiotic use, birth control use, trauma, poorly fitting dentures, and immunosuppression allow it to overgrow, producing the characteristic white plaque of oral candidiasis. The name itself reflects the finding: Candida means white and albicans means to whiten.",
+        "summary": "Lactobacillus species make lactic acid from glycogen, giving the vagina a pH of about 4.",
+        "whyCorrect": "Lactobacillus species are the dominant vaginal flora. They ferment glycogen into lactic acid, lowering the pH to about 4, which inhibits pathogenic microbes and prevents overgrowth of other normal flora.",
         "whyWrongByChoice": {
-          "B": "C. difficile overgrowth after antibiotics causes colitis, not oral lesions.",
-          "C": "Gardnerella overgrowth causes bacterial vaginosis rather than oral plaques.",
-          "D": "M. catarrhalis is nasopharyngeal flora associated with acute otitis media.",
-          "E": "S. epidermidis is a skin colonizer and does not form oral white plaques."
+          "A": "Candida is a yeast that overgrows when the protective flora are disrupted.",
+          "B": "Enterococcus is present in small numbers but is not the acid producer.",
+          "C": "Gardnerella is present in some women but causes bacterial vaginosis when it overgrows.",
+          "E": "S. epidermidis is present but does not set the acidic pH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Lactobacillus",
+        "vaginal pH"
+      ],
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi55-005",
+      "stem": "A 2-year-old boy has ear pain and a moderate fever after a cold. Otoscopy shows a red, inflamed eardrum with pus behind it. His father asks why young children have these infections far more often than adults. Which anatomic feature best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A longer, wider, more vertical Eustachian tube"
+        },
+        {
+          "label": "B",
+          "text": "A shorter, narrower, more horizontal Eustachian tube"
+        },
+        {
+          "label": "C",
+          "text": "A sterile external canal that lacks skin flora"
+        },
+        {
+          "label": "D",
+          "text": "Absence of any flora in the young nasopharynx"
+        },
+        {
+          "label": "E",
+          "text": "Persistence of maternal IgG through the second year"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Children's short, narrow, horizontal Eustachian tubes impair drainage and let nasopharyngeal flora reach the middle ear.",
+        "whyCorrect": "The short, narrow, more horizontal Eustachian tube in children makes middle-ear drainage harder and makes it easier for nasopharyngeal flora to migrate in. Its small diameter also blocks easily with inflammation or mucus from upper respiratory infections or allergies, trapping bacteria that proliferate.",
+        "whyWrongByChoice": {
+          "A": "This describes the adult orientation, which drains the middle ear more easily.",
+          "C": "Infection comes from nasopharyngeal flora reaching the middle ear, not the external canal.",
+          "D": "Children carry nasopharyngeal flora; those flora are the source of the infection.",
+          "E": "Transplacental IgG wanes by 3-6 months and does not explain the anatomy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "acute otitis media",
+        "Eustachian tube"
+      ],
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi55-006",
+      "stem": "A 5-month-old unvaccinated infant whose parents declined all immunizations develops severe invasive pneumococcal disease after starting daycare. He was well during his first months of life despite household exposure to colds. Which change best explains his new susceptibility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acquisition of only unencapsulated pneumococcal strains"
+        },
+        {
+          "label": "B",
+          "text": "Loss of oligosaccharides after weaning from breastmilk"
+        },
+        {
+          "label": "C",
+          "text": "Maturation of Peyer patches that suppresses immunity"
+        },
+        {
+          "label": "D",
+          "text": "Replacement of birth-canal Lactobacillus by skin flora"
+        },
+        {
+          "label": "E",
+          "text": "Waning of maternal IgG acquired across the placenta"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transplacental IgG wanes 3-6 months after birth, opening a window of susceptibility that vaccines at 2 months are meant to close.",
+        "whyCorrect": "Maternal IgG crossing the placenta protects the infant early, but titers fall 3-6 months after birth, before the infant makes adequate antibodies of his own. Exposure to S. pneumoniae, H. influenzae, or N. meningitidis in that window can cause severe infection, which is why Hib and pneumococcal vaccines begin at 2 months.",
+        "whyWrongByChoice": {
+          "A": "Unencapsulated strains are much less likely to cause invasive disease.",
+          "B": "Breastmilk oligosaccharides are prebiotics for the microbiota, not antibodies.",
+          "C": "Gut lymphoid development supports, rather than suppresses, immunity.",
+          "D": "Shifts in early flora do not explain loss of antibody protection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "transplacental IgG",
+        "vaccination",
+        "S. pneumoniae"
+      ],
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi55-007",
+      "stem": "An enteric pathogen ingested by a healthy adult survives gastric acid but fails to establish itself in the intestine. Apart from competing for space and nutrients, the resident flora most directly impede it by which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Breaking down IgA and mucus in the intestinal lining"
+        },
+        {
+          "label": "B",
+          "text": "Neutralizing gastric acid before it reaches the duodenum"
+        },
+        {
+          "label": "C",
+          "text": "Producing vitamin K that lyses bacterial cell walls"
+        },
+        {
+          "label": "D",
+          "text": "Raising the luminal oxygen level to block anaerobes"
+        },
+        {
+          "label": "E",
+          "text": "Secreting acids, proteins, and fatty acids that inhibit growth"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Colonization resistance includes direct antimicrobial products from gut flora: acids, proteins, and fatty acids.",
+        "whyCorrect": "Colonization resistance is the microbiome's prevention of pathogen colonization. Beyond occupying space and consuming food, GI flora produce acids, proteins, and fatty acids that directly impede the growth of other bacteria.",
+        "whyWrongByChoice": {
+          "A": "Flora stimulate, rather than degrade, IgA and mucus production.",
+          "B": "Neutralizing acid would help, not hinder, ingested microbes.",
+          "C": "Colonic vitamin K serves host metabolism; it is not antibacterial.",
+          "D": "Gut flora are mostly anaerobes themselves; they do not raise oxygen."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "colonization resistance",
+        "GI flora"
+      ],
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi55-008",
+      "stem": "A 34-year-old man has a white plaque coating his tongue and buccal mucosa. He has taken no antibiotics or hormones, has had no oral trauma, and has natural teeth. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin a course of broad-spectrum antibiotics"
+        },
+        {
+          "label": "B",
+          "text": "Obtain a complete blood count"
+        },
+        {
+          "label": "C",
+          "text": "Reassure him that this resolves without evaluation"
+        },
+        {
+          "label": "D",
+          "text": "Refit his dentures to improve the oral seal"
+        },
+        {
+          "label": "E",
+          "text": "Send stool for clostridial toxin testing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thrush with no obvious trigger should prompt a check of the immune system (CBC).",
+        "whyCorrect": "Thrush is Candida overgrowth in the mouth, usually triggered by antibiotics, birth control, trauma, poorly fitting dentures, or immunosuppression. When no obvious cause is present, check the immune system with a CBC, because opportunistic infections can be a sign of immune failure.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics kill bacteria and are themselves a trigger for Candida overgrowth.",
+          "C": "Unexplained oral candidiasis can signal a failing immune system and warrants evaluation.",
+          "D": "He has natural teeth, so poorly fitting dentures are not the cause.",
+          "E": "Stool toxin testing addresses C. difficile colitis, not oral plaques."
         }
       },
       "difficulty": "easy",
@@ -1687,564 +1515,197 @@
         "Candida",
         "opportunistic infection"
       ],
-      "topicId": "normal-flora-role-in-health-and-disease",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
       "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core"
     },
     {
-      "id": "mi04-001",
-      "stem": "A hospital microbiology laboratory tests a blood isolate of Staphylococcus aureus against doubling dilutions of an antibiotic. After 24 hours of incubation, the tubes containing 0.25, 0.5, and 1 microgram/mL are visibly cloudy, while the tubes containing 2, 4, and 8 micrograms/mL remain clear. Which of the following values should be reported as the minimum inhibitory concentration?",
+      "id": "mi55-009",
+      "stem": "A 26-year-old woman develops intense vulvar itching, redness, swelling, and a thick white discharge one week after finishing amoxicillin for sinusitis. White plaques are seen on the inflamed mucosa. Which mechanism best explains how her medication led to this condition?",
       "choices": [
         {
           "label": "A",
-          "text": "0.25 micrograms/mL"
+          "text": "It eliminated Gardnerella, allowing Lactobacillus to overgrow"
         },
         {
           "label": "B",
-          "text": "1 microgram/mL"
+          "text": "It killed commensal bacteria, freeing resources for a resident yeast"
         },
         {
           "label": "C",
-          "text": "1.5 micrograms/mL"
+          "text": "It made the sexual acquisition of a foreign fungus more likely"
         },
         {
           "label": "D",
-          "text": "2 micrograms/mL"
+          "text": "It raised estrogen, increasing glycogen for a resident yeast"
         },
         {
           "label": "E",
-          "text": "8 micrograms/mL"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The MIC is the lowest antibiotic concentration at which there is no visible growth in the dilution series.",
-        "whyCorrect": "In broth or tube dilution testing, a standard concentration of the organism is mixed with increasing concentrations of antibiotic and incubated for about 24 hours. Turbidity means the organism grew; a clear tube means growth was inhibited. The lowest concentration with no visible growth, 2 micrograms/mL here, is reported as the MIC.",
-        "whyWrongByChoice": {
-          "A": "This tube is cloudy, so the organism grew freely at this concentration.",
-          "B": "This is the highest concentration that still permitted growth, not the lowest that inhibited it.",
-          "C": "Dilution panels use doubling concentrations, and this concentration was not tested.",
-          "E": "Growth was inhibited here, but this is not the lowest inhibitory concentration."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "MIC",
-        "susceptibility testing"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi04-002",
-      "stem": "An attending asks a student on rounds to define the measurement that the microbiology laboratory uses to determine antibiotic susceptibility. Which of the following is the best definition of the minimum inhibitory concentration?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The average drug concentration held across a dosing interval"
-        },
-        {
-          "label": "B",
-          "text": "The concentration at which the isolate is reported as resistant"
-        },
-        {
-          "label": "C",
-          "text": "The lowest antibiotic concentration that inhibits growth of the organism"
-        },
-        {
-          "label": "D",
-          "text": "The lowest concentration producing a 99.9% fall in colony count"
-        },
-        {
-          "label": "E",
-          "text": "The peak serum concentration reached after a standard dose"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "MIC is the minimal antibiotic concentration required to inhibit growth of the organism in question.",
-        "whyCorrect": "MIC is the measurement used in clinical and hospital practice to determine antibiotic susceptibility. It is the minimal concentration that inhibits growth of the bacterium, determined by incubating a standard inoculum with increasing drug concentrations and reading the lowest concentration without visible growth.",
-        "whyWrongByChoice": {
-          "A": "Average exposure over an interval relates to the area under the concentration-time curve, not the MIC.",
-          "B": "Resistance is assigned by comparing the MIC with a published breakpoint; it is not the definition of MIC.",
-          "D": "That describes the minimum bactericidal concentration, which reflects killing rather than inhibition.",
-          "E": "Peak concentration is a pharmacokinetic property of the drug and dose, not a measure of the organism."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "MIC",
-        "definitions"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-003",
-      "stem": "A research laboratory wants to know whether a new agent kills bacteria or only halts their replication. Dilution tubes are incubated and then subcultured onto agar. Which of the following findings defines the minimum bactericidal concentration for this organism?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The concentration that equals one half of the peak serum level"
-        },
-        {
-          "label": "B",
-          "text": "The concentration that keeps drug above the MIC for the whole interval"
-        },
-        {
-          "label": "C",
-          "text": "The lowest concentration at which the isolate is reported susceptible"
-        },
-        {
-          "label": "D",
-          "text": "The lowest concentration causing a 99.9% fall in the original colony count"
-        },
-        {
-          "label": "E",
-          "text": "The lowest concentration that prevents visible turbidity in the broth"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "MBC is the concentration that produces a 99.9% reduction in the original bacterial colony count, defined practically as inability to re-culture the bacteria.",
-        "whyCorrect": "MBC is determined in the same type of dilution testing used for MIC. Rather than reading turbidity, the tubes are subcultured, and the concentration corresponding to a 99.9% reduction in the starting colony count, so that the organism can no longer be re-cultured, is the MBC.",
-        "whyWrongByChoice": {
-          "A": "MBC is a property of the organism-drug pair and is unrelated to half the peak serum level.",
-          "B": "That describes the time-above-MIC pharmacodynamic parameter, not a laboratory endpoint.",
-          "C": "Susceptible is an interpretation made by comparing the MIC with a breakpoint.",
-          "E": "Absence of turbidity defines the MIC, which reflects inhibition of growth rather than cell death."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "MBC",
-        "susceptibility testing"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-004",
-      "stem": "A student watches a technologist read a microdilution panel inoculated with a patient's isolate. Several wells are cloudy and several are clear. Cloudiness in a well indicates which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "That well was inoculated with no organism"
-        },
-        {
-          "label": "B",
-          "text": "The antibiotic has precipitated out of the broth"
-        },
-        {
-          "label": "C",
-          "text": "The concentration in that well exceeds the breakpoint"
-        },
-        {
-          "label": "D",
-          "text": "The organism grew at that drug concentration"
-        },
-        {
-          "label": "E",
-          "text": "The organism has been killed by the antibiotic"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Turbidity in a dilution well means bacterial growth; clearing means growth was inhibited.",
-        "whyCorrect": "After roughly 24 hours of incubation, the mixtures are examined by eye and with computer assistance for cloudiness. Turbidity indicates that the bacterial organism grew at that concentration, so the MIC must lie at a higher concentration in the series.",
-        "whyWrongByChoice": {
-          "A": "Every well in the panel receives a standard concentration of the patient's organism.",
-          "B": "Precipitation is not what the reader is assessing; the panel is read for bacterial growth.",
-          "C": "Wells above the breakpoint would be expected to be clear if the isolate is susceptible.",
-          "E": "Killing would leave the well clear, and re-culture would be required to demonstrate it."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "MIC",
-        "laboratory identification"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-005",
-      "stem": "A clinician notices that an MIC of 2 micrograms/mL is reported as susceptible for one organism-drug pair but not for another. The cutoff MIC that separates these interpretations is closely monitored and published by a national organization. This cutoff is best termed which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The area under the concentration-time curve"
-        },
-        {
-          "label": "B",
-          "text": "The breakpoint for that organism-drug pair"
-        },
-        {
-          "label": "C",
-          "text": "The local resistance rate for that drug"
-        },
-        {
-          "label": "D",
-          "text": "The minimum bactericidal concentration"
-        },
-        {
-          "label": "E",
-          "text": "The peak-to-MIC ratio of the drug"
+          "text": "It selected a resistant bacterium that now invades the mucosa"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The breakpoint is the particular cutoff MIC, specific to each organism-antibiotic pair, at or below which the isolate is called susceptible.",
-        "whyCorrect": "For each organism-antibiotic pair there is a particular cutoff MIC that is considered susceptible. That MIC is called the breakpoint, and it is closely monitored and published by a national organization so that laboratories interpret MIC values consistently.",
+        "summary": "Antibiotics cause dysbiosis by killing commensal bacteria, letting Candida albicans overgrow.",
+        "whyCorrect": "Candida albicans is normal flora of the oral, GI, and vaginal tracts. Antibiotics kill both pathogenic and commensal bacteria, increasing resources available to Candida, which becomes dominant and causes vulvovaginal candidiasis with itching, erythema, thick white discharge, and white plaque.",
         "whyWrongByChoice": {
-          "A": "AUC is a pharmacokinetic exposure measure, not an interpretive threshold.",
-          "C": "Local resistance rates are aggregated in antibiograms and do not define susceptibility for one isolate.",
-          "D": "The MBC is a killing endpoint determined by subculture, not an interpretive cutoff.",
-          "E": "Cmax/MIC is a pharmacodynamic ratio that predicts efficacy of certain drugs."
+          "A": "Lactobacillus is protective; its loss, not its overgrowth, promotes infection.",
+          "C": "Candida albicans is already part of normal flora; it was not newly acquired.",
+          "D": "Amoxicillin does not raise estrogen; its effect is on bacteria.",
+          "E": "The thick white discharge and plaques point to a fungal, not bacterial, cause."
         }
       },
       "difficulty": "medium",
       "imageRef": null,
       "tags": [
-        "breakpoint",
-        "susceptibility testing"
+        "vulvovaginal candidiasis",
+        "antibiotics",
+        "dysbiosis"
       ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-006",
-      "stem": "A student notices that culture and sensitivity reports list MIC values but essentially never list MBC values. Which of the following best explains this practice?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "MBC can be determined only after the patient completes therapy"
-        },
-        {
-          "label": "B",
-          "text": "MBC cannot be measured for organisms that will grow in broth culture"
-        },
-        {
-          "label": "C",
-          "text": "MBC is hard to obtain and adds little value outside of research"
-        },
-        {
-          "label": "D",
-          "text": "MBC is identical to the MIC for nearly every antibacterial agent"
-        },
-        {
-          "label": "E",
-          "text": "MBC shifts too quickly during therapy to be reported reliably"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "MBC is rarely obtained outside research because it is difficult to measure and has little clinical value.",
-        "whyCorrect": "MICs can be calculated with commercially available assays that return results in about 24 hours. MBC is much more difficult to obtain and has little clinical value given the efficacy of bacteriostatic action, so MBC data are rarely acquired for patients outside of research purposes.",
-        "whyWrongByChoice": {
-          "A": "Nothing about the assay requires waiting until therapy is complete.",
-          "B": "MBC is determined from the same broth dilution testing used to determine the MIC.",
-          "D": "MBC usually exceeds the MIC, and the size of that gap is what separates cidal from static agents.",
-          "E": "MBC is a property of the organism-drug pair measured in vitro, not a value that fluctuates hourly in the patient."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "MBC",
-        "clinical practice"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-007",
-      "stem": "Testing of a patient's isolate yields an MIC of 2 micrograms/mL and an MBC of 4 micrograms/mL for drug X. Based on this relationship, drug X is best classified against this organism as which of the following?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bactericidal, because the MBC/MIC ratio is 4 or less"
-        },
-        {
-          "label": "B",
-          "text": "Bacteriostatic, because the MBC is higher than the MIC"
-        },
-        {
-          "label": "C",
-          "text": "Bacteriostatic, because the MBC/MIC ratio is above 4"
-        },
-        {
-          "label": "D",
-          "text": "Concentration dependent, because the MBC is measurable"
-        },
-        {
-          "label": "E",
-          "text": "Time dependent, because the two values are close together"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "An MBC/MIC ratio of 4 or less defines a bactericidal agent.",
-        "whyCorrect": "Whether a drug is considered bacteriostatic or bactericidal depends on the comparison of MIC to MBC. A ratio of MBC to MIC of 4 or less is classified as bactericidal; here the ratio is 4/2, or 2, so drug X is bactericidal against this isolate.",
-        "whyWrongByChoice": {
-          "B": "The MBC almost always exceeds the MIC; the size of the ratio, not its direction, is what matters.",
-          "C": "The ratio here is 2, which is not above 4.",
-          "D": "Concentration dependence is a pharmacodynamic property predicted by Cmax/MIC, not by the MBC/MIC ratio.",
-          "E": "Time dependence refers to how long drug levels stay above the MIC and is not derived from the MBC."
-        }
-      },
-      "difficulty": "medium",
-      "imageRef": null,
-      "tags": [
-        "MBC/MIC ratio",
-        "bactericidal"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core",
       "hy": true
     },
     {
-      "id": "mi04-008",
-      "stem": "A second agent is tested against the same isolate and yields an MIC of 0.5 micrograms/mL and an MBC of 8 micrograms/mL. Which of the following is the most accurate conclusion about this agent?",
+      "id": "mi55-010",
+      "stem": "A 61-year-old postmenopausal woman has a vaginal pH of 5, compared with a pH of 4 measured during her reproductive years. Compared with that earlier value, the hydrogen ion concentration of her vaginal fluid is now approximately which of the following?",
       "choices": [
         {
           "label": "A",
-          "text": "It is bactericidal, because its MBC/MIC ratio is 4 or less"
+          "text": "Essentially unchanged"
         },
         {
           "label": "B",
-          "text": "It is bactericidal, because its MIC is lower than that of the first agent"
+          "text": "One-half as high"
         },
         {
           "label": "C",
-          "text": "It is bacteriostatic, because its MBC/MIC ratio is above 4"
+          "text": "One-tenth as high"
         },
         {
           "label": "D",
-          "text": "It is the better therapeutic option, because its MIC is lower"
+          "text": "Ten times as high"
         },
         {
           "label": "E",
-          "text": "It is time dependent, because its MBC is far above its MIC"
+          "text": "Twice as high"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "An MBC/MIC ratio greater than 4 defines a bacteriostatic agent.",
-        "whyCorrect": "Here the ratio is 8 divided by 0.5, or 16, which is well above 4, so this agent is classified as bacteriostatic against this isolate. Bacteriostatic agents halt bacterial growth and replication, which lets an immunocompetent host clear the organism.",
+        "summary": "Falling estrogen raises vaginal pH from 4 toward 5, a 10-fold drop in hydrogen ions that favors overgrowth and infection.",
+        "whyCorrect": "Estrogen promotes glycogen release from vaginal epithelium, fueling lactic acid production by Lactobacillus. As estrogen declines with age, the pH approaches 5. Because pH is logarithmic, a shift from 4 to 5 is a 10-fold decrease in hydrogen ion concentration, raising the risk of overgrowth and infection.",
         "whyWrongByChoice": {
-          "A": "The ratio is 16, not 4 or less.",
-          "B": "A low MIC says nothing about whether the drug kills; the MBC/MIC relationship does.",
-          "D": "A lower MIC does not make an antibiotic the better choice, and MICs should not be compared across drugs.",
-          "E": "Time dependence describes how drug concentration relates to the MIC over time, not the MBC/MIC gap."
+          "A": "A full unit of pH change is a large, 10-fold change.",
+          "B": "The pH scale is logarithmic; one unit is a 10-fold change, not 2-fold.",
+          "D": "A higher pH means fewer hydrogen ions, not more.",
+          "E": "A rise in pH reflects a fall in hydrogen ions, and the scale is logarithmic."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "MBC/MIC ratio",
-        "bacteriostatic"
+        "vaginal pH",
+        "estrogen",
+        "menopause"
       ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core"
     },
     {
-      "id": "mi04-009",
-      "stem": "An otherwise healthy 22-year-old woman is treated with a bacteriostatic antibiotic for a skin infection and recovers completely. Which of the following best explains how a drug that does not kill bacteria cured her infection?",
+      "id": "mi55-011",
+      "stem": "A 22-year-old sexually active woman has dysuria and urinary frequency. Her urine culture grows an organism that is normal flora of the gastrointestinal tract and vagina and that is second only to Escherichia coli as a cause of urinary tract infections. Which organism is this?",
       "choices": [
         {
           "label": "A",
-          "text": "Halting bacterial growth let her immune system clear the organism"
+          "text": "Enterococcus species"
         },
         {
           "label": "B",
-          "text": "The drug lowered the organism's MIC below the published breakpoint"
+          "text": "Gardnerella vaginalis"
         },
         {
           "label": "C",
-          "text": "The drug raised the organism's MBC and cut the colony count by 99.9%"
+          "text": "Staphylococcus aureus"
         },
         {
           "label": "D",
-          "text": "The drug reached a peak many times above the organism's MBC"
+          "text": "Staphylococcus epidermidis"
         },
         {
           "label": "E",
-          "text": "The drug was converted to a bactericidal metabolite in the tissue"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Bacteriostatic agents stop bacterial growth and replication so that an immunocompetent host can clear the infection.",
-        "whyCorrect": "Bacteriostatic antibacterials halt the growth of bacteria. When bacterial growth and replication are halted, the immunocompetent host is able to clear the organism more easily, which makes these agents as effective as bactericidal agents for most infections.",
-        "whyWrongByChoice": {
-          "B": "Antibiotics do not lower an organism's MIC; the MIC is an inherent property of the organism-drug pair.",
-          "C": "A 99.9% reduction in colony count defines the MBC and describes bactericidal, not bacteriostatic, action.",
-          "D": "Exceeding the MBC would mean the drug is acting as a bactericidal agent.",
-          "E": "Conversion to a killing metabolite is not how bacteriostatic activity produces cure."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "bacteriostatic",
-        "host immunity"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-010",
-      "stem": "Two agents are tested against the same isolate. For agent Y the MBC is only slightly higher than the MIC, whereas for agent Z the MBC is many times the MIC. Which of the following statements about agent Y is most accurate?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It behaves more bactericidally than agent Z"
-        },
-        {
-          "label": "B",
-          "text": "It has a broader spectrum of activity than agent Z"
-        },
-        {
-          "label": "C",
-          "text": "It reaches higher tissue concentrations than agent Z"
-        },
-        {
-          "label": "D",
-          "text": "It requires less frequent dosing than agent Z"
-        },
-        {
-          "label": "E",
-          "text": "It selects for resistance more readily than agent Z"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "As the MIC approaches the MBC, an agent is considered more bactericidal.",
-        "whyCorrect": "Classification as bacteriostatic or bactericidal rests on the comparison of MIC to MBC. When the two values converge, only a little more drug is needed to kill than to inhibit, so the agent is considered more bactericidal; a wide gap indicates bacteriostatic behavior.",
-        "whyWrongByChoice": {
-          "B": "Spectrum reflects which organisms an agent covers, which these two values do not describe.",
-          "C": "Tissue penetration is a pharmacokinetic property and cannot be inferred from MIC and MBC values.",
-          "D": "Dosing frequency follows the pharmacodynamic parameter, such as time above MIC, not the MBC/MIC ratio.",
-          "E": "Nothing about a narrow MBC/MIC gap implies greater selection for resistance."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "MBC/MIC ratio",
-        "bactericidal"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core"
-    },
-    {
-      "id": "mi04-011",
-      "stem": "A 40-year-old man is admitted with a streptococcal infection of a native heart valve, and the team deliberately selects a bactericidal rather than a bacteriostatic regimen. Bactericidal therapy is generally preferred in which of the following pairs of infections?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Cellulitis and otitis media"
-        },
-        {
-          "label": "B",
-          "text": "Cystitis and pharyngitis"
-        },
-        {
-          "label": "C",
-          "text": "Endocarditis and meningitis"
-        },
-        {
-          "label": "D",
-          "text": "Gastroenteritis and conjunctivitis"
-        },
-        {
-          "label": "E",
-          "text": "Sinusitis and bronchitis"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "For most infections static and cidal agents perform similarly, but bactericidal drugs are preferred for endocarditis and meningitis.",
-        "whyCorrect": "Outcomes with appropriate bacteriostatic and bactericidal therapy are similar for most infections. Certain infections are the exception, because the immune system cannot act effectively at that anatomic location; endocarditis and meningitis are the classic settings in which bactericidal drugs are preferred.",
-        "whyWrongByChoice": {
-          "A": "Skin and middle ear infections in an immunocompetent host do not require cidal therapy.",
-          "B": "These are ordinary infections in which appropriately chosen static or cidal therapy performs similarly.",
-          "D": "These infections are not the settings in which killing rather than inhibition is required.",
-          "E": "Neither site poses the immune access problem that drives a cidal requirement."
-        }
-      },
-      "difficulty": "easy",
-      "imageRef": null,
-      "tags": [
-        "bactericidal",
-        "endocarditis",
-        "meningitis"
-      ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
-      "tier": "core",
-      "hy": true
-    },
-    {
-      "id": "mi04-012",
-      "stem": "A 55-year-old woman admitted with a severe bloodstream infection has been on chronic immunosuppressive therapy for rheumatoid arthritis. Her condition improved initially but the infection is not resolving completely. Which of the following considerations most strongly favors choosing a bactericidal agent for her?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Bactericidal agents are dosed once daily and improve adherence"
-        },
-        {
-          "label": "B",
-          "text": "Bactericidal agents are less often reported as intermediate"
-        },
-        {
-          "label": "C",
-          "text": "Bactericidal agents have lower MICs than bacteriostatic agents"
-        },
-        {
-          "label": "D",
-          "text": "Bactericidal agents reach higher concentrations in every tissue"
-        },
-        {
-          "label": "E",
-          "text": "Her suppressed immune system cannot clear merely inhibited organisms"
+          "text": "Staphylococcus saprophyticus"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Bacteriostatic therapy depends on a functioning immune system, so bactericidal agents are preferred in immunosuppressed patients.",
-        "whyCorrect": "Bacteriostatic agents work by halting growth so the host can clear the pathogen. In an immunosuppressed patient the immune system cannot take care of the pathogen once growth has been halted, so bactericidal agents are often preferred in these patients.",
+        "summary": "S. saprophyticus, GI and vaginal flora, is the second most common cause of UTI after E. coli.",
+        "whyCorrect": "S. saprophyticus is normal flora of the gastrointestinal tract and vagina and is the second most common cause of urinary tract infections. Only E. coli, also GI flora, causes more UTIs.",
         "whyWrongByChoice": {
-          "A": "Dosing frequency follows the pharmacodynamic parameter, and many cidal drugs are dosed several times daily.",
-          "B": "Intermediate is an interpretive category based on MIC and is unrelated to cidal or static class.",
-          "C": "MIC values depend on the organism-drug pair and do not track with cidal versus static classification.",
-          "D": "Tissue penetration varies by drug and site and is not a property of bactericidal agents as a group."
+          "A": "Enterococcus is gut flora but is not identified as the second most common UTI cause.",
+          "B": "Gardnerella causes bacterial vaginosis, not urinary tract infection.",
+          "C": "S. aureus causes skin infections, pneumonia, and sepsis; it is not the second most common uropathogen.",
+          "D": "S. epidermidis is skin flora and is not cited as a leading UTI cause."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Staphylococcus saprophyticus",
+        "UTI"
+      ],
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "tier": "core",
+      "hy": true
+    },
+    {
+      "id": "mi55-012",
+      "stem": "A 19-year-old woman has had four episodes of Clostridioides difficile colitis. Each responds to antibiotics, but symptoms return soon after therapy stops, and she has lost 40 pounds. Which intervention after her current antibiotic course is most likely to prevent another recurrence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A longer course of the same antibiotic regimen"
+        },
+        {
+          "label": "B",
+          "text": "Instillation of screened donor stool by colonoscopy"
+        },
+        {
+          "label": "C",
+          "text": "Instillation of unscreened stool from a relative"
+        },
+        {
+          "label": "D",
+          "text": "Switching to a different broad-spectrum antibiotic"
+        },
+        {
+          "label": "E",
+          "text": "Vaginal Lactobacillus therapy to restore acidity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fecal microbiota transplantation quickly reestablishes gut flora and cures about 91-93% of recurrent C. difficile.",
+        "whyCorrect": "Repeated antibiotics kill normal flora trying to reestablish their niche, so recurrence rates are high. A fecal transplant, in which screened donor stool is liquefied in saline and usually given by colonoscopy, rapidly restores normal flora; about 91-93% of patients recover without further recurrence.",
+        "whyWrongByChoice": {
+          "A": "The antibiotics that kill C. difficile also kill reestablishing flora, perpetuating recurrence.",
+          "C": "Donor stool must be screened so dangerous microbes are not introduced.",
+          "D": "Any broad-spectrum agent further depletes flora and sets up reinfection.",
+          "E": "Vaginal flora do not restore the colonic microbiota."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "bactericidal",
-        "immunosuppression"
+        "fecal transplant",
+        "C. difficile",
+        "recurrence"
       ],
-      "topicId": "principles-of-antibacterial-drugs",
-      "topicName": "Principles of Antibacterial Drugs",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core",
       "hy": true
     }
