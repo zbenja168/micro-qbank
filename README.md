@@ -4,4 +4,4 @@
 covering bacteriology, antibacterial pharmacology, virology, antivirals,
 mycology, antifungals, parasitology and antiparasitic agents.
 
-Part of the Secondary Active Transport study-tool shelf.
+Part of the Primary Active Transport study-tool shelf.
