@@ -627,7 +627,66 @@
       "week": 5,
       "weekName": "More",
       "weekSubtitle": "Topics outside the class schedule"
+    },
+    {
+      "id": "pictures",
+      "name": "Pictures by week",
+      "topics": [
+        {
+          "id": "pictures-w1",
+          "name": "Week 1 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12,
+          "hyCount": 12,
+          "hyCoreCount": 12
+        },
+        {
+          "id": "pictures-w2",
+          "name": "Week 2 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 17,
+          "extraCount": 0,
+          "questionCount": 17,
+          "hyCount": 17,
+          "hyCoreCount": 17
+        },
+        {
+          "id": "pictures-w3",
+          "name": "Week 3 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 10,
+          "extraCount": 0,
+          "questionCount": 10,
+          "hyCount": 10,
+          "hyCoreCount": 10
+        },
+        {
+          "id": "pictures-w4",
+          "name": "Week 4 pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 17,
+          "extraCount": 0,
+          "questionCount": 17,
+          "hyCount": 17,
+          "hyCoreCount": 17
+        },
+        {
+          "id": "pictures-w5",
+          "name": "More pictures",
+          "sourceFile": "Picture QBank (curated)",
+          "coreCount": 1,
+          "extraCount": 0,
+          "questionCount": 1,
+          "hyCount": 1,
+          "hyCoreCount": 1
+        }
+      ],
+      "week": 6,
+      "weekName": "Picture questions",
+      "weekSubtitle": ""
     }
   ],
-  "totalQuestions": 1871
+  "totalQuestions": 1928
 }

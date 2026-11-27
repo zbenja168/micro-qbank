@@ -1,0 +1,2649 @@
+{
+  "categoryId": "pictures",
+  "categoryName": "Pictures by week",
+  "questions": [
+    {
+      "id": "mipic-248",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A sputum smear from a patient with chronic cough and night sweats is stained as shown. Which cell wall component explains the staining of these organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide"
+        },
+        {
+          "label": "B",
+          "text": "Mycolic acids"
+        },
+        {
+          "label": "C",
+          "text": "Teichoic acids"
+        },
+        {
+          "label": "D",
+          "text": "Thick peptidoglycan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is an acid-fast (Ziehl-Neelsen) stain. Acid-fast organisms such as Mycobacteria (and Nocardia) have large amounts of mycolic acids in their cell walls that resist acid-alcohol decolorization, so they stay bright red against the blue background.",
+        "whyCorrect": "This is an acid-fast (Ziehl-Neelsen) stain. Acid-fast organisms such as Mycobacteria (and Nocardia) have large amounts of mycolic acids in their cell walls that resist acid-alcohol decolorization, so they stay bright red against the blue background.",
+        "whyWrongByChoice": {
+          "A": "Lipopolysaccharide is the endotoxin of the gram-negative outer membrane; it does not hold carbol fuchsin against acid alcohol.",
+          "C": "Teichoic acids are found in the thick cell walls of gram-positive bacteria; they do not make an organism resist acid-alcohol decolorization.",
+          "D": "Thick peptidoglycan retains crystal violet in the Gram stain, but it is the waxy mycolic acids that make mycobacteria acid-fast."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-248_brick_53_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bacterial Structure, Growth, and Staining",
+      "lectureTopicId": "bacterial-structure-growth-and-staining-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-249",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A bacterial suspension is mixed with India ink and examined as shown. Which bacterial structure accounts for the finding around each cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endospore"
+        },
+        {
+          "label": "B",
+          "text": "Outer membrane"
+        },
+        {
+          "label": "C",
+          "text": "Peptidoglycan cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Polysaccharide capsule"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Capsules do not bind most dyes, so they are shown by negative staining of the background with India ink (or nigrosine). The capsule appears as a clear halo around each cell. Capsules can contribute to a bacterium's ability to cause disease.",
+        "whyCorrect": "Capsules do not bind most dyes, so they are shown by negative staining of the background with India ink (or nigrosine). The capsule appears as a clear halo around each cell. Capsules can contribute to a bacterium's ability to cause disease.",
+        "whyWrongByChoice": {
+          "A": "Endospores are dormant structures inside the cell, seen with a spore stain (malachite green), not as a halo outside the cell in India ink.",
+          "B": "The outer membrane of gram-negative bacteria is a thin lipid bilayer that is not visible by India ink negative staining.",
+          "C": "The peptidoglycan cell wall lies directly around the cytoplasm and is shown by the Gram stain; it does not exclude India ink to form a wide clear halo."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-249_brick_53_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bacterial Structure, Growth, and Staining",
+      "lectureTopicId": "bacterial-structure-growth-and-staining-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-250",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A Gram stain shows the violet cocci arranged as shown (arrow). Which genus most typically has this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive cocci arranged in chains are characteristic of Streptococcus species. Staphylococcus forms grape-like clusters, Neisseria are gram-negative diplococci, and Escherichia coli is a gram-negative rod.",
+        "whyCorrect": "Gram-positive cocci arranged in chains are characteristic of Streptococcus species. Staphylococcus forms grape-like clusters, Neisseria are gram-negative diplococci, and Escherichia coli is a gram-negative rod.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli is a gram-negative rod, not a gram-positive coccus.",
+          "B": "Neisseria are gram-negative (pink) kidney-bean diplococci, not violet cocci in chains.",
+          "C": "Staphylococci are gram-positive cocci in grape-like clusters, not chains."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-250_brick_53_05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bacterial Structure, Growth, and Staining",
+      "lectureTopicId": "bacterial-structure-growth-and-staining-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-256",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "An infant has the oral findings seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinomyces species"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus mutans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is thrush (oral candidiasis), an overgrowth of Candida in the oral cavity. It is linked to antibiotic use, birth control use, trauma, poorly fitting dentures or immunosuppression. In a patient with no obvious cause, thrush can signal a failing immune system, so check a CBC.",
+        "whyCorrect": "This is thrush (oral candidiasis), an overgrowth of Candida in the oral cavity. It is linked to antibiotic use, birth control use, trauma, poorly fitting dentures or immunosuppression. In a patient with no obvious cause, thrush can signal a failing immune system, so check a CBC.",
+        "whyWrongByChoice": {
+          "A": "Actinomyces israelii causes cervicofacial abscesses with draining sinus tracts and yellow sulfur granules, not white mucosal plaques.",
+          "C": "S. aureus causes skin and soft-tissue abscesses and impetigo; it is not the cause of white, scrapable oral plaques in infants.",
+          "D": "S. mutans is the main cause of dental caries; it does not form white, curd-like plaques on the oral mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-256_brick_55_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Normal Flora: Role in Health and Disease",
+      "lectureTopicId": "normal-flora-role-in-health-and-disease-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-258",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A woman has an abnormal vaginal discharge. A wet-mount smear of the discharge is shown. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial vaginosis"
+        },
+        {
+          "label": "B",
+          "text": "Gonococcal cervicitis"
+        },
+        {
+          "label": "C",
+          "text": "Trichomoniasis"
+        },
+        {
+          "label": "D",
+          "text": "Vulvovaginal candidiasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epithelial cells coated with Gardnerella vaginalis coccobacilli are clue cells, the diagnostic finding of bacterial vaginosis. BV causes a thin gray-white discharge with a fishy smell from released amines and typically less burning, itching and inflammation than vulvovaginal candidiasis.",
+        "whyCorrect": "Epithelial cells coated with Gardnerella vaginalis coccobacilli are clue cells, the diagnostic finding of bacterial vaginosis. BV causes a thin gray-white discharge with a fishy smell from released amines and typically less burning, itching and inflammation than vulvovaginal candidiasis.",
+        "whyWrongByChoice": {
+          "B": "Gonococcal cervicitis shows neutrophils with intracellular gram-negative diplococci on Gram stain, not epithelial cells coated with coccobacilli.",
+          "C": "Trichomoniasis shows motile, pear-shaped flagellated trophozoites on wet mount, with a frothy yellow-green discharge.",
+          "D": "Candidiasis shows budding yeast and pseudohyphae on a KOH prep, with a thick, white, curd-like discharge."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-258_brick_55_05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Normal Flora: Role in Health and Disease",
+      "lectureTopicId": "normal-flora-role-in-health-and-disease-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-261",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 4-month-old infant has fever and the findings shown. Which encapsulated organism is classically responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Moraxella catarrhalis"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The lecture shows this image as a 4-month-old with necrosis of the hands and feet due to N. meningitidis. Along with S. pneumoniae and H. influenzae, it is one of the most common causes of serious bacterial infection in children and can be carried as nasopharyngeal flora.",
+        "whyCorrect": "The lecture shows this image as a 4-month-old with necrosis of the hands and feet due to N. meningitidis. Along with S. pneumoniae and H. influenzae, it is one of the most common causes of serious bacterial infection in children and can be carried as nasopharyngeal flora.",
+        "whyWrongByChoice": {
+          "A": "H. influenzae type b causes meningitis, epiglottitis and septic arthritis, but it is not the classic cause of purpura fulminans with limb necrosis.",
+          "B": "Moraxella catarrhalis causes otitis media, sinusitis and COPD exacerbations, not fulminant sepsis with purpura and digital necrosis.",
+          "D": "S. pneumoniae can cause sepsis and purpura fulminans, but the classic cause of a purpuric rash with gangrene of the hands and feet in an infant is N. meningitidis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-261_brick_55_08.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Normal Flora: Role in Health and Disease",
+      "lectureTopicId": "normal-flora-role-in-health-and-disease-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-264",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A hospitalized patient develops profuse diarrhea. Colonoscopy shows the findings seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacteroides fragilis"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Yellow-white pseudomembranes indicate pseudomembranous colitis from C. difficile, a member of normal lower-GI flora. Antibiotics kill competing flora and let C. difficile overgrow and release toxins. Recurrence is common (20-60%), and fecal transplant can restore normal flora.",
+        "whyCorrect": "Yellow-white pseudomembranes indicate pseudomembranous colitis from C. difficile, a member of normal lower-GI flora. Antibiotics kill competing flora and let C. difficile overgrow and release toxins. Recurrence is common (20-60%), and fecal transplant can restore normal flora.",
+        "whyWrongByChoice": {
+          "A": "Bacteroides fragilis is a gut anaerobe that causes intra-abdominal abscesses, not antibiotic-associated pseudomembranous colitis.",
+          "C": "Enterococcus faecalis causes urinary tract infections and endocarditis; it does not produce toxins that form colonic pseudomembranes.",
+          "D": "Enterohemorrhagic E. coli causes bloody diarrhea and hemolytic uremic syndrome, not yellow-white pseudomembranes after antibiotics in a hospitalized patient."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-264_brick_55_11.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Normal Flora: Role in Health and Disease",
+      "lectureTopicId": "normal-flora-role-in-health-and-disease-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-274",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "Five organisms were grown on triple sugar iron (TSI) agar as shown. What does the finding in the fourth tube from the left indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gas production"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen sulfide production"
+        },
+        {
+          "label": "C",
+          "text": "Lactose fermentation"
+        },
+        {
+          "label": "D",
+          "text": "Urease production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On TSI agar, H2S reacts with the iron salts to form ferrous sulfide, an insoluble black precipitate. Fermentation turns the medium yellow and gas production causes bubbles or cracks.",
+        "whyCorrect": "On TSI agar, H2S reacts with the iron salts to form ferrous sulfide, an insoluble black precipitate. Fermentation turns the medium yellow and gas production causes bubbles or cracks.",
+        "whyWrongByChoice": {
+          "A": "Gas production shows as bubbles, cracks or a lifted agar plug in the tube, not a black precipitate.",
+          "C": "Fermentation of lactose or sucrose turns the slant and butt yellow from acid, not black.",
+          "D": "Urease is detected on urea agar, which turns pink as urea is split to ammonia; it does not blacken TSI agar."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-274_brick_56_14.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Gram-Positive and Negative Algorithms",
+      "lectureTopicId": "gram-positive-and-negative-algorithms-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-284",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A Gram stain of a skin abscess aspirate shows the organisms pictured. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Staphylococci are gram-positive (purple) spherical cocci that cluster together like bunches of grapes. Streptococci and enterococci are also gram-positive cocci but form chains or pairs, and Neisseria are gram-negative diplococci.",
+        "whyCorrect": "Staphylococci are gram-positive (purple) spherical cocci that cluster together like bunches of grapes. Streptococci and enterococci are also gram-positive cocci but form chains or pairs, and Neisseria are gram-negative diplococci.",
+        "whyWrongByChoice": {
+          "A": "Enterococci are gram-positive cocci in pairs and short chains, not clusters.",
+          "B": "Neisseria are gram-negative (pink) diplococci, not purple cocci in clusters.",
+          "D": "Streptococci are gram-positive cocci in chains or pairs, not grape-like clusters."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-284_brick_57_01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Staphylococci",
+      "lectureTopicId": "staphylococci",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-286",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A catalase-positive, gram-positive coccus in clusters grows on sheep blood agar as shown (arrows). Which staphylococcal species is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus hominis"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus saprophyticus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pale, clear zone around the colonies is beta-hemolysis (complete lysis of red cells). Among the clinically important staphylococci, only S. aureus is beta-hemolytic; S. epidermidis and S. saprophyticus are gamma (non)-hemolytic.",
+        "whyCorrect": "The pale, clear zone around the colonies is beta-hemolysis (complete lysis of red cells). Among the clinically important staphylococci, only S. aureus is beta-hemolytic; S. epidermidis and S. saprophyticus are gamma (non)-hemolytic.",
+        "whyWrongByChoice": {
+          "B": "S. epidermidis is coagulase-negative and gamma (non)-hemolytic, so it shows no clear zone around its colonies.",
+          "C": "S. hominis is a coagulase-negative skin commensal that is not beta-hemolytic.",
+          "D": "S. saprophyticus is a coagulase-negative, novobiocin-resistant cause of cystitis in young women and is not beta-hemolytic."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-286_brick_57_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Staphylococci",
+      "lectureTopicId": "staphylococci",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-288",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 10-day-old neonate develops fever and the skin findings shown. Which organism and virulence factor are most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. aureus enterotoxin"
+        },
+        {
+          "label": "B",
+          "text": "S. aureus exfoliatin (exfoliative toxin)"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus TSST-1"
+        },
+        {
+          "label": "D",
+          "text": "S. epidermidis biofilm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is staphylococcal scalded-skin syndrome. S. aureus exfoliatin cleaves desmoglein-1 in desmosomes, producing a split just below the stratum corneum; the same toxin underlies bullous impetigo. TSST-1 causes toxic shock syndrome and enterotoxin causes food poisoning.",
+        "whyCorrect": "This is staphylococcal scalded-skin syndrome. S. aureus exfoliatin cleaves desmoglein-1 in desmosomes, producing a split just below the stratum corneum; the same toxin underlies bullous impetigo. TSST-1 causes toxic shock syndrome and enterotoxin causes food poisoning.",
+        "whyWrongByChoice": {
+          "A": "S. aureus enterotoxin is preformed in food and causes rapid-onset vomiting, not blistering and sloughing of the skin.",
+          "C": "TSST-1 is a superantigen that causes toxic shock syndrome with fever, hypotension and a diffuse rash that later peels on the palms and soles; it does not cleave desmoglein-1.",
+          "D": "S. epidermidis biofilm lets it colonize catheters and prosthetic devices; it does not cause widespread skin peeling."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-288_brick_57_07.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Staphylococci",
+      "lectureTopicId": "staphylococci",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-293",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A Gram stain of sputum from an adult with fever and productive cough is shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S. pneumoniae appears as lancet-shaped gram-positive diplococci, with a pointed end on each coccus. S. pyogenes and S. agalactiae form chains, S. aureus forms clusters, and enterococci appear as a mix of pairs and chains.",
+        "whyCorrect": "S. pneumoniae appears as lancet-shaped gram-positive diplococci, with a pointed end on each coccus. S. pyogenes and S. agalactiae form chains, S. aureus forms clusters, and enterococci appear as a mix of pairs and chains.",
+        "whyWrongByChoice": {
+          "A": "Enterococci appear as gram-positive cocci in pairs and short chains and cause urinary tract infections and endocarditis, not typical lobar pneumonia.",
+          "B": "S. aureus appears as gram-positive cocci in grape-like clusters, not lancet-shaped diplococci.",
+          "D": "S. pyogenes forms chains of gram-positive cocci and causes pharyngitis and skin infections far more than community-acquired pneumonia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-293_brick_58_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Streptococci and Enterococci",
+      "lectureTopicId": "streptococci-and-enterococci",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-299",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "CSF from a febrile 19-year-old with neck stiffness shows the Gram stain pictured. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "N. meningitidis is a gram-negative (red) diplococcus described as kidney bean-shaped, often seen within neutrophils. S. pneumoniae is a gram-positive lancet-shaped diplococcus, H. influenzae is a gram-negative coccobacillus, and S. agalactiae/S. aureus are gram-positive.",
+        "whyCorrect": "N. meningitidis is a gram-negative (red) diplococcus described as kidney bean-shaped, often seen within neutrophils. S. pneumoniae is a gram-positive lancet-shaped diplococcus, H. influenzae is a gram-negative coccobacillus, and S. agalactiae/S. aureus are gram-positive.",
+        "whyWrongByChoice": {
+          "A": "H. influenzae is a small gram-negative coccobacillus, not a diplococcus.",
+          "C": "Group B strep is a gram-positive coccus in chains that causes meningitis in neonates, not in a 19-year-old.",
+          "D": "S. pneumoniae is a gram-positive (purple) lancet-shaped diplococcus, not a gram-negative kidney-bean diplococcus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-299_brick_59_01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Neisseria meningitidis and Haemophilus influenzae",
+      "lectureTopicId": "neisseria-meningitidis-and-haemophilus-influenzae",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-305",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "An anaerobic wound isolate grows on blood agar with the hemolysis pattern shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium botulinum"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C. perfringens produces a characteristic double ring of beta-hemolysis on blood agar, reflecting its multiple toxins. It causes gas gangrene (clostridial myonecrosis), driven mainly by alpha toxin, a lecithinase.",
+        "whyCorrect": "C. perfringens produces a characteristic double ring of beta-hemolysis on blood agar, reflecting its multiple toxins. It causes gas gangrene (clostridial myonecrosis), driven mainly by alpha toxin, a lecithinase.",
+        "whyWrongByChoice": {
+          "A": "C. difficile is non-hemolytic and causes antibiotic-associated colitis, not wound infection or gas gangrene.",
+          "B": "C. botulinum causes botulism through a neurotoxin; it does not give the double zone of beta-hemolysis typical of C. perfringens.",
+          "D": "C. tetani is recognized by its terminal drumstick spores and causes tetanus, not a double-zone hemolysis pattern."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-305_brick_60_02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Clostridia",
+      "lectureTopicId": "clostridia",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-306",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A Gram stain of an anaerobic culture from a contaminated puncture wound is shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus anthracis"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive rods with round terminal spores that swell the cell give the classic drumstick (tennis-racket) appearance of Clostridium tetani. C. perfringens rarely forms spores in culture or tissue, B. anthracis is an aerobe with central, non-swelling spores, and C. difficile spores are oval and subterminal.",
+        "whyCorrect": "Gram-positive rods with round terminal spores that swell the cell give the classic drumstick (tennis-racket) appearance of Clostridium tetani. C. perfringens rarely forms spores in culture or tissue, B. anthracis is an aerobe with central, non-swelling spores, and C. difficile spores are oval and subterminal.",
+        "whyWrongByChoice": {
+          "A": "B. anthracis is an aerobic gram-positive rod that grows in long chains and forms central spores that do not swell the cell.",
+          "B": "C. difficile forms oval, subterminal spores, not the round terminal spores that give the drumstick shape.",
+          "C": "C. perfringens is a large, boxcar-shaped gram-positive rod that rarely forms spores in culture or tissue, so it does not show swollen terminal spores."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-306_brick_60_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Clostridia",
+      "lectureTopicId": "clostridia",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-307",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A man develops the findings shown. The responsible toxin blocks release of which neurotransmitters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine at the neuromuscular junction"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine in the basal ganglia"
+        },
+        {
+          "label": "C",
+          "text": "GABA and glycine from inhibitory interneurons"
+        },
+        {
+          "label": "D",
+          "text": "Glutamate from motor neurons"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is tetanus (risus sardonicus and opisthotonos). C. tetani tetanospasmin cleaves SNARE proteins in inhibitory interneurons (Renshaw cells), preventing GABA and glycine release and causing spastic paralysis. Botulinum toxin, by contrast, blocks acetylcholine release at the NMJ.",
+        "whyCorrect": "This is tetanus (risus sardonicus and opisthotonos). C. tetani tetanospasmin cleaves SNARE proteins in inhibitory interneurons (Renshaw cells), preventing GABA and glycine release and causing spastic paralysis. Botulinum toxin, by contrast, blocks acetylcholine release at the NMJ.",
+        "whyWrongByChoice": {
+          "A": "Blocking acetylcholine release at the neuromuscular junction is the action of botulinum toxin, which causes flaccid, not spastic, paralysis.",
+          "B": "Loss of basal ganglia dopamine causes parkinsonism; no clostridial toxin acts this way.",
+          "D": "Motor neurons release acetylcholine, not glutamate, at muscle, and tetanospasmin acts on inhibitory interneurons rather than on excitatory transmitter release."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-307_brick_60_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Clostridia",
+      "lectureTopicId": "clostridia",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-313",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A gram-negative rod from a urine culture is streaked onto eosin methylene blue (EMB) agar and produces the colonies shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On EMB agar, lactose fermenters generally stain black, but E. coli is the exception: it forms colonies with a distinctive green metallic sheen. Klebsiella also ferments lactose but lacks the sheen; Proteus, Salmonella and Shigella are non-lactose fermenters.",
+        "whyCorrect": "On EMB agar, lactose fermenters generally stain black, but E. coli is the exception: it forms colonies with a distinctive green metallic sheen. Klebsiella also ferments lactose but lacks the sheen; Proteus, Salmonella and Shigella are non-lactose fermenters.",
+        "whyWrongByChoice": {
+          "B": "Klebsiella ferments lactose, giving dark mucoid colonies on EMB, but it lacks the green metallic sheen of E. coli.",
+          "C": "Proteus does not ferment lactose, so its colonies on EMB are colorless.",
+          "D": "Salmonella does not ferment lactose, so its colonies on EMB are colorless."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-313_brick_64_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Enterobacteriaceae (Part 1 of 2)",
+      "lectureTopicId": "enterobacteriaceae-part-1-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-321",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A sputum culture from a man with alcohol use disorder grows on MacConkey agar as shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella spp."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pink color means lactose fermentation. The thick, slimy look comes from the large mucoid capsule of K. pneumoniae. Being nonmotile and indole negative separates it from E. coli, and Proteus, Salmonella and Shigella do not ferment lactose.",
+        "whyCorrect": "The pink color means lactose fermentation. The thick, slimy look comes from the large mucoid capsule of K. pneumoniae. Being nonmotile and indole negative separates it from E. coli, and Proteus, Salmonella and Shigella do not ferment lactose.",
+        "whyWrongByChoice": {
+          "A": "E. coli ferments lactose (pink on MacConkey) but forms flat, dry colonies, not thick mucoid ones, and is not the classic cause of pneumonia in alcohol use disorder.",
+          "C": "Proteus does not ferment lactose, so its colonies on MacConkey are colorless.",
+          "D": "Salmonella does not ferment lactose, so its colonies on MacConkey are colorless."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-321_brick_65_06.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Enterobacteriaceae (Part 2 of 2)",
+      "lectureTopicId": "enterobacteriaceae-part-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-324",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A woman with recurrent urinary tract infections has the abdominal x-ray shown. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Serratia marcescens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The x-ray shows staghorn calculi. P. mirabilis produces urease, which alkalinizes the urine and leads to struvite stones that can branch like deer antlers. Its swarming motility and lack of lactose fermentation identify it in the lab.",
+        "whyCorrect": "The x-ray shows staghorn calculi. P. mirabilis produces urease, which alkalinizes the urine and leads to struvite stones that can branch like deer antlers. Its swarming motility and lack of lactose fermentation identify it in the lab.",
+        "whyWrongByChoice": {
+          "A": "E. coli is the most common cause of UTI, but it is urease-negative and does not cause struvite staghorn calculi.",
+          "B": "Klebsiella can produce urease, but Proteus mirabilis is the classic cause of struvite staghorn calculi.",
+          "D": "Serratia causes hospital-acquired infections and may produce a red pigment; it is not the classic cause of staghorn struvite stones."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-324_brick_65_09.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Enterobacteriaceae (Part 2 of 2)",
+      "lectureTopicId": "enterobacteriaceae-part-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-326",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A gram-negative rod from a hospitalized, immunocompromised patient produces the colonies shown on nutrient agar. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citrobacter spp."
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Serratia spp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Some Serratia species produce a red pigment (prodigiosin), which distinguishes Serratia from Citrobacter, the other slow lactose fermenter. Not all Serratia strains are pigmented. Serratia mainly causes opportunistic infections in hospitalized or immunocompromised patients.",
+        "whyCorrect": "Some Serratia species produce a red pigment (prodigiosin), which distinguishes Serratia from Citrobacter, the other slow lactose fermenter. Not all Serratia strains are pigmented. Serratia mainly causes opportunistic infections in hospitalized or immunocompromised patients.",
+        "whyWrongByChoice": {
+          "A": "Citrobacter is another slow lactose fermenter but does not produce the red pigment prodigiosin.",
+          "B": "Klebsiella forms large mucoid, non-pigmented colonies.",
+          "C": "Proteus swarms across the agar in waves and is not pigmented red."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-326_brick_65_11.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Enterobacteriaceae (Part 2 of 2)",
+      "lectureTopicId": "enterobacteriaceae-part-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-333",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A patient has fever, abdominal cramping and bloody diarrhea. A stool Gram stain shows the organisms seen here. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Enterohemorrhagic E. coli"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella spp."
+        },
+        {
+          "label": "D",
+          "text": "Shigella spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The stain shows gram-negative curved, comma- or S-shaped rods. That shape separates Campylobacter from Salmonella and Shigella, which are straight rods. C. jejuni is the most common cause of bacterial diarrhea in the U.S. and the most common cause of Guillain-Barre syndrome.",
+        "whyCorrect": "The stain shows gram-negative curved, comma- or S-shaped rods. That shape separates Campylobacter from Salmonella and Shigella, which are straight rods. C. jejuni is the most common cause of bacterial diarrhea in the U.S. and the most common cause of Guillain-Barre syndrome.",
+        "whyWrongByChoice": {
+          "B": "EHEC is a straight gram-negative rod that causes bloody diarrhea, often without fever, and hemolytic uremic syndrome.",
+          "C": "Salmonella is a straight, motile gram-negative rod, not a curved or S-shaped one.",
+          "D": "Shigella is a straight, nonmotile gram-negative rod, not a curved or S-shaped one."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-333_brick_66_09.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Salmonella, Shigella, and Campylobacter spp.",
+      "lectureTopicId": "salmonella-shigella-and-campylobacter-spp",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-351",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A child with neutropenia during chemotherapy develops fever and the skin lesion shown. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These dark, necrotic skin lesions are ecthyma gangrenosum, a classic sign of Pseudomonas aeruginosa bacteremia, especially in neutropenic patients. S. aureus and S. pyogenes cause impetigo, cellulitis and abscesses rather than necrotic bacteremic lesions, and Klebsiella is not associated with this presentation.",
+        "whyCorrect": "These dark, necrotic skin lesions are ecthyma gangrenosum, a classic sign of Pseudomonas aeruginosa bacteremia, especially in neutropenic patients. S. aureus and S. pyogenes cause impetigo, cellulitis and abscesses rather than necrotic bacteremic lesions, and Klebsiella is not associated with this presentation.",
+        "whyWrongByChoice": {
+          "A": "Klebsiella pneumoniae causes lobar pneumonia, urinary tract infections and liver abscesses; it is not associated with ecthyma gangrenosum.",
+          "C": "S. aureus causes impetigo, furuncles, abscesses and cellulitis; it is not the classic cause of the necrotic, ulcerated lesions of ecthyma gangrenosum in a neutropenic host.",
+          "D": "S. pyogenes causes impetigo, erysipelas, cellulitis and necrotizing fasciitis, not the black necrotic eschars of bacteremic ecthyma gangrenosum."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-351_brick_67_22.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pseudomonas species and other closely related bacteria",
+      "lectureTopicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-353",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A sputum sample from a ventilated ICU patient grows the colonies shown on nutrient agar. Which organism is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas spp. are gram-negative, non-lactose-fermenting, oxidase-positive bacilli whose colonies are aqua or green because of pyocyanin and pyoverdine. Lactose fermentation would point to E. coli or K. pneumoniae, and an oxidase-negative result to Salmonella or Shigella. Acinetobacter colonies are colorless or creamy.",
+        "whyCorrect": "Pseudomonas spp. are gram-negative, non-lactose-fermenting, oxidase-positive bacilli whose colonies are aqua or green because of pyocyanin and pyoverdine. Lactose fermentation would point to E. coli or K. pneumoniae, and an oxidase-negative result to Salmonella or Shigella. Acinetobacter colonies are colorless or creamy.",
+        "whyWrongByChoice": {
+          "A": "Acinetobacter is an oxidase-negative cause of ventilator-associated pneumonia, but its colonies are colorless or creamy, not green.",
+          "B": "E. coli ferments lactose, is oxidase-negative and produces no blue-green pigment.",
+          "C": "Klebsiella ferments lactose and forms large mucoid colonies without blue-green pigment."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-353_brick_67_24.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Pseudomonas species and other closely related bacteria",
+      "lectureTopicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-358",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A young adult recovering from a respiratory infection develops the findings shown. Which condition is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes labialis"
+        },
+        {
+          "label": "B",
+          "text": "Impetigo"
+        },
+        {
+          "label": "C",
+          "text": "Scarlet fever"
+        },
+        {
+          "label": "D",
+          "text": "Stevens-Johnson syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Stevens-Johnson syndrome is a serious immune-mediated disorder in which the epidermis and mucous membranes detach, producing painful blisters and erosions of the lips, eyes, nose, and genitals. It is triggered most often by medications; among infections, M. pneumoniae is the most common trigger. Its more severe form is toxic epidermal necrolysis.",
+        "whyCorrect": "Stevens-Johnson syndrome is a serious immune-mediated disorder in which the epidermis and mucous membranes detach, producing painful blisters and erosions of the lips, eyes, nose, and genitals. It is triggered most often by medications; among infections, M. pneumoniae is the most common trigger. Its more severe form is toxic epidermal necrolysis.",
+        "whyWrongByChoice": {
+          "A": "Herpes labialis produces grouped vesicles on one part of the lip border, not widespread erosions of the lips and other mucous membranes.",
+          "B": "Impetigo produces honey-crusted lesions around the nose and mouth without involvement of the mucous membranes or eyes.",
+          "C": "Scarlet fever produces a diffuse, sandpaper-like rash with a strawberry tongue and circumoral pallor, not blistering and erosions of the lips and mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-358_brick_68_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Atypical Bacteria",
+      "lectureTopicId": "atypical-bacteria",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-359",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A sputum sample from a young adult with pneumonia is cultured on a special medium, and the colonies shown are seen under low magnification. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "M. pneumoniae has no cell wall and has sterols in its membrane, so it needs sterols in the medium and forms 'fried egg' colonies (mnemonic: 'eggs contain cholesterol'). Culture is slow and rarely done; PCR is the preferred diagnostic test.",
+        "whyCorrect": "M. pneumoniae has no cell wall and has sterols in its membrane, so it needs sterols in the medium and forms 'fried egg' colonies (mnemonic: 'eggs contain cholesterol'). Culture is slow and rarely done; PCR is the preferred diagnostic test.",
+        "whyWrongByChoice": {
+          "A": "Chlamydia is obligate intracellular and does not grow on cell-free agar.",
+          "B": "Legionella grows on buffered charcoal yeast extract agar with cysteine and iron, but it does not form fried-egg colonies.",
+          "D": "S. pneumoniae grows on blood agar as alpha-hemolytic colonies with a central dimple, not fried-egg colonies."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-359_brick_68_05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Atypical Bacteria",
+      "lectureTopicId": "atypical-bacteria",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-361",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A cervical swab from a woman with mucopurulent cervicitis is inoculated into cell culture and stained with iodine, as shown. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia spp."
+        },
+        {
+          "label": "B",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia spp. are obligate intracellular bacteria that replicate inside an endosome and form large inclusionary bodies. These inclusions can be stained with iodine, Giemsa, or immunofluorescent stains. Chlamydiae do not Gram stain, and in practice PCR (nucleic acid amplification) is the most common way to identify them.",
+        "whyCorrect": "Chlamydia spp. are obligate intracellular bacteria that replicate inside an endosome and form large inclusionary bodies. These inclusions can be stained with iodine, Giemsa, or immunofluorescent stains. Chlamydiae do not Gram stain, and in practice PCR (nucleic acid amplification) is the most common way to identify them.",
+        "whyWrongByChoice": {
+          "B": "Legionella is grown on buffered charcoal yeast extract agar and causes pneumonia, not cervicitis with glycogen-rich inclusions.",
+          "C": "Mycoplasma lacks a cell wall and grows on cell-free media as fried-egg colonies; it does not form intracellular inclusions that stain with iodine.",
+          "D": "S. pneumoniae is an extracellular gram-positive diplococcus grown on blood agar, not an intracellular organism forming iodine-staining inclusions."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-361_brick_68_07.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Atypical Bacteria",
+      "lectureTopicId": "atypical-bacteria",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-368",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A patient has fatigue, fever and joint aches, along with the rash shown. Which organism causes this rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema migrans is a red rash that expands from the bite site and can take on a bull's-eye appearance. It is pathognomonic for early localized (stage 1) Lyme disease, caused by B. burgdorferi, but appears in only 70-80% of patients. The RMSF rash, by contrast, is maculopapular, starts on the wrists and ankles, and spreads to the trunk.",
+        "whyCorrect": "Erythema migrans is a red rash that expands from the bite site and can take on a bull's-eye appearance. It is pathognomonic for early localized (stage 1) Lyme disease, caused by B. burgdorferi, but appears in only 70-80% of patients. The RMSF rash, by contrast, is maculopapular, starts on the wrists and ankles, and spreads to the trunk.",
+        "whyWrongByChoice": {
+          "B": "Ehrlichiosis causes fever, leukopenia and thrombocytopenia with morulae in monocytes; a rash is uncommon and is not an expanding bull's-eye.",
+          "C": "Mycoplasma causes atypical pneumonia and can trigger erythema multiforme target lesions, not a single expanding erythema migrans.",
+          "D": "The RMSF rash is maculopapular, starts on the wrists and ankles and spreads to the trunk; it does not expand outward from a single bite site."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-368_brick_69_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bacterial Tick-borne Diseases",
+      "lectureTopicId": "bacterial-tick-borne-diseases-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-370",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "In July, a patient from Arkansas has fever, severe headache and myalgia after a hiking trip. Two days later, the rash shown appears. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rocky Mountain spotted fever, caused by R. rickettsii, presents with the triad of fever, headache, and rash. The maculopapular rash starts around the wrists, ankles, palms, and soles and spreads to the trunk, usually 2-4 days after the fever. R. rickettsii infects endothelial cells and causes widespread vasculitis. It is transmitted mainly by the American dog tick and is the most common fatal tick-borne disease in the U.S.",
+        "whyCorrect": "Rocky Mountain spotted fever, caused by R. rickettsii, presents with the triad of fever, headache, and rash. The maculopapular rash starts around the wrists, ankles, palms, and soles and spreads to the trunk, usually 2-4 days after the fever. R. rickettsii infects endothelial cells and causes widespread vasculitis. It is transmitted mainly by the American dog tick and is the most common fatal tick-borne disease in the U.S.",
+        "whyWrongByChoice": {
+          "A": "Lyme disease causes erythema migrans, a single expanding bull's-eye at the bite site, not a petechial rash that starts at the wrists and ankles.",
+          "B": "Ehrlichiosis is also tick-borne, but a rash is uncommon; it is recognized by leukopenia, thrombocytopenia and morulae in monocytes.",
+          "C": "Mycoplasma is spread by respiratory droplets, not ticks, and causes atypical pneumonia rather than a spreading petechial rash."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-370_brick_69_08.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bacterial Tick-borne Diseases",
+      "lectureTopicId": "bacterial-tick-borne-diseases-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-371",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A park ranger has fever, headache and myalgia 10 days after a tick bite. A peripheral blood smear is shown (arrow). Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ehrlichia spp. are small, gram-negative, obligate intracellular bacteria with a tropism for monocytes and macrophages. Clusters of bacteria inside cell vacuoles form mulberry-like aggregates called morulae. These help distinguish ehrlichiosis from Lyme disease and RMSF, but they are not reliable enough for diagnosis on their own; serology usually confirms it. Ehrlichiosis is spread by the lone star tick and the blacklegged tick.",
+        "whyCorrect": "Ehrlichia spp. are small, gram-negative, obligate intracellular bacteria with a tropism for monocytes and macrophages. Clusters of bacteria inside cell vacuoles form mulberry-like aggregates called morulae. These help distinguish ehrlichiosis from Lyme disease and RMSF, but they are not reliable enough for diagnosis on their own; serology usually confirms it. Ehrlichiosis is spread by the lone star tick and the blacklegged tick.",
+        "whyWrongByChoice": {
+          "A": "Borrelia is a spirochete that causes erythema migrans; it is not seen as intracellular morulae on a blood smear.",
+          "B": "Chlamydia pneumoniae causes atypical pneumonia by inhalation; it is not tick-borne and is not seen in blood leukocytes.",
+          "D": "R. rickettsii infects endothelial cells and causes a vasculitic rash that spreads from the wrists and ankles; it does not form morulae in blood monocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-371_brick_69_09.jpg",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Bacterial Tick-borne Diseases",
+      "lectureTopicId": "bacterial-tick-borne-diseases-2026",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-147",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A sexually active man has the lesions shown at the base of the penis. Infection with which agent is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus ducreyi"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus 2"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
+        "whyCorrect": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
+        "whyWrongByChoice": {
+          "A": "Chlamydia trachomatis serovars L1-L3 cause lymphogranuloma venereum, with a small transient painless ulcer followed by tender inguinal adenopathy, not grouped vesicles.",
+          "B": "Haemophilus ducreyi causes chancroid, a painful deep ulcer with a ragged purulent base and suppurative nodes, not clustered vesicles.",
+          "D": "HPV causes painless genital warts (condylomata acuminata), which are papillomatous, not vesicular or ulcerating.",
+          "E": "Treponema pallidum produces a single painless indurated chancre with clean base, not painful grouped vesicles."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-147_mi024_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Herpesviridae (Part 1 of 2)",
+      "lectureTopicId": "herpesviridae-part-1-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-151",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A dental hygienist develops the painful lesion shown on her finger. What is the causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
+        "whyCorrect": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
+        "whyWrongByChoice": {
+          "A": "Candida causes chronic paronychia in wet-work occupations, with swelling and nail dystrophy, not acute vesicles.",
+          "C": "HPV causes common warts with rough keratotic papules, not acute painful vesicles from autoinoculation.",
+          "D": "Sporothrix schenckii causes nodules ascending along lymphatics after a thorn injury, not painful grouped vesicles on a fingertip.",
+          "E": "Staphylococcus aureus causes paronychia or felon, with pus-filled abscesses, rather than clustered clear vesicles; incising a herpetic whitlow is contraindicated."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-151_mi024_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Herpesviridae (Part 1 of 2)",
+      "lectureTopicId": "herpesviridae-part-1-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-155",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 72-year-old has the painful rash shown on the trunk. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Herpes zoster (shingles)"
+        },
+        {
+          "label": "D",
+          "text": "Impetigo"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent HSV-1 infection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
+        "whyCorrect": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis is diffuse, warm, tender erythema without grouped vesicles and does not follow a dermatome or stop at the midline.",
+          "B": "Contact dermatitis is itchy and follows the shape of the contact exposure, not a painful dermatomal distribution.",
+          "D": "Impetigo forms honey-crusted erosions, often around the nose and mouth, caused by S. aureus or S. pyogenes, and does not follow a dermatome.",
+          "E": "Recurrent HSV-1 forms a small cluster of vesicles at the same site, usually the lip, rather than a band covering a whole dermatome."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-155_mi024_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Herpesviridae (Part 1 of 2)",
+      "lectureTopicId": "herpesviridae-part-1-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-011",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A lung biopsy from a kidney transplant recipient with pneumonitis shows the cell seen here. Which virus produces this cytopathic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory syncytial virus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
+        "whyCorrect": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
+        "whyWrongByChoice": {
+          "B": "EBV infects B cells and causes atypical lymphocytosis, but it does not produce giant cells with single owl's-eye intranuclear inclusions in tissue.",
+          "C": "HSV produces multinucleated giant cells with Cowdry A inclusions and nuclear molding, without the massive cytomegaly of an owl's-eye cell.",
+          "D": "RSV forms multinucleated syncytia with cytoplasmic inclusions, not a single enlarged cell with an intranuclear inclusion and halo.",
+          "E": "VZV produces multinucleated giant cells similar to HSV on Tzanck smear, not single enlarged cells with owl's-eye intranuclear inclusions."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-011_mi025_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Herpesviridae (2 of 2)",
+      "lectureTopicId": "herpesviridae-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-063",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A non-contrast head CT of an infant with microcephaly is shown (arrows). Congenital infection with which organism most characteristically produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "E",
+          "text": "Zika virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
+        "whyCorrect": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
+        "whyWrongByChoice": {
+          "B": "Neonatal HSV usually presents with skin vesicles or encephalitis acquired at delivery; any calcifications are scattered and follow necrosis, not periventricular.",
+          "C": "Congenital rubella causes cataracts, deafness, and heart defects; periventricular calcification is not its characteristic imaging finding.",
+          "D": "Congenital toxoplasmosis causes diffuse, scattered parenchymal calcifications with hydrocephalus and chorioretinitis, rather than a periventricular pattern.",
+          "E": "Congenital Zika causes severe microcephaly with calcifications typically at the cortical-subcortical junction, not in a periventricular distribution."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-063_mi025_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Herpesviridae (2 of 2)",
+      "lectureTopicId": "herpesviridae-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-156",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A patient with advanced HIV has the painless tongue lesion shown, which cannot be scraped off. Which organism is the underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
+        "whyCorrect": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
+        "whyWrongByChoice": {
+          "A": "Candida causes thrush, white plaques that can be scraped off to reveal a red base, and it is a fungus rather than a virus.",
+          "B": "CMV causes oral ulcers, retinitis, and colitis in AIDS, not non-scrapable hairy leukoplakia.",
+          "D": "HSV-1 causes painful vesicles and ulcers on the lips and mouth, not a painless, corrugated white plaque.",
+          "E": "HPV causes oral papillomas and some oropharyngeal cancers, not corrugated white plaques on the lateral tongue in immunosuppressed patients."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-156_mi025_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Herpesviridae (2 of 2)",
+      "lectureTopicId": "herpesviridae-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-157",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A patient with HIV and a low CD4 count develops the skin lesions shown. Which pathogen is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus (HHV-5)"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus (HHV-4)"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8 (HHV-8)"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Molluscum contagiosum virus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
+        "whyCorrect": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
+        "whyWrongByChoice": {
+          "A": "CMV causes retinitis, colitis, and esophagitis in advanced HIV, not violaceous skin nodules.",
+          "B": "EBV causes oral hairy leukoplakia and B-cell lymphomas in HIV, not violaceous cutaneous vascular nodules.",
+          "D": "HPV causes warts and anogenital cancers, not red-purple vascular tumors of endothelial cells.",
+          "E": "Molluscum contagiosum causes small, pearly umbilicated papules, which can be widespread in AIDS, not violaceous vascular nodules and plaques."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-157_mi027_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Retroviridae (Part 2 of 2)",
+      "lectureTopicId": "retroviridae-part-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-064",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A frontal neck radiograph of a 2-year-old with fever and inspiratory stridor is shown. This imaging finding is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute epiglottitis"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial tracheitis"
+        },
+        {
+          "label": "C",
+          "text": "Croup"
+        },
+        {
+          "label": "D",
+          "text": "Foreign body aspiration"
+        },
+        {
+          "label": "E",
+          "text": "Retropharyngeal abscess"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
+        "whyCorrect": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
+        "whyWrongByChoice": {
+          "A": "Epiglottitis shows a swollen epiglottis (thumb sign) on the lateral radiograph, a supraglottic finding, not subglottic steeple narrowing.",
+          "B": "Bacterial tracheitis shows irregular tracheal margins and intraluminal membranes in a toxic-appearing child, rather than smooth symmetric subglottic tapering.",
+          "D": "An aspirated foreign body may be radiopaque or cause unilateral air trapping, not symmetric subglottic tapering.",
+          "E": "Retropharyngeal abscess widens the prevertebral soft tissue on the lateral neck film and does not taper the subglottic airway on the frontal view."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-064_mi033_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "lectureTopicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-164",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A newborn has the eye findings shown, caused by a transplacentally acquired infection. Which two additional findings complete the classic triad of this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chorioretinitis and hydrocephalus"
+        },
+        {
+          "label": "B",
+          "text": "Hepatosplenomegaly and jaundice"
+        },
+        {
+          "label": "C",
+          "text": "Limb hypoplasia and cicatricial skin lesions"
+        },
+        {
+          "label": "D",
+          "text": "Microcephaly and periventricular calcifications"
+        },
+        {
+          "label": "E",
+          "text": "Sensorineural deafness and congenital heart defects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
+        "whyCorrect": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
+        "whyWrongByChoice": {
+          "A": "Chorioretinitis with hydrocephalus and intracranial calcifications is the classic triad of congenital toxoplasmosis, not rubella with cataracts.",
+          "B": "Hepatosplenomegaly and jaundice occur in several TORCH infections, but they are not part of the classic rubella triad with cataracts.",
+          "C": "Limb hypoplasia with cicatricial skin scarring is the pattern of congenital varicella syndrome.",
+          "D": "Microcephaly with periventricular calcifications suggests congenital CMV, which also causes sensorineural deafness but not cataracts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-164_mi034_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "lectureTopicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-165",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A neonate with a congenital viral infection has the skin findings shown. What underlying process most directly produces these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Dermal extramedullary hematopoiesis"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated cutaneous candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "Meningococcal petechiae from DIC"
+        },
+        {
+          "label": "E",
+          "text": "Neonatal cephalic pustulosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
+        "whyCorrect": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
+        "whyWrongByChoice": {
+          "A": "Allergic contact dermatitis is uncommon in newborns and causes itchy eczematous plaques where an allergen touched the skin, not violaceous nodules.",
+          "C": "Disseminated cutaneous candidiasis presents with erythematous papules and pustules, not blue-purple nodules from dermal blood-forming cells.",
+          "D": "Meningococcal petechiae from DIC are flat, nonblanching hemorrhages in a septic infant, not raised papulonodular lesions from dermal hematopoiesis.",
+          "E": "Neonatal cephalic pustulosis is a benign Malassezia-associated acneiform eruption of small papules and pustules on the face, not blue-purple dermal nodules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-165_mi034_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "lectureTopicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-067",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A stained preparation of a sample from a hospitalized patient with a central venous catheter is shown. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus species"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Candida species"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
+        "whyCorrect": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus appears only as septate hyphae with acute-angle branching and has no yeast phase.",
+          "B": "Blastomyces appears in tissue as large broad-based budding yeast, without pseudohyphae.",
+          "D": "Cryptococcus appears as encapsulated budding yeast and does not form pseudohyphae in patient samples.",
+          "E": "Histoplasma appears in tissue only as tiny intracellular yeasts within macrophages, without pseudohyphae."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-067_mi037_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Candida and Aspergillus spp.",
+      "lectureTopicId": "candida-and-aspergillus-spp",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-013",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A lung biopsy from a patient with a chronic pneumonia is shown. This finding is essentially pathognomonic for which fungal infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillosis"
+        },
+        {
+          "label": "B",
+          "text": "Blastomycosis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioidomycosis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcosis"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
+        "whyCorrect": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
+        "whyWrongByChoice": {
+          "A": "Aspergillosis shows septate hyphae with acute-angle branching in tissue, not round spherules.",
+          "B": "Blastomycosis shows large thick-walled yeasts with single broad-based buds, without internal endospores.",
+          "D": "Cryptococcosis shows narrow-based budding yeasts with thick mucoid capsules, not spherules filled with endospores.",
+          "E": "Histoplasmosis shows tiny 2-5 micrometer yeasts packed inside macrophages, not giant spherules containing endospores."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-013_mi038_f15.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Geographically Defined Mycoses",
+      "lectureTopicId": "geographically-defined-mycoses",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-076",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A mold grown at 25 C from a patient's sputum culture is shown. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioides spp."
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "E",
+          "text": "Rhizopus spp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
+        "whyCorrect": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus fumigatus forms septate hyphae with conidiophores ending in a vesicle bearing chains of conidia, not barrel-shaped arthroconidia.",
+          "B": "Blastomyces mold produces small conidia on short stalks off thin hyphae, not alternating barrel-shaped units.",
+          "D": "Histoplasma mold produces tuberculate macroconidia with small microconidia, not alternating barrel-shaped arthroconidia.",
+          "E": "Rhizopus forms broad, nonseptate ribbon-like hyphae with sporangia on sporangiophores, not arthroconidia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-076_mi038_f14.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Geographically Defined Mycoses",
+      "lectureTopicId": "geographically-defined-mycoses",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-080",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A CSF sample from a patient with subacute meningitis is examined as shown. Which staining method and organism does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GMS silver stain of Histoplasma"
+        },
+        {
+          "label": "B",
+          "text": "Gram stain of Candida"
+        },
+        {
+          "label": "C",
+          "text": "India ink stain of Cryptococcus"
+        },
+        {
+          "label": "D",
+          "text": "KOH preparation of Coccidioides"
+        },
+        {
+          "label": "E",
+          "text": "Mucicarmine stain of Blastomyces"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
+        "whyCorrect": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
+        "whyWrongByChoice": {
+          "A": "GMS silver stain colors fungal walls black in tissue sections; Histoplasma appears as tiny intracellular yeasts, not haloed yeasts on a dark ink background.",
+          "B": "Gram stain is a positive stain in which Candida stains purple, and Candida lacks the thick capsule that creates a clear halo.",
+          "D": "KOH dissolves keratin and host cells to reveal fungal elements in skin or nail scrapings; Coccidioides appears as spherules, not haloed yeasts in CSF.",
+          "E": "Mucicarmine stains capsular polysaccharide red and is classically used for Cryptococcus in tissue; Blastomyces has no capsule, and mucicarmine is not a negative stain."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-080_mi038_f22.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Geographically Defined Mycoses",
+      "lectureTopicId": "geographically-defined-mycoses",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-169",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A 9-year-old has the itchy skin lesion shown on her arm, which has slowly enlarged over 3 weeks. Which condition is it most consistent with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema migrans"
+        },
+        {
+          "label": "B",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "C",
+          "text": "Nummular eczema"
+        },
+        {
+          "label": "D",
+          "text": "Psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
+        "whyCorrect": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
+        "whyWrongByChoice": {
+          "A": "Erythema migrans is an expanding red patch at a tick bite site, usually without the scaly advancing border of a dermatophyte infection.",
+          "B": "Granuloma annulare forms annular rings of smooth skin-colored to pink papules without scale, often on the hands and feet.",
+          "C": "Nummular eczema forms coin-shaped, uniformly scaly or crusted plaques without central clearing.",
+          "D": "Psoriasis forms well-demarcated plaques with thick silvery scale across the whole surface, usually on extensor surfaces, not rings with central clearing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-169_mi040_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Fungal Skin Infections",
+      "lectureTopicId": "fungal-skin-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-178",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A 62-year-old has had the toenail changes shown for several years. Which condition is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic nail trauma"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planus of the nail"
+        },
+        {
+          "label": "C",
+          "text": "Onychomycosis"
+        },
+        {
+          "label": "D",
+          "text": "Psoriatic nail dystrophy"
+        },
+        {
+          "label": "E",
+          "text": "Subungual melanoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
+        "whyCorrect": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
+        "whyWrongByChoice": {
+          "A": "Chronic trauma can thicken nails but typically affects a single nail in a pattern matching the injury, without the crumbling debris of fungal infection.",
+          "B": "Lichen planus of the nail causes thinning, longitudinal ridging, and pterygium formation rather than thickened crumbling nails.",
+          "D": "Psoriatic nail dystrophy shows pitting, oil-drop spots, and onycholysis, usually with skin or joint psoriasis.",
+          "E": "Subungual melanoma causes a longitudinal pigmented band that may spread onto the nail fold (Hutchinson sign), not thickened crumbling nails."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-178_mi040_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Fungal Skin Infections",
+      "lectureTopicId": "fungal-skin-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-180",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A 20-year-old notices the skin changes shown on his back after a summer outdoors. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pityriasis (tinea) versicolor"
+        },
+        {
+          "label": "B",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "C",
+          "text": "Post-inflammatory hypopigmentation"
+        },
+        {
+          "label": "D",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "E",
+          "text": "Vitiligo"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
+        "whyCorrect": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
+        "whyWrongByChoice": {
+          "B": "Pityriasis rosea starts with a herald patch followed by oval patches in a Christmas-tree pattern, and it resolves in weeks.",
+          "C": "Post-inflammatory hypopigmentation follows previous skin inflammation and lacks fine scale and fungal elements.",
+          "D": "Tinea corporis forms annular plaques with an active scaly border and central clearing, not patches of altered pigmentation that appear after tanning.",
+          "E": "Vitiligo causes complete depigmentation from melanocyte loss, with smooth, nonscaly patches."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-180_mi040_f20.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Fungal Skin Infections",
+      "lectureTopicId": "fungal-skin-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-181",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A gardener develops the lesions shown on her arm over several weeks, starting at the hand. Which infection produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cat-scratch disease"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous anthrax"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous leishmaniasis"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocutaneous sporotrichosis"
+        },
+        {
+          "label": "E",
+          "text": "Nocardiosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
+        "whyCorrect": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
+        "whyWrongByChoice": {
+          "A": "Cat-scratch disease causes a papule at the scratch site with regional lymphadenopathy, not ascending nodules along lymphatic channels.",
+          "B": "Cutaneous anthrax causes a painless papule that becomes a black eschar surrounded by edema, not a chain of nodules along lymphatics.",
+          "C": "Cutaneous leishmaniasis causes a chronic ulcer at a sandfly bite site; sporotrichoid spread can occur but is uncommon.",
+          "E": "Nocardiosis can rarely cause lymphocutaneous spread, but it is a partially acid-fast filamentous bacterium and more often causes pulmonary or brain abscesses."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-181_mi040_f22.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Fungal Skin Infections",
+      "lectureTopicId": "fungal-skin-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-088",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A skin scraping viewed under the microscope reveals this organism along with surrounding eggs. What is the diagnostic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous larva migrans larva"
+        },
+        {
+          "label": "B",
+          "text": "Demodex follicular mite"
+        },
+        {
+          "label": "C",
+          "text": "Louse (Pediculus) nit"
+        },
+        {
+          "label": "D",
+          "text": "Pthirus pubis (crab louse)"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoptes scabiei mite with eggs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
+        "whyCorrect": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
+        "whyWrongByChoice": {
+          "A": "Cutaneous larva migrans is caused by hookworm larvae migrating in skin; diagnosis is clinical by the serpiginous track, and larvae are rarely recovered.",
+          "B": "Demodex mites live in hair follicles and are elongated with a long tail, unlike the round Sarcoptes mite found in burrows.",
+          "C": "Louse nits are oval eggs cemented to hair shafts, found by inspecting hair, not mites with eggs in a skin-burrow scraping.",
+          "D": "Pthirus pubis is a broad, crab-shaped louse with large claws that clings to pubic hair; it lives on hair, not burrowed in the skin beside its eggs."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-088_mi041_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Parasitology",
+      "lectureTopicId": "introduction-to-parasitology",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-089",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A trichrome-stained stool sample from a patient with chronic diarrhea shows the organism seen here. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balantidium coli"
+        },
+        {
+          "label": "B",
+          "text": "Cryptosporidium parvum"
+        },
+        {
+          "label": "C",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "D",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "E",
+          "text": "Trichomonas vaginalis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pear-shaped trophozoite with two nuclei and multiple flagella (the 'owl-face' or 'falling leaf' form) is Giardia lamblia, a flagellate that causes fatty, foul-smelling diarrhea. Entamoeba moves by pseudopods and ingests RBCs, Cryptosporidium appears as small acid-fast oocysts, Trichomonas has one nucleus and an undulating membrane, and Balantidium is a large ciliate.",
+        "whyCorrect": "The pear-shaped trophozoite with two nuclei and multiple flagella (the 'owl-face' or 'falling leaf' form) is Giardia lamblia, a flagellate that causes fatty, foul-smelling diarrhea. Entamoeba moves by pseudopods and ingests RBCs, Cryptosporidium appears as small acid-fast oocysts, Trichomonas has one nucleus and an undulating membrane, and Balantidium is a large ciliate.",
+        "whyWrongByChoice": {
+          "A": "Balantidium coli is a large protozoan covered in cilia with a kidney-shaped macronucleus; it moves by cilia, not flagella.",
+          "B": "Cryptosporidium is seen as small round acid-fast oocysts in stool, not as a pear-shaped, flagellated, binucleate trophozoite.",
+          "C": "E. histolytica trophozoites move by pseudopods, have a single nucleus with a central karyosome and often contain ingested red cells; they have no flagella.",
+          "E": "Trichomonas is a flagellate, but it has a single nucleus and an undulating membrane and infects the urogenital tract, not the small intestine."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-089_mi041_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Introduction to Parasitology",
+      "lectureTopicId": "introduction-to-parasitology",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-093",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A newborn with seizures has the non-contrast head CT shown. Which congenital infection is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Congenital rubella"
+        },
+        {
+          "label": "C",
+          "text": "Congenital syphilis"
+        },
+        {
+          "label": "D",
+          "text": "Congenital toxoplasmosis"
+        },
+        {
+          "label": "E",
+          "text": "Neonatal herpes simplex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
+        "whyCorrect": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
+        "whyWrongByChoice": {
+          "A": "Congenital CMV causes periventricular calcifications with microcephaly and sensorineural hearing loss rather than diffuse calcifications with hydrocephalus.",
+          "B": "Congenital rubella causes cataracts, sensorineural deafness, and heart defects.",
+          "C": "Congenital syphilis causes rhinitis (snuffles), skin lesions, hepatosplenomegaly, and bone changes, not chorioretinitis with hydrocephalus and diffuse calcifications.",
+          "E": "Neonatal HSV is usually acquired at delivery and causes skin vesicles, encephalitis, or disseminated disease, not the toxoplasmosis triad."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-093_mi042_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Protozoan Infections",
+      "lectureTopicId": "protozoan-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-096",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A bone marrow smear from a patient with months of fever, weight loss, pancytopenia and massive splenomegaly is shown (arrows). What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chagas disease"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasmosis"
+        },
+        {
+          "label": "E",
+          "text": "Visceral leishmaniasis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
+        "whyCorrect": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
+        "whyWrongByChoice": {
+          "A": "Chagas disease shows amastigotes in cardiac muscle and trypomastigotes in blood, not amastigotes in marrow macrophages with this visceral picture.",
+          "B": "Histoplasma yeasts also fill macrophages but have no kinetoplast and show a clear halo from retracted cytoplasm.",
+          "C": "Malaria parasites infect red blood cells, forming ring forms and schizonts, and lack a kinetoplast.",
+          "D": "Toxoplasma tachyzoites are crescent-shaped and lack a kinetoplast, and they are not typically found filling marrow macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-096_mi042_f18.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Protozoan Infections",
+      "lectureTopicId": "protozoan-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-184",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A woman has vaginal itching and discharge. Speculum exam shows the cervix seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Gardnerella vaginalis"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "E",
+          "text": "Trichomonas vaginalis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
+        "whyCorrect": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
+        "whyWrongByChoice": {
+          "A": "Candida causes thick, white, curd-like discharge with normal vaginal pH below 4.5, not frothy discharge and strawberry cervix.",
+          "B": "Chlamydia trachomatis causes mucopurulent cervicitis that is often asymptomatic, without frothy discharge or punctate cervical hemorrhages.",
+          "C": "Gardnerella-associated bacterial vaginosis causes thin gray fishy discharge with pH above 4.5, but the cervix is not inflamed and no strawberry pattern is seen.",
+          "D": "Neisseria gonorrhoeae causes purulent cervicitis with friable cervix, not frothy discharge with punctate strawberry hemorrhages."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-184_mi042_f10.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Protozoan Infections",
+      "lectureTopicId": "protozoan-infections",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-097",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A 24-year-old with new-onset seizures has the brain MRI shown. Which condition best explains this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cerebral toxoplasmosis abscesses"
+        },
+        {
+          "label": "B",
+          "text": "Metastatic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple sclerosis plaques"
+        },
+        {
+          "label": "D",
+          "text": "Neurocysticercosis"
+        },
+        {
+          "label": "E",
+          "text": "Tuberous sclerosis cortical tubers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
+        "whyCorrect": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
+        "whyWrongByChoice": {
+          "A": "Toxoplasma abscesses are ring-enhancing lesions in immunocompromised patients, typically in the basal ganglia, not scattered calcified cysts.",
+          "B": "Metastatic melanoma produces enhancing, often hemorrhagic masses with edema, not numerous small calcified cysts.",
+          "C": "Multiple sclerosis plaques are periventricular white-matter lesions best seen on MRI and do not calcify.",
+          "E": "Cortical tubers in tuberous sclerosis can calcify, but they occur with subependymal nodules, seizures from infancy, and skin findings such as ash-leaf spots."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-097_mi045_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Helminths (Part 1 of 2)",
+      "lectureTopicId": "helminths-part-1",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-100",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A stained whole-mount of a tapeworm scolex recovered from a patient's stool is shown. Which species is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The scolex has four suckers plus a rostellum crowned with hooks (an armed scolex), which identifies Taenia solium. T. saginata has four suckers but no rostellum or hooks, Diphyllobothrium has a pair of slit-like bothria instead of suckers, and humans are only the intermediate host of Echinococcus, so its adult worm is not passed in human stool.",
+        "whyCorrect": "The scolex has four suckers plus a rostellum crowned with hooks (an armed scolex), which identifies Taenia solium. T. saginata has four suckers but no rostellum or hooks, Diphyllobothrium has a pair of slit-like bothria instead of suckers, and humans are only the intermediate host of Echinococcus, so its adult worm is not passed in human stool.",
+        "whyWrongByChoice": {
+          "A": "Diphyllobothrium latum has an elongated scolex with two slit-like grooves (bothria) instead of suckers and hooks.",
+          "B": "Echinococcus granulosus has an armed scolex, but the adult is a tiny worm with only a few segments living in dogs, not a long human intestinal tapeworm.",
+          "C": "Taenia saginata has four suckers but no rostellum or hooks, making its scolex unarmed."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-100_mi045_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Helminths (Part 1 of 2)",
+      "lectureTopicId": "helminths-part-1",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-107",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "Microscopy of a specimen collected from a 6-year-old shows the eggs seen here. Which parasite is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "B",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "C",
+          "text": "Hookworm"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma japonicum"
+        },
+        {
+          "label": "E",
+          "text": "Trichuris trichiura"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
+        "whyCorrect": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
+        "whyWrongByChoice": {
+          "A": "Ascaris eggs are round or oval with a thick knobby mammillated coat.",
+          "C": "Hookworm eggs are symmetric smooth ovals with a clear space around a segmented embryo.",
+          "D": "Schistosoma japonicum eggs are round to oval with a small inconspicuous lateral knob, not D-shaped.",
+          "E": "Trichuris eggs are barrel-shaped with polar plugs at each end."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-107_mi046_f15.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Helminths (Part 2 of 2)",
+      "lectureTopicId": "helminths-part-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-108",
+      "topicId": "pictures-w4",
+      "topicName": "Week 4 pictures",
+      "stem": "A stool ova-and-parasite exam shows the egg seen here. Which parasitic infection does the patient most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ancylostoma species"
+        },
+        {
+          "label": "B",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "C",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "D",
+          "text": "Necator species"
+        },
+        {
+          "label": "E",
+          "text": "Strongyloides stercoralis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
+        "whyCorrect": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
+        "whyWrongByChoice": {
+          "A": "Ancylostoma eggs are smooth, thin-shelled ovals with a clear space around the embryo.",
+          "C": "Enterobius eggs are flattened on one side with a smooth shell, usually recovered by tape test rather than stool.",
+          "D": "Necator eggs are identical to Ancylostoma eggs, thin and smooth, not knobby.",
+          "E": "Strongyloides is diagnosed by rhabditiform larvae in stool, not eggs, because its eggs hatch in the intestinal mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-108_mi046_f16.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Helminths (Part 2 of 2)",
+      "lectureTopicId": "helminths-part-2-of-2",
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-007",
+      "topicId": "pictures-w5",
+      "topicName": "More pictures",
+      "stem": "An acid-fast stain of a mycobacterial culture shows the growth pattern seen here. Which virulence factor is responsible for this arrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cord factor"
+        },
+        {
+          "label": "B",
+          "text": "Hyaluronic acid capsule"
+        },
+        {
+          "label": "C",
+          "text": "Lipoarabinomannan"
+        },
+        {
+          "label": "D",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcal protein A"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyCorrect": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyWrongByChoice": {
+          "B": "A hyaluronic acid capsule is the antiphagocytic capsule of Streptococcus pyogenes, which is nonimmunogenic because it resembles host tissue; it does not arrange bacilli in cords.",
+          "C": "Lipoarabinomannan is a mycobacterial cell-wall glycolipid that modulates macrophage responses and is detected in urine assays, but cording is attributed to trehalose dimycolate.",
+          "D": "Lipoteichoic acid is a gram-positive cell-envelope polymer that triggers inflammation via TLR2; it is not the mycobacterial glycolipid that produces serpentine cording.",
+          "E": "Protein A of S. aureus binds the Fc portion of IgG to block opsonization; it plays no role in the parallel cording of mycobacteria."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-007_mi017_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
+      "lectureTopicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
+      "source": "micro-picqbank"
+    }
+  ]
+}
