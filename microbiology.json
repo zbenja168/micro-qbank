@@ -1,0 +1,446 @@
+{
+ "course": "Microbiology",
+ "whole": {
+  "file": "microbiology.apkg",
+  "cards": 1375,
+  "mb": 20.3
+ },
+ "weeks": [
+  {
+   "file": "microbiology/week-1.apkg",
+   "cards": 170,
+   "mb": 2.8,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "microbiology/week-1-session-1.apkg",
+     "cards": 83,
+     "mb": 1.1,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-53.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Bacterial Structure, Growth, and Staining"
+      },
+      {
+       "file": "microbiology/lecture-54.apkg",
+       "cards": 23,
+       "mb": 0.2,
+       "title": "Bacterial Reproduction and Genetics"
+      },
+      {
+       "file": "microbiology/lecture-55.apkg",
+       "cards": 30,
+       "mb": 0.7,
+       "title": "Normal Flora: Role in Health and Disease"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-1-session-2.apkg",
+     "cards": 87,
+     "mb": 1.7,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-06.apkg",
+       "cards": 29,
+       "mb": 0.5,
+       "title": "Staphylococci"
+      },
+      {
+       "file": "microbiology/lecture-11.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Streptococci and Enterococci"
+      },
+      {
+       "file": "microbiology/lecture-56.apkg",
+       "cards": 30,
+       "mb": 1.1,
+       "title": "Gram-Positive and Negative Algorithms"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "microbiology/week-2.apkg",
+   "cards": 371,
+   "mb": 5.7,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "microbiology/week-2-session-1.apkg",
+     "cards": 121,
+     "mb": 1.9,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-16.apkg",
+       "cards": 37,
+       "mb": 1.4,
+       "title": "Neisseria meningitidis and Haemophilus influenzae"
+      },
+      {
+       "file": "microbiology/lecture-61.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Listeria monocytogenes"
+      },
+      {
+       "file": "microbiology/lecture-62.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Spectrum of Activity and Indications 1- β-lactams and Vancomycin"
+      },
+      {
+       "file": "microbiology/lecture-63.apkg",
+       "cards": 29,
+       "mb": 0.3,
+       "title": "Antibiotic Stewardship"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-2-session-2.apkg",
+     "cards": 119,
+     "mb": 2.5,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-17.apkg",
+       "cards": 29,
+       "mb": 0.4,
+       "title": "Enterobacteriaceae (Part 1 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-18.apkg",
+       "cards": 30,
+       "mb": 0.6,
+       "title": "Enterobacteriaceae (Part 2 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-22.apkg",
+       "cards": 30,
+       "mb": 0.7,
+       "title": "Salmonella, Shigella, and Campylobacter spp."
+      },
+      {
+       "file": "microbiology/lecture-23.apkg",
+       "cards": 30,
+       "mb": 1.0,
+       "title": "Pseudomonas species and other closely related bacteria"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-2-session-3.apkg",
+     "cards": 131,
+     "mb": 1.4,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-27.apkg",
+       "cards": 30,
+       "mb": 0.8,
+       "title": "Atypical Bacteria"
+      },
+      {
+       "file": "microbiology/lecture-69.apkg",
+       "cards": 30,
+       "mb": 0.5,
+       "title": "Bacterial Tick-borne Diseases"
+      },
+      {
+       "file": "microbiology/lecture-70.apkg",
+       "cards": 27,
+       "mb": 0.1,
+       "title": "Spectrum of Activity and indications-2 β-lactams and 30s Inhibitors"
+      },
+      {
+       "file": "microbiology/lecture-71.apkg",
+       "cards": 21,
+       "mb": 0.1,
+       "title": "Spectrum of Activity and Indications-3 Fluoroquinolones and Sulfonamides"
+      },
+      {
+       "file": "microbiology/lecture-72.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "Spectrum of Activity and Indications-4 50S inhibitors"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "microbiology/week-3.apkg",
+   "cards": 325,
+   "mb": 3.3,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "microbiology/week-3-session-1.apkg",
+     "cards": 112,
+     "mb": 1.1,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-31.apkg",
+       "cards": 30,
+       "mb": 0.1,
+       "title": "Introduction to Virology"
+      },
+      {
+       "file": "microbiology/lecture-32.apkg",
+       "cards": 28,
+       "mb": 0.7,
+       "title": "Herpesviridae (Part 1 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-33.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Herpesviridae (2 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-34.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Antivirals 1 of 2: Drugs to Treat Herpesvirus Infections"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-3-session-2.apkg",
+     "cards": 99,
+     "mb": 0.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-35.apkg",
+       "cards": 23,
+       "mb": 0.3,
+       "title": "Retroviridae (Part 1 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-36.apkg",
+       "cards": 24,
+       "mb": 0.3,
+       "title": "Retroviridae (Part 2 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-37.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Respiratory: Coronaviridae (2026)"
+      },
+      {
+       "file": "microbiology/lecture-38.apkg",
+       "cards": 25,
+       "mb": 0.1,
+       "title": "Antiretrovirals: Drugs to Treat and Prevent HIV Infection"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-3-session-3.apkg",
+     "cards": 114,
+     "mb": 1.7,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-39.apkg",
+       "cards": 34,
+       "mb": 1.2,
+       "title": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 1 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-40.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-41.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Caliciviridae, Matonaviridae, and Reoviridae"
+      },
+      {
+       "file": "microbiology/lecture-42.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "Antivirals 2 of 2: Drugs to Treat Influenza Virus and Respiratory Syncytial Virus Infection"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "microbiology/week-4.apkg",
+   "cards": 287,
+   "mb": 7.5,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "microbiology/week-4-session-1.apkg",
+     "cards": 129,
+     "mb": 4.0,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-43.apkg",
+       "cards": 35,
+       "mb": 1.5,
+       "title": "Mycology: An Introduction"
+      },
+      {
+       "file": "microbiology/lecture-44.apkg",
+       "cards": 30,
+       "mb": 0.9,
+       "title": "Candida and Aspergillus spp."
+      },
+      {
+       "file": "microbiology/lecture-45.apkg",
+       "cards": 29,
+       "mb": 0.9,
+       "title": "Geographically Defined Mycoses"
+      },
+      {
+       "file": "microbiology/lecture-46.apkg",
+       "cards": 35,
+       "mb": 0.9,
+       "title": "Antifungals—Drugs to Treat Fungal Infections"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-4-session-2.apkg",
+     "cards": 104,
+     "mb": 2.7,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-47.apkg",
+       "cards": 28,
+       "mb": 1.1,
+       "title": "Fungal Skin Infections"
+      },
+      {
+       "file": "microbiology/lecture-48.apkg",
+       "cards": 26,
+       "mb": 0.7,
+       "title": "Introduction to Parasitology"
+      },
+      {
+       "file": "microbiology/lecture-49.apkg",
+       "cards": 27,
+       "mb": 0.9,
+       "title": "Protozoan Infections"
+      },
+      {
+       "file": "microbiology/lecture-50.apkg",
+       "cards": 23,
+       "mb": 0.1,
+       "title": "Agents treating Helminthic and Protozoal infections"
+      }
+     ]
+    },
+    {
+     "file": "microbiology/week-4-session-3.apkg",
+     "cards": 54,
+     "mb": 1.0,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-51.apkg",
+       "cards": 26,
+       "mb": 0.4,
+       "title": "Helminths (Part 1 of 2)"
+      },
+      {
+       "file": "microbiology/lecture-52.apkg",
+       "cards": 28,
+       "mb": 0.6,
+       "title": "Helminths (Part 2 of 2)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "microbiology/week-5.apkg",
+   "cards": 222,
+   "mb": 1.2,
+   "week": 5,
+   "sessions": [
+    {
+     "file": "microbiology/week-5-session-0.apkg",
+     "cards": 222,
+     "mb": 1.2,
+     "session": 0,
+     "lectures": [
+      {
+       "file": "microbiology/lecture-04.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Principles of Antibacterial Drugs"
+      },
+      {
+       "file": "microbiology/lecture-07.apkg",
+       "cards": 20,
+       "mb": 0.2,
+       "title": "Cephalosporins"
+      },
+      {
+       "file": "microbiology/lecture-08.apkg",
+       "cards": 20,
+       "mb": 0.1,
+       "title": "Carbapenems"
+      },
+      {
+       "file": "microbiology/lecture-09.apkg",
+       "cards": 19,
+       "mb": 0.2,
+       "title": "Vancomycin and Bacitracin"
+      },
+      {
+       "file": "microbiology/lecture-10.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Penicillins"
+      },
+      {
+       "file": "microbiology/lecture-15.apkg",
+       "cards": 25,
+       "mb": 0.2,
+       "title": "DNA gyrase and Folic acid inhibitors– 2 of 2: Fluoroquinolones"
+      },
+      {
+       "file": "microbiology/lecture-20.apkg",
+       "cards": 28,
+       "mb": 0.1,
+       "title": "Protein Synthesis Inhibitor-1 of 2: Mechanisms of Action"
+      },
+      {
+       "file": "microbiology/lecture-21.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Protein Synthesis Inhibitors–2 of 2: Adverse Drug Reaction"
+      },
+      {
+       "file": "microbiology/lecture-25.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "DNA Gyrase Inhibitors and Folic acid synthesis inhibitors – 1 of 2: Sulfonamides"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
