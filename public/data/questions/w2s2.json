@@ -559,6 +559,48 @@
       "hy": true
     },
     {
+      "id": "mipic-313",
+      "topicId": "enterobacteriaceae-part-1-of-2",
+      "topicName": "Enterobacteriaceae (Part 1 of 2)",
+      "stem": "A gram-negative rod from a urine culture is streaked onto eosin methylene blue (EMB) agar and produces the colonies shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On EMB agar, lactose fermenters generally stain black, but E. coli is the exception: it forms colonies with a distinctive green metallic sheen. Klebsiella also ferments lactose but lacks the sheen; Proteus, Salmonella and Shigella are non-lactose fermenters.",
+        "whyCorrect": "On EMB agar, lactose fermenters generally stain black, but E. coli is the exception: it forms colonies with a distinctive green metallic sheen. Klebsiella also ferments lactose but lacks the sheen; Proteus, Salmonella and Shigella are non-lactose fermenters.",
+        "whyWrongByChoice": {
+          "B": "Klebsiella ferments lactose, giving dark mucoid colonies on EMB, but it lacks the green metallic sheen of E. coli.",
+          "C": "Proteus does not ferment lactose, so its colonies on EMB are colorless.",
+          "D": "Salmonella does not ferment lactose, so its colonies on EMB are colorless."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-313_brick_64_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi18-001",
       "stem": "A 25-year-old woman comes to the emergency department with a 3-day history of fever to 103.6°F (39.8°C), productive cough, worsening shortness of breath, and pleuritic chest pain. She is a college student who binge drinks heavily and consumed more than seven drinks at a party the previous weekend. Her sputum is thick, sticky, and reddish. A chest radiograph shows dense consolidation of the right upper lobe. Sputum Gram stain shows gram-negative bacilli, and culture grows mucoid, lactose-fermenting, indole-negative colonies. Which of the following is the most likely causal organism?",
       "choices": [
@@ -1127,6 +1169,132 @@
       "topicId": "enterobacteriaceae-part-2",
       "topicName": "Enterobacteriaceae (Part 2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "mipic-321",
+      "topicId": "enterobacteriaceae-part-2",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A sputum culture from a man with alcohol use disorder grows on MacConkey agar as shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella spp."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pink color means lactose fermentation. The thick, slimy look comes from the large mucoid capsule of K. pneumoniae. Being nonmotile and indole negative separates it from E. coli, and Proteus, Salmonella and Shigella do not ferment lactose.",
+        "whyCorrect": "The pink color means lactose fermentation. The thick, slimy look comes from the large mucoid capsule of K. pneumoniae. Being nonmotile and indole negative separates it from E. coli, and Proteus, Salmonella and Shigella do not ferment lactose.",
+        "whyWrongByChoice": {
+          "A": "E. coli ferments lactose (pink on MacConkey) but forms flat, dry colonies, not thick mucoid ones, and is not the classic cause of pneumonia in alcohol use disorder.",
+          "C": "Proteus does not ferment lactose, so its colonies on MacConkey are colorless.",
+          "D": "Salmonella does not ferment lactose, so its colonies on MacConkey are colorless."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-321_brick_65_06.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-324",
+      "topicId": "enterobacteriaceae-part-2",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A woman with recurrent urinary tract infections has the abdominal x-ray shown. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Serratia marcescens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The x-ray shows staghorn calculi. P. mirabilis produces urease, which alkalinizes the urine and leads to struvite stones that can branch like deer antlers. Its swarming motility and lack of lactose fermentation identify it in the lab.",
+        "whyCorrect": "The x-ray shows staghorn calculi. P. mirabilis produces urease, which alkalinizes the urine and leads to struvite stones that can branch like deer antlers. Its swarming motility and lack of lactose fermentation identify it in the lab.",
+        "whyWrongByChoice": {
+          "A": "E. coli is the most common cause of UTI, but it is urease-negative and does not cause struvite staghorn calculi.",
+          "B": "Klebsiella can produce urease, but Proteus mirabilis is the classic cause of struvite staghorn calculi.",
+          "D": "Serratia causes hospital-acquired infections and may produce a red pigment; it is not the classic cause of staghorn struvite stones."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-324_brick_65_09.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-326",
+      "topicId": "enterobacteriaceae-part-2",
+      "topicName": "Enterobacteriaceae (Part 2 of 2)",
+      "stem": "A gram-negative rod from a hospitalized, immunocompromised patient produces the colonies shown on nutrient agar. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Citrobacter spp."
+        },
+        {
+          "label": "B",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Proteus mirabilis"
+        },
+        {
+          "label": "D",
+          "text": "Serratia spp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Some Serratia species produce a red pigment (prodigiosin), which distinguishes Serratia from Citrobacter, the other slow lactose fermenter. Not all Serratia strains are pigmented. Serratia mainly causes opportunistic infections in hospitalized or immunocompromised patients.",
+        "whyCorrect": "Some Serratia species produce a red pigment (prodigiosin), which distinguishes Serratia from Citrobacter, the other slow lactose fermenter. Not all Serratia strains are pigmented. Serratia mainly causes opportunistic infections in hospitalized or immunocompromised patients.",
+        "whyWrongByChoice": {
+          "A": "Citrobacter is another slow lactose fermenter but does not produce the red pigment prodigiosin.",
+          "B": "Klebsiella forms large mucoid, non-pigmented colonies.",
+          "C": "Proteus swarms across the agar in waves and is not pigmented red."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-326_brick_65_11.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi22-001",
@@ -1701,6 +1869,48 @@
       "hy": true
     },
     {
+      "id": "mipic-333",
+      "topicId": "salmonella-shigella-and-campylobacter-spp",
+      "topicName": "Salmonella, Shigella, and Campylobacter spp.",
+      "stem": "A patient has fever, abdominal cramping and bloody diarrhea. A stool Gram stain shows the organisms seen here. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Enterohemorrhagic E. coli"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella spp."
+        },
+        {
+          "label": "D",
+          "text": "Shigella spp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The stain shows gram-negative curved, comma- or S-shaped rods. That shape separates Campylobacter from Salmonella and Shigella, which are straight rods. C. jejuni is the most common cause of bacterial diarrhea in the U.S. and the most common cause of Guillain-Barre syndrome.",
+        "whyCorrect": "The stain shows gram-negative curved, comma- or S-shaped rods. That shape separates Campylobacter from Salmonella and Shigella, which are straight rods. C. jejuni is the most common cause of bacterial diarrhea in the U.S. and the most common cause of Guillain-Barre syndrome.",
+        "whyWrongByChoice": {
+          "B": "EHEC is a straight gram-negative rod that causes bloody diarrhea, often without fever, and hemolytic uremic syndrome.",
+          "C": "Salmonella is a straight, motile gram-negative rod, not a curved or S-shaped one.",
+          "D": "Shigella is a straight, nonmotile gram-negative rod, not a curved or S-shaped one."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-333_brick_66_09.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi23-001",
       "stem": "A 19-year-old man develops an itchy rash two days after spending an evening in a poorly maintained hotel hot tub. Examination shows tender red papules and pustules centered on hair follicles over the trunk and thighs, most dense where his swim trunks sat. He is afebrile and otherwise healthy. Which of the following is the most likely causal organism?",
       "choices": [
@@ -2270,6 +2480,90 @@
       "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
       "topicName": "Pseudomonas species and other closely related bacteria",
       "tier": "core"
+    },
+    {
+      "id": "mipic-351",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A child with neutropenia during chemotherapy develops fever and the skin lesion shown. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These dark, necrotic skin lesions are ecthyma gangrenosum, a classic sign of Pseudomonas aeruginosa bacteremia, especially in neutropenic patients. S. aureus and S. pyogenes cause impetigo, cellulitis and abscesses rather than necrotic bacteremic lesions, and Klebsiella is not associated with this presentation.",
+        "whyCorrect": "These dark, necrotic skin lesions are ecthyma gangrenosum, a classic sign of Pseudomonas aeruginosa bacteremia, especially in neutropenic patients. S. aureus and S. pyogenes cause impetigo, cellulitis and abscesses rather than necrotic bacteremic lesions, and Klebsiella is not associated with this presentation.",
+        "whyWrongByChoice": {
+          "A": "Klebsiella pneumoniae causes lobar pneumonia, urinary tract infections and liver abscesses; it is not associated with ecthyma gangrenosum.",
+          "C": "S. aureus causes impetigo, furuncles, abscesses and cellulitis; it is not the classic cause of the necrotic, ulcerated lesions of ecthyma gangrenosum in a neutropenic host.",
+          "D": "S. pyogenes causes impetigo, erysipelas, cellulitis and necrotizing fasciitis, not the black necrotic eschars of bacteremic ecthyma gangrenosum."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-351_brick_67_22.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-353",
+      "topicId": "pseudomonas-species-and-other-closely-related-bacteria",
+      "topicName": "Pseudomonas species and other closely related bacteria",
+      "stem": "A sputum sample from a ventilated ICU patient grows the colonies shown on nutrient agar. Which organism is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acinetobacter baumannii"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Klebsiella pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pseudomonas spp. are gram-negative, non-lactose-fermenting, oxidase-positive bacilli whose colonies are aqua or green because of pyocyanin and pyoverdine. Lactose fermentation would point to E. coli or K. pneumoniae, and an oxidase-negative result to Salmonella or Shigella. Acinetobacter colonies are colorless or creamy.",
+        "whyCorrect": "Pseudomonas spp. are gram-negative, non-lactose-fermenting, oxidase-positive bacilli whose colonies are aqua or green because of pyocyanin and pyoverdine. Lactose fermentation would point to E. coli or K. pneumoniae, and an oxidase-negative result to Salmonella or Shigella. Acinetobacter colonies are colorless or creamy.",
+        "whyWrongByChoice": {
+          "A": "Acinetobacter is an oxidase-negative cause of ventilator-associated pneumonia, but its colonies are colorless or creamy, not green.",
+          "B": "E. coli ferments lactose, is oxidase-negative and produces no blue-green pigment.",
+          "C": "Klebsiella ferments lactose and forms large mucoid colonies without blue-green pigment."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-353_brick_67_24.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     }
   ]
 }

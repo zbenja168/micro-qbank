@@ -1146,6 +1146,53 @@
       "hy": true
     },
     {
+      "id": "mipic-157",
+      "topicId": "retroviridae-part-2-of-2",
+      "topicName": "Retroviridae (Part 2 of 2)",
+      "stem": "A patient with HIV and a low CD4 count develops the skin lesions shown. Which pathogen is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus (HHV-5)"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus (HHV-4)"
+        },
+        {
+          "label": "C",
+          "text": "Human herpesvirus 8 (HHV-8)"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Molluscum contagiosum virus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
+        "whyCorrect": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules.",
+        "whyWrongByChoice": {
+          "A": "CMV causes retinitis, colitis, and esophagitis in advanced HIV, not violaceous skin nodules.",
+          "B": "EBV causes oral hairy leukoplakia and B-cell lymphomas in HIV, not violaceous cutaneous vascular nodules.",
+          "D": "HPV causes warts and anogenital cancers, not red-purple vascular tumors of endothelial cells.",
+          "E": "Molluscum contagiosum causes small, pearly umbilicated papules, which can be widespread in AIDS, not violaceous vascular nodules and plaques."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-157_mi027_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi37-001",
       "stem": "A virology laboratory characterizes the agent isolated from nasopharyngeal specimens during a winter surge of respiratory illness. The particle is readily inactivated by lipid solvents, its genome is translated directly by host ribosomes without a prior transcription step, and electron microscopy shows a coiled internal nucleoprotein filament with club-shaped surface projections. Which of the following best describes this virus?",
       "choices": [

@@ -1131,6 +1131,147 @@
       "tier": "core"
     },
     {
+      "id": "mipic-147",
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "stem": "A sexually active man has the lesions shown at the base of the penis. Infection with which agent is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus ducreyi"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus 2"
+        },
+        {
+          "label": "D",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "E",
+          "text": "Treponema pallidum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
+        "whyCorrect": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2.",
+        "whyWrongByChoice": {
+          "A": "Chlamydia trachomatis serovars L1-L3 cause lymphogranuloma venereum, with a small transient painless ulcer followed by tender inguinal adenopathy, not grouped vesicles.",
+          "B": "Haemophilus ducreyi causes chancroid, a painful deep ulcer with a ragged purulent base and suppurative nodes, not clustered vesicles.",
+          "D": "HPV causes painless genital warts (condylomata acuminata), which are papillomatous, not vesicular or ulcerating.",
+          "E": "Treponema pallidum produces a single painless indurated chancre with clean base, not painful grouped vesicles."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-147_mi024_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-151",
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "stem": "A dental hygienist develops the painful lesion shown on her finger. What is the causative agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Human papillomavirus"
+        },
+        {
+          "label": "D",
+          "text": "Sporothrix schenckii"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
+        "whyCorrect": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation.",
+        "whyWrongByChoice": {
+          "A": "Candida causes chronic paronychia in wet-work occupations, with swelling and nail dystrophy, not acute vesicles.",
+          "C": "HPV causes common warts with rough keratotic papules, not acute painful vesicles from autoinoculation.",
+          "D": "Sporothrix schenckii causes nodules ascending along lymphatics after a thorn injury, not painful grouped vesicles on a fingertip.",
+          "E": "Staphylococcus aureus causes paronychia or felon, with pus-filled abscesses, rather than clustered clear vesicles; incising a herpetic whitlow is contraindicated."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-151_mi024_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-155",
+      "topicId": "herpesviridae-part-1-of-2",
+      "topicName": "Herpesviridae (Part 1 of 2)",
+      "stem": "A 72-year-old has the painful rash shown on the trunk. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Contact dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Herpes zoster (shingles)"
+        },
+        {
+          "label": "D",
+          "text": "Impetigo"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent HSV-1 infection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
+        "whyCorrect": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis is diffuse, warm, tender erythema without grouped vesicles and does not follow a dermatome or stop at the midline.",
+          "B": "Contact dermatitis is itchy and follows the shape of the contact exposure, not a painful dermatomal distribution.",
+          "D": "Impetigo forms honey-crusted erosions, often around the nose and mouth, caused by S. aureus or S. pyogenes, and does not follow a dermatome.",
+          "E": "Recurrent HSV-1 forms a small cluster of vesicles at the same site, usually the lip, rather than a band covering a whole dermatome."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-155_mi024_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi33-001",
       "stem": "A 19-year-old college student recovers from an illness with fever, sore throat, and cervical adenopathy. Six years later, while receiving immunosuppressive therapy after a kidney transplant, the same virus reactivates. This virus establishes latency primarily in which of the following cell types?",
       "choices": [
@@ -1694,6 +1835,147 @@
       "topicId": "herpesviridae-2-of-2",
       "topicName": "Herpesviridae (2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "mipic-011",
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "stem": "A lung biopsy from a kidney transplant recipient with pneumonitis shows the cell seen here. Which virus produces this cytopathic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "C",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory syncytial virus"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
+        "whyCorrect": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion.",
+        "whyWrongByChoice": {
+          "B": "EBV infects B cells and causes atypical lymphocytosis, but it does not produce giant cells with single owl's-eye intranuclear inclusions in tissue.",
+          "C": "HSV produces multinucleated giant cells with Cowdry A inclusions and nuclear molding, without the massive cytomegaly of an owl's-eye cell.",
+          "D": "RSV forms multinucleated syncytia with cytoplasmic inclusions, not a single enlarged cell with an intranuclear inclusion and halo.",
+          "E": "VZV produces multinucleated giant cells similar to HSV on Tzanck smear, not single enlarged cells with owl's-eye intranuclear inclusions."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-011_mi025_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-063",
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "stem": "A non-contrast head CT of an infant with microcephaly is shown (arrows). Congenital infection with which organism most characteristically produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "C",
+          "text": "Rubella virus"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasma gondii"
+        },
+        {
+          "label": "E",
+          "text": "Zika virus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
+        "whyCorrect": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications.",
+        "whyWrongByChoice": {
+          "B": "Neonatal HSV usually presents with skin vesicles or encephalitis acquired at delivery; any calcifications are scattered and follow necrosis, not periventricular.",
+          "C": "Congenital rubella causes cataracts, deafness, and heart defects; periventricular calcification is not its characteristic imaging finding.",
+          "D": "Congenital toxoplasmosis causes diffuse, scattered parenchymal calcifications with hydrocephalus and chorioretinitis, rather than a periventricular pattern.",
+          "E": "Congenital Zika causes severe microcephaly with calcifications typically at the cortical-subcortical junction, not in a periventricular distribution."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-063_mi025_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-156",
+      "topicId": "herpesviridae-2-of-2",
+      "topicName": "Herpesviridae (2 of 2)",
+      "stem": "A patient with advanced HIV has the painless tongue lesion shown, which cannot be scraped off. Which organism is the underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
+        "whyCorrect": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off.",
+        "whyWrongByChoice": {
+          "A": "Candida causes thrush, white plaques that can be scraped off to reveal a red base, and it is a fungus rather than a virus.",
+          "B": "CMV causes oral ulcers, retinitis, and colitis in AIDS, not non-scrapable hairy leukoplakia.",
+          "D": "HSV-1 causes painful vesicles and ulcers on the lips and mouth, not a painless, corrugated white plaque.",
+          "E": "HPV causes oral papillomas and some oropharyngeal cancers, not corrugated white plaques on the lateral tongue in immunosuppressed patients."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-156_mi025_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi34-001",

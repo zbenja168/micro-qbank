@@ -561,6 +561,194 @@
       "tier": "core"
     },
     {
+      "id": "mipic-169",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "A 9-year-old has the itchy skin lesion shown on her arm, which has slowly enlarged over 3 weeks. Which condition is it most consistent with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema migrans"
+        },
+        {
+          "label": "B",
+          "text": "Granuloma annulare"
+        },
+        {
+          "label": "C",
+          "text": "Nummular eczema"
+        },
+        {
+          "label": "D",
+          "text": "Psoriasis"
+        },
+        {
+          "label": "E",
+          "text": "Tinea corporis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
+        "whyCorrect": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center.",
+        "whyWrongByChoice": {
+          "A": "Erythema migrans is an expanding red patch at a tick bite site, usually without the scaly advancing border of a dermatophyte infection.",
+          "B": "Granuloma annulare forms annular rings of smooth skin-colored to pink papules without scale, often on the hands and feet.",
+          "C": "Nummular eczema forms coin-shaped, uniformly scaly or crusted plaques without central clearing.",
+          "D": "Psoriasis forms well-demarcated plaques with thick silvery scale across the whole surface, usually on extensor surfaces, not rings with central clearing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-169_mi040_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-178",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "A 62-year-old has had the toenail changes shown for several years. Which condition is most consistent with these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic nail trauma"
+        },
+        {
+          "label": "B",
+          "text": "Lichen planus of the nail"
+        },
+        {
+          "label": "C",
+          "text": "Onychomycosis"
+        },
+        {
+          "label": "D",
+          "text": "Psoriatic nail dystrophy"
+        },
+        {
+          "label": "E",
+          "text": "Subungual melanoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
+        "whyCorrect": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy.",
+        "whyWrongByChoice": {
+          "A": "Chronic trauma can thicken nails but typically affects a single nail in a pattern matching the injury, without the crumbling debris of fungal infection.",
+          "B": "Lichen planus of the nail causes thinning, longitudinal ridging, and pterygium formation rather than thickened crumbling nails.",
+          "D": "Psoriatic nail dystrophy shows pitting, oil-drop spots, and onycholysis, usually with skin or joint psoriasis.",
+          "E": "Subungual melanoma causes a longitudinal pigmented band that may spread onto the nail fold (Hutchinson sign), not thickened crumbling nails."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-178_mi040_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-180",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "A 20-year-old notices the skin changes shown on his back after a summer outdoors. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pityriasis (tinea) versicolor"
+        },
+        {
+          "label": "B",
+          "text": "Pityriasis rosea"
+        },
+        {
+          "label": "C",
+          "text": "Post-inflammatory hypopigmentation"
+        },
+        {
+          "label": "D",
+          "text": "Tinea corporis"
+        },
+        {
+          "label": "E",
+          "text": "Vitiligo"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
+        "whyCorrect": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin.",
+        "whyWrongByChoice": {
+          "B": "Pityriasis rosea starts with a herald patch followed by oval patches in a Christmas-tree pattern, and it resolves in weeks.",
+          "C": "Post-inflammatory hypopigmentation follows previous skin inflammation and lacks fine scale and fungal elements.",
+          "D": "Tinea corporis forms annular plaques with an active scaly border and central clearing, not patches of altered pigmentation that appear after tanning.",
+          "E": "Vitiligo causes complete depigmentation from melanocyte loss, with smooth, nonscaly patches."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-180_mi040_f20.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-181",
+      "topicId": "fungal-skin-infections",
+      "topicName": "Fungal Skin Infections",
+      "stem": "A gardener develops the lesions shown on her arm over several weeks, starting at the hand. Which infection produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cat-scratch disease"
+        },
+        {
+          "label": "B",
+          "text": "Cutaneous anthrax"
+        },
+        {
+          "label": "C",
+          "text": "Cutaneous leishmaniasis"
+        },
+        {
+          "label": "D",
+          "text": "Lymphocutaneous sporotrichosis"
+        },
+        {
+          "label": "E",
+          "text": "Nocardiosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
+        "whyCorrect": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls').",
+        "whyWrongByChoice": {
+          "A": "Cat-scratch disease causes a papule at the scratch site with regional lymphadenopathy, not ascending nodules along lymphatic channels.",
+          "B": "Cutaneous anthrax causes a painless papule that becomes a black eschar surrounded by edema, not a chain of nodules along lymphatics.",
+          "C": "Cutaneous leishmaniasis causes a chronic ulcer at a sandfly bite site; sporotrichoid spread can occur but is uncommon.",
+          "E": "Nocardiosis can rarely cause lymphocutaneous spread, but it is a partially acid-fast filamentous bacterium and more often causes pulmonary or brain abscesses."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-181_mi040_f22.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi48-001",
       "stem": "A 32-year-old man has a 1-week history of diarrhea, bloating, and excessive gas. He describes his stools as very foul-smelling, greasy, and floating. The week before symptoms began he went on a camping trip, slept outside, and drank unfiltered stream water. He is otherwise healthy. Microscopic examination of the stool shows rapidly motile single-celled organisms that have two nuclei and flagella. Which of the following is the most likely causal organism?",
       "choices": [
@@ -1124,6 +1312,100 @@
       "topicId": "introduction-to-parasitology",
       "topicName": "Introduction to Parasitology",
       "tier": "core"
+    },
+    {
+      "id": "mipic-088",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "A skin scraping viewed under the microscope reveals this organism along with surrounding eggs. What is the diagnostic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cutaneous larva migrans larva"
+        },
+        {
+          "label": "B",
+          "text": "Demodex follicular mite"
+        },
+        {
+          "label": "C",
+          "text": "Louse (Pediculus) nit"
+        },
+        {
+          "label": "D",
+          "text": "Pthirus pubis (crab louse)"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoptes scabiei mite with eggs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
+        "whyCorrect": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically.",
+        "whyWrongByChoice": {
+          "A": "Cutaneous larva migrans is caused by hookworm larvae migrating in skin; diagnosis is clinical by the serpiginous track, and larvae are rarely recovered.",
+          "B": "Demodex mites live in hair follicles and are elongated with a long tail, unlike the round Sarcoptes mite found in burrows.",
+          "C": "Louse nits are oval eggs cemented to hair shafts, found by inspecting hair, not mites with eggs in a skin-burrow scraping.",
+          "D": "Pthirus pubis is a broad, crab-shaped louse with large claws that clings to pubic hair; it lives on hair, not burrowed in the skin beside its eggs."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-088_mi041_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-089",
+      "topicId": "introduction-to-parasitology",
+      "topicName": "Introduction to Parasitology",
+      "stem": "A trichrome-stained stool sample from a patient with chronic diarrhea shows the organism seen here. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Balantidium coli"
+        },
+        {
+          "label": "B",
+          "text": "Cryptosporidium parvum"
+        },
+        {
+          "label": "C",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "D",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "E",
+          "text": "Trichomonas vaginalis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pear-shaped trophozoite with two nuclei and multiple flagella (the 'owl-face' or 'falling leaf' form) is Giardia lamblia, a flagellate that causes fatty, foul-smelling diarrhea. Entamoeba moves by pseudopods and ingests RBCs, Cryptosporidium appears as small acid-fast oocysts, Trichomonas has one nucleus and an undulating membrane, and Balantidium is a large ciliate.",
+        "whyCorrect": "The pear-shaped trophozoite with two nuclei and multiple flagella (the 'owl-face' or 'falling leaf' form) is Giardia lamblia, a flagellate that causes fatty, foul-smelling diarrhea. Entamoeba moves by pseudopods and ingests RBCs, Cryptosporidium appears as small acid-fast oocysts, Trichomonas has one nucleus and an undulating membrane, and Balantidium is a large ciliate.",
+        "whyWrongByChoice": {
+          "A": "Balantidium coli is a large protozoan covered in cilia with a kidney-shaped macronucleus; it moves by cilia, not flagella.",
+          "B": "Cryptosporidium is seen as small round acid-fast oocysts in stool, not as a pear-shaped, flagellated, binucleate trophozoite.",
+          "C": "E. histolytica trophozoites move by pseudopods, have a single nucleus with a central karyosome and often contain ingested red cells; they have no flagella.",
+          "E": "Trichomonas is a flagellate, but it has a single nucleus and an undulating membrane and infects the urogenital tract, not the small intestine."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-089_mi041_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi49-001",
@@ -1690,6 +1972,147 @@
       "topicId": "protozoan-infections",
       "topicName": "Protozoan Infections",
       "tier": "core"
+    },
+    {
+      "id": "mipic-093",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "A newborn with seizures has the non-contrast head CT shown. Which congenital infection is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital cytomegalovirus"
+        },
+        {
+          "label": "B",
+          "text": "Congenital rubella"
+        },
+        {
+          "label": "C",
+          "text": "Congenital syphilis"
+        },
+        {
+          "label": "D",
+          "text": "Congenital toxoplasmosis"
+        },
+        {
+          "label": "E",
+          "text": "Neonatal herpes simplex"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
+        "whyCorrect": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis.",
+        "whyWrongByChoice": {
+          "A": "Congenital CMV causes periventricular calcifications with microcephaly and sensorineural hearing loss rather than diffuse calcifications with hydrocephalus.",
+          "B": "Congenital rubella causes cataracts, sensorineural deafness, and heart defects.",
+          "C": "Congenital syphilis causes rhinitis (snuffles), skin lesions, hepatosplenomegaly, and bone changes, not chorioretinitis with hydrocephalus and diffuse calcifications.",
+          "E": "Neonatal HSV is usually acquired at delivery and causes skin vesicles, encephalitis, or disseminated disease, not the toxoplasmosis triad."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-093_mi042_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-096",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "A bone marrow smear from a patient with months of fever, weight loss, pancytopenia and massive splenomegaly is shown (arrows). What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chagas disease"
+        },
+        {
+          "label": "B",
+          "text": "Histoplasmosis"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Toxoplasmosis"
+        },
+        {
+          "label": "E",
+          "text": "Visceral leishmaniasis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
+        "whyCorrect": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast.",
+        "whyWrongByChoice": {
+          "A": "Chagas disease shows amastigotes in cardiac muscle and trypomastigotes in blood, not amastigotes in marrow macrophages with this visceral picture.",
+          "B": "Histoplasma yeasts also fill macrophages but have no kinetoplast and show a clear halo from retracted cytoplasm.",
+          "C": "Malaria parasites infect red blood cells, forming ring forms and schizonts, and lack a kinetoplast.",
+          "D": "Toxoplasma tachyzoites are crescent-shaped and lack a kinetoplast, and they are not typically found filling marrow macrophages."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-096_mi042_f18.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-184",
+      "topicId": "protozoan-infections",
+      "topicName": "Protozoan Infections",
+      "stem": "A woman has vaginal itching and discharge. Speculum exam shows the cervix seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia trachomatis"
+        },
+        {
+          "label": "C",
+          "text": "Gardnerella vaginalis"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria gonorrhoeae"
+        },
+        {
+          "label": "E",
+          "text": "Trichomonas vaginalis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
+        "whyCorrect": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis.",
+        "whyWrongByChoice": {
+          "A": "Candida causes thick, white, curd-like discharge with normal vaginal pH below 4.5, not frothy discharge and strawberry cervix.",
+          "B": "Chlamydia trachomatis causes mucopurulent cervicitis that is often asymptomatic, without frothy discharge or punctate cervical hemorrhages.",
+          "C": "Gardnerella-associated bacterial vaginosis causes thin gray fishy discharge with pH above 4.5, but the cervix is not inflamed and no strawberry pattern is seen.",
+          "D": "Neisseria gonorrhoeae causes purulent cervicitis with friable cervix, not frothy discharge with punctate strawberry hemorrhages."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-184_mi042_f10.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi50-001",

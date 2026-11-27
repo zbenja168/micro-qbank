@@ -1137,6 +1137,53 @@
       "tier": "core"
     },
     {
+      "id": "mipic-067",
+      "topicId": "candida-and-aspergillus-spp",
+      "topicName": "Candida and Aspergillus spp.",
+      "stem": "A stained preparation of a sample from a hospitalized patient with a central venous catheter is shown. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus species"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Candida species"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcus neoformans"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
+        "whyCorrect": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus appears only as septate hyphae with acute-angle branching and has no yeast phase.",
+          "B": "Blastomyces appears in tissue as large broad-based budding yeast, without pseudohyphae.",
+          "D": "Cryptococcus appears as encapsulated budding yeast and does not form pseudohyphae in patient samples.",
+          "E": "Histoplasma appears in tissue only as tiny intracellular yeasts within macrophages, without pseudohyphae."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-067_mi037_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi45-001",
       "stem": "A 27-year-old man presents with fever, cough, and myalgias. Two weeks earlier he explored a limestone cave in southern Ohio that was heavily occupied by bats. A chest radiograph shows patchy infiltrates. Which of the following organisms grows especially well in soil enriched with bat and bird droppings?",
       "choices": [
@@ -1695,6 +1742,147 @@
       "topicId": "geographically-defined-mycoses",
       "topicName": "Geographically Defined Mycoses",
       "tier": "core"
+    },
+    {
+      "id": "mipic-013",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "A lung biopsy from a patient with a chronic pneumonia is shown. This finding is essentially pathognomonic for which fungal infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillosis"
+        },
+        {
+          "label": "B",
+          "text": "Blastomycosis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioidomycosis"
+        },
+        {
+          "label": "D",
+          "text": "Cryptococcosis"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasmosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
+        "whyCorrect": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides.",
+        "whyWrongByChoice": {
+          "A": "Aspergillosis shows septate hyphae with acute-angle branching in tissue, not round spherules.",
+          "B": "Blastomycosis shows large thick-walled yeasts with single broad-based buds, without internal endospores.",
+          "D": "Cryptococcosis shows narrow-based budding yeasts with thick mucoid capsules, not spherules filled with endospores.",
+          "E": "Histoplasmosis shows tiny 2-5 micrometer yeasts packed inside macrophages, not giant spherules containing endospores."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-013_mi038_f15.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-076",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "A mold grown at 25 C from a patient's sputum culture is shown. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "B",
+          "text": "Blastomyces dermatitidis"
+        },
+        {
+          "label": "C",
+          "text": "Coccidioides spp."
+        },
+        {
+          "label": "D",
+          "text": "Histoplasma capsulatum"
+        },
+        {
+          "label": "E",
+          "text": "Rhizopus spp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
+        "whyCorrect": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus fumigatus forms septate hyphae with conidiophores ending in a vesicle bearing chains of conidia, not barrel-shaped arthroconidia.",
+          "B": "Blastomyces mold produces small conidia on short stalks off thin hyphae, not alternating barrel-shaped units.",
+          "D": "Histoplasma mold produces tuberculate macroconidia with small microconidia, not alternating barrel-shaped arthroconidia.",
+          "E": "Rhizopus forms broad, nonseptate ribbon-like hyphae with sporangia on sporangiophores, not arthroconidia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-076_mi038_f14.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-080",
+      "topicId": "geographically-defined-mycoses",
+      "topicName": "Geographically Defined Mycoses",
+      "stem": "A CSF sample from a patient with subacute meningitis is examined as shown. Which staining method and organism does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GMS silver stain of Histoplasma"
+        },
+        {
+          "label": "B",
+          "text": "Gram stain of Candida"
+        },
+        {
+          "label": "C",
+          "text": "India ink stain of Cryptococcus"
+        },
+        {
+          "label": "D",
+          "text": "KOH preparation of Coccidioides"
+        },
+        {
+          "label": "E",
+          "text": "Mucicarmine stain of Blastomyces"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
+        "whyCorrect": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background.",
+        "whyWrongByChoice": {
+          "A": "GMS silver stain colors fungal walls black in tissue sections; Histoplasma appears as tiny intracellular yeasts, not haloed yeasts on a dark ink background.",
+          "B": "Gram stain is a positive stain in which Candida stains purple, and Candida lacks the thick capsule that creates a clear halo.",
+          "D": "KOH dissolves keratin and host cells to reveal fungal elements in skin or nail scrapings; Coccidioides appears as spherules, not haloed yeasts in CSF.",
+          "E": "Mucicarmine stains capsular polysaccharide red and is classically used for Cryptococcus in tissue; Blastomyces has no capsule, and mucicarmine is not a negative stain."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-080_mi038_f22.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi46-001",

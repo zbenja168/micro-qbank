@@ -573,6 +573,48 @@
       "hy": true
     },
     {
+      "id": "mipic-299",
+      "topicId": "neisseria-meningitidis-and-haemophilus-influenzae",
+      "topicName": "Neisseria meningitidis and Haemophilus influenzae",
+      "stem": "CSF from a febrile 19-year-old with neck stiffness shows the Gram stain pictured. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus agalactiae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "N. meningitidis is a gram-negative (red) diplococcus described as kidney bean-shaped, often seen within neutrophils. S. pneumoniae is a gram-positive lancet-shaped diplococcus, H. influenzae is a gram-negative coccobacillus, and S. agalactiae/S. aureus are gram-positive.",
+        "whyCorrect": "N. meningitidis is a gram-negative (red) diplococcus described as kidney bean-shaped, often seen within neutrophils. S. pneumoniae is a gram-positive lancet-shaped diplococcus, H. influenzae is a gram-negative coccobacillus, and S. agalactiae/S. aureus are gram-positive.",
+        "whyWrongByChoice": {
+          "A": "H. influenzae is a small gram-negative coccobacillus, not a diplococcus.",
+          "C": "Group B strep is a gram-positive coccus in chains that causes meningitis in neonates, not in a 19-year-old.",
+          "D": "S. pneumoniae is a gram-positive (purple) lancet-shaped diplococcus, not a gram-negative kidney-bean diplococcus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-299_brick_59_01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi12-001",
       "stem": "A 61-year-old man is taken to the operating room for a necrotizing infection of the thigh. Anaerobic culture of the debrided tissue grows rapidly overnight, and Gram stain of the isolate shows rods containing refractile terminal swellings. Which of the following best describes the genus to which this organism belongs?",
       "choices": [
@@ -1140,6 +1182,132 @@
       "topicName": "Clostridia",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mipic-305",
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "stem": "An anaerobic wound isolate grows on blood agar with the hemolysis pattern shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Clostridium botulinum"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "C. perfringens produces a characteristic double ring of beta-hemolysis on blood agar, reflecting its multiple toxins. It causes gas gangrene (clostridial myonecrosis), driven mainly by alpha toxin, a lecithinase.",
+        "whyCorrect": "C. perfringens produces a characteristic double ring of beta-hemolysis on blood agar, reflecting its multiple toxins. It causes gas gangrene (clostridial myonecrosis), driven mainly by alpha toxin, a lecithinase.",
+        "whyWrongByChoice": {
+          "A": "C. difficile is non-hemolytic and causes antibiotic-associated colitis, not wound infection or gas gangrene.",
+          "B": "C. botulinum causes botulism through a neurotoxin; it does not give the double zone of beta-hemolysis typical of C. perfringens.",
+          "D": "C. tetani is recognized by its terminal drumstick spores and causes tetanus, not a double-zone hemolysis pattern."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-305_brick_60_02.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-306",
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "stem": "A Gram stain of an anaerobic culture from a contaminated puncture wound is shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus anthracis"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "D",
+          "text": "Clostridium tetani"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive rods with round terminal spores that swell the cell give the classic drumstick (tennis-racket) appearance of Clostridium tetani. C. perfringens rarely forms spores in culture or tissue, B. anthracis is an aerobe with central, non-swelling spores, and C. difficile spores are oval and subterminal.",
+        "whyCorrect": "Gram-positive rods with round terminal spores that swell the cell give the classic drumstick (tennis-racket) appearance of Clostridium tetani. C. perfringens rarely forms spores in culture or tissue, B. anthracis is an aerobe with central, non-swelling spores, and C. difficile spores are oval and subterminal.",
+        "whyWrongByChoice": {
+          "A": "B. anthracis is an aerobic gram-positive rod that grows in long chains and forms central spores that do not swell the cell.",
+          "B": "C. difficile forms oval, subterminal spores, not the round terminal spores that give the drumstick shape.",
+          "C": "C. perfringens is a large, boxcar-shaped gram-positive rod that rarely forms spores in culture or tissue, so it does not show swollen terminal spores."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-306_brick_60_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-307",
+      "topicId": "clostridia",
+      "topicName": "Clostridia",
+      "stem": "A man develops the findings shown. The responsible toxin blocks release of which neurotransmitters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine at the neuromuscular junction"
+        },
+        {
+          "label": "B",
+          "text": "Dopamine in the basal ganglia"
+        },
+        {
+          "label": "C",
+          "text": "GABA and glycine from inhibitory interneurons"
+        },
+        {
+          "label": "D",
+          "text": "Glutamate from motor neurons"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is tetanus (risus sardonicus and opisthotonos). C. tetani tetanospasmin cleaves SNARE proteins in inhibitory interneurons (Renshaw cells), preventing GABA and glycine release and causing spastic paralysis. Botulinum toxin, by contrast, blocks acetylcholine release at the NMJ.",
+        "whyCorrect": "This is tetanus (risus sardonicus and opisthotonos). C. tetani tetanospasmin cleaves SNARE proteins in inhibitory interneurons (Renshaw cells), preventing GABA and glycine release and causing spastic paralysis. Botulinum toxin, by contrast, blocks acetylcholine release at the NMJ.",
+        "whyWrongByChoice": {
+          "A": "Blocking acetylcholine release at the neuromuscular junction is the action of botulinum toxin, which causes flaccid, not spastic, paralysis.",
+          "B": "Loss of basal ganglia dopamine causes parkinsonism; no clostridial toxin acts this way.",
+          "D": "Motor neurons release acetylcholine, not glutamate, at muscle, and tetanospasmin acts on inhibitory interneurons rather than on excitatory transmitter release."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-307_brick_60_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi61-001",

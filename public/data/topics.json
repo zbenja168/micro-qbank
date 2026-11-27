@@ -8,11 +8,11 @@
           "id": "bacterial-structure-growth-and-staining-2026",
           "name": "Bacterial Structure, Growth, and Staining",
           "sourceFile": "Micro Brick 53",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 12
         },
         {
           "id": "bacterial-reproduction-and-genetics-2026",
@@ -28,11 +28,11 @@
           "id": "normal-flora-role-in-health-and-disease-2026",
           "name": "Normal Flora: Role in Health and Disease",
           "sourceFile": "Micro Brick 55",
-          "coreCount": 12,
+          "coreCount": 16,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 40,
+          "hyCount": 16,
+          "hyCoreCount": 13
         }
       ],
       "week": 1,
@@ -47,31 +47,31 @@
           "id": "gram-positive-and-negative-algorithms-2026",
           "name": "Gram-Positive and Negative Algorithms",
           "sourceFile": "Micro Brick 56",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "staphylococci",
           "name": "Staphylococci",
           "sourceFile": "Micro Brick 6",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 7
         },
         {
           "id": "streptococci-and-enterococci",
           "name": "Streptococci and Enterococci",
           "sourceFile": "Micro Brick 11",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 5
         }
       ],
       "week": 1,
@@ -86,21 +86,21 @@
           "id": "neisseria-meningitidis-and-haemophilus-influenzae",
           "name": "Neisseria meningitidis and Haemophilus influenzae",
           "sourceFile": "Micro Brick 16",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 6
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 7
         },
         {
           "id": "clostridia",
           "name": "Clostridia",
           "sourceFile": "Micro Brick 12",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 5
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 8
         },
         {
           "id": "listeria-monocytogenes-2026",
@@ -145,41 +145,41 @@
           "id": "enterobacteriaceae-part-1-of-2",
           "name": "Enterobacteriaceae (Part 1 of 2)",
           "sourceFile": "Micro Brick 17",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 5
         },
         {
           "id": "enterobacteriaceae-part-2",
           "name": "Enterobacteriaceae (Part 2 of 2)",
           "sourceFile": "Micro Brick 18",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 6
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 9
         },
         {
           "id": "salmonella-shigella-and-campylobacter-spp",
           "name": "Salmonella, Shigella, and Campylobacter spp.",
           "sourceFile": "Micro Brick 22",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 9
         },
         {
           "id": "pseudomonas-species-and-other-closely-related-bacteria",
           "name": "Pseudomonas species and other closely related bacteria",
           "sourceFile": "Micro Brick 23",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 9
         }
       ],
       "week": 2,
@@ -194,21 +194,21 @@
           "id": "atypical-bacteria",
           "name": "Atypical Bacteria",
           "sourceFile": "Micro Brick 27",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 10
         },
         {
           "id": "bacterial-tick-borne-diseases-2026",
           "name": "Bacterial Tick-borne Diseases",
           "sourceFile": "Micro Brick 69",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 9
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 12
         },
         {
           "id": "spectrum-of-activity-and-indications-2-beta-lactams-and-30s-inhibitors-2026",
@@ -263,21 +263,21 @@
           "id": "herpesviridae-part-1-of-2",
           "name": "Herpesviridae (Part 1 of 2)",
           "sourceFile": "Micro Brick 32",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 6
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 9
         },
         {
           "id": "herpesviridae-2-of-2",
           "name": "Herpesviridae (2 of 2)",
           "sourceFile": "Micro Brick 33",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 7
         },
         {
           "id": "antivirals-1-of-2-drugs-to-treat-herpesvirus-infections",
@@ -312,11 +312,11 @@
           "id": "retroviridae-part-2-of-2",
           "name": "Retroviridae (Part 2 of 2)",
           "sourceFile": "Micro Brick 36",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 5
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 6
         },
         {
           "id": "respiratory-coronaviridae",
@@ -361,21 +361,21 @@
           "id": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
           "name": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
           "sourceFile": "Micro Brick 40",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 5
         },
         {
           "id": "caliciviridae-matonaviridae-and-reoviridae",
           "name": "Caliciviridae, Matonaviridae, and Reoviridae",
           "sourceFile": "Micro Brick 41",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 6
         },
         {
           "id": "antivirals-2-of-2-drugs-to-treat-influenza-virus-and-respiratory-syncytial-virus-infection",
@@ -410,21 +410,21 @@
           "id": "candida-and-aspergillus-spp",
           "name": "Candida and Aspergillus spp.",
           "sourceFile": "Micro Brick 44",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 23,
-          "questionCount": 35,
-          "hyCount": 12,
-          "hyCoreCount": 2
+          "questionCount": 36,
+          "hyCount": 13,
+          "hyCoreCount": 3
         },
         {
           "id": "geographically-defined-mycoses",
           "name": "Geographically Defined Mycoses",
           "sourceFile": "Micro Brick 45",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 8
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 11
         },
         {
           "id": "antifungals-drugs-to-treat-fungal-infections",
@@ -449,31 +449,31 @@
           "id": "fungal-skin-infections",
           "name": "Fungal Skin Infections",
           "sourceFile": "Micro Brick 47",
-          "coreCount": 12,
+          "coreCount": 16,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 40,
+          "hyCount": 16,
+          "hyCoreCount": 8
         },
         {
           "id": "introduction-to-parasitology",
           "name": "Introduction to Parasitology",
           "sourceFile": "Micro Brick 48",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 5
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 7
         },
         {
           "id": "protozoan-infections",
           "name": "Protozoan Infections",
           "sourceFile": "Micro Brick 49",
-          "coreCount": 12,
+          "coreCount": 15,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 3
+          "questionCount": 39,
+          "hyCount": 15,
+          "hyCoreCount": 6
         },
         {
           "id": "agents-treating-helminthic-and-protozoal-infections",
@@ -498,21 +498,21 @@
           "id": "helminths-part-1",
           "name": "Helminths (Part 1 of 2)",
           "sourceFile": "Micro Brick 51",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 7
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 9
         },
         {
           "id": "helminths-part-2-of-2",
           "name": "Helminths (Part 2 of 2)",
           "sourceFile": "Micro Brick 52",
-          "coreCount": 12,
+          "coreCount": 14,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 4
+          "questionCount": 38,
+          "hyCount": 14,
+          "hyCoreCount": 6
         }
       ],
       "week": 4,
@@ -527,11 +527,11 @@
           "id": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
           "name": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
           "sourceFile": "Micro Brick 26",
-          "coreCount": 12,
+          "coreCount": 13,
           "extraCount": 24,
-          "questionCount": 36,
-          "hyCount": 12,
-          "hyCoreCount": 6
+          "questionCount": 37,
+          "hyCount": 13,
+          "hyCoreCount": 7
         },
         {
           "id": "principles-of-antibacterial-drugs",
@@ -627,65 +627,6 @@
       "week": 5,
       "weekName": "More",
       "weekSubtitle": "Topics outside the class schedule"
-    },
-    {
-      "id": "pictures",
-      "name": "Pictures by week",
-      "topics": [
-        {
-          "id": "pictures-w1",
-          "name": "Week 1 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12,
-          "hyCount": 12,
-          "hyCoreCount": 12
-        },
-        {
-          "id": "pictures-w2",
-          "name": "Week 2 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 17,
-          "extraCount": 0,
-          "questionCount": 17,
-          "hyCount": 17,
-          "hyCoreCount": 17
-        },
-        {
-          "id": "pictures-w3",
-          "name": "Week 3 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 10,
-          "extraCount": 0,
-          "questionCount": 10,
-          "hyCount": 10,
-          "hyCoreCount": 10
-        },
-        {
-          "id": "pictures-w4",
-          "name": "Week 4 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 17,
-          "extraCount": 0,
-          "questionCount": 17,
-          "hyCount": 17,
-          "hyCoreCount": 17
-        },
-        {
-          "id": "pictures-w5",
-          "name": "More pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 1,
-          "extraCount": 0,
-          "questionCount": 1,
-          "hyCount": 1,
-          "hyCoreCount": 1
-        }
-      ],
-      "week": 6,
-      "weekName": "Picture questions",
-      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 1928

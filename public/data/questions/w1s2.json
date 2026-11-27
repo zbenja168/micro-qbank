@@ -569,6 +569,48 @@
       "tier": "core"
     },
     {
+      "id": "mipic-274",
+      "topicId": "gram-positive-and-negative-algorithms-2026",
+      "topicName": "Gram-Positive and Negative Algorithms",
+      "stem": "Five organisms were grown on triple sugar iron (TSI) agar as shown. What does the finding in the fourth tube from the left indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gas production"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen sulfide production"
+        },
+        {
+          "label": "C",
+          "text": "Lactose fermentation"
+        },
+        {
+          "label": "D",
+          "text": "Urease production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On TSI agar, H2S reacts with the iron salts to form ferrous sulfide, an insoluble black precipitate. Fermentation turns the medium yellow and gas production causes bubbles or cracks.",
+        "whyCorrect": "On TSI agar, H2S reacts with the iron salts to form ferrous sulfide, an insoluble black precipitate. Fermentation turns the medium yellow and gas production causes bubbles or cracks.",
+        "whyWrongByChoice": {
+          "A": "Gas production shows as bubbles, cracks or a lifted agar plug in the tube, not a black precipitate.",
+          "C": "Fermentation of lactose or sucrose turns the slant and butt yellow from acid, not black.",
+          "D": "Urease is detected on urea agar, which turns pink as urea is split to ammonia; it does not blacken TSI agar."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-274_brick_56_14.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi06-001",
       "stem": "A 34-year-old man comes to the clinic with a draining lesion on his forearm. Gram stain of the purulent drainage shows purple-staining spherical bacteria arranged in irregular, grape-like clusters. Which of the following genera do these organisms most likely belong to?",
       "choices": [
@@ -1134,6 +1176,132 @@
       "topicId": "staphylococci",
       "topicName": "Staphylococci",
       "tier": "core"
+    },
+    {
+      "id": "mipic-284",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "A Gram stain of a skin abscess aspirate shows the organisms pictured. Which genus is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Staphylococci are gram-positive (purple) spherical cocci that cluster together like bunches of grapes. Streptococci and enterococci are also gram-positive cocci but form chains or pairs, and Neisseria are gram-negative diplococci.",
+        "whyCorrect": "Staphylococci are gram-positive (purple) spherical cocci that cluster together like bunches of grapes. Streptococci and enterococci are also gram-positive cocci but form chains or pairs, and Neisseria are gram-negative diplococci.",
+        "whyWrongByChoice": {
+          "A": "Enterococci are gram-positive cocci in pairs and short chains, not clusters.",
+          "B": "Neisseria are gram-negative (pink) diplococci, not purple cocci in clusters.",
+          "D": "Streptococci are gram-positive cocci in chains or pairs, not grape-like clusters."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-284_brick_57_01.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-286",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "A catalase-positive, gram-positive coccus in clusters grows on sheep blood agar as shown (arrows). Which staphylococcal species is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus hominis"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus saprophyticus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pale, clear zone around the colonies is beta-hemolysis (complete lysis of red cells). Among the clinically important staphylococci, only S. aureus is beta-hemolytic; S. epidermidis and S. saprophyticus are gamma (non)-hemolytic.",
+        "whyCorrect": "The pale, clear zone around the colonies is beta-hemolysis (complete lysis of red cells). Among the clinically important staphylococci, only S. aureus is beta-hemolytic; S. epidermidis and S. saprophyticus are gamma (non)-hemolytic.",
+        "whyWrongByChoice": {
+          "B": "S. epidermidis is coagulase-negative and gamma (non)-hemolytic, so it shows no clear zone around its colonies.",
+          "C": "S. hominis is a coagulase-negative skin commensal that is not beta-hemolytic.",
+          "D": "S. saprophyticus is a coagulase-negative, novobiocin-resistant cause of cystitis in young women and is not beta-hemolytic."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-286_brick_57_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-288",
+      "topicId": "staphylococci",
+      "topicName": "Staphylococci",
+      "stem": "A 10-day-old neonate develops fever and the skin findings shown. Which organism and virulence factor are most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S. aureus enterotoxin"
+        },
+        {
+          "label": "B",
+          "text": "S. aureus exfoliatin (exfoliative toxin)"
+        },
+        {
+          "label": "C",
+          "text": "S. aureus TSST-1"
+        },
+        {
+          "label": "D",
+          "text": "S. epidermidis biofilm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is staphylococcal scalded-skin syndrome. S. aureus exfoliatin cleaves desmoglein-1 in desmosomes, producing a split just below the stratum corneum; the same toxin underlies bullous impetigo. TSST-1 causes toxic shock syndrome and enterotoxin causes food poisoning.",
+        "whyCorrect": "This is staphylococcal scalded-skin syndrome. S. aureus exfoliatin cleaves desmoglein-1 in desmosomes, producing a split just below the stratum corneum; the same toxin underlies bullous impetigo. TSST-1 causes toxic shock syndrome and enterotoxin causes food poisoning.",
+        "whyWrongByChoice": {
+          "A": "S. aureus enterotoxin is preformed in food and causes rapid-onset vomiting, not blistering and sloughing of the skin.",
+          "C": "TSST-1 is a superantigen that causes toxic shock syndrome with fever, hypotension and a diffuse rash that later peels on the palms and soles; it does not cleave desmoglein-1.",
+          "D": "S. epidermidis biofilm lets it colonize catheters and prosthetic devices; it does not cause widespread skin peeling."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-288_brick_57_07.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi11-001",
@@ -1703,6 +1871,48 @@
       "topicId": "streptococci-and-enterococci",
       "topicName": "Streptococci and Enterococci",
       "tier": "core"
+    },
+    {
+      "id": "mipic-293",
+      "topicId": "streptococci-and-enterococci",
+      "topicName": "Streptococci and Enterococci",
+      "stem": "A Gram stain of sputum from an adult with fever and productive cough is shown. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pyogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "S. pneumoniae appears as lancet-shaped gram-positive diplococci, with a pointed end on each coccus. S. pyogenes and S. agalactiae form chains, S. aureus forms clusters, and enterococci appear as a mix of pairs and chains.",
+        "whyCorrect": "S. pneumoniae appears as lancet-shaped gram-positive diplococci, with a pointed end on each coccus. S. pyogenes and S. agalactiae form chains, S. aureus forms clusters, and enterococci appear as a mix of pairs and chains.",
+        "whyWrongByChoice": {
+          "A": "Enterococci appear as gram-positive cocci in pairs and short chains and cause urinary tract infections and endocarditis, not typical lobar pneumonia.",
+          "B": "S. aureus appears as gram-positive cocci in grape-like clusters, not lancet-shaped diplococci.",
+          "D": "S. pyogenes forms chains of gram-positive cocci and causes pharyngitis and skin infections far more than community-acquired pneumonia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-293_brick_58_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     }
   ]
 }

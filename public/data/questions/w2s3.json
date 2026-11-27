@@ -574,6 +574,132 @@
       "tier": "core"
     },
     {
+      "id": "mipic-358",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "A young adult recovering from a respiratory infection develops the findings shown. Which condition is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Herpes labialis"
+        },
+        {
+          "label": "B",
+          "text": "Impetigo"
+        },
+        {
+          "label": "C",
+          "text": "Scarlet fever"
+        },
+        {
+          "label": "D",
+          "text": "Stevens-Johnson syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Stevens-Johnson syndrome is a serious immune-mediated disorder in which the epidermis and mucous membranes detach, producing painful blisters and erosions of the lips, eyes, nose, and genitals. It is triggered most often by medications; among infections, M. pneumoniae is the most common trigger. Its more severe form is toxic epidermal necrolysis.",
+        "whyCorrect": "Stevens-Johnson syndrome is a serious immune-mediated disorder in which the epidermis and mucous membranes detach, producing painful blisters and erosions of the lips, eyes, nose, and genitals. It is triggered most often by medications; among infections, M. pneumoniae is the most common trigger. Its more severe form is toxic epidermal necrolysis.",
+        "whyWrongByChoice": {
+          "A": "Herpes labialis produces grouped vesicles on one part of the lip border, not widespread erosions of the lips and other mucous membranes.",
+          "B": "Impetigo produces honey-crusted lesions around the nose and mouth without involvement of the mucous membranes or eyes.",
+          "C": "Scarlet fever produces a diffuse, sandpaper-like rash with a strawberry tongue and circumoral pallor, not blistering and erosions of the lips and mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-358_brick_68_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-359",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "A sputum sample from a young adult with pneumonia is cultured on a special medium, and the colonies shown are seen under low magnification. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia pneumoniae"
+        },
+        {
+          "label": "B",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "M. pneumoniae has no cell wall and has sterols in its membrane, so it needs sterols in the medium and forms 'fried egg' colonies (mnemonic: 'eggs contain cholesterol'). Culture is slow and rarely done; PCR is the preferred diagnostic test.",
+        "whyCorrect": "M. pneumoniae has no cell wall and has sterols in its membrane, so it needs sterols in the medium and forms 'fried egg' colonies (mnemonic: 'eggs contain cholesterol'). Culture is slow and rarely done; PCR is the preferred diagnostic test.",
+        "whyWrongByChoice": {
+          "A": "Chlamydia is obligate intracellular and does not grow on cell-free agar.",
+          "B": "Legionella grows on buffered charcoal yeast extract agar with cysteine and iron, but it does not form fried-egg colonies.",
+          "D": "S. pneumoniae grows on blood agar as alpha-hemolytic colonies with a central dimple, not fried-egg colonies."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-359_brick_68_05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-361",
+      "topicId": "atypical-bacteria",
+      "topicName": "Atypical Bacteria",
+      "stem": "A cervical swab from a woman with mucopurulent cervicitis is inoculated into cell culture and stained with iodine, as shown. Which organism is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chlamydia spp."
+        },
+        {
+          "label": "B",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chlamydia spp. are obligate intracellular bacteria that replicate inside an endosome and form large inclusionary bodies. These inclusions can be stained with iodine, Giemsa, or immunofluorescent stains. Chlamydiae do not Gram stain, and in practice PCR (nucleic acid amplification) is the most common way to identify them.",
+        "whyCorrect": "Chlamydia spp. are obligate intracellular bacteria that replicate inside an endosome and form large inclusionary bodies. These inclusions can be stained with iodine, Giemsa, or immunofluorescent stains. Chlamydiae do not Gram stain, and in practice PCR (nucleic acid amplification) is the most common way to identify them.",
+        "whyWrongByChoice": {
+          "B": "Legionella is grown on buffered charcoal yeast extract agar and causes pneumonia, not cervicitis with glycogen-rich inclusions.",
+          "C": "Mycoplasma lacks a cell wall and grows on cell-free media as fried-egg colonies; it does not form intracellular inclusions that stain with iodine.",
+          "D": "S. pneumoniae is an extracellular gram-positive diplococcus grown on blood agar, not an intracellular organism forming iodine-staining inclusions."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-361_brick_68_07.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi69-001",
       "stem": "A 29-year-old woman from Connecticut comes to the clinic in late June with fatigue, low-grade fever, and aching joints. She went camping in the woods 10 days ago. On her thigh is a red patch about 9 cm across that has slowly enlarged over several days and now has a pale center surrounded by a red ring. Which of the following organisms is the most likely cause?",
       "choices": [
@@ -1151,6 +1277,132 @@
       "topicName": "Bacterial Tick-borne Diseases",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mipic-368",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "A patient has fatigue, fever and joint aches, along with the rash shown. Which organism causes this rash?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erythema migrans is a red rash that expands from the bite site and can take on a bull's-eye appearance. It is pathognomonic for early localized (stage 1) Lyme disease, caused by B. burgdorferi, but appears in only 70-80% of patients. The RMSF rash, by contrast, is maculopapular, starts on the wrists and ankles, and spreads to the trunk.",
+        "whyCorrect": "Erythema migrans is a red rash that expands from the bite site and can take on a bull's-eye appearance. It is pathognomonic for early localized (stage 1) Lyme disease, caused by B. burgdorferi, but appears in only 70-80% of patients. The RMSF rash, by contrast, is maculopapular, starts on the wrists and ankles, and spreads to the trunk.",
+        "whyWrongByChoice": {
+          "B": "Ehrlichiosis causes fever, leukopenia and thrombocytopenia with morulae in monocytes; a rash is uncommon and is not an expanding bull's-eye.",
+          "C": "Mycoplasma causes atypical pneumonia and can trigger erythema multiforme target lesions, not a single expanding erythema migrans.",
+          "D": "The RMSF rash is maculopapular, starts on the wrists and ankles and spreads to the trunk; it does not expand outward from a single bite site."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-368_brick_69_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-370",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "In July, a patient from Arkansas has fever, severe headache and myalgia after a hiking trip. Two days later, the rash shown appears. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "C",
+          "text": "Mycoplasma pneumoniae"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rocky Mountain spotted fever, caused by R. rickettsii, presents with the triad of fever, headache, and rash. The maculopapular rash starts around the wrists, ankles, palms, and soles and spreads to the trunk, usually 2-4 days after the fever. R. rickettsii infects endothelial cells and causes widespread vasculitis. It is transmitted mainly by the American dog tick and is the most common fatal tick-borne disease in the U.S.",
+        "whyCorrect": "Rocky Mountain spotted fever, caused by R. rickettsii, presents with the triad of fever, headache, and rash. The maculopapular rash starts around the wrists, ankles, palms, and soles and spreads to the trunk, usually 2-4 days after the fever. R. rickettsii infects endothelial cells and causes widespread vasculitis. It is transmitted mainly by the American dog tick and is the most common fatal tick-borne disease in the U.S.",
+        "whyWrongByChoice": {
+          "A": "Lyme disease causes erythema migrans, a single expanding bull's-eye at the bite site, not a petechial rash that starts at the wrists and ankles.",
+          "B": "Ehrlichiosis is also tick-borne, but a rash is uncommon; it is recognized by leukopenia, thrombocytopenia and morulae in monocytes.",
+          "C": "Mycoplasma is spread by respiratory droplets, not ticks, and causes atypical pneumonia rather than a spreading petechial rash."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-370_brick_69_08.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-371",
+      "topicId": "bacterial-tick-borne-diseases-2026",
+      "topicName": "Bacterial Tick-borne Diseases",
+      "stem": "A park ranger has fever, headache and myalgia 10 days after a tick bite. A peripheral blood smear is shown (arrow). Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Borrelia burgdorferi"
+        },
+        {
+          "label": "B",
+          "text": "Chlamydia pneumoniae"
+        },
+        {
+          "label": "C",
+          "text": "Ehrlichia chaffeensis"
+        },
+        {
+          "label": "D",
+          "text": "Rickettsia rickettsii"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ehrlichia spp. are small, gram-negative, obligate intracellular bacteria with a tropism for monocytes and macrophages. Clusters of bacteria inside cell vacuoles form mulberry-like aggregates called morulae. These help distinguish ehrlichiosis from Lyme disease and RMSF, but they are not reliable enough for diagnosis on their own; serology usually confirms it. Ehrlichiosis is spread by the lone star tick and the blacklegged tick.",
+        "whyCorrect": "Ehrlichia spp. are small, gram-negative, obligate intracellular bacteria with a tropism for monocytes and macrophages. Clusters of bacteria inside cell vacuoles form mulberry-like aggregates called morulae. These help distinguish ehrlichiosis from Lyme disease and RMSF, but they are not reliable enough for diagnosis on their own; serology usually confirms it. Ehrlichiosis is spread by the lone star tick and the blacklegged tick.",
+        "whyWrongByChoice": {
+          "A": "Borrelia is a spirochete that causes erythema migrans; it is not seen as intracellular morulae on a blood smear.",
+          "B": "Chlamydia pneumoniae causes atypical pneumonia by inhalation; it is not tick-borne and is not seen in blood leukocytes.",
+          "D": "R. rickettsii infects endothelial cells and causes a vasculitic rash that spreads from the wrists and ankles; it does not form morulae in blood monocytes."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-371_brick_69_09.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi70-001",

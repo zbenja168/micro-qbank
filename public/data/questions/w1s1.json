@@ -579,6 +579,132 @@
       "hy": true
     },
     {
+      "id": "mipic-248",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "A sputum smear from a patient with chronic cough and night sweats is stained as shown. Which cell wall component explains the staining of these organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipopolysaccharide"
+        },
+        {
+          "label": "B",
+          "text": "Mycolic acids"
+        },
+        {
+          "label": "C",
+          "text": "Teichoic acids"
+        },
+        {
+          "label": "D",
+          "text": "Thick peptidoglycan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is an acid-fast (Ziehl-Neelsen) stain. Acid-fast organisms such as Mycobacteria (and Nocardia) have large amounts of mycolic acids in their cell walls that resist acid-alcohol decolorization, so they stay bright red against the blue background.",
+        "whyCorrect": "This is an acid-fast (Ziehl-Neelsen) stain. Acid-fast organisms such as Mycobacteria (and Nocardia) have large amounts of mycolic acids in their cell walls that resist acid-alcohol decolorization, so they stay bright red against the blue background.",
+        "whyWrongByChoice": {
+          "A": "Lipopolysaccharide is the endotoxin of the gram-negative outer membrane; it does not hold carbol fuchsin against acid alcohol.",
+          "C": "Teichoic acids are found in the thick cell walls of gram-positive bacteria; they do not make an organism resist acid-alcohol decolorization.",
+          "D": "Thick peptidoglycan retains crystal violet in the Gram stain, but it is the waxy mycolic acids that make mycobacteria acid-fast."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-248_brick_53_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-249",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "A bacterial suspension is mixed with India ink and examined as shown. Which bacterial structure accounts for the finding around each cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endospore"
+        },
+        {
+          "label": "B",
+          "text": "Outer membrane"
+        },
+        {
+          "label": "C",
+          "text": "Peptidoglycan cell wall"
+        },
+        {
+          "label": "D",
+          "text": "Polysaccharide capsule"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Capsules do not bind most dyes, so they are shown by negative staining of the background with India ink (or nigrosine). The capsule appears as a clear halo around each cell. Capsules can contribute to a bacterium's ability to cause disease.",
+        "whyCorrect": "Capsules do not bind most dyes, so they are shown by negative staining of the background with India ink (or nigrosine). The capsule appears as a clear halo around each cell. Capsules can contribute to a bacterium's ability to cause disease.",
+        "whyWrongByChoice": {
+          "A": "Endospores are dormant structures inside the cell, seen with a spore stain (malachite green), not as a halo outside the cell in India ink.",
+          "B": "The outer membrane of gram-negative bacteria is a thin lipid bilayer that is not visible by India ink negative staining.",
+          "C": "The peptidoglycan cell wall lies directly around the cytoplasm and is shown by the Gram stain; it does not exclude India ink to form a wide clear halo."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-249_brick_53_04.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-250",
+      "topicId": "bacterial-structure-growth-and-staining-2026",
+      "topicName": "Bacterial Structure, Growth, and Staining",
+      "stem": "A Gram stain shows the violet cocci arranged as shown (arrow). Which genus most typically has this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia"
+        },
+        {
+          "label": "B",
+          "text": "Neisseria"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gram-positive cocci arranged in chains are characteristic of Streptococcus species. Staphylococcus forms grape-like clusters, Neisseria are gram-negative diplococci, and Escherichia coli is a gram-negative rod.",
+        "whyCorrect": "Gram-positive cocci arranged in chains are characteristic of Streptococcus species. Staphylococcus forms grape-like clusters, Neisseria are gram-negative diplococci, and Escherichia coli is a gram-negative rod.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli is a gram-negative rod, not a gram-positive coccus.",
+          "B": "Neisseria are gram-negative (pink) kidney-bean diplococci, not violet cocci in chains.",
+          "C": "Staphylococci are gram-positive cocci in grape-like clusters, not chains."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-250_brick_53_05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi54-001",
       "stem": "A microbiologist grows an ampicillin-resistant E. coli strain together with a susceptible strain. Resistance spreads to the susceptible strain only when the cells are allowed to touch; separating the strains with a filter that passes free DNA and viruses but not cells prevents the spread. Which process best accounts for the transfer?",
       "choices": [
@@ -1708,6 +1834,174 @@
       "topicName": "Normal Flora: Role in Health and Disease",
       "tier": "core",
       "hy": true
+    },
+    {
+      "id": "mipic-256",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "An infant has the oral findings seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinomyces species"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus mutans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is thrush (oral candidiasis), an overgrowth of Candida in the oral cavity. It is linked to antibiotic use, birth control use, trauma, poorly fitting dentures or immunosuppression. In a patient with no obvious cause, thrush can signal a failing immune system, so check a CBC.",
+        "whyCorrect": "This is thrush (oral candidiasis), an overgrowth of Candida in the oral cavity. It is linked to antibiotic use, birth control use, trauma, poorly fitting dentures or immunosuppression. In a patient with no obvious cause, thrush can signal a failing immune system, so check a CBC.",
+        "whyWrongByChoice": {
+          "A": "Actinomyces israelii causes cervicofacial abscesses with draining sinus tracts and yellow sulfur granules, not white mucosal plaques.",
+          "C": "S. aureus causes skin and soft-tissue abscesses and impetigo; it is not the cause of white, scrapable oral plaques in infants.",
+          "D": "S. mutans is the main cause of dental caries; it does not form white, curd-like plaques on the oral mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-256_brick_55_03.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-258",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "A woman has an abnormal vaginal discharge. A wet-mount smear of the discharge is shown. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial vaginosis"
+        },
+        {
+          "label": "B",
+          "text": "Gonococcal cervicitis"
+        },
+        {
+          "label": "C",
+          "text": "Trichomoniasis"
+        },
+        {
+          "label": "D",
+          "text": "Vulvovaginal candidiasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epithelial cells coated with Gardnerella vaginalis coccobacilli are clue cells, the diagnostic finding of bacterial vaginosis. BV causes a thin gray-white discharge with a fishy smell from released amines and typically less burning, itching and inflammation than vulvovaginal candidiasis.",
+        "whyCorrect": "Epithelial cells coated with Gardnerella vaginalis coccobacilli are clue cells, the diagnostic finding of bacterial vaginosis. BV causes a thin gray-white discharge with a fishy smell from released amines and typically less burning, itching and inflammation than vulvovaginal candidiasis.",
+        "whyWrongByChoice": {
+          "B": "Gonococcal cervicitis shows neutrophils with intracellular gram-negative diplococci on Gram stain, not epithelial cells coated with coccobacilli.",
+          "C": "Trichomoniasis shows motile, pear-shaped flagellated trophozoites on wet mount, with a frothy yellow-green discharge.",
+          "D": "Candidiasis shows budding yeast and pseudohyphae on a KOH prep, with a thick, white, curd-like discharge."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-258_brick_55_05.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-261",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "A 4-month-old infant has fever and the findings shown. Which encapsulated organism is classically responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Moraxella catarrhalis"
+        },
+        {
+          "label": "C",
+          "text": "Neisseria meningitidis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The lecture shows this image as a 4-month-old with necrosis of the hands and feet due to N. meningitidis. Along with S. pneumoniae and H. influenzae, it is one of the most common causes of serious bacterial infection in children and can be carried as nasopharyngeal flora.",
+        "whyCorrect": "The lecture shows this image as a 4-month-old with necrosis of the hands and feet due to N. meningitidis. Along with S. pneumoniae and H. influenzae, it is one of the most common causes of serious bacterial infection in children and can be carried as nasopharyngeal flora.",
+        "whyWrongByChoice": {
+          "A": "H. influenzae type b causes meningitis, epiglottitis and septic arthritis, but it is not the classic cause of purpura fulminans with limb necrosis.",
+          "B": "Moraxella catarrhalis causes otitis media, sinusitis and COPD exacerbations, not fulminant sepsis with purpura and digital necrosis.",
+          "D": "S. pneumoniae can cause sepsis and purpura fulminans, but the classic cause of a purpuric rash with gangrene of the hands and feet in an infant is N. meningitidis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-261_brick_55_08.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-264",
+      "topicId": "normal-flora-role-in-health-and-disease-2026",
+      "topicName": "Normal Flora: Role in Health and Disease",
+      "stem": "A hospitalized patient develops profuse diarrhea. Colonoscopy shows the findings seen here. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacteroides fragilis"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Enterococcus faecalis"
+        },
+        {
+          "label": "D",
+          "text": "Escherichia coli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Yellow-white pseudomembranes indicate pseudomembranous colitis from C. difficile, a member of normal lower-GI flora. Antibiotics kill competing flora and let C. difficile overgrow and release toxins. Recurrence is common (20-60%), and fecal transplant can restore normal flora.",
+        "whyCorrect": "Yellow-white pseudomembranes indicate pseudomembranous colitis from C. difficile, a member of normal lower-GI flora. Antibiotics kill competing flora and let C. difficile overgrow and release toxins. Recurrence is common (20-60%), and fecal transplant can restore normal flora.",
+        "whyWrongByChoice": {
+          "A": "Bacteroides fragilis is a gut anaerobe that causes intra-abdominal abscesses, not antibiotic-associated pseudomembranous colitis.",
+          "C": "Enterococcus faecalis causes urinary tract infections and endocarditis; it does not produce toxins that form colonic pseudomembranes.",
+          "D": "Enterohemorrhagic E. coli causes bloody diarrhea and hemolytic uremic syndrome, not yellow-white pseudomembranes after antibiotics in a hospitalized patient."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-264_brick_55_11.jpg",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     }
   ]
 }

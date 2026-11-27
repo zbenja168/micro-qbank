@@ -1127,6 +1127,53 @@
       "tier": "core"
     },
     {
+      "id": "mipic-064",
+      "topicId": "orthomyxoviridae-pneumoviridae-and-paramyxoviridae-part-2-of-2",
+      "topicName": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae (Part 2 of 2)",
+      "stem": "A frontal neck radiograph of a 2-year-old with fever and inspiratory stridor is shown. This imaging finding is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute epiglottitis"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial tracheitis"
+        },
+        {
+          "label": "C",
+          "text": "Croup"
+        },
+        {
+          "label": "D",
+          "text": "Foreign body aspiration"
+        },
+        {
+          "label": "E",
+          "text": "Retropharyngeal abscess"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
+        "whyCorrect": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing.",
+        "whyWrongByChoice": {
+          "A": "Epiglottitis shows a swollen epiglottis (thumb sign) on the lateral radiograph, a supraglottic finding, not subglottic steeple narrowing.",
+          "B": "Bacterial tracheitis shows irregular tracheal margins and intraluminal membranes in a toxic-appearing child, rather than smooth symmetric subglottic tapering.",
+          "D": "An aspirated foreign body may be radiopaque or cause unilateral air trapping, not symmetric subglottic tapering.",
+          "E": "Retropharyngeal abscess widens the prevertebral soft tissue on the lateral neck film and does not taper the subglottic airway on the frontal view."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-064_mi033_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi41-001",
       "stem": "A virology laboratory characterizes the rotavirus particle recovered from the stool of an infant with vomiting and watery diarrhea. Which of the following best describes the structure and genome of this virus and the other members of its family?",
       "choices": [
@@ -1692,6 +1739,100 @@
       "topicId": "caliciviridae-matonaviridae-and-reoviridae",
       "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
       "tier": "core"
+    },
+    {
+      "id": "mipic-164",
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "stem": "A newborn has the eye findings shown, caused by a transplacentally acquired infection. Which two additional findings complete the classic triad of this infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chorioretinitis and hydrocephalus"
+        },
+        {
+          "label": "B",
+          "text": "Hepatosplenomegaly and jaundice"
+        },
+        {
+          "label": "C",
+          "text": "Limb hypoplasia and cicatricial skin lesions"
+        },
+        {
+          "label": "D",
+          "text": "Microcephaly and periventricular calcifications"
+        },
+        {
+          "label": "E",
+          "text": "Sensorineural deafness and congenital heart defects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
+        "whyCorrect": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV.",
+        "whyWrongByChoice": {
+          "A": "Chorioretinitis with hydrocephalus and intracranial calcifications is the classic triad of congenital toxoplasmosis, not rubella with cataracts.",
+          "B": "Hepatosplenomegaly and jaundice occur in several TORCH infections, but they are not part of the classic rubella triad with cataracts.",
+          "C": "Limb hypoplasia with cicatricial skin scarring is the pattern of congenital varicella syndrome.",
+          "D": "Microcephaly with periventricular calcifications suggests congenital CMV, which also causes sensorineural deafness but not cataracts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-164_mi034_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-165",
+      "topicId": "caliciviridae-matonaviridae-and-reoviridae",
+      "topicName": "Caliciviridae, Matonaviridae, and Reoviridae",
+      "stem": "A neonate with a congenital viral infection has the skin findings shown. What underlying process most directly produces these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "B",
+          "text": "Dermal extramedullary hematopoiesis"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated cutaneous candidiasis"
+        },
+        {
+          "label": "D",
+          "text": "Meningococcal petechiae from DIC"
+        },
+        {
+          "label": "E",
+          "text": "Neonatal cephalic pustulosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
+        "whyCorrect": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura.",
+        "whyWrongByChoice": {
+          "A": "Allergic contact dermatitis is uncommon in newborns and causes itchy eczematous plaques where an allergen touched the skin, not violaceous nodules.",
+          "C": "Disseminated cutaneous candidiasis presents with erythematous papules and pustules, not blue-purple nodules from dermal blood-forming cells.",
+          "D": "Meningococcal petechiae from DIC are flat, nonblanching hemorrhages in a septic infant, not raised papulonodular lesions from dermal hematopoiesis.",
+          "E": "Neonatal cephalic pustulosis is a benign Malassezia-associated acneiform eruption of small papules and pustules on the face, not blue-purple dermal nodules."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-165_mi034_f03.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     },
     {
       "id": "mi42-001",

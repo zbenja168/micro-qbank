@@ -580,6 +580,95 @@
       "hy": true
     },
     {
+      "id": "mipic-097",
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "stem": "A 24-year-old with new-onset seizures has the brain MRI shown. Which condition best explains this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cerebral toxoplasmosis abscesses"
+        },
+        {
+          "label": "B",
+          "text": "Metastatic melanoma"
+        },
+        {
+          "label": "C",
+          "text": "Multiple sclerosis plaques"
+        },
+        {
+          "label": "D",
+          "text": "Neurocysticercosis"
+        },
+        {
+          "label": "E",
+          "text": "Tuberous sclerosis cortical tubers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
+        "whyCorrect": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions.",
+        "whyWrongByChoice": {
+          "A": "Toxoplasma abscesses are ring-enhancing lesions in immunocompromised patients, typically in the basal ganglia, not scattered calcified cysts.",
+          "B": "Metastatic melanoma produces enhancing, often hemorrhagic masses with edema, not numerous small calcified cysts.",
+          "C": "Multiple sclerosis plaques are periventricular white-matter lesions best seen on MRI and do not calcify.",
+          "E": "Cortical tubers in tuberous sclerosis can calcify, but they occur with subependymal nodules, seizures from infancy, and skin findings such as ash-leaf spots."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-097_mi045_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-100",
+      "topicId": "helminths-part-1",
+      "topicName": "Helminths (Part 1 of 2)",
+      "stem": "A stained whole-mount of a tapeworm scolex recovered from a patient's stool is shown. Which species is most consistent with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diphyllobothrium latum"
+        },
+        {
+          "label": "B",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "C",
+          "text": "Taenia saginata"
+        },
+        {
+          "label": "D",
+          "text": "Taenia solium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The scolex has four suckers plus a rostellum crowned with hooks (an armed scolex), which identifies Taenia solium. T. saginata has four suckers but no rostellum or hooks, Diphyllobothrium has a pair of slit-like bothria instead of suckers, and humans are only the intermediate host of Echinococcus, so its adult worm is not passed in human stool.",
+        "whyCorrect": "The scolex has four suckers plus a rostellum crowned with hooks (an armed scolex), which identifies Taenia solium. T. saginata has four suckers but no rostellum or hooks, Diphyllobothrium has a pair of slit-like bothria instead of suckers, and humans are only the intermediate host of Echinococcus, so its adult worm is not passed in human stool.",
+        "whyWrongByChoice": {
+          "A": "Diphyllobothrium latum has an elongated scolex with two slit-like grooves (bothria) instead of suckers and hooks.",
+          "B": "Echinococcus granulosus has an armed scolex, but the adult is a tiny worm with only a few segments living in dogs, not a long human intestinal tapeworm.",
+          "C": "Taenia saginata has four suckers but no rostellum or hooks, making its scolex unarmed."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-100_mi045_f08.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi52-001",
       "stem": "A 34-year-old man returns from three months of agricultural work in rural Southeast Asia, where he often worked barefoot in wet fields. He first noticed an itchy rash on his feet, then developed a dry cough, and now has intermittent diarrhea and abdominal pain. Stool microscopy reveals motile rhabditiform larvae. Which of the following best describes how this organism entered his body?",
       "choices": [
@@ -1146,6 +1235,100 @@
       "topicId": "helminths-part-2-of-2",
       "topicName": "Helminths (Part 2 of 2)",
       "tier": "core"
+    },
+    {
+      "id": "mipic-107",
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "stem": "Microscopy of a specimen collected from a 6-year-old shows the eggs seen here. Which parasite is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "B",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "C",
+          "text": "Hookworm"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma japonicum"
+        },
+        {
+          "label": "E",
+          "text": "Trichuris trichiura"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
+        "whyCorrect": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning.",
+        "whyWrongByChoice": {
+          "A": "Ascaris eggs are round or oval with a thick knobby mammillated coat.",
+          "C": "Hookworm eggs are symmetric smooth ovals with a clear space around a segmented embryo.",
+          "D": "Schistosoma japonicum eggs are round to oval with a small inconspicuous lateral knob, not D-shaped.",
+          "E": "Trichuris eggs are barrel-shaped with polar plugs at each end."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-107_mi046_f15.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
+      "id": "mipic-108",
+      "topicId": "helminths-part-2-of-2",
+      "topicName": "Helminths (Part 2 of 2)",
+      "stem": "A stool ova-and-parasite exam shows the egg seen here. Which parasitic infection does the patient most likely have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ancylostoma species"
+        },
+        {
+          "label": "B",
+          "text": "Ascaris lumbricoides"
+        },
+        {
+          "label": "C",
+          "text": "Enterobius vermicularis"
+        },
+        {
+          "label": "D",
+          "text": "Necator species"
+        },
+        {
+          "label": "E",
+          "text": "Strongyloides stercoralis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
+        "whyCorrect": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool.",
+        "whyWrongByChoice": {
+          "A": "Ancylostoma eggs are smooth, thin-shelled ovals with a clear space around the embryo.",
+          "C": "Enterobius eggs are flattened on one side with a smooth shell, usually recovered by tape test rather than stool.",
+          "D": "Necator eggs are identical to Ancylostoma eggs, thin and smooth, not knobby.",
+          "E": "Strongyloides is diagnosed by rhabditiform larvae in stool, not eggs, because its eggs hatch in the intestinal mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-108_mi046_f16.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
     }
   ]
 }

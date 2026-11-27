@@ -573,6 +573,53 @@
       "tier": "core"
     },
     {
+      "id": "mipic-007",
+      "topicId": "mycobacterium-tuberculosis-and-mycobacterium-avium-complex",
+      "topicName": "Mycobacterium tuberculosis and Mycobacterium Avium Complex",
+      "stem": "An acid-fast stain of a mycobacterial culture shows the growth pattern seen here. Which virulence factor is responsible for this arrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cord factor"
+        },
+        {
+          "label": "B",
+          "text": "Hyaluronic acid capsule"
+        },
+        {
+          "label": "C",
+          "text": "Lipoarabinomannan"
+        },
+        {
+          "label": "D",
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcal protein A"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyCorrect": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration.",
+        "whyWrongByChoice": {
+          "B": "A hyaluronic acid capsule is the antiphagocytic capsule of Streptococcus pyogenes, which is nonimmunogenic because it resembles host tissue; it does not arrange bacilli in cords.",
+          "C": "Lipoarabinomannan is a mycobacterial cell-wall glycolipid that modulates macrophage responses and is detected in urine assays, but cording is attributed to trehalose dimycolate.",
+          "D": "Lipoteichoic acid is a gram-positive cell-envelope polymer that triggers inflammation via TLR2; it is not the mycobacterial glycolipid that produces serpentine cording.",
+          "E": "Protein A of S. aureus binds the Fc portion of IgG to block opsonization; it plays no role in the parallel cording of mycobacteria."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "mipic-007_mi017_f04.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "micro-picqbank"
+    },
+    {
       "id": "mi04-001",
       "stem": "A hospital microbiology laboratory tests a blood isolate of Staphylococcus aureus against doubling dilutions of an antibiotic. After 24 hours of incubation, the tubes containing 0.25, 0.5, and 1 microgram/mL are visibly cloudy, while the tubes containing 2, 4, and 8 micrograms/mL remain clear. Which of the following values should be reported as the minimum inhibitory concentration?",
       "choices": [
