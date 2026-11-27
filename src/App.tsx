@@ -8,8 +8,7 @@ import { HomePage } from './pages/HomePage';
 import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage, type ReviewMode } from './pages/ReviewPage';
-import { BrandBadge } from './components/Brand';
-import { track } from './utils/track';
+import { track, trackTopic } from './utils/track';
 import { Tier } from './utils/questionLoader';
 import { restoreSkin } from './utils/skin';
 
@@ -74,7 +73,7 @@ function AppShell() {
     // takes the tier third, so the split rides after excludeIds.
     await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier,
                         answeredIds, topicsHook.extrasTopicIds);
-    track('quiz_start');
+    track('quiz_start', { topic: trackTopic(topicsHook.selectedTopicIds) });
     setPage('quiz');
   }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, tier,
       topicsHook.extrasTopicIds]);
@@ -207,9 +206,10 @@ function AppShell() {
 export default function App() {
   return (
     <>
-      <BrandBadge />
+      {/* No floating corner badge: the header carries the brand, and its
+          #at-auth-slot holds tool-track.js's sign-in pill. */}
       <ExtrasGate />
-      <SiteHeader />
+      <SiteHeader authSlot />
       <AppShell />
     </>
   );

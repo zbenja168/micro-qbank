@@ -6,6 +6,7 @@ export interface SiteConfig {
   repo: string;
   family: 'qbank' | 'picqbank' | 'picdnd' | 'anatomy';
   course: string;
+  courseKey: string;
   type: string;
   title: string;
   accent: string;
@@ -19,6 +20,7 @@ export const SITE: SiteConfig = {
   "repo": "micro-qbank",
   "family": "qbank",
   "course": "Microbiology",
+  "courseKey": "micro",
   "type": "QBank",
   "title": "Microbiology QBank",
   "accent": "#10b981",
@@ -37,11 +39,6 @@ export const SITE: SiteConfig = {
     {
       "label": "Games",
       "url": "https://zbenja168.github.io/Microbio_DragnDrops/",
-      "current": false
-    },
-    {
-      "label": "Picture QBank",
-      "url": "https://zbenja168.github.io/micro-picqbank/",
       "current": false
     }
   ]
